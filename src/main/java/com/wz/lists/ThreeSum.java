@@ -27,6 +27,11 @@ public class ThreeSum {
         System.out.println(threeSum(nums));
     }
 
+    /**
+     * 数组排序后，依次固定i，将问题转换为2个数求和
+     * 使用left和right两个指针，left指向当前元素的后一个位置，right指向最后一个位置
+     * 三个数相加的和等于0时，加入结果；小于0时,把left往右移动；大于0时,把right往左移动
+     */
     public static List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();
         Arrays.parallelSort(nums);
@@ -44,6 +49,7 @@ public class ThreeSum {
                     result.add(group);
                     left++;
                     right--;
+                    // 超时优化
                     while (left < right && nums[left] == nums[left - 1]) {
                         left++;
                     }
