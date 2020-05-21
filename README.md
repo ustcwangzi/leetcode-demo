@@ -13,4 +13,5 @@ https://leetcode.com/problems/3sum-closest/
 https://leetcode.com/problems/4sum/
 ## RemoveDuplicates
 https://leetcode.com/problems/remove-duplicates-from-sorted-array/
-
+## RemoveElement
+https://leetcode.com/problems/remove-element/
