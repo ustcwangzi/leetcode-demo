@@ -15,3 +15,5 @@ https://leetcode.com/problems/4sum/
 https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 ## RemoveElement
 https://leetcode.com/problems/remove-element/
+## NextPermutation
+https://leetcode.com/problems/next-permutation/
