@@ -27,3 +27,5 @@ https://leetcode.com/problems/search-insert-position/
 https://leetcode.com/problems/combination-sum/
 ## CombinationSumUnique
 https://leetcode.com/problems/combination-sum-ii/
+## FirstMissingPositive
+https://leetcode.com/problems/first-missing-positive/
