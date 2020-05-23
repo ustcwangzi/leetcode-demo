@@ -35,9 +35,9 @@ public class SearchRangeInSortedArray {
                 index = mid;
                 break;
             } else if (nums[mid] > target) {
-                right--;
+                right = mid - 1;
             } else {
-                left++;
+                left = mid + 1;
             }
         }
         if (index == -1) {
