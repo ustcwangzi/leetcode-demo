@@ -19,3 +19,5 @@ https://leetcode.com/problems/remove-element/
 https://leetcode.com/problems/next-permutation/
 ## SearchInRotatedSortedArray
 https://leetcode.com/problems/search-in-rotated-sorted-array/
+## SearchRangeInSortedArray
+https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
