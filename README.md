@@ -39,3 +39,5 @@ https://leetcode.com/problems/rotate-image/
 https://leetcode.com/problems/maximum-subarray/
 ## SpiralMatrix
 https://leetcode.com/problems/spiral-matrix/
+## JumpGame
+https://leetcode.com/problems/jump-game/
