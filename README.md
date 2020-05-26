@@ -43,3 +43,5 @@ https://leetcode.com/problems/spiral-matrix/
 https://leetcode.com/problems/jump-game/
 ## MergeIntervals
 https://leetcode.com/problems/merge-intervals/
+## InsertInterval
+https://leetcode.com/problems/insert-interval/
