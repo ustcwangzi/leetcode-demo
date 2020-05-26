@@ -41,3 +41,5 @@ https://leetcode.com/problems/maximum-subarray/
 https://leetcode.com/problems/spiral-matrix/
 ## JumpGame
 https://leetcode.com/problems/jump-game/
+## MergeIntervals
+https://leetcode.com/problems/merge-intervals/
