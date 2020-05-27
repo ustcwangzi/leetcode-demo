@@ -51,3 +51,5 @@ https://leetcode.com/problems/spiral-matrix-ii/
 https://leetcode.com/problems/unique-paths/
 ## UniquePathsII
 https://leetcode.com/problems/unique-paths-ii/
+## MinimumPathSum
+https://leetcode.com/problems/minimum-path-sum/
