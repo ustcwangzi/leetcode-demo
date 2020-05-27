@@ -50,37 +50,37 @@ public class SpiralMatrix {
         }
 
         // 上下左右四个边界
-        int colStart = 0, colEnd = matrix.length - 1, rowStart = 0, rowEnd = matrix[0].length - 1;
+        int rowStart = 0, rowEnd = matrix.length - 1, colStart = 0, colEnd = matrix[0].length - 1;
         while (true) {
-            // 从左到右
-            for (int i = rowStart; i <= rowEnd; i++) {
-                result.add(matrix[colStart][i]);
-            }
-            if (++colStart > colEnd) {
-                break;
-            }
-
-            // 从上到下
+            // 从左到右，行不变
             for (int i = colStart; i <= colEnd; i++) {
-                result.add(matrix[i][rowEnd]);
+                result.add(matrix[rowStart][i]);
             }
-            if (--rowEnd < rowStart) {
+            if (++rowStart > rowEnd) {
                 break;
             }
 
-            // 从右到左
-            for (int i = rowEnd; i >= rowStart; i--) {
-                result.add(matrix[colEnd][i]);
+            // 从上到下，列不变
+            for (int i = rowStart; i <= rowEnd; i++) {
+                result.add(matrix[i][colEnd]);
             }
             if (--colEnd < colStart) {
                 break;
             }
 
-            // 从下到上
+            // 从右到左，行不变
             for (int i = colEnd; i >= colStart; i--) {
-                result.add(matrix[i][rowStart]);
+                result.add(matrix[rowEnd][i]);
             }
-            if (++rowStart > rowEnd) {
+            if (--rowEnd < rowStart) {
+                break;
+            }
+
+            // 从下到上，列不变
+            for (int i = rowEnd; i >= rowStart; i--) {
+                result.add(matrix[i][colStart]);
+            }
+            if (++colStart > colEnd) {
                 break;
             }
         }
