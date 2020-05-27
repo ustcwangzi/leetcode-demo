@@ -53,3 +53,5 @@ https://leetcode.com/problems/unique-paths/
 https://leetcode.com/problems/unique-paths-ii/
 ## MinimumPathSum
 https://leetcode.com/problems/minimum-path-sum/
+## PlusOne
+https://leetcode.com/problems/plus-one/
