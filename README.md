@@ -63,3 +63,5 @@ https://leetcode.com/problems/search-a-2d-matrix/
 https://leetcode.com/problems/sort-colors/
 ## Subsets
 https://leetcode.com/problems/subsets/
+## WordSearch
+https://leetcode.com/problems/word-search/
