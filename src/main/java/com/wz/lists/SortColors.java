@@ -31,6 +31,7 @@ public class SortColors {
                 swap(nums, i, redIndex++);
             } else if (nums[i] == 2) {
                 swap(nums, i, blueIndex--);
+                // 交换之后blueIndex上是2，但i上可能是0或1，因此需要再进行判断一次
                 i--;
             }
         }
