@@ -26,35 +26,33 @@ public class SearchInRotatedSortedArray {
     }
 
     /**
-     * 找到发生旋转的下标，然后分别对两侧的数组进行二分查找
+     * 因为只有一个旋转点，所以一分为二后，肯定有一半是有序的
+     * 所以，还是可以用二分法，不过要先判断左半边有序还是右半边有序
+     * 如果左半边有序，则直接将目标和左半边的边界比较，就知道目标在不在左半边了，如果不在左半边肯定在右半边
+     * 如果右半边有序，则直接将目标和右半边的边界比较，就知道目标在不在右半边了，如果不在右半边肯定在左半边
      */
     public static int search(int[] nums, int target) {
-        int pivot = -1;
-        for (int i = 1; i < nums.length; i++) {
-            if (nums[i] < nums[i - 1]) {
-                pivot = i;
-                break;
-            }
-        }
-        if (pivot == -1) {
-            return search(nums, target, 0, nums.length - 1);
-        }
-        int result = search(nums, target, 0, pivot - 1);
-        if (result != -1) {
-            return result;
-        }
-        return search(nums, target, pivot, nums.length - 1);
-    }
-
-    private static int search(int[] nums, int target, int left, int right) {
+        int left = 0, right = nums.length - 1, mid;
         while (left <= right) {
-            int mid = (left + right) / 2;
+            mid = (left + right) / 2;
             if (nums[mid] == target) {
                 return mid;
-            } else if (nums[mid] > target) {
-                right = mid - 1;
+            }
+
+            if (nums[left] <= nums[mid]) {
+                // 左半边有序
+                if (target >= nums[left] && target < nums[mid]) {
+                    right = mid - 1;
+                } else {
+                    left = mid + 1;
+                }
             } else {
-                left = mid + 1;
+                // 右半边有序
+                if (target > nums[mid] && target <= nums[right]) {
+                    left = mid + 1;
+                } else {
+                    right = mid - 1;
+                }
             }
         }
         return -1;
