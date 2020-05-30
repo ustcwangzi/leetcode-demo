@@ -69,3 +69,5 @@ https://leetcode.com/problems/subsets/
 https://leetcode.com/problems/word-search/
 ## RemoveDuplicatesII
 https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
+## LargestRectangleInHistogram
+https://leetcode.com/problems/largest-rectangle-in-histogram/
