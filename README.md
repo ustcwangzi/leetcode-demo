@@ -71,3 +71,5 @@ https://leetcode.com/problems/word-search/
 https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
 ## LargestRectangleInHistogram
 https://leetcode.com/problems/largest-rectangle-in-histogram/
+## MaximalRectangle
+https://leetcode.com/problems/maximal-rectangle/
