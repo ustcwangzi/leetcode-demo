@@ -81,3 +81,5 @@ https://leetcode.com/problems/merge-sorted-array/
 https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 ## ConstructBinaryTreeFromInorderAndPostorderTraversal
 https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+## PascalTriangle
+https://leetcode.com/problems/pascals-triangle/
