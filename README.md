@@ -73,3 +73,5 @@ https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
 https://leetcode.com/problems/largest-rectangle-in-histogram/
 ## MaximalRectangle
 https://leetcode.com/problems/maximal-rectangle/
+## MergeSortedArray
+https://leetcode.com/problems/merge-sorted-array/
