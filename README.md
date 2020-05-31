@@ -83,3 +83,5 @@ https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-tr
 https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
 ## PascalTriangle
 https://leetcode.com/problems/pascals-triangle/
+## PascalTriangleII
+https://leetcode.com/problems/pascals-triangle-ii/
