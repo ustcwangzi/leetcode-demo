@@ -79,3 +79,5 @@ https://leetcode.com/problems/maximal-rectangle/
 https://leetcode.com/problems/merge-sorted-array/
 ## ConstructBinaryTreeFromPreorderAndInorderTraversal
 https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+## ConstructBinaryTreeFromInorderAndPostorderTraversal
+https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
