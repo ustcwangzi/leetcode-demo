@@ -77,3 +77,5 @@ https://leetcode.com/problems/largest-rectangle-in-histogram/
 https://leetcode.com/problems/maximal-rectangle/
 ## MergeSortedArray
 https://leetcode.com/problems/merge-sorted-array/
+## ConstructBinaryTreeFromPreorderAndInorderTraversal
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
