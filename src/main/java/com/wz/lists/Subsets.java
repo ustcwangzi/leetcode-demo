@@ -49,18 +49,13 @@ public class Subsets {
     }
 
     private static void dfs(int[] nums, int index, List<Integer> group, List<List<Integer>> result) {
-        // 到达子节点
-        if (index >= nums.length) {
-            result.add(group);
-            return;
+        result.add(new ArrayList<>(group));
+        for (int i = index; i < nums.length; i++) {
+            // 选择当前元素
+            group.add(nums[i]);
+            dfs(nums, i + 1, group, result);
+            // 不选择当前元素
+            group.remove(group.size() - 1);
         }
-
-        List<Integer> selected = new ArrayList<>(group);
-        selected.add(nums[index]);
-        // 选择当前元素，即遍历左子树
-        dfs(nums, index + 1, selected, result);
-
-        // 不选择当前元素，即遍历右子树
-        dfs(nums, index + 1, group, result);
     }
 }
