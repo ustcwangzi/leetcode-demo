@@ -87,3 +87,5 @@ https://leetcode.com/problems/pascals-triangle/
 https://leetcode.com/problems/pascals-triangle-ii/
 ## Triangle
 https://leetcode.com/problems/triangle/
+## BestTimeToBuyAndSellStock
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
