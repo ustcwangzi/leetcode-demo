@@ -27,12 +27,13 @@ public class BestTimeToBuyAndSellStock {
     }
 
     /**
+     * 动态规划
      * 因为卖出必须在买入之前，因此直接从左到右遍历
-     * 记录截止到目前的最低进价minPrice，以及当前卖出收益：prices[i]-minPrice
+     * 记录截止到目前的最低价minPrice作为买入价，以及当前卖出收益：prices[i]-minPrice
      */
     public static int maxProfit(int[] prices) {
         int result = 0;
-        if (prices.length == 0) {
+        if (prices.length < 2) {
             return result;
         }
 
