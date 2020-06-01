@@ -85,3 +85,5 @@ https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-t
 https://leetcode.com/problems/pascals-triangle/
 ## PascalTriangleII
 https://leetcode.com/problems/pascals-triangle-ii/
+## Triangle
+https://leetcode.com/problems/triangle/
