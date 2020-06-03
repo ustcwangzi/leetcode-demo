@@ -99,3 +99,5 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
 https://leetcode.com/problems/word-ladder/
 ## WordLadderII
 https://leetcode.com/problems/word-ladder-ii/
+## LongestConsecutiveSequence
+https://leetcode.com/problems/longest-consecutive-sequence/
