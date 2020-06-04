@@ -25,6 +25,8 @@ https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 ## FindMinimumInRotatedSortedArrayII
 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
+## FindPeakElement
+https://leetcode.com/problems/find-peak-element/
 ## SearchRangeInSortedArray
 https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 ## SearchInsertPosition
