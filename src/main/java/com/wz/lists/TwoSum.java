@@ -39,7 +39,7 @@ public class TwoSum {
     }
 
     /**
-     * 方案一：用map的key为当前值，value为当前索引，直接检查map中是否有满足条件的值
+     * 方案二：用map的key为当前值，value为当前索引，直接检查map中是否有满足条件的值
      */
     public static int[] twoSum2(int[] nums, int target) {
         Map<Integer, Integer> map = new HashMap<>();
