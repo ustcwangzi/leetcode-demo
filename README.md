@@ -111,3 +111,5 @@ https://leetcode.com/problems/word-ladder/
 https://leetcode.com/problems/word-ladder-ii/
 ## LongestConsecutiveSequence
 https://leetcode.com/problems/longest-consecutive-sequence/
+## MajorityElement
+https://leetcode.com/problems/majority-element/
