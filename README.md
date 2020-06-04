@@ -21,6 +21,8 @@ https://leetcode.com/problems/next-permutation/
 https://leetcode.com/problems/search-in-rotated-sorted-array/
 ## SearchInRotatedSortedArrayII
 https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+## FindMinimumInRotatedSortedArray
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 ## SearchRangeInSortedArray
 https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 ## SearchInsertPosition
