@@ -23,6 +23,9 @@ public class MajorityElement {
         System.out.println(majorityElement(nums));
     }
 
+    /**
+     * 将数组排序后，索引为n/2的元素就是数组的众数
+     */
     public static int majorityElement(int[] nums) {
         Arrays.parallelSort(nums);
         return nums[nums.length / 2];
