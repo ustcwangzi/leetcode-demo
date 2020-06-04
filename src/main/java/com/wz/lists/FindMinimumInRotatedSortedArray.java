@@ -19,39 +19,36 @@ public class FindMinimumInRotatedSortedArray {
         int[] nums = new int[]{3, 4, 5, 1, 2};
         System.out.println(findMin(nums));
 
-        nums = new int[]{2, 3, 4, 5, 1};
+        nums = new int[]{4, 1, 2, 3};
         System.out.println(findMin(nums));
     }
 
     /**
      * 思路与{@link SearchInRotatedSortedArray}类似
-     * 通过左边界和中间的大小关系来得到左边或者右边有序的信息
-     * 如果左半边有序，那么左边第一个元素就是左半边最小，可以和当前最小相比取小的，然后走向右半边
-     * 如果右半边有序，那么右边第一个元素就是右半边最小，可以和当前最小相比取小的，然后走向左半边
+     * 通过右边界和中间的大小关系来得到左边或者右边有序的信息，这里使用右边界因为只有两个元素时，left == mid < right
+     * 若数组没有旋转或者旋转点在左边的时候，中间值是一定小于右边界值的，所以要去左半边继续搜索，反之则去右半段查找
      */
     public static int findMin(int[] nums) {
         if (nums.length <= 1) {
             return nums.length == 0 ? 0 : nums[0];
         }
 
-        int left = 0, right = nums.length - 1;
+        int left = 0, right = nums.length - 1, mid;
+        // 未发生旋转
         if (nums[left] < nums[right]) {
             return nums[left];
         }
 
-        int result = nums[0], mid;
-        while (left <= right) {
+        while (left < right) {
             mid = (left + right) / 2;
-            if (nums[left] <= nums[mid]) {
-                // 左侧有序
-                result = Math.min(result, nums[left]);
-                left = mid + 1;
+            if (nums[mid] < nums[right]) {
+                // 没有旋转或者旋转点在左边
+                right = mid;
             } else {
-                // 右侧有序
-                result = Math.min(result, nums[mid]);
-                right = mid - 1;
+                // 旋转点在右边
+                left = mid + 1;
             }
         }
-        return result;
+        return nums[right];
     }
 }
