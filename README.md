@@ -23,6 +23,8 @@ https://leetcode.com/problems/search-in-rotated-sorted-array/
 https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
 ## FindMinimumInRotatedSortedArray
 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+## FindMinimumInRotatedSortedArrayII
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
 ## SearchRangeInSortedArray
 https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 ## SearchInsertPosition
