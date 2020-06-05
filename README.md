@@ -115,3 +115,5 @@ https://leetcode.com/problems/longest-consecutive-sequence/
 https://leetcode.com/problems/majority-element/
 ## RotateArray
 https://leetcode.com/problems/rotate-array/
+## MinimumSizeSubArraySum
+https://leetcode.com/problems/minimum-size-subarray-sum/
