@@ -113,3 +113,5 @@ https://leetcode.com/problems/word-ladder-ii/
 https://leetcode.com/problems/longest-consecutive-sequence/
 ## MajorityElement
 https://leetcode.com/problems/majority-element/
+## RotateArray
+https://leetcode.com/problems/rotate-array/
