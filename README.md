@@ -119,3 +119,5 @@ https://leetcode.com/problems/majority-element/
 https://leetcode.com/problems/rotate-array/
 ## MinimumSizeSubArraySum
 https://leetcode.com/problems/minimum-size-subarray-sum/
+## ContainsDuplicate
+https://leetcode.com/problems/contains-duplicate/
