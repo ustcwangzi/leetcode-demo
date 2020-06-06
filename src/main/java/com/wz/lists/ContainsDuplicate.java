@@ -25,6 +25,9 @@ public class ContainsDuplicate {
 
     }
 
+    /**
+     * 直接利用set
+     */
     public static boolean containsDuplicate(int[] nums) {
         Set<Integer> set = new HashSet<>(nums.length);
         for (int num : nums) {
