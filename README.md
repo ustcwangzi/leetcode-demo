@@ -35,8 +35,10 @@ https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-
 https://leetcode.com/problems/search-insert-position/
 ## CombinationSum
 https://leetcode.com/problems/combination-sum/
-## CombinationSumUnique
+## CombinationSumII
 https://leetcode.com/problems/combination-sum-ii/
+## CombinationSumIII
+https://leetcode.com/problems/combination-sum-iii/
 ## FirstMissingPositive
 https://leetcode.com/problems/first-missing-positive/
 ## TrappingRainWater
