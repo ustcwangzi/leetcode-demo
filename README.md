@@ -121,3 +121,5 @@ https://leetcode.com/problems/rotate-array/
 https://leetcode.com/problems/minimum-size-subarray-sum/
 ## ContainsDuplicate
 https://leetcode.com/problems/contains-duplicate/
+## ContainsDuplicateII
+https://leetcode.com/problems/contains-duplicate-ii/submissions/
