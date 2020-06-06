@@ -123,3 +123,5 @@ https://leetcode.com/problems/minimum-size-subarray-sum/
 https://leetcode.com/problems/contains-duplicate/
 ## ContainsDuplicateII
 https://leetcode.com/problems/contains-duplicate-ii/submissions/
+## SummaryRanges
+https://leetcode.com/problems/summary-ranges/
