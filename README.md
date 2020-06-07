@@ -133,3 +133,5 @@ https://leetcode.com/problems/contains-duplicate-ii/submissions/
 https://leetcode.com/problems/summary-ranges/
 ## ProductOfArrayExceptSelf
 https://leetcode.com/problems/product-of-array-except-self/
+## FindDuplicateNumber
+https://leetcode.com/problems/find-the-duplicate-number/
