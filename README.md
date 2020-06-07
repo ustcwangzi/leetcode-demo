@@ -15,8 +15,12 @@ https://leetcode.com/problems/median-of-two-sorted-arrays/
 https://leetcode.com/problems/container-with-most-water/
 ## RemoveDuplicates
 https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+## RemoveDuplicatesII
+https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
 ## RemoveElement
 https://leetcode.com/problems/remove-element/
+## MoveZeroes
+https://leetcode.com/problems/move-zeroes/
 ## NextPermutation
 https://leetcode.com/problems/next-permutation/
 ## SearchInRotatedSortedArray
@@ -83,8 +87,6 @@ https://leetcode.com/problems/subsets/
 https://leetcode.com/problems/subsets-ii/
 ## WordSearch
 https://leetcode.com/problems/word-search/
-## RemoveDuplicatesII
-https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
 ## LargestRectangleInHistogram
 https://leetcode.com/problems/largest-rectangle-in-histogram/
 ## MaximalRectangle
