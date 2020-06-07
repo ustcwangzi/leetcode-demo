@@ -115,6 +115,8 @@ https://leetcode.com/problems/word-ladder-ii/
 https://leetcode.com/problems/longest-consecutive-sequence/
 ## MajorityElement
 https://leetcode.com/problems/majority-element/
+## MajorityElementII
+https://leetcode.com/problems/majority-element-ii/
 ## RotateArray
 https://leetcode.com/problems/rotate-array/
 ## MinimumSizeSubArraySum
