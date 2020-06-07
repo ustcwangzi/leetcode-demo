@@ -41,6 +41,8 @@ https://leetcode.com/problems/combination-sum-ii/
 https://leetcode.com/problems/combination-sum-iii/
 ## FirstMissingPositive
 https://leetcode.com/problems/first-missing-positive/
+## MissingNumber
+https://leetcode.com/problems/missing-number/
 ## TrappingRainWater
 https://leetcode.com/problems/trapping-rain-water/
 ## JumpGameII
