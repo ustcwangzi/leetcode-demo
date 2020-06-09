@@ -141,3 +141,5 @@ https://leetcode.com/problems/game-of-life/
 https://leetcode.com/problems/insert-delete-getrandom-o1/
 ## RandomizedCollection
 https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/
+## ThirdMaximumNumber
+https://leetcode.com/problems/third-maximum-number/
