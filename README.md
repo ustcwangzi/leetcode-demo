@@ -143,3 +143,5 @@ https://leetcode.com/problems/insert-delete-getrandom-o1/
 https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/
 ## ThirdMaximumNumber
 https://leetcode.com/problems/third-maximum-number/
+## FindAllDuplicatesInArray
+https://leetcode.com/problems/find-all-duplicates-in-an-array/
