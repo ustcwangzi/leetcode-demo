@@ -137,3 +137,5 @@ https://leetcode.com/problems/product-of-array-except-self/
 https://leetcode.com/problems/find-the-duplicate-number/
 ## GameOfLife
 https://leetcode.com/problems/game-of-life/
+## RandomizedSet
+https://leetcode.com/problems/insert-delete-getrandom-o1/
