@@ -139,3 +139,5 @@ https://leetcode.com/problems/find-the-duplicate-number/
 https://leetcode.com/problems/game-of-life/
 ## RandomizedSet
 https://leetcode.com/problems/insert-delete-getrandom-o1/
+## RandomizedCollection
+https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/
