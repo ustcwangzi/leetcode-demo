@@ -149,3 +149,5 @@ https://leetcode.com/problems/find-all-duplicates-in-an-array/
 https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
 ## CircularArrayLoop
 https://leetcode.com/problems/circular-array-loop/
+## MaxConsecutiveOnes
+https://leetcode.com/problems/max-consecutive-ones/
