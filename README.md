@@ -155,3 +155,5 @@ https://leetcode.com/problems/max-consecutive-ones/
 https://leetcode.com/problems/teemo-attacking/
 ## FibonacciNumber
 https://leetcode.com/problems/fibonacci-number/
+## KDiffPairsInArray
+https://leetcode.com/problems/k-diff-pairs-in-an-array/
