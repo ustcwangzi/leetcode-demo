@@ -157,3 +157,5 @@ https://leetcode.com/problems/teemo-attacking/
 https://leetcode.com/problems/fibonacci-number/
 ## KDiffPairsInArray
 https://leetcode.com/problems/k-diff-pairs-in-an-array/
+## SubarraySumEqualsK
+https://leetcode.com/problems/subarray-sum-equals-k/
