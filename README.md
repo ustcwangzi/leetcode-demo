@@ -159,3 +159,5 @@ https://leetcode.com/problems/fibonacci-number/
 https://leetcode.com/problems/k-diff-pairs-in-an-array/
 ## SubarraySumEqualsK
 https://leetcode.com/problems/subarray-sum-equals-k/
+## ArrayPartitionI
+https://leetcode.com/problems/array-partition-i/
