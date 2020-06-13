@@ -161,3 +161,5 @@ https://leetcode.com/problems/k-diff-pairs-in-an-array/
 https://leetcode.com/problems/subarray-sum-equals-k/
 ## ArrayPartitionI
 https://leetcode.com/problems/array-partition-i/
+## ArrayNesting
+https://leetcode.com/problems/array-nesting/
