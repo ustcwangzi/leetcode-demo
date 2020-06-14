@@ -169,3 +169,5 @@ https://leetcode.com/problems/reshape-the-matrix/
 https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 ## CanPlaceFlowers
 https://leetcode.com/problems/can-place-flowers/
+## ValidTriangleNumber
+https://leetcode.com/problems/valid-triangle-number/
