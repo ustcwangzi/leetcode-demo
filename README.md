@@ -173,3 +173,5 @@ https://leetcode.com/problems/can-place-flowers/
 https://leetcode.com/problems/valid-triangle-number/
 ## TaskScheduler
 https://leetcode.com/problems/task-scheduler/
+## MaximumProductOfThreeNumbers
+https://leetcode.com/problems/maximum-product-of-three-numbers/
