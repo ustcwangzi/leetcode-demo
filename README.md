@@ -171,3 +171,5 @@ https://leetcode.com/problems/shortest-unsorted-continuous-subarray/
 https://leetcode.com/problems/can-place-flowers/
 ## ValidTriangleNumber
 https://leetcode.com/problems/valid-triangle-number/
+## TaskScheduler
+https://leetcode.com/problems/task-scheduler/
