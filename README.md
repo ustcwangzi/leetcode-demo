@@ -175,3 +175,5 @@ https://leetcode.com/problems/valid-triangle-number/
 https://leetcode.com/problems/task-scheduler/
 ## MaximumProductOfThreeNumbers
 https://leetcode.com/problems/maximum-product-of-three-numbers/
+## MaximumAverageSubarrayI
+https://leetcode.com/problems/maximum-average-subarray-i/
