@@ -178,3 +178,6 @@ https://leetcode.com/problems/maximum-product-of-three-numbers/
 ## MaximumAverageSubarrayI
 https://leetcode.com/problems/maximum-average-subarray-i/
 ## ImageSmoother
+https://leetcode.com/problems/image-smoother/
+## NonDecreasingArray
+https://leetcode.com/problems/non-decreasing-array/
