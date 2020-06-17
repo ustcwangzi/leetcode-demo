@@ -181,3 +181,5 @@ https://leetcode.com/problems/maximum-average-subarray-i/
 https://leetcode.com/problems/image-smoother/
 ## NonDecreasingArray
 https://leetcode.com/problems/non-decreasing-array/
+## BeautifulArrangementII
+https://leetcode.com/problems/beautiful-arrangement-ii/
