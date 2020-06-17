@@ -183,3 +183,5 @@ https://leetcode.com/problems/image-smoother/
 https://leetcode.com/problems/non-decreasing-array/
 ## BeautifulArrangementII
 https://leetcode.com/problems/beautiful-arrangement-ii/
+## MaximumSwap
+https://leetcode.com/problems/maximum-swap/
