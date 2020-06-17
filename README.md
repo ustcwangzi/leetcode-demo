@@ -185,3 +185,5 @@ https://leetcode.com/problems/non-decreasing-array/
 https://leetcode.com/problems/beautiful-arrangement-ii/
 ## MaximumSwap
 https://leetcode.com/problems/maximum-swap/
+## LongestContinuousIncreasingSubsequence
+https://leetcode.com/problems/longest-continuous-increasing-subsequence/
