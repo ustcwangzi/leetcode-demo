@@ -187,3 +187,5 @@ https://leetcode.com/problems/beautiful-arrangement-ii/
 https://leetcode.com/problems/maximum-swap/
 ## LongestContinuousIncreasingSubsequence
 https://leetcode.com/problems/longest-continuous-increasing-subsequence/
+## MaximumSumOf3NonOverlappingSubarrays
+https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
