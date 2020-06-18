@@ -189,3 +189,5 @@ https://leetcode.com/problems/maximum-swap/
 https://leetcode.com/problems/longest-continuous-increasing-subsequence/
 ## MaximumSumOf3NonOverlappingSubarrays
 https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
+## MaxAreaOfIsland
+https://leetcode.com/problems/max-area-of-island/
