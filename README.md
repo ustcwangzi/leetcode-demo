@@ -191,3 +191,5 @@ https://leetcode.com/problems/longest-continuous-increasing-subsequence/
 https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
 ## MaxAreaOfIsland
 https://leetcode.com/problems/max-area-of-island/
+## DegreeOfAnArray
+https://leetcode.com/problems/degree-of-an-array/submissions/
