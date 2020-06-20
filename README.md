@@ -197,3 +197,5 @@ https://leetcode.com/problems/max-area-of-island/
 https://leetcode.com/problems/degree-of-an-array/submissions/
 ## SubarrayProductLessThanK
 https://leetcode.com/problems/subarray-product-less-than-k/
+## OneBitAndTwoBitCharacters
+https://leetcode.com/problems/1-bit-and-2-bit-characters/
