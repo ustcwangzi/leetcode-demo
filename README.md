@@ -199,3 +199,5 @@ https://leetcode.com/problems/degree-of-an-array/submissions/
 https://leetcode.com/problems/subarray-product-less-than-k/
 ## OneBitAndTwoBitCharacters
 https://leetcode.com/problems/1-bit-and-2-bit-characters/
+## MaximumLengthOfRepeatedSubarray
+https://leetcode.com/problems/maximum-length-of-repeated-subarray/
