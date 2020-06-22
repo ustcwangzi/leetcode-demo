@@ -203,3 +203,5 @@ https://leetcode.com/problems/1-bit-and-2-bit-characters/
 https://leetcode.com/problems/maximum-length-of-repeated-subarray/
 ## FindKthSmallestPairDistance
 https://leetcode.com/problems/find-k-th-smallest-pair-distance/
+## FindPivotIndex
+https://leetcode.com/problems/find-pivot-index/
