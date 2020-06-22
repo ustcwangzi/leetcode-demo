@@ -201,3 +201,5 @@ https://leetcode.com/problems/subarray-product-less-than-k/
 https://leetcode.com/problems/1-bit-and-2-bit-characters/
 ## MaximumLengthOfRepeatedSubarray
 https://leetcode.com/problems/maximum-length-of-repeated-subarray/
+## FindKthSmallestPairDistance
+https://leetcode.com/problems/find-k-th-smallest-pair-distance/
