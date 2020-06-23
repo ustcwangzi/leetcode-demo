@@ -207,3 +207,5 @@ https://leetcode.com/problems/find-k-th-smallest-pair-distance/
 https://leetcode.com/problems/find-pivot-index/
 ## MyCalendarI
 https://leetcode.com/problems/my-calendar-i/
+## MinCostClimbingStairs
+https://leetcode.com/problems/min-cost-climbing-stairs/
