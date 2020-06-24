@@ -36,25 +36,22 @@ public class MaxChunksToMakeSorted {
      */
     public static int maxChunksToSorted(int[] arr) {
         int n = arr.length;
-        // 位置i之后的子数组最小值
-        int[] minRecord = new int[n];
-        minRecord[n - 1] = arr[n - 1];
+        // [i, n-1]区间中的最小值
+        int[] leftMax = new int[n];
+        leftMax[n - 1] = arr[n - 1];
         for (int i = n - 2; i >= 0; i--) {
-            minRecord[i] = Math.min(minRecord[i + 1], arr[i]);
+            leftMax[i] = Math.min(leftMax[i + 1], arr[i]);
         }
 
         int result = 1;
         // 当前子数组最大值
         int max = arr[0];
         for (int i = 1; i < n; i++) {
-            if (max < minRecord[i]) {
-                // 可拆分
+            // 可拆分
+            if (max < leftMax[i]) {
                 result++;
-                max = arr[i];
-            } else {
-                // 不可拆分
-                max = Math.max(max, arr[i]);
             }
+            max = Math.max(max, arr[i]);
         }
 
         return result;
