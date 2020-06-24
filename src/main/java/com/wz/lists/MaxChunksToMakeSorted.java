@@ -37,21 +37,21 @@ public class MaxChunksToMakeSorted {
     public static int maxChunksToSorted(int[] arr) {
         int n = arr.length;
         // [i, n-1]区间中的最小值
-        int[] leftMax = new int[n];
-        leftMax[n - 1] = arr[n - 1];
+        int[] rightMin = new int[n];
+        rightMin[n - 1] = arr[n - 1];
         for (int i = n - 2; i >= 0; i--) {
-            leftMax[i] = Math.min(leftMax[i + 1], arr[i]);
+            rightMin[i] = Math.min(rightMin[i + 1], arr[i]);
         }
 
         int result = 1;
         // 当前子数组最大值
-        int max = arr[0];
+        int curMax = arr[0];
         for (int i = 1; i < n; i++) {
             // 可拆分
-            if (max < leftMax[i]) {
+            if (curMax < rightMin[i]) {
                 result++;
             }
-            max = Math.max(max, arr[i]);
+            curMax = Math.max(curMax, arr[i]);
         }
 
         return result;
