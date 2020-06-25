@@ -217,3 +217,5 @@ https://leetcode.com/problems/toeplitz-matrix/
 https://leetcode.com/problems/max-chunks-to-make-sorted/
 ## MaxChunksToMakeSortedII
 https://leetcode.com/problems/max-chunks-to-make-sorted-ii/
+## GlobalAndLocalInversions
+https://leetcode.com/problems/global-and-local-inversions/
