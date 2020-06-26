@@ -219,3 +219,5 @@ https://leetcode.com/problems/max-chunks-to-make-sorted/
 https://leetcode.com/problems/max-chunks-to-make-sorted-ii/
 ## GlobalAndLocalInversions
 https://leetcode.com/problems/global-and-local-inversions/
+## TransformToChessboard
+https://leetcode.com/problems/transform-to-chessboard/
