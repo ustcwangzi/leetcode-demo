@@ -221,3 +221,5 @@ https://leetcode.com/problems/max-chunks-to-make-sorted-ii/
 https://leetcode.com/problems/global-and-local-inversions/
 ## TransformToChessboard
 https://leetcode.com/problems/transform-to-chessboard/
+## NumberOfMatchingSubsequences
+https://leetcode.com/problems/number-of-matching-subsequences/
