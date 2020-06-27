@@ -223,3 +223,5 @@ https://leetcode.com/problems/global-and-local-inversions/
 https://leetcode.com/problems/transform-to-chessboard/
 ## NumberOfMatchingSubsequences
 https://leetcode.com/problems/number-of-matching-subsequences/
+## NumberOfSubarraysWithBoundedMaximum
+https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/
