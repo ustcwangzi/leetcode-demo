@@ -225,3 +225,5 @@ https://leetcode.com/problems/transform-to-chessboard/
 https://leetcode.com/problems/number-of-matching-subsequences/
 ## NumberOfSubarraysWithBoundedMaximum
 https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/
+## FriendsOfAppropriateAges
+https://leetcode.com/problems/friends-of-appropriate-ages/
