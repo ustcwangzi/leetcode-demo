@@ -233,3 +233,5 @@ https://leetcode.com/problems/positions-of-large-groups/
 https://leetcode.com/problems/flipping-an-image/
 ## ImageOverlap
 https://leetcode.com/problems/image-overlap/
+## MagicSquaresInGrid
+https://leetcode.com/problems/magic-squares-in-grid/
