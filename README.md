@@ -235,3 +235,5 @@ https://leetcode.com/problems/flipping-an-image/
 https://leetcode.com/problems/image-overlap/
 ## MagicSquaresInGrid
 https://leetcode.com/problems/magic-squares-in-grid/
+## MaximizeDistanceToClosestPerson
+https://leetcode.com/problems/maximize-distance-to-closest-person/
