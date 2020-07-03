@@ -237,3 +237,5 @@ https://leetcode.com/problems/image-overlap/
 https://leetcode.com/problems/magic-squares-in-grid/
 ## MaximizeDistanceToClosestPerson
 https://leetcode.com/problems/maximize-distance-to-closest-person/
+## TransposeMatrix
+https://leetcode.com/problems/transpose-matrix/
