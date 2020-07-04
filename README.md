@@ -243,3 +243,5 @@ https://leetcode.com/problems/transpose-matrix/
 https://leetcode.com/problems/advantage-shuffle/
 ## LengthOfLongestFibonacciSubsequence
 https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
+## FairCandySwap
+https://leetcode.com/problems/fair-candy-swap/
