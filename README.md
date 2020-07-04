@@ -241,3 +241,5 @@ https://leetcode.com/problems/maximize-distance-to-closest-person/
 https://leetcode.com/problems/transpose-matrix/
 ## AdvantageShuffle
 https://leetcode.com/problems/advantage-shuffle/
+## LengthOfLongestFibonacciSubsequence
+https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
