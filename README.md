@@ -239,3 +239,5 @@ https://leetcode.com/problems/magic-squares-in-grid/
 https://leetcode.com/problems/maximize-distance-to-closest-person/
 ## TransposeMatrix
 https://leetcode.com/problems/transpose-matrix/
+## AdvantageShuffle
+https://leetcode.com/problems/advantage-shuffle/
