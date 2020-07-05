@@ -247,3 +247,5 @@ https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
 https://leetcode.com/problems/fair-candy-swap/
 ## SumOfSubsequenceWidths
 https://leetcode.com/problems/sum-of-subsequence-widths/
+## MonotonicArray
+https://leetcode.com/problems/monotonic-array/
