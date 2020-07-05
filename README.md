@@ -249,3 +249,5 @@ https://leetcode.com/problems/fair-candy-swap/
 https://leetcode.com/problems/sum-of-subsequence-widths/
 ## MonotonicArray
 https://leetcode.com/problems/monotonic-array/
+## RLEIterator
+https://leetcode.com/problems/rle-iterator/
