@@ -245,3 +245,5 @@ https://leetcode.com/problems/advantage-shuffle/
 https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
 ## FairCandySwap
 https://leetcode.com/problems/fair-candy-swap/
+## SumOfSubsequenceWidths
+https://leetcode.com/problems/sum-of-subsequence-widths/
