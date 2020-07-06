@@ -255,3 +255,5 @@ https://leetcode.com/problems/rle-iterator/
 https://leetcode.com/problems/sort-array-by-parity/
 ## SumOfSubarrayMinimums
 https://leetcode.com/problems/sum-of-subarray-minimums/
+## XOfAKindInADeckOfCards
+https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/
