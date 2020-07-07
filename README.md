@@ -259,3 +259,5 @@ https://leetcode.com/problems/sum-of-subarray-minimums/
 https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/
 ## PartitionArrayIntoDisjointIntervals
 https://leetcode.com/problems/partition-array-into-disjoint-intervals/
+## MaximumSumCircularSubarray
+https://leetcode.com/problems/maximum-sum-circular-subarray/
