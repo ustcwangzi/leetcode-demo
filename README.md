@@ -257,3 +257,5 @@ https://leetcode.com/problems/sort-array-by-parity/
 https://leetcode.com/problems/sum-of-subarray-minimums/
 ## XOfAKindInADeckOfCards
 https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/
+## PartitionArrayIntoDisjointIntervals
+https://leetcode.com/problems/partition-array-into-disjoint-intervals/
