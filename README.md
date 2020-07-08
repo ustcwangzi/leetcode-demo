@@ -267,3 +267,5 @@ https://leetcode.com/problems/maximum-sum-circular-subarray/
 https://leetcode.com/problems/flip-string-to-monotone-increasing/
 ## ValidMountainArray
 https://leetcode.com/problems/valid-mountain-array/
+## MinimumIncrementToMakeArrayUnique
+https://leetcode.com/problems/minimum-increment-to-make-array-unique/
