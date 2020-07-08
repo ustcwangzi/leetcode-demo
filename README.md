@@ -265,3 +265,5 @@ https://leetcode.com/problems/partition-array-into-disjoint-intervals/
 https://leetcode.com/problems/maximum-sum-circular-subarray/
 ## FlipStringToMonotoneIncreasing
 https://leetcode.com/problems/flip-string-to-monotone-increasing/
+## ValidMountainArray
+https://leetcode.com/problems/valid-mountain-array/
