@@ -273,3 +273,5 @@ https://leetcode.com/problems/minimum-increment-to-make-array-unique/
 https://leetcode.com/problems/reveal-cards-in-increasing-order/
 ## ArrayOfDoubledPairs
 https://leetcode.com/problems/array-of-doubled-pairs/
+## MaximumWidthRamp
+https://leetcode.com/problems/maximum-width-ramp/
