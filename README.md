@@ -269,3 +269,5 @@ https://leetcode.com/problems/flip-string-to-monotone-increasing/
 https://leetcode.com/problems/valid-mountain-array/
 ## MinimumIncrementToMakeArrayUnique
 https://leetcode.com/problems/minimum-increment-to-make-array-unique/
+## RevealCardsInIncreasingOrder
+https://leetcode.com/problems/reveal-cards-in-increasing-order/
