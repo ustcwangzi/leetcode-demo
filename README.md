@@ -271,3 +271,5 @@ https://leetcode.com/problems/valid-mountain-array/
 https://leetcode.com/problems/minimum-increment-to-make-array-unique/
 ## RevealCardsInIncreasingOrder
 https://leetcode.com/problems/reveal-cards-in-increasing-order/
+## ArrayOfDoubledPairs
+https://leetcode.com/problems/array-of-doubled-pairs/
