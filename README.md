@@ -275,3 +275,5 @@ https://leetcode.com/problems/reveal-cards-in-increasing-order/
 https://leetcode.com/problems/array-of-doubled-pairs/
 ## MaximumWidthRamp
 https://leetcode.com/problems/maximum-width-ramp/
+## PancakeSorting
+https://leetcode.com/problems/pancake-sorting/
