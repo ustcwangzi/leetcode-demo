@@ -279,3 +279,5 @@ https://leetcode.com/problems/maximum-width-ramp/
 https://leetcode.com/problems/pancake-sorting/
 ## SubarraySumsDivisibleByK
 https://leetcode.com/problems/subarray-sums-divisible-by-k/
+## SquaresOfASortedArray
+https://leetcode.com/problems/squares-of-a-sorted-array/
