@@ -277,3 +277,5 @@ https://leetcode.com/problems/array-of-doubled-pairs/
 https://leetcode.com/problems/maximum-width-ramp/
 ## PancakeSorting
 https://leetcode.com/problems/pancake-sorting/
+## SubarraySumsDivisibleByK
+https://leetcode.com/problems/subarray-sums-divisible-by-k/
