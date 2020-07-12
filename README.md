@@ -283,3 +283,5 @@ https://leetcode.com/problems/subarray-sums-divisible-by-k/
 https://leetcode.com/problems/squares-of-a-sorted-array/
 ## LongestTurbulentSubarray
 https://leetcode.com/problems/longest-turbulent-subarray/
+## SumOfEvenNumbersAfterQueries
+https://leetcode.com/problems/sum-of-even-numbers-after-queries/
