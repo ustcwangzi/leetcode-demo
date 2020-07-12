@@ -287,3 +287,5 @@ https://leetcode.com/problems/longest-turbulent-subarray/
 https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 ## AddToArrayFormOfInteger
 https://leetcode.com/problems/add-to-array-form-of-integer/
+## AvailableCapturesForRook
+https://leetcode.com/problems/available-captures-for-rook/
