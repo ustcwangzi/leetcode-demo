@@ -285,3 +285,5 @@ https://leetcode.com/problems/squares-of-a-sorted-array/
 https://leetcode.com/problems/longest-turbulent-subarray/
 ## SumOfEvenNumbersAfterQueries
 https://leetcode.com/problems/sum-of-even-numbers-after-queries/
+## AddToArrayFormOfInteger
+https://leetcode.com/problems/add-to-array-form-of-integer/
