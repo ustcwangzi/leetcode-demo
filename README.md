@@ -281,3 +281,5 @@ https://leetcode.com/problems/pancake-sorting/
 https://leetcode.com/problems/subarray-sums-divisible-by-k/
 ## SquaresOfASortedArray
 https://leetcode.com/problems/squares-of-a-sorted-array/
+## LongestTurbulentSubarray
+https://leetcode.com/problems/longest-turbulent-subarray/
