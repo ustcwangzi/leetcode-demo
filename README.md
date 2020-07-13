@@ -293,3 +293,5 @@ https://leetcode.com/problems/available-captures-for-rook/
 https://leetcode.com/problems/find-common-characters/
 ## MinimumDominoRotationsForEqualRow
 https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/
+## PairsOfSongsWithTotalDurationsDivisibleBy60
+https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/

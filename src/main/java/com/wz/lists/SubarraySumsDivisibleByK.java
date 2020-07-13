@@ -19,7 +19,7 @@ public class SubarraySumsDivisibleByK {
      * dp[i]表示 0～i 的和，那么有dp[i,j] = dp[j] - dp[i]
      * 对于任何一个子集都能写成如下的形式 dp[i] = a * K + rem，
      * 假设 dp[i] = a1 * K + rem1，dp[j] = a2*K + rem2，那么dp[i,j] = dp[j] - dp[i] = (a2 - a1) * K + (rem2 - rem1)
-     * 如果想让 dp[i,j] 能被K整除，很明显，只需要保 证rem2 - rem1 = 0 即可，也就是模K的余数相同
+     * 如果想让 dp[i,j] 能被K整除，很明显，只需要保证 rem2 - rem1 = 0 即可，也就是模K的余数相同
      * 因此可采用以下解决方案：
      * 建立mod数组，长度为K，mod[i] 表示原数组中模K之后余数为i的个数
      * 遍历mod数组，如果mod[i]大于1，那么 res += (mod[i] - 1) * (mod[i]) / 2,相当于里边任意的两个组合相减之后余数结果为0
