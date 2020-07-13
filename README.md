@@ -289,3 +289,5 @@ https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 https://leetcode.com/problems/add-to-array-form-of-integer/
 ## AvailableCapturesForRook
 https://leetcode.com/problems/available-captures-for-rook/
+## FindCommonCharacters
+https://leetcode.com/problems/find-common-characters/
