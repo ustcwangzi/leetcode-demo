@@ -291,3 +291,5 @@ https://leetcode.com/problems/add-to-array-form-of-integer/
 https://leetcode.com/problems/available-captures-for-rook/
 ## FindCommonCharacters
 https://leetcode.com/problems/find-common-characters/
+## MinimumDominoRotationsForEqualRow
+https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/
