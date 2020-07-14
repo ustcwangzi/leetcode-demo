@@ -295,3 +295,5 @@ https://leetcode.com/problems/find-common-characters/
 https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/
 ## PairsOfSongsWithTotalDurationsDivisibleBy60
 https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/
+## CapacityToShipPackagesWithinDDays
+https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
