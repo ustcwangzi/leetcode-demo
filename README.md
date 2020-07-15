@@ -301,3 +301,5 @@ https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
 https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/
 ## BestSightseeingPair
 https://leetcode.com/problems/best-sightseeing-pair/
+## BinaryPrefixDivisibleBy5
+https://leetcode.com/problems/binary-prefix-divisible-by-5/
