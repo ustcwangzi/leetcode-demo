@@ -299,3 +299,5 @@ https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-6
 https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
 ## PartitionArrayIntoThreePartsWithEqualSum
 https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/
+## BestSightseeingPair
+https://leetcode.com/problems/best-sightseeing-pair/
