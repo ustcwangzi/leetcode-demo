@@ -58,7 +58,7 @@ public class MovingStonesUntilConsecutiveII {
     public static int[] numMovesStonesII(int[] stones) {
         Arrays.sort(stones);
         int i = 0, n = stones.length, min = n;
-        int max = Math.max(stones[n - 1] - n + 2 - stones[1], stones[n - 2] - stones[0] - n + 2);
+        int max = Math.max(stones[n - 1] - stones[1] - (n - 2), stones[n - 2] - stones[0] - (n - 2));
 
         for (int j = 0; j < n; ++j) {
             while (stones[j] - stones[i] >= n) {
