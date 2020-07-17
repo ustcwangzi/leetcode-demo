@@ -307,3 +307,5 @@ https://leetcode.com/problems/best-sightseeing-pair/
 https://leetcode.com/problems/binary-prefix-divisible-by-5/
 ## UncrossedLines
 https://leetcode.com/problems/uncrossed-lines/
+## MovingStonesUntilConsecutiveII
+https://leetcode.com/problems/moving-stones-until-consecutive-ii/
