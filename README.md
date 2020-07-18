@@ -315,3 +315,5 @@ https://leetcode.com/problems/height-checker/submissions/
 https://leetcode.com/problems/grumpy-bookstore-owner/
 ## PreviousPermutationWithOneSwap
 https://leetcode.com/problems/previous-permutation-with-one-swap/
+## NumberOfSubmatricesThatSumToTarget
+https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/

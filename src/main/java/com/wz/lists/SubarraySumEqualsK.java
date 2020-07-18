@@ -27,7 +27,7 @@ public class SubarraySumEqualsK {
         int result = 0;
 
         Map<Integer, Integer> map = new HashMap<>();
-        // 解决当i == 0的时候的subarray(i, j)之和，此时preSum[i - 1]应该是0
+        // 为了包含 preSum-k == 0, 也就是 preSum == k的情况
         map.put(0, 1);
         int preSum = 0;
         for (int num : nums) {
