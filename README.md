@@ -311,3 +311,5 @@ https://leetcode.com/problems/uncrossed-lines/
 https://leetcode.com/problems/moving-stones-until-consecutive-ii/
 ## HeightChecker
 https://leetcode.com/problems/height-checker/submissions/
+## GrumpyBookstoreOwner
+https://leetcode.com/problems/grumpy-bookstore-owner/
