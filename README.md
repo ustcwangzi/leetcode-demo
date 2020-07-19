@@ -317,3 +317,5 @@ https://leetcode.com/problems/grumpy-bookstore-owner/
 https://leetcode.com/problems/previous-permutation-with-one-swap/
 ## NumberOfSubmatricesThatSumToTarget
 https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
+## DuplicateZeros
+https://leetcode.com/problems/duplicate-zeros/
