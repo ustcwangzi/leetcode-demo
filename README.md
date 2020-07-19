@@ -319,3 +319,5 @@ https://leetcode.com/problems/previous-permutation-with-one-swap/
 https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
 ## DuplicateZeros
 https://leetcode.com/problems/duplicate-zeros/
+## CorporateFlightBookings
+https://leetcode.com/problems/corporate-flight-bookings/
