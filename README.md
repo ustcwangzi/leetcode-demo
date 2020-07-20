@@ -325,3 +325,5 @@ https://leetcode.com/problems/corporate-flight-bookings/
 https://leetcode.com/problems/relative-sort-array/
 ## NumberOfEquivalentDominoPairs
 https://leetcode.com/problems/number-of-equivalent-domino-pairs/
+## DecreaseElementsToMakeArrayZigzag
+https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/
