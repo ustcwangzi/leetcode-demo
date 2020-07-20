@@ -323,3 +323,5 @@ https://leetcode.com/problems/duplicate-zeros/
 https://leetcode.com/problems/corporate-flight-bookings/
 ## RelativeSortArray
 https://leetcode.com/problems/relative-sort-array/
+## NumberOfEquivalentDominoPairs
+https://leetcode.com/problems/number-of-equivalent-domino-pairs/
