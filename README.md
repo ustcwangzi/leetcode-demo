@@ -327,3 +327,5 @@ https://leetcode.com/problems/relative-sort-array/
 https://leetcode.com/problems/number-of-equivalent-domino-pairs/
 ## DecreaseElementsToMakeArrayZigzag
 https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/
+## SnapshotArray
+https://leetcode.com/problems/snapshot-array/
