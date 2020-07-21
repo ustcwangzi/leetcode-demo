@@ -329,3 +329,5 @@ https://leetcode.com/problems/number-of-equivalent-domino-pairs/
 https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/
 ## SnapshotArray
 https://leetcode.com/problems/snapshot-array/
+## OnlineMajorityElementInSubarray
+https://leetcode.com/problems/online-majority-element-in-subarray/
