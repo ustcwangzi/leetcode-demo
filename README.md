@@ -335,3 +335,5 @@ https://leetcode.com/problems/online-majority-element-in-subarray/
 https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
 ## InvalidTransactions
 https://leetcode.com/problems/invalid-transactions/
+## CompareStringsByFrequencyOfSmallestCharacter
+https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/
