@@ -331,3 +331,5 @@ https://leetcode.com/problems/decrease-elements-to-make-array-zigzag/
 https://leetcode.com/problems/snapshot-array/
 ## OnlineMajorityElementInSubarray
 https://leetcode.com/problems/online-majority-element-in-subarray/
+## FindWordsThatCanBeFormedByCharacters
+https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
