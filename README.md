@@ -333,3 +333,5 @@ https://leetcode.com/problems/snapshot-array/
 https://leetcode.com/problems/online-majority-element-in-subarray/
 ## FindWordsThatCanBeFormedByCharacters
 https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
+## InvalidTransactions
+https://leetcode.com/problems/invalid-transactions/
