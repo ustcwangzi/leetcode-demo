@@ -337,3 +337,5 @@ https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
 https://leetcode.com/problems/invalid-transactions/
 ## CompareStringsByFrequencyOfSmallestCharacter
 https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/
+## CanMakePalindromeFromSubstring
+https://leetcode.com/problems/can-make-palindrome-from-substring/
