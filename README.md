@@ -339,3 +339,5 @@ https://leetcode.com/problems/invalid-transactions/
 https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/
 ## CanMakePalindromeFromSubstring
 https://leetcode.com/problems/can-make-palindrome-from-substring/
+## 
+https://leetcode.com/problems/distance-between-bus-stops/
