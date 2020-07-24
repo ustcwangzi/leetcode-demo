@@ -343,3 +343,5 @@ https://leetcode.com/problems/can-make-palindrome-from-substring/
 https://leetcode.com/problems/distance-between-bus-stops/
 ## DayOfTheWeek
 https://leetcode.com/problems/day-of-the-week/
+## MinimumAbsoluteDifference
+https://leetcode.com/problems/minimum-absolute-difference/
