@@ -345,3 +345,5 @@ https://leetcode.com/problems/distance-between-bus-stops/
 https://leetcode.com/problems/day-of-the-week/
 ## MinimumAbsoluteDifference
 https://leetcode.com/problems/minimum-absolute-difference/
+## SmallestStringWithSwaps
+https://leetcode.com/problems/smallest-string-with-swaps/
