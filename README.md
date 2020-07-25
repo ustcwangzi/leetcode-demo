@@ -347,3 +347,5 @@ https://leetcode.com/problems/day-of-the-week/
 https://leetcode.com/problems/minimum-absolute-difference/
 ## SmallestStringWithSwaps
 https://leetcode.com/problems/smallest-string-with-swaps/
+## GetEqualSubstringsWithinBudget
+https://leetcode.com/problems/get-equal-substrings-within-budget/
