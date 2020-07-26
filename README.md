@@ -353,3 +353,5 @@ https://leetcode.com/problems/get-equal-substrings-within-budget/
 https://leetcode.com/problems/play-with-chips/
 ## QueensThatCanAttackKing
 https://leetcode.com/problems/queens-that-can-attack-the-king/
+## 
+https://leetcode.com/problems/check-if-it-is-a-straight-line/
