@@ -349,3 +349,5 @@ https://leetcode.com/problems/minimum-absolute-difference/
 https://leetcode.com/problems/smallest-string-with-swaps/
 ## GetEqualSubstringsWithinBudget
 https://leetcode.com/problems/get-equal-substrings-within-budget/
+## PlayWithChips
+https://leetcode.com/problems/play-with-chips/
