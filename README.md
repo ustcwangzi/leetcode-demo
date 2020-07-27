@@ -363,3 +363,5 @@ https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/
 https://leetcode.com/problems/shift-2d-grid/
 ## MinimumTimeVisitingAllPoints
 https://leetcode.com/problems/minimum-time-visiting-all-points/
+## CountServersThatCommunicate
+https://leetcode.com/problems/count-servers-that-communicate/
