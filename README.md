@@ -361,3 +361,5 @@ https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/
 https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/
 ## Shift2DGrid
 https://leetcode.com/problems/shift-2d-grid/
+## MinimumTimeVisitingAllPoints
+https://leetcode.com/problems/minimum-time-visiting-all-points/
