@@ -36,6 +36,7 @@ public class CountServersThatCommunicate {
     }
 
     /**
+     * 如果在一行或一列有两个及两个以上的服务器，则同一行或同一列的服务器都能互相通信
      * 统计每行1的个数和每列1的个数，然后扫描每个元素，如果该元素所在的行或列1的个数大于1，则认为服务器之间可以通信
      */
     public static int countServers(int[][] grid) {
