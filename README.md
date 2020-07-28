@@ -367,3 +367,5 @@ https://leetcode.com/problems/minimum-time-visiting-all-points/
 https://leetcode.com/problems/count-servers-that-communicate/
 ## FindWinnerOnTicTacToeGame
 https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/
+## CountSquareSubmatricesWithAllOnes
+https://leetcode.com/problems/count-square-submatrices-with-all-ones/
