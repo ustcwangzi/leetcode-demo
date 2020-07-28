@@ -369,3 +369,5 @@ https://leetcode.com/problems/count-servers-that-communicate/
 https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/
 ## CountSquareSubmatricesWithAllOnes
 https://leetcode.com/problems/count-square-submatrices-with-all-ones/
+## ElementAppearingMoreThan25InSortedArray
+https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
