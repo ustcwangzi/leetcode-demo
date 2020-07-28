@@ -371,3 +371,5 @@ https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/
 https://leetcode.com/problems/count-square-submatrices-with-all-ones/
 ## ElementAppearingMoreThan25InSortedArray
 https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
+## MaximumSideLengthOfSquareWithSumLessThanOrEqualToThreshold
+https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
