@@ -375,3 +375,5 @@ https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
 https://leetcode.com/problems/maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold/
 ## FindNumbersWithEvenNumberOfDigits
 https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
+## DivideArrayInSetsOfKConsecutiveNumbers
+https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
