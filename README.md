@@ -381,3 +381,5 @@ https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
 https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
 ## SumOfMutatedArrayClosestToTarget
 https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/
+## FindNUniqueIntegersSumUpToZero
+https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
