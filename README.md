@@ -379,3 +379,5 @@ https://leetcode.com/problems/find-numbers-with-even-number-of-digits/
 https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
 ## ReplaceElementsWithGreatestElementOnRightSide
 https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
+## SumOfMutatedArrayClosestToTarget
+https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/
