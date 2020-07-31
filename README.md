@@ -391,3 +391,5 @@ https://leetcode.com/problems/sort-the-matrix-diagonally/
 https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/
 ## RankTransformOfAnArray
 https://leetcode.com/problems/rank-transform-of-an-array/
+## FilterRestaurantsByVeganFriendlyPriceAndDistance
+https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/
