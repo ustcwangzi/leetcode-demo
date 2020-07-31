@@ -389,3 +389,5 @@ https://leetcode.com/problems/decompress-run-length-encoded-list/
 https://leetcode.com/problems/sort-the-matrix-diagonally/
 ## ReverseSubarrayToMaximizeArrayValue
 https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/
+## RankTransformOfAnArray
+https://leetcode.com/problems/rank-transform-of-an-array/
