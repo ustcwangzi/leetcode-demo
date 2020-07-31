@@ -383,3 +383,5 @@ https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-si
 https://leetcode.com/problems/sum-of-mutated-array-closest-to-target/
 ## FindNUniqueIntegersSumUpToZero
 https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
+## DecompressRunLengthEncodedList
+https://leetcode.com/problems/decompress-run-length-encoded-list/
