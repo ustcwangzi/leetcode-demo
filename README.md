@@ -387,3 +387,5 @@ https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
 https://leetcode.com/problems/decompress-run-length-encoded-list/
 ## SortTheMatrixDiagonally
 https://leetcode.com/problems/sort-the-matrix-diagonally/
+## ReverseSubarrayToMaximizeArrayValue
+https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/
