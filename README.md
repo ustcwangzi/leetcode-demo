@@ -397,3 +397,5 @@ https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-dis
 https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
 ## ReduceArraySizeToTheHalf
 https://leetcode.com/problems/reduce-array-size-to-the-half/
+## CheckIfNAndItsDoubleExist
+https://leetcode.com/problems/check-if-n-and-its-double-exist/
