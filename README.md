@@ -393,3 +393,5 @@ https://leetcode.com/problems/reverse-subarray-to-maximize-array-value/
 https://leetcode.com/problems/rank-transform-of-an-array/
 ## FilterRestaurantsByVeganFriendlyPriceAndDistance
 https://leetcode.com/problems/filter-restaurants-by-vegan-friendly-price-and-distance/
+## TheKWeakestRowsInAMatrix
+https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
