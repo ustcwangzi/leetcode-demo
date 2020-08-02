@@ -405,3 +405,5 @@ https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 https://leetcode.com/problems/product-of-the-last-k-numbers/
 ## HowManyNumbersAreSmallerThanCurrentNumber
 https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
+## RankTeamsByVotes
+https://leetcode.com/problems/rank-teams-by-votes/
