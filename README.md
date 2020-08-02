@@ -407,5 +407,7 @@ https://leetcode.com/problems/product-of-the-last-k-numbers/
 https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
 ## RankTeamsByVotes
 https://leetcode.com/problems/rank-teams-by-votes/
-## 
+## BulbSwitcherIII
 https://leetcode.com/problems/bulb-switcher-iii/
+## LuckyNumbersInMatrix
+https://leetcode.com/problems/lucky-numbers-in-a-matrix/
