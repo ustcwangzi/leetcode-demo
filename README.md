@@ -403,3 +403,5 @@ https://leetcode.com/problems/check-if-n-and-its-double-exist/
 https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
 ## ProductOfNumbers
 https://leetcode.com/problems/product-of-the-last-k-numbers/
+## HowManyNumbersAreSmallerThanCurrentNumber
+https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/
