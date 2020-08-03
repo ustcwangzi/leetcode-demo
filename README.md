@@ -411,3 +411,5 @@ https://leetcode.com/problems/rank-teams-by-votes/
 https://leetcode.com/problems/bulb-switcher-iii/
 ## LuckyNumbersInMatrix
 https://leetcode.com/problems/lucky-numbers-in-a-matrix/
+## FindTheDistanceValueBetweenTwoArrays
+https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
