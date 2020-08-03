@@ -415,3 +415,5 @@ https://leetcode.com/problems/lucky-numbers-in-a-matrix/
 https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
 ## CinemaSeatAllocation
 https://leetcode.com/problems/cinema-seat-allocation/
+## CreateTargetArrayInGivenOrder
+https://leetcode.com/problems/create-target-array-in-the-given-order/
