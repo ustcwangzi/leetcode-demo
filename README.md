@@ -411,6 +411,8 @@ https://leetcode.com/problems/rank-teams-by-votes/
 https://leetcode.com/problems/bulb-switcher-iii/
 ## LuckyNumbersInMatrix
 https://leetcode.com/problems/lucky-numbers-in-a-matrix/
+## FindLuckyIntegerInArray
+https://leetcode.com/problems/find-lucky-integer-in-an-array/
 ## FindTheDistanceValueBetweenTwoArrays
 https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
 ## CinemaSeatAllocation
