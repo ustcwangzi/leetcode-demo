@@ -413,3 +413,5 @@ https://leetcode.com/problems/bulb-switcher-iii/
 https://leetcode.com/problems/lucky-numbers-in-a-matrix/
 ## FindTheDistanceValueBetweenTwoArrays
 https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
+## CinemaSeatAllocation
+https://leetcode.com/problems/cinema-seat-allocation/
