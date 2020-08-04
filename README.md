@@ -419,3 +419,5 @@ https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
 https://leetcode.com/problems/cinema-seat-allocation/
 ## CreateTargetArrayInGivenOrder
 https://leetcode.com/problems/create-target-array-in-the-given-order/
+## CountNumberOfTeams
+https://leetcode.com/problems/count-number-of-teams/
