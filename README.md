@@ -427,3 +427,5 @@ https://leetcode.com/problems/count-largest-group/
 https://leetcode.com/problems/queries-on-a-permutation-with-key/
 ## MinimumValueToGetPositiveStepByStepSum
 https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/
+## FindMinimumNumberOfFibonacciNumbersWhoseSumIsK
+https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/
