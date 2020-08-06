@@ -433,3 +433,5 @@ https://leetcode.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose
 https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 ## DiagonalTraverseII
 https://leetcode.com/problems/diagonal-traverse-ii/
+## KidsWithGreatestNumberOfCandies
+https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
