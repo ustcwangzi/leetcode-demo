@@ -437,3 +437,5 @@ https://leetcode.com/problems/diagonal-traverse-ii/
 https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 ## CheckIfAll1AreAtLeastLengthKPlacesAway
 https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/
+## LongestSubarrayWithAbsoluteDiffLessThanOrEqualLimit
+https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/

@@ -24,7 +24,8 @@ package com.wz.lists;
  */
 public class MaximumSumCircularSubarray {
     public static void main(String[] args) {
-
+        int[] A = new int[]{3,-1,2,-1};
+        System.out.println(maxSubarraySumCircular(A));
     }
 
     /**
