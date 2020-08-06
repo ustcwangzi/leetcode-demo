@@ -435,3 +435,5 @@ https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 https://leetcode.com/problems/diagonal-traverse-ii/
 ## KidsWithGreatestNumberOfCandies
 https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
+## CheckIfAll1AreAtLeastLengthKPlacesAway
+https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/
