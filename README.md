@@ -439,3 +439,5 @@ https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/
 ## LongestSubarrayWithAbsoluteDiffLessThanOrEqualLimit
 https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
+## CountTripletsThatCanFormTwoArraysOfEqualXOR
+https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/
