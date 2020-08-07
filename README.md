@@ -449,3 +449,5 @@ https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
 https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
 ## MaximumAreaOfPieceOfCakeAfterHorizontalAndVerticalCuts
 https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
+## ShuffleTheArray
+https://leetcode.com/problems/shuffle-the-array/
