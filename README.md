@@ -443,3 +443,5 @@ https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-les
 https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/
 ## NumberOfStudentsDoingHomeworkAtGivenTime
 https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
+## MakeTwoArraysEqualByReversingSubarrays
+https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
