@@ -441,3 +441,5 @@ https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/
 https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
 ## CountTripletsThatCanFormTwoArraysOfEqualXOR
 https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/
+## NumberOfStudentsDoingHomeworkAtGivenTime
+https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
