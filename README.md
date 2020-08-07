@@ -447,3 +447,5 @@ https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
 https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
 ## MaximumProductOfTwoElementsInArray
 https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
+## MaximumAreaOfPieceOfCakeAfterHorizontalAndVerticalCuts
+https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
