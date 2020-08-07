@@ -445,3 +445,5 @@ https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-x
 https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/
 ## MakeTwoArraysEqualByReversingSubarrays
 https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/
+## MaximumProductOfTwoElementsInArray
+https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
