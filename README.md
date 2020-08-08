@@ -457,3 +457,5 @@ https://leetcode.com/problems/the-k-strongest-values-in-an-array/
 https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
 ## SubrectangleQueries
 https://leetcode.com/problems/subrectangle-queries/
+## RunningSumOfArray
+https://leetcode.com/problems/running-sum-of-1d-array/
