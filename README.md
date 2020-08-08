@@ -459,3 +459,5 @@ https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
 https://leetcode.com/problems/subrectangle-queries/
 ## RunningSumOfArray
 https://leetcode.com/problems/running-sum-of-1d-array/
+## LeastNumberOfUniqueIntegersAfterKRemovals
+https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/
