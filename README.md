@@ -451,3 +451,5 @@ https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
 https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
 ## ShuffleTheArray
 https://leetcode.com/problems/shuffle-the-array/
+## TheKStrongestValuesInArray
+https://leetcode.com/problems/the-k-strongest-values-in-an-array/
