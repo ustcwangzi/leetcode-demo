@@ -453,3 +453,5 @@ https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-a
 https://leetcode.com/problems/shuffle-the-array/
 ## TheKStrongestValuesInArray
 https://leetcode.com/problems/the-k-strongest-values-in-an-array/
+## FinalPricesWithSpecialDiscountInShop
+https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
