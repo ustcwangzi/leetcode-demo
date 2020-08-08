@@ -455,3 +455,5 @@ https://leetcode.com/problems/shuffle-the-array/
 https://leetcode.com/problems/the-k-strongest-values-in-an-array/
 ## FinalPricesWithSpecialDiscountInShop
 https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/
+## SubrectangleQueries
+https://leetcode.com/problems/subrectangle-queries/
