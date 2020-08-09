@@ -465,3 +465,5 @@ MinimumNumberOfDaysToMakeMBouquets
 https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
 ## XOROperationInArray
 https://leetcode.com/problems/xor-operation-in-an-array/
+## AvoidFloodInTheCity
+https://leetcode.com/problems/avoid-flood-in-the-city/
