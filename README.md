@@ -469,3 +469,5 @@ https://leetcode.com/problems/xor-operation-in-an-array/
 https://leetcode.com/problems/avoid-flood-in-the-city/
 ## AverageSalaryExcludingMinimumAndMaximumSalary
 https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
+## LongestSubarrayOf1AfterDeletingOneElement
+https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
