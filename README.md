@@ -461,3 +461,5 @@ https://leetcode.com/problems/subrectangle-queries/
 https://leetcode.com/problems/running-sum-of-1d-array/
 ## LeastNumberOfUniqueIntegersAfterKRemovals
 https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/
+MinimumNumberOfDaysToMakeMBouquets
+https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
