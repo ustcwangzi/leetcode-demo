@@ -463,3 +463,5 @@ https://leetcode.com/problems/running-sum-of-1d-array/
 https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/
 MinimumNumberOfDaysToMakeMBouquets
 https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
+## XOROperationInArray
+https://leetcode.com/problems/xor-operation-in-an-array/
