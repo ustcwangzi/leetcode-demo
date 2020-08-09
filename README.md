@@ -467,3 +467,5 @@ https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/
 https://leetcode.com/problems/xor-operation-in-an-array/
 ## AvoidFloodInTheCity
 https://leetcode.com/problems/avoid-flood-in-the-city/
+## AverageSalaryExcludingMinimumAndMaximumSalary
+https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
