@@ -475,3 +475,5 @@ https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
 https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/
 ## MaxValueOfEquation
 https://leetcode.com/problems/max-value-of-equation/
+## CanMakeArithmeticProgressionFromSequence
+https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
