@@ -473,3 +473,5 @@ https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-s
 https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
 ## CheckIfArrayPairsAreDivisibleByK
 https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/
+## MaxValueOfEquation
+https://leetcode.com/problems/max-value-of-equation/
