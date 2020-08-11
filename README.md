@@ -477,3 +477,5 @@ https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/
 https://leetcode.com/problems/max-value-of-equation/
 ## CanMakeArithmeticProgressionFromSequence
 https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
+## LastMomentBeforeAllAntsFallOutOfPlank
+https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/
