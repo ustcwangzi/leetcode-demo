@@ -485,3 +485,5 @@ https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/
 https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
 ## NumberOfGoodPairs
 https://leetcode.com/problems/number-of-good-pairs/
+## NumberOfSubarraysWithOddSum
+https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/
