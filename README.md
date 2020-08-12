@@ -481,3 +481,5 @@ https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
 https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/
 ## RangeSumOfSortedSubarraySums
 https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/
+## MinimumDifferenceBetweenLargestAndSmallestValueInThreeMoves
+https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
