@@ -487,3 +487,5 @@ https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-va
 https://leetcode.com/problems/number-of-good-pairs/
 ## NumberOfSubarraysWithOddSum
 https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/
+## CountGoodTriplets
+https://leetcode.com/problems/count-good-triplets/
