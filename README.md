@@ -491,3 +491,5 @@ https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/
 https://leetcode.com/problems/count-good-triplets/
 ## FindTheWinnerOfArrayGame
 https://leetcode.com/problems/find-the-winner-of-an-array-game/
+## KthMissingPositiveNumber
+https://leetcode.com/problems/kth-missing-positive-number/
