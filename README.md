@@ -1,5 +1,6 @@
 # Array
-## TwoSum 
+https://leetcode.com/problemset/all/?topicSlugs=array
+## TwoSum
 https://leetcode.com/problems/two-sum/
 ## TwoSumII
 https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
@@ -493,3 +494,6 @@ https://leetcode.com/problems/count-good-triplets/
 https://leetcode.com/problems/find-the-winner-of-an-array-game/
 ## KthMissingPositiveNumber
 https://leetcode.com/problems/kth-missing-positive-number/
+
+# lists
+https://leetcode.com/problemset/all/?topicSlugs=linked-list
