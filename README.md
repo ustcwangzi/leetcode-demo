@@ -489,3 +489,5 @@ https://leetcode.com/problems/number-of-good-pairs/
 https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/
 ## CountGoodTriplets
 https://leetcode.com/problems/count-good-triplets/
+## FindTheWinnerOfArrayGame
+https://leetcode.com/problems/find-the-winner-of-an-array-game/
