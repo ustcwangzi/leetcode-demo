@@ -503,3 +503,5 @@ https://leetcode.com/problems/add-two-numbers/
 https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 ## MergeTwoSortedLists
 https://leetcode.com/problems/merge-two-sorted-lists/
+## MergeKSortedLists
+https://leetcode.com/problems/merge-k-sorted-lists/
