@@ -505,3 +505,5 @@ https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 https://leetcode.com/problems/merge-two-sorted-lists/
 ## MergeKSortedLists
 https://leetcode.com/problems/merge-k-sorted-lists/
+## SwapNodesInPairs
+https://leetcode.com/problems/swap-nodes-in-pairs/
