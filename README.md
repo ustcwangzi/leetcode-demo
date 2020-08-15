@@ -511,3 +511,5 @@ https://leetcode.com/problems/swap-nodes-in-pairs/
 https://leetcode.com/problems/reverse-nodes-in-k-group/
 ## RotateList
 https://leetcode.com/problems/rotate-list/
+## RemoveDuplicatesFromSortedList
+https://leetcode.com/problems/remove-duplicates-from-sorted-list/
