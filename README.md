@@ -509,3 +509,5 @@ https://leetcode.com/problems/merge-k-sorted-lists/
 https://leetcode.com/problems/swap-nodes-in-pairs/
 ## ReverseNodesInKGroup
 https://leetcode.com/problems/reverse-nodes-in-k-group/
+## RotateList
+https://leetcode.com/problems/rotate-list/
