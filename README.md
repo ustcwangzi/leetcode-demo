@@ -507,3 +507,5 @@ https://leetcode.com/problems/merge-two-sorted-lists/
 https://leetcode.com/problems/merge-k-sorted-lists/
 ## SwapNodesInPairs
 https://leetcode.com/problems/swap-nodes-in-pairs/
+## ReverseNodesInKGroup
+https://leetcode.com/problems/reverse-nodes-in-k-group/
