@@ -515,3 +515,5 @@ https://leetcode.com/problems/rotate-list/
 https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 ## RemoveDuplicatesFromSortedListII
 https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
+## PartitionList
+https://leetcode.com/problems/partition-list/
