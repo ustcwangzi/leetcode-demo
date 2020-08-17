@@ -523,3 +523,5 @@ https://leetcode.com/problems/reverse-linked-list/
 https://leetcode.com/problems/reverse-linked-list-ii/
 ## ConvertSortedListToBinarySearchTree
 https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
+## CopyListWithRandomPointer
+https://leetcode.com/problems/copy-list-with-random-pointer/
