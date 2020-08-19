@@ -535,3 +535,5 @@ https://leetcode.com/problems/reorder-list/
 https://leetcode.com/problems/insertion-sort-list/
 ## SortList
 https://leetcode.com/problems/sort-list/
+## IntersectionOfTwoLinkedLists
+https://leetcode.com/problems/intersection-of-two-linked-lists/
