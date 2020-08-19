@@ -537,3 +537,5 @@ https://leetcode.com/problems/insertion-sort-list/
 https://leetcode.com/problems/sort-list/
 ## IntersectionOfTwoLinkedLists
 https://leetcode.com/problems/intersection-of-two-linked-lists/
+## RemoveLinkedListElements
+https://leetcode.com/problems/remove-linked-list-elements/
