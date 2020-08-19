@@ -533,3 +533,5 @@ https://leetcode.com/problems/linked-list-cycle-ii/
 https://leetcode.com/problems/reorder-list/
 ## InsertionSortList
 https://leetcode.com/problems/insertion-sort-list/
+## SortList
+https://leetcode.com/problems/sort-list/
