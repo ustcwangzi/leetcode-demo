@@ -545,3 +545,5 @@ https://leetcode.com/problems/palindrome-linked-list/
 https://leetcode.com/problems/delete-node-in-a-linked-list/
 ## OddEvenLinkedList
 https://leetcode.com/problems/odd-even-linked-list/
+## FlattenMultilevelDoublyLinkedList
+https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
