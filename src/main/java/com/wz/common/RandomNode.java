@@ -1,11 +1,11 @@
 package com.wz.common;
 
-public class Node {
+public class RandomNode {
     public int val;
-    public Node next;
-    public Node random;
+    public RandomNode next;
+    public RandomNode random;
 
-    public Node(int val) {
+    public RandomNode(int val) {
         this.val = val;
         this.next = null;
         this.random = null;

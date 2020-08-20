@@ -1,6 +1,6 @@
 package com.wz.lists;
 
-import com.wz.common.Node;
+import com.wz.common.RandomNode;
 
 /**
  * A linked list is given such that each node contains an additional random pointer which could point to any node in the list or null.
@@ -20,15 +20,15 @@ public class CopyListWithRandomPointer {
      * 2. 依次给新的节点的随机指针赋值，而且这个赋值非常容易 cur.next.random = cur.random.next
      * 3. 断开链表中的拷贝可得到深度拷贝后的新链表
      */
-    public static Node copyRandomList(Node head) {
+    public static RandomNode copyRandomList(RandomNode head) {
         if (head == null) {
             return head;
         }
 
         // 在每个原节点后面加入一个 copy 节点
-        Node cur = head;
+        RandomNode cur = head;
         while (cur != null) {
-            Node copy = new Node(cur.val);
+            RandomNode copy = new RandomNode(cur.val);
             copy.next = cur.next;
             cur.next = copy;
             cur = copy.next;
@@ -44,10 +44,10 @@ public class CopyListWithRandomPointer {
         }
 
         // 将 copy 节点取出链接在结果中
-        Node result = head.next;
+        RandomNode result = head.next;
         cur = head;
         while (cur != null) {
-            Node copy = cur.next;
+            RandomNode copy = cur.next;
             // 断开 copy 节点
             cur.next = copy.next;
             // 将 copy 节点连在结果中
