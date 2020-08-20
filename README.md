@@ -541,3 +541,5 @@ https://leetcode.com/problems/intersection-of-two-linked-lists/
 https://leetcode.com/problems/remove-linked-list-elements/
 ## PalindromeLinkedList
 https://leetcode.com/problems/palindrome-linked-list/
+## DeleteNodeInLinkedList
+https://leetcode.com/problems/delete-node-in-a-linked-list/
