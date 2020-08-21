@@ -549,3 +549,5 @@ https://leetcode.com/problems/delete-node-in-a-linked-list/
 https://leetcode.com/problems/odd-even-linked-list/
 ## FlattenMultilevelDoublyLinkedList
 https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
+## MyLinkedList
+https://leetcode.com/problems/design-linked-list/
