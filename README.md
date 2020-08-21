@@ -557,3 +557,5 @@ https://leetcode.com/problems/split-linked-list-in-parts/
 https://leetcode.com/problems/linked-list-components/
 ## MiddleOfLinkedList
 https://leetcode.com/problems/middle-of-the-linked-list/
+## NextGreaterNodeInLinkedList
+https://leetcode.com/problems/next-greater-node-in-linked-list/
