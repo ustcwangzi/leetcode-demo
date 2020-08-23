@@ -561,3 +561,5 @@ https://leetcode.com/problems/middle-of-the-linked-list/
 https://leetcode.com/problems/next-greater-node-in-linked-list/
 ## RemoveZeroSumConsecutiveNodesFromLinkedList
 https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/
+## ConvertBinaryNumberInLinkedListToInteger
+https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
