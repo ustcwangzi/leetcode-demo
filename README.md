@@ -559,3 +559,5 @@ https://leetcode.com/problems/linked-list-components/
 https://leetcode.com/problems/middle-of-the-linked-list/
 ## NextGreaterNodeInLinkedList
 https://leetcode.com/problems/next-greater-node-in-linked-list/
+## RemoveZeroSumConsecutiveNodesFromLinkedList
+https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/
