@@ -570,3 +570,5 @@ https://leetcode.com/problems/linked-list-in-binary-tree/
 https://leetcode.com/problemset/all/?topicSlugs=math
 ## ReverseInteger
 https://leetcode.com/problems/reverse-integer/
+## StringToInteger
+https://leetcode.com/problems/string-to-integer-atoi/
