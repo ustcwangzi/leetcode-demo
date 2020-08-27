@@ -582,3 +582,5 @@ https://leetcode.com/problems/roman-to-integer/
 https://leetcode.com/problems/divide-two-integers/
 ## MultiplyStrings
 https://leetcode.com/problems/multiply-strings/
+## PowXN
+https://leetcode.com/problems/powx-n/
