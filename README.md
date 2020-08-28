@@ -586,3 +586,5 @@ https://leetcode.com/problems/multiply-strings/
 https://leetcode.com/problems/powx-n/
 ## PermutationSequence
 https://leetcode.com/problems/permutation-sequence/
+## ValidNumber
+https://leetcode.com/problems/valid-number/
