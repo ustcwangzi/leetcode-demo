@@ -592,3 +592,5 @@ https://leetcode.com/problems/valid-number/
 https://leetcode.com/problems/add-binary/
 ## SqrtX
 https://leetcode.com/problems/sqrtx/
+## MaxPointsOnLine
+https://leetcode.com/problems/max-points-on-a-line/
