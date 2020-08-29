@@ -588,3 +588,5 @@ https://leetcode.com/problems/powx-n/
 https://leetcode.com/problems/permutation-sequence/
 ## ValidNumber
 https://leetcode.com/problems/valid-number/
+## AddBinary
+https://leetcode.com/problems/add-binary/
