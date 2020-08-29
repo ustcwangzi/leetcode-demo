@@ -590,3 +590,5 @@ https://leetcode.com/problems/permutation-sequence/
 https://leetcode.com/problems/valid-number/
 ## AddBinary
 https://leetcode.com/problems/add-binary/
+## SqrtX
+https://leetcode.com/problems/sqrtx/
