@@ -594,3 +594,5 @@ https://leetcode.com/problems/add-binary/
 https://leetcode.com/problems/sqrtx/
 ## MaxPointsOnLine
 https://leetcode.com/problems/max-points-on-a-line/
+## FractionToRecurringDecimal
+https://leetcode.com/problems/fraction-to-recurring-decimal/
