@@ -598,3 +598,5 @@ https://leetcode.com/problems/max-points-on-a-line/
 https://leetcode.com/problems/fraction-to-recurring-decimal/
 ## ExcelSheetColumnTitle
 https://leetcode.com/problems/excel-sheet-column-title/
+## ExcelSheetColumnNumber
+https://leetcode.com/problems/excel-sheet-column-number/
