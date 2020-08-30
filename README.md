@@ -596,3 +596,5 @@ https://leetcode.com/problems/sqrtx/
 https://leetcode.com/problems/max-points-on-a-line/
 ## FractionToRecurringDecimal
 https://leetcode.com/problems/fraction-to-recurring-decimal/
+## ExcelSheetColumnTitle
+https://leetcode.com/problems/excel-sheet-column-title/
