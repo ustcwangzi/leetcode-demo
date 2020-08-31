@@ -602,3 +602,5 @@ https://leetcode.com/problems/excel-sheet-column-title/
 https://leetcode.com/problems/excel-sheet-column-number/
 ## FactorialTrailingZeroes
 https://leetcode.com/problems/factorial-trailing-zeroes/
+## HappyNumber
+https://leetcode.com/problems/happy-number/
