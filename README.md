@@ -604,3 +604,5 @@ https://leetcode.com/problems/excel-sheet-column-number/
 https://leetcode.com/problems/factorial-trailing-zeroes/
 ## HappyNumber
 https://leetcode.com/problems/happy-number/
+## CountPrimes
+https://leetcode.com/problems/count-primes/
