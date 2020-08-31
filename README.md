@@ -600,3 +600,5 @@ https://leetcode.com/problems/fraction-to-recurring-decimal/
 https://leetcode.com/problems/excel-sheet-column-title/
 ## ExcelSheetColumnNumber
 https://leetcode.com/problems/excel-sheet-column-number/
+## FactorialTrailingZeroes
+https://leetcode.com/problems/factorial-trailing-zeroes/
