@@ -608,3 +608,5 @@ https://leetcode.com/problems/happy-number/
 https://leetcode.com/problems/count-primes/
 ## RectangleArea
 https://leetcode.com/problems/rectangle-area/
+## BasicCalculator
+https://leetcode.com/problems/basic-calculator/
