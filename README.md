@@ -606,3 +606,5 @@ https://leetcode.com/problems/factorial-trailing-zeroes/
 https://leetcode.com/problems/happy-number/
 ## CountPrimes
 https://leetcode.com/problems/count-primes/
+## RectangleArea
+https://leetcode.com/problems/rectangle-area/
