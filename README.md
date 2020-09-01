@@ -610,3 +610,5 @@ https://leetcode.com/problems/count-primes/
 https://leetcode.com/problems/rectangle-area/
 ## BasicCalculator
 https://leetcode.com/problems/basic-calculator/
+## PowerOfTwo
+https://leetcode.com/problems/power-of-two/
