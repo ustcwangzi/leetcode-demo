@@ -614,3 +614,5 @@ https://leetcode.com/problems/basic-calculator/
 https://leetcode.com/problems/power-of-two/
 ## NumberOfDigitOne
 https://leetcode.com/problems/number-of-digit-one/
+## AddDigits
+https://leetcode.com/problems/add-digits/
