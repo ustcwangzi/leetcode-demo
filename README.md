@@ -618,3 +618,5 @@ https://leetcode.com/problems/number-of-digit-one/
 https://leetcode.com/problems/add-digits/
 ## UglyNumber
 https://leetcode.com/problems/ugly-number/
+## UglyNumberII
+https://leetcode.com/problems/ugly-number-ii/
