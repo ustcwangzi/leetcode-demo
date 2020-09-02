@@ -616,3 +616,5 @@ https://leetcode.com/problems/power-of-two/
 https://leetcode.com/problems/number-of-digit-one/
 ## AddDigits
 https://leetcode.com/problems/add-digits/
+## UglyNumber
+https://leetcode.com/problems/ugly-number/
