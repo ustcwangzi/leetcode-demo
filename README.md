@@ -620,6 +620,8 @@ https://leetcode.com/problems/add-digits/
 https://leetcode.com/problems/ugly-number/
 ## UglyNumberII
 https://leetcode.com/problems/ugly-number-ii/
+## SuperUglyNumber
+https://leetcode.com/problems/super-ugly-number/
 ## IntegerToEnglishWords
 https://leetcode.com/problems/integer-to-english-words/
 ## PerfectSquares
