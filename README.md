@@ -622,3 +622,5 @@ https://leetcode.com/problems/ugly-number/
 https://leetcode.com/problems/ugly-number-ii/
 ## IntegerToEnglishWords
 https://leetcode.com/problems/integer-to-english-words/
+## PerfectSquares
+https://leetcode.com/problems/perfect-squares/
