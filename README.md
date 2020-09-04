@@ -612,6 +612,8 @@ https://leetcode.com/problems/rectangle-area/
 https://leetcode.com/problems/basic-calculator/
 ## PowerOfTwo
 https://leetcode.com/problems/power-of-two/
+## PowerOfThree
+https://leetcode.com/problems/power-of-three/
 ## NumberOfDigitOne
 https://leetcode.com/problems/number-of-digit-one/
 ## AddDigits
