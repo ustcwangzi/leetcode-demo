@@ -626,3 +626,5 @@ https://leetcode.com/problems/super-ugly-number/
 https://leetcode.com/problems/integer-to-english-words/
 ## PerfectSquares
 https://leetcode.com/problems/perfect-squares/
+## BulbSwitcher
+https://leetcode.com/problems/bulb-switcher/
