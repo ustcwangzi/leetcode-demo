@@ -640,3 +640,5 @@ https://leetcode.com/problems/integer-break/
 https://leetcode.com/problems/count-numbers-with-unique-digits/
 ## WaterAndJugProblem
 https://leetcode.com/problems/water-and-jug-problem/
+## ValidPerfectSquare
+https://leetcode.com/problems/valid-perfect-square/
