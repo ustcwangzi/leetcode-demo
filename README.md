@@ -632,3 +632,5 @@ https://leetcode.com/problems/perfect-squares/
 https://leetcode.com/problems/bulb-switcher/
 ## BulbSwitcherII
 https://leetcode.com/problems/bulb-switcher-ii/
+## SelfCrossing
+https://leetcode.com/problems/self-crossing/
