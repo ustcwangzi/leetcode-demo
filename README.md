@@ -634,3 +634,5 @@ https://leetcode.com/problems/bulb-switcher/
 https://leetcode.com/problems/bulb-switcher-ii/
 ## SelfCrossing
 https://leetcode.com/problems/self-crossing/
+## IntegerBreak
+https://leetcode.com/problems/integer-break/
