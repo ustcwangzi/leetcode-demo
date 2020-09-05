@@ -636,3 +636,5 @@ https://leetcode.com/problems/bulb-switcher-ii/
 https://leetcode.com/problems/self-crossing/
 ## IntegerBreak
 https://leetcode.com/problems/integer-break/
+## CountNumbersWithUniqueDigits
+https://leetcode.com/problems/count-numbers-with-unique-digits/
