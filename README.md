@@ -638,3 +638,5 @@ https://leetcode.com/problems/self-crossing/
 https://leetcode.com/problems/integer-break/
 ## CountNumbersWithUniqueDigits
 https://leetcode.com/problems/count-numbers-with-unique-digits/
+## WaterAndJugProblem
+https://leetcode.com/problems/water-and-jug-problem/
