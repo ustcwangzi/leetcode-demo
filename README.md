@@ -646,3 +646,5 @@ https://leetcode.com/problems/valid-perfect-square/
 https://leetcode.com/problems/largest-divisible-subset/
 ## SuperPow
 https://leetcode.com/problems/super-pow/
+## RotateFunction
+https://leetcode.com/problems/rotate-function/
