@@ -644,3 +644,5 @@ https://leetcode.com/problems/water-and-jug-problem/
 https://leetcode.com/problems/valid-perfect-square/
 ## LargestDivisibleSubset
 https://leetcode.com/problems/largest-divisible-subset/
+## SuperPow
+https://leetcode.com/problems/super-pow/
