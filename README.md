@@ -650,3 +650,5 @@ https://leetcode.com/problems/super-pow/
 https://leetcode.com/problems/rotate-function/
 ## IntegerReplacement
 https://leetcode.com/problems/integer-replacement/
+## NthDigit
+https://leetcode.com/problems/nth-digit/
