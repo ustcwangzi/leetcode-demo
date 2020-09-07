@@ -652,3 +652,5 @@ https://leetcode.com/problems/rotate-function/
 https://leetcode.com/problems/integer-replacement/
 ## NthDigit
 https://leetcode.com/problems/nth-digit/
+## ArithmeticSlices
+https://leetcode.com/problems/arithmetic-slices/
