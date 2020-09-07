@@ -648,3 +648,5 @@ https://leetcode.com/problems/largest-divisible-subset/
 https://leetcode.com/problems/super-pow/
 ## RotateFunction
 https://leetcode.com/problems/rotate-function/
+## IntegerReplacement
+https://leetcode.com/problems/integer-replacement/
