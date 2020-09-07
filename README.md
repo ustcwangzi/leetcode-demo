@@ -654,3 +654,5 @@ https://leetcode.com/problems/integer-replacement/
 https://leetcode.com/problems/nth-digit/
 ## ArithmeticSlices
 https://leetcode.com/problems/arithmetic-slices/
+## ReconstructOriginalDigitsFromEnglish
+https://leetcode.com/problems/reconstruct-original-digits-from-english/
