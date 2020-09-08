@@ -658,3 +658,5 @@ https://leetcode.com/problems/arithmetic-slices/
 https://leetcode.com/problems/reconstruct-original-digits-from-english/
 ## ArrangingCoins
 https://leetcode.com/problems/arranging-coins/
+## MinimumMovesToEqualArrayElements
+https://leetcode.com/problems/minimum-moves-to-equal-array-elements/
