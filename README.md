@@ -656,3 +656,5 @@ https://leetcode.com/problems/nth-digit/
 https://leetcode.com/problems/arithmetic-slices/
 ## ReconstructOriginalDigitsFromEnglish
 https://leetcode.com/problems/reconstruct-original-digits-from-english/
+## ArrangingCoins
+https://leetcode.com/problems/arranging-coins/
