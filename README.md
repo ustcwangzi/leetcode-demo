@@ -666,3 +666,5 @@ https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
 https://leetcode.com/problems/poor-pigs/
 ## GenerateRandomPointInCircle
 https://leetcode.com/problems/generate-random-point-in-a-circle/
+## SmallestGoodBase
+https://leetcode.com/problems/smallest-good-base/
