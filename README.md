@@ -670,3 +670,5 @@ https://leetcode.com/problems/generate-random-point-in-a-circle/
 https://leetcode.com/problems/smallest-good-base/
 ## PerfectNumber
 https://leetcode.com/problems/perfect-number/
+## SuperWashingMachines
+https://leetcode.com/problems/super-washing-machines/
