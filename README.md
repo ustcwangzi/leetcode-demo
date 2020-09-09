@@ -668,3 +668,5 @@ https://leetcode.com/problems/poor-pigs/
 https://leetcode.com/problems/generate-random-point-in-a-circle/
 ## SmallestGoodBase
 https://leetcode.com/problems/smallest-good-base/
+## PerfectNumber
+https://leetcode.com/problems/perfect-number/
