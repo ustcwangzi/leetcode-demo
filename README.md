@@ -672,3 +672,5 @@ https://leetcode.com/problems/smallest-good-base/
 https://leetcode.com/problems/perfect-number/
 ## SuperWashingMachines
 https://leetcode.com/problems/super-washing-machines/
+## ContinuousSubarraySum
+https://leetcode.com/problems/continuous-subarray-sum/
