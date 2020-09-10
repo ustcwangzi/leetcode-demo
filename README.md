@@ -674,3 +674,5 @@ https://leetcode.com/problems/perfect-number/
 https://leetcode.com/problems/super-washing-machines/
 ## ContinuousSubarraySum
 https://leetcode.com/problems/continuous-subarray-sum/
+## EncodeAndDecodeTinyURL
+https://leetcode.com/problems/encode-and-decode-tinyurl/
