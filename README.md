@@ -684,3 +684,5 @@ https://leetcode.com/problems/complex-number-multiplication/
 https://leetcode.com/problems/valid-square/
 ## RangeAdditionII
 https://leetcode.com/problems/range-addition-ii/
+## SumOfSquareNumbers
+https://leetcode.com/problems/sum-of-square-numbers/
