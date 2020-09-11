@@ -682,3 +682,5 @@ https://leetcode.com/problems/encode-and-decode-tinyurl/
 https://leetcode.com/problems/complex-number-multiplication/
 ## ValidSquare
 https://leetcode.com/problems/valid-square/
+## RangeAdditionII
+https://leetcode.com/problems/range-addition-ii/
