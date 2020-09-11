@@ -680,3 +680,5 @@ https://leetcode.com/problems/continuous-subarray-sum/
 https://leetcode.com/problems/encode-and-decode-tinyurl/
 ## ComplexNumberMultiplication
 https://leetcode.com/problems/complex-number-multiplication/
+## ValidSquare
+https://leetcode.com/problems/valid-square/
