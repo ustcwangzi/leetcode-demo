@@ -686,3 +686,5 @@ https://leetcode.com/problems/valid-square/
 https://leetcode.com/problems/range-addition-ii/
 ## SumOfSquareNumbers
 https://leetcode.com/problems/sum-of-square-numbers/
+## SolveTheEquation
+https://leetcode.com/problems/solve-the-equation/
