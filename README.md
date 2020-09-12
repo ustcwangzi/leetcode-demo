@@ -692,3 +692,5 @@ https://leetcode.com/problems/solve-the-equation/
 https://leetcode.com/problems/set-mismatch/
 ## SelfDividingNumbers
 https://leetcode.com/problems/self-dividing-numbers/
+## CrackingTheSafe
+https://leetcode.com/problems/cracking-the-safe/
