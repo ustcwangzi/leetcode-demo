@@ -698,3 +698,5 @@ https://leetcode.com/problems/cracking-the-safe/
 https://leetcode.com/problems/reach-a-number/
 ## ReachingPoints
 https://leetcode.com/problems/reaching-points/
+## RabbitsInForest
+https://leetcode.com/problems/rabbits-in-forest/
