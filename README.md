@@ -696,3 +696,5 @@ https://leetcode.com/problems/self-dividing-numbers/
 https://leetcode.com/problems/cracking-the-safe/
 ## ReachANumber
 https://leetcode.com/problems/reach-a-number/
+## ReachingPoints
+https://leetcode.com/problems/reaching-points/
