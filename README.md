@@ -700,3 +700,5 @@ https://leetcode.com/problems/reach-a-number/
 https://leetcode.com/problems/reaching-points/
 ## RabbitsInForest
 https://leetcode.com/problems/rabbits-in-forest/
+## EscapeTheGhosts
+https://leetcode.com/problems/escape-the-ghosts/
