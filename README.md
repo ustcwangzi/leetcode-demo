@@ -694,3 +694,5 @@ https://leetcode.com/problems/set-mismatch/
 https://leetcode.com/problems/self-dividing-numbers/
 ## CrackingTheSafe
 https://leetcode.com/problems/cracking-the-safe/
+## ReachANumber
+https://leetcode.com/problems/reach-a-number/
