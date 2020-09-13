@@ -702,3 +702,5 @@ https://leetcode.com/problems/reaching-points/
 https://leetcode.com/problems/rabbits-in-forest/
 ## EscapeTheGhosts
 https://leetcode.com/problems/escape-the-ghosts/
+## ValidTicTacToeState
+https://leetcode.com/problems/valid-tic-tac-toe-state/
