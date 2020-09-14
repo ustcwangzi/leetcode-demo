@@ -704,3 +704,5 @@ https://leetcode.com/problems/rabbits-in-forest/
 https://leetcode.com/problems/escape-the-ghosts/
 ## ValidTicTacToeState
 https://leetcode.com/problems/valid-tic-tac-toe-state/
+## SplitArrayWithSameAverage
+https://leetcode.com/problems/split-array-with-same-average/
