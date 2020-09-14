@@ -708,3 +708,5 @@ https://leetcode.com/problems/valid-tic-tac-toe-state/
 https://leetcode.com/problems/split-array-with-same-average/
 ## ChalkboardXORGame
 https://leetcode.com/problems/chalkboard-xor-game/
+## LargestTriangleArea
+https://leetcode.com/problems/largest-triangle-area/
