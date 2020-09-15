@@ -710,3 +710,5 @@ https://leetcode.com/problems/split-array-with-same-average/
 https://leetcode.com/problems/chalkboard-xor-game/
 ## LargestTriangleArea
 https://leetcode.com/problems/largest-triangle-area/
+## ConsecutiveNumbersSum
+https://leetcode.com/problems/consecutive-numbers-sum/
