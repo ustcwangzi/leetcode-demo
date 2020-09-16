@@ -716,3 +716,5 @@ https://leetcode.com/problems/consecutive-numbers-sum/
 https://leetcode.com/problems/rectangle-overlap/
 ## MirrorReflection
 https://leetcode.com/problems/mirror-reflection/
+## PrimePalindrome
+https://leetcode.com/problems/prime-palindrome/
