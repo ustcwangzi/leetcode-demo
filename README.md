@@ -718,3 +718,5 @@ https://leetcode.com/problems/rectangle-overlap/
 https://leetcode.com/problems/mirror-reflection/
 ## PrimePalindrome
 https://leetcode.com/problems/prime-palindrome/
+## BinaryGap
+https://leetcode.com/problems/binary-gap/
