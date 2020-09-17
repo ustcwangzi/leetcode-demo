@@ -720,3 +720,5 @@ https://leetcode.com/problems/mirror-reflection/
 https://leetcode.com/problems/prime-palindrome/
 ## BinaryGap
 https://leetcode.com/problems/binary-gap/
+## ReorderedPowerOf2
+https://leetcode.com/problems/reordered-power-of-2/
