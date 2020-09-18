@@ -722,3 +722,5 @@ https://leetcode.com/problems/prime-palindrome/
 https://leetcode.com/problems/binary-gap/
 ## ReorderedPowerOf2
 https://leetcode.com/problems/reordered-power-of-2/
+## StoneGame
+https://leetcode.com/problems/stone-game/
