@@ -726,3 +726,5 @@ https://leetcode.com/problems/reordered-power-of-2/
 https://leetcode.com/problems/stone-game/
 ## NthMagicalNumber
 https://leetcode.com/problems/nth-magical-number/
+## ProjectionAreaOf3DShapes
+https://leetcode.com/problems/projection-area-of-3d-shapes/
