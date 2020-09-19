@@ -724,3 +724,5 @@ https://leetcode.com/problems/binary-gap/
 https://leetcode.com/problems/reordered-power-of-2/
 ## StoneGame
 https://leetcode.com/problems/stone-game/
+## NthMagicalNumber
+https://leetcode.com/problems/nth-magical-number/
