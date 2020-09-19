@@ -730,3 +730,5 @@ https://leetcode.com/problems/stone-game/
 https://leetcode.com/problems/nth-magical-number/
 ## ProjectionAreaOf3DShapes
 https://leetcode.com/problems/projection-area-of-3d-shapes/
+## SuperEggDrop
+https://leetcode.com/problems/super-egg-drop/
