@@ -748,3 +748,5 @@ https://leetcode.com/problems/smallest-range-i/
 https://leetcode.com/problems/smallest-range-ii/
 ## ThreeEqualParts
 https://leetcode.com/problems/three-equal-parts/
+## DIStringMatch
+https://leetcode.com/problems/di-string-match/
