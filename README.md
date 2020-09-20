@@ -736,3 +736,5 @@ https://leetcode.com/problems/super-egg-drop/
 https://leetcode.com/problems/sum-of-subsequence-widths/
 ## SurfaceAreaOf3DShapes
 https://leetcode.com/problems/surface-area-of-3d-shapes/
+## OrderlyQueue
+https://leetcode.com/problems/orderly-queue/
