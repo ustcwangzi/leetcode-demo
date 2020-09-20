@@ -746,3 +746,5 @@ https://leetcode.com/problems/super-palindromes/
 https://leetcode.com/problems/smallest-range-i/
 ## SmallestRangeII
 https://leetcode.com/problems/smallest-range-ii/
+## ThreeEqualParts
+https://leetcode.com/problems/three-equal-parts/
