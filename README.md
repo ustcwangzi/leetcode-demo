@@ -740,3 +740,5 @@ https://leetcode.com/problems/surface-area-of-3d-shapes/
 https://leetcode.com/problems/orderly-queue/
 ## NumbersAtMostNGivenDigitSet
 https://leetcode.com/problems/numbers-at-most-n-given-digit-set/
+## SuperPalindromes
+https://leetcode.com/problems/super-palindromes/
