@@ -742,3 +742,5 @@ https://leetcode.com/problems/orderly-queue/
 https://leetcode.com/problems/numbers-at-most-n-given-digit-set/
 ## SuperPalindromes
 https://leetcode.com/problems/super-palindromes/
+## SmallestRangeI
+https://leetcode.com/problems/smallest-range-i/
