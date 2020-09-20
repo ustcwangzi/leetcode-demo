@@ -738,3 +738,5 @@ https://leetcode.com/problems/sum-of-subsequence-widths/
 https://leetcode.com/problems/surface-area-of-3d-shapes/
 ## OrderlyQueue
 https://leetcode.com/problems/orderly-queue/
+## NumbersAtMostNGivenDigitSet
+https://leetcode.com/problems/numbers-at-most-n-given-digit-set/
