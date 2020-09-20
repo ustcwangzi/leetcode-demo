@@ -734,3 +734,5 @@ https://leetcode.com/problems/projection-area-of-3d-shapes/
 https://leetcode.com/problems/super-egg-drop/
 ## SumOfSubsequenceWidths
 https://leetcode.com/problems/sum-of-subsequence-widths/
+## SurfaceAreaOf3DShapes
+https://leetcode.com/problems/surface-area-of-3d-shapes/
