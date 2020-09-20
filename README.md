@@ -732,3 +732,5 @@ https://leetcode.com/problems/nth-magical-number/
 https://leetcode.com/problems/projection-area-of-3d-shapes/
 ## SuperEggDrop
 https://leetcode.com/problems/super-egg-drop/
+## SumOfSubsequenceWidths
+https://leetcode.com/problems/sum-of-subsequence-widths/
