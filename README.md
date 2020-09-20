@@ -744,3 +744,5 @@ https://leetcode.com/problems/numbers-at-most-n-given-digit-set/
 https://leetcode.com/problems/super-palindromes/
 ## SmallestRangeI
 https://leetcode.com/problems/smallest-range-i/
+## SmallestRangeII
+https://leetcode.com/problems/smallest-range-ii/
