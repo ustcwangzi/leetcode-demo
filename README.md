@@ -752,3 +752,5 @@ https://leetcode.com/problems/three-equal-parts/
 https://leetcode.com/problems/di-string-match/
 ## LargestTimeForGivenDigits
 https://leetcode.com/problems/largest-time-for-given-digits/
+## LargestComponentSizeByCommonFactor
+https://leetcode.com/problems/largest-component-size-by-common-factor/
