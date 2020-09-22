@@ -758,3 +758,5 @@ https://leetcode.com/problems/largest-component-size-by-common-factor/
 https://leetcode.com/problems/minimum-area-rectangle-ii/
 ## LeastOperatorsToExpressNumber
 https://leetcode.com/problems/least-operators-to-express-number/
+## PowerfulIntegers
+https://leetcode.com/problems/powerful-integers/
