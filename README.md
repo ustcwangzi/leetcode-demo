@@ -760,3 +760,5 @@ https://leetcode.com/problems/minimum-area-rectangle-ii/
 https://leetcode.com/problems/least-operators-to-express-number/
 ## PowerfulIntegers
 https://leetcode.com/problems/powerful-integers/
+## EqualRationalNumbers
+https://leetcode.com/problems/equal-rational-numbers/
