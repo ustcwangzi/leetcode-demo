@@ -756,3 +756,5 @@ https://leetcode.com/problems/largest-time-for-given-digits/
 https://leetcode.com/problems/largest-component-size-by-common-factor/
 ## MinimumAreaRectangleII
 https://leetcode.com/problems/minimum-area-rectangle-ii/
+## LeastOperatorsToExpressNumber
+https://leetcode.com/problems/least-operators-to-express-number/
