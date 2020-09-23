@@ -762,3 +762,5 @@ https://leetcode.com/problems/least-operators-to-express-number/
 https://leetcode.com/problems/powerful-integers/
 ## EqualRationalNumbers
 https://leetcode.com/problems/equal-rational-numbers/
+## LargestPerimeterTriangle
+https://leetcode.com/problems/largest-perimeter-triangle/
