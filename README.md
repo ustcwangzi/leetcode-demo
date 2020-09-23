@@ -768,3 +768,5 @@ https://leetcode.com/problems/largest-perimeter-triangle/
 https://leetcode.com/problems/broken-calculator/
 ## NumberOfSquarefulArrays
 https://leetcode.com/problems/number-of-squareful-arrays/
+## ClumsyFactorial
+https://leetcode.com/problems/clumsy-factorial/
