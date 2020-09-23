@@ -764,3 +764,5 @@ https://leetcode.com/problems/powerful-integers/
 https://leetcode.com/problems/equal-rational-numbers/
 ## LargestPerimeterTriangle
 https://leetcode.com/problems/largest-perimeter-triangle/
+## BrokenCalculator
+https://leetcode.com/problems/broken-calculator/
