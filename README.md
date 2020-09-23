@@ -766,3 +766,5 @@ https://leetcode.com/problems/equal-rational-numbers/
 https://leetcode.com/problems/largest-perimeter-triangle/
 ## BrokenCalculator
 https://leetcode.com/problems/broken-calculator/
+## NumberOfSquarefulArrays
+https://leetcode.com/problems/number-of-squareful-arrays/
