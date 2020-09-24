@@ -776,3 +776,5 @@ https://leetcode.com/problems/complement-of-base-10-integer/
 https://leetcode.com/problems/numbers-with-repeated-digits/
 ## SmallestIntegerDivisibleByK
 https://leetcode.com/problems/smallest-integer-divisible-by-k/
+## ConvertToBaseNeg2
+https://leetcode.com/problems/convert-to-base-2/
