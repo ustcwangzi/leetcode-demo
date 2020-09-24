@@ -772,3 +772,5 @@ https://leetcode.com/problems/number-of-squareful-arrays/
 https://leetcode.com/problems/clumsy-factorial/
 ## ComplementOfBase10Integer
 https://leetcode.com/problems/complement-of-base-10-integer/
+## NumbersWithRepeatedDigits
+https://leetcode.com/problems/numbers-with-repeated-digits/
