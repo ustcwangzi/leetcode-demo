@@ -774,3 +774,5 @@ https://leetcode.com/problems/clumsy-factorial/
 https://leetcode.com/problems/complement-of-base-10-integer/
 ## NumbersWithRepeatedDigits
 https://leetcode.com/problems/numbers-with-repeated-digits/
+## SmallestIntegerDivisibleByK
+https://leetcode.com/problems/smallest-integer-divisible-by-k/
