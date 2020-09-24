@@ -770,3 +770,5 @@ https://leetcode.com/problems/broken-calculator/
 https://leetcode.com/problems/number-of-squareful-arrays/
 ## ClumsyFactorial
 https://leetcode.com/problems/clumsy-factorial/
+## ComplementOfBase10Integer
+https://leetcode.com/problems/complement-of-base-10-integer/
