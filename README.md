@@ -782,3 +782,5 @@ https://leetcode.com/problems/convert-to-base-2/
 https://leetcode.com/problems/divisor-game/
 ## ValidBoomerang
 https://leetcode.com/problems/valid-boomerang/
+## RobotBoundedInCircle
+https://leetcode.com/problems/robot-bounded-in-circle/
