@@ -780,3 +780,5 @@ https://leetcode.com/problems/smallest-integer-divisible-by-k/
 https://leetcode.com/problems/convert-to-base-2/
 ## DivisorGame
 https://leetcode.com/problems/divisor-game/
+## ValidBoomerang
+https://leetcode.com/problems/valid-boomerang/
