@@ -778,3 +778,5 @@ https://leetcode.com/problems/numbers-with-repeated-digits/
 https://leetcode.com/problems/smallest-integer-divisible-by-k/
 ## ConvertToBaseNeg2
 https://leetcode.com/problems/convert-to-base-2/
+## DivisorGame
+https://leetcode.com/problems/divisor-game/
