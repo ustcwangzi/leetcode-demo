@@ -626,6 +626,8 @@ https://leetcode.com/problems/add-digits/
 https://leetcode.com/problems/ugly-number/
 ## UglyNumberII
 https://leetcode.com/problems/ugly-number-ii/
+## UglyNumberIII
+https://leetcode.com/problems/ugly-number-iii/
 ## SuperUglyNumber
 https://leetcode.com/problems/super-ugly-number/
 ## IntegerToEnglishWords
