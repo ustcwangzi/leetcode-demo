@@ -792,3 +792,5 @@ https://leetcode.com/problems/statistics-from-a-large-sample/
 https://leetcode.com/problems/distribute-candies-to-people/
 ## PathInZigzagLabelledBinaryTree
 https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/
+## MaximumOfAbsoluteValueExpression
+https://leetcode.com/problems/maximum-of-absolute-value-expression/
