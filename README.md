@@ -796,3 +796,5 @@ https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/
 https://leetcode.com/problems/maximum-of-absolute-value-expression/
 ## DayOfTheYear
 https://leetcode.com/problems/day-of-the-year/
+## PrimeArrangements
+https://leetcode.com/problems/prime-arrangements/
