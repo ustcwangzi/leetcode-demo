@@ -790,3 +790,5 @@ https://leetcode.com/problems/adding-two-negabinary-numbers/
 https://leetcode.com/problems/statistics-from-a-large-sample/
 ## DistributeCandiesToPeople
 https://leetcode.com/problems/distribute-candies-to-people/
+## PathInZigzagLabelledBinaryTree
+https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/
