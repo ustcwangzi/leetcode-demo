@@ -788,3 +788,5 @@ https://leetcode.com/problems/robot-bounded-in-circle/
 https://leetcode.com/problems/adding-two-negabinary-numbers/
 ## StatisticsFromLargeSample
 https://leetcode.com/problems/statistics-from-a-large-sample/
+## DistributeCandiesToPeople
+https://leetcode.com/problems/distribute-candies-to-people/
