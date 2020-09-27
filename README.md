@@ -804,3 +804,5 @@ https://leetcode.com/problems/prime-arrangements/
 https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/
 ## LongestArithmeticSubsequenceOfGivenDifference
 https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/
+## AirplaneSeatAssignmentProbability
+https://leetcode.com/problems/airplane-seat-assignment-probability/
