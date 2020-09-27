@@ -802,3 +802,5 @@ https://leetcode.com/problems/day-of-the-year/
 https://leetcode.com/problems/prime-arrangements/
 ## MinimumCostToMoveChipsToTheSamePosition
 https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/
+## LongestArithmeticSubsequenceOfGivenDifference
+https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/
