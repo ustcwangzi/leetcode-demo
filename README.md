@@ -800,3 +800,5 @@ https://leetcode.com/problems/maximum-of-absolute-value-expression/
 https://leetcode.com/problems/day-of-the-year/
 ## PrimeArrangements
 https://leetcode.com/problems/prime-arrangements/
+## MinimumCostToMoveChipsToTheSamePosition
+https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/
