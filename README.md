@@ -812,3 +812,5 @@ https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equatio
 https://leetcode.com/problems/circular-permutation-in-binary-representation/
 ## CheckIfItIsGoodArray
 https://leetcode.com/problems/check-if-it-is-a-good-array/
+## Reconstruct2RowBinaryMatrix
+https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/
