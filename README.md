@@ -806,3 +806,5 @@ https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/
 https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/
 ## AirplaneSeatAssignmentProbability
 https://leetcode.com/problems/airplane-seat-assignment-probability/
+## FindPositiveIntegerSolutionForGivenEquation
+https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
