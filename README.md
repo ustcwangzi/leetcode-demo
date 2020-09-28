@@ -808,3 +808,5 @@ https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference
 https://leetcode.com/problems/airplane-seat-assignment-probability/
 ## FindPositiveIntegerSolutionForGivenEquation
 https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
+## CircularPermutationInBinaryRepresentation
+https://leetcode.com/problems/circular-permutation-in-binary-representation/
