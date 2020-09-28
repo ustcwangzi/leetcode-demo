@@ -810,3 +810,5 @@ https://leetcode.com/problems/airplane-seat-assignment-probability/
 https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation/
 ## CircularPermutationInBinaryRepresentation
 https://leetcode.com/problems/circular-permutation-in-binary-representation/
+## CheckIfItIsGoodArray
+https://leetcode.com/problems/check-if-it-is-a-good-array/
