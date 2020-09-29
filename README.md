@@ -816,3 +816,5 @@ https://leetcode.com/problems/check-if-it-is-a-good-array/
 https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/
 ## NumberOfBurgersWithNoWasteOfIngredients
 https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/
+## SubtractTheProductAndSumOfDigitsOfAnInteger
+https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
