@@ -818,3 +818,5 @@ https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/
 https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/
 ## SubtractTheProductAndSumOfDigitsOfAnInteger
 https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
+## VerbalArithmeticPuzzle
+https://leetcode.com/problems/verbal-arithmetic-puzzle/
