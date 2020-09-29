@@ -814,3 +814,5 @@ https://leetcode.com/problems/circular-permutation-in-binary-representation/
 https://leetcode.com/problems/check-if-it-is-a-good-array/
 ## Reconstruct2RowBinaryMatrix
 https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix/
+## NumberOfBurgersWithNoWasteOfIngredients
+https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/
