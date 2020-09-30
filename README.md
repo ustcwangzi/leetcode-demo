@@ -826,3 +826,5 @@ https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers
 https://leetcode.com/problems/maximum-69-number/
 ## AngleBetweenHandsOfClock
 https://leetcode.com/problems/angle-between-hands-of-a-clock/
+## CountAllValidPickupAndDeliveryOptions
+https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/
