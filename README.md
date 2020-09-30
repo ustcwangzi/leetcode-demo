@@ -822,3 +822,5 @@ https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integ
 https://leetcode.com/problems/verbal-arithmetic-puzzle/
 ## ConvertIntegerToTheSumOfTwoNoZeroIntegers
 https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/
+## Maximum69Number
+https://leetcode.com/problems/maximum-69-number/
