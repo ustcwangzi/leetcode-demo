@@ -820,3 +820,5 @@ https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients/
 https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 ## VerbalArithmeticPuzzle
 https://leetcode.com/problems/verbal-arithmetic-puzzle/
+## ConvertIntegerToTheSumOfTwoNoZeroIntegers
+https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/
