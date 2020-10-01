@@ -832,3 +832,5 @@ https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/
 https://leetcode.com/problems/closest-divisors/
 ## LargestMultipleOfThree
 https://leetcode.com/problems/largest-multiple-of-three/
+## FourDivisors
+https://leetcode.com/problems/four-divisors/
