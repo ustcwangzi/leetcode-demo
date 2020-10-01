@@ -18,6 +18,15 @@ public class LargestMultipleOfThree {
         System.out.println(largestMultipleOfThree(new int[]{8, 1, 9}));
     }
 
+    /**
+     * 如果一个数的每一位之和是3的倍数，那个这个数可以被3整除。
+     * 假设整个数组之和是3的倍数：
+     * ①如果要得到的最大的 3 的倍数，那么要得到这个最大的3的倍数，可以对数组进行排序，最后按顺序输出这个数组即可。例如如果是从小到大排序，那么倒序输出这个数组就是最大的3的倍数。
+     * 接下来要解决的问题是如果整个数组之和不是3的倍数：
+     * 假设数组之和是sum，remainder = sum%3 != 0，可以考虑到remainder = 1 或者remainder=2。
+     * ②如果remainder=1，那么我们需要删除一个最小的且余3为1的即可、或者删除两个最小的且余3为2的数字即可。
+     * ③如果remainder=2，那么我们需要删除一个最小的且余3为2的即可、或者删除两个最小的且余3为1的数字即可。
+     */
     public static String largestMultipleOfThree(int[] digits) {
         int[] digitCount = new int[10];
         int digitSum = 0;
