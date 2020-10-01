@@ -834,3 +834,5 @@ https://leetcode.com/problems/closest-divisors/
 https://leetcode.com/problems/largest-multiple-of-three/
 ## FourDivisors
 https://leetcode.com/problems/four-divisors/
+## SimplifiedFractions
+https://leetcode.com/problems/simplified-fractions/
