@@ -836,3 +836,5 @@ https://leetcode.com/problems/largest-multiple-of-three/
 https://leetcode.com/problems/four-divisors/
 ## SimplifiedFractions
 https://leetcode.com/problems/simplified-fractions/
+## ProbabilityOfTwoBoxesHavingTheSameNumberOfDistinctBalls
+https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/
