@@ -846,3 +846,5 @@ https://leetcode.com/problems/the-kth-factor-of-n/
 https://leetcode.com/problems/number-of-substrings-with-only-1s/
 ## CountOddNumbersInIntervalRange
 https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
+## MinimumOperationsToMakeArrayEqual
+https://leetcode.com/problems/minimum-operations-to-make-array-equal/
