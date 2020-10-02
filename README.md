@@ -844,3 +844,5 @@ https://leetcode.com/problems/allocate-mailboxes/
 https://leetcode.com/problems/the-kth-factor-of-n/
 ## NumberOfSubstringsWithOnly1s
 https://leetcode.com/problems/number-of-substrings-with-only-1s/
+## CountOddNumbersInIntervalRange
+https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
