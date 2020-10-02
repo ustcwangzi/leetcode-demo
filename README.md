@@ -838,3 +838,5 @@ https://leetcode.com/problems/four-divisors/
 https://leetcode.com/problems/simplified-fractions/
 ## ProbabilityOfTwoBoxesHavingTheSameNumberOfDistinctBalls
 https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/
+## AllocateMailboxes
+https://leetcode.com/problems/allocate-mailboxes/
