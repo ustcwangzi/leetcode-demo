@@ -848,3 +848,5 @@ https://leetcode.com/problems/number-of-substrings-with-only-1s/
 https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
 ## MinimumOperationsToMakeArrayEqual
 https://leetcode.com/problems/minimum-operations-to-make-array-equal/
+## NumberOfWaysWhereSquareOfNumberIsEqualToProductOfTwoNumbers
+https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/
