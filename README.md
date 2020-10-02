@@ -842,3 +842,5 @@ https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-
 https://leetcode.com/problems/allocate-mailboxes/
 ## TheKthFactorOfN
 https://leetcode.com/problems/the-kth-factor-of-n/
+## NumberOfSubstringsWithOnly1s
+https://leetcode.com/problems/number-of-substrings-with-only-1s/
