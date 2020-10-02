@@ -840,3 +840,5 @@ https://leetcode.com/problems/simplified-fractions/
 https://leetcode.com/problems/probability-of-a-two-boxes-having-the-same-number-of-distinct-balls/
 ## AllocateMailboxes
 https://leetcode.com/problems/allocate-mailboxes/
+## TheKthFactorOfN
+https://leetcode.com/problems/the-kth-factor-of-n/
