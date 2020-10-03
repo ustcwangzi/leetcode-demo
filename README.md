@@ -857,3 +857,5 @@ https://leetcode.com/problemset/all/?topicSlugs=string
 https://leetcode.com/problems/longest-substring-without-repeating-characters/
 ## LongestPalindromicSubstring
 https://leetcode.com/problems/longest-palindromic-substring/
+## ZigZagConversion
+https://leetcode.com/problems/zigzag-conversion/
