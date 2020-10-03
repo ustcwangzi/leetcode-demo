@@ -855,3 +855,5 @@ https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-
 https://leetcode.com/problemset/all/?topicSlugs=string
 ## LongestSubstringWithoutRepeatingCharacters
 https://leetcode.com/problems/longest-substring-without-repeating-characters/
+## LongestPalindromicSubstring
+https://leetcode.com/problems/longest-palindromic-substring/
