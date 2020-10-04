@@ -859,3 +859,5 @@ https://leetcode.com/problems/longest-substring-without-repeating-characters/
 https://leetcode.com/problems/longest-palindromic-substring/
 ## ZigZagConversion
 https://leetcode.com/problems/zigzag-conversion/
+## LongestCommonPrefix
+https://leetcode.com/problems/longest-common-prefix/
