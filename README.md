@@ -869,3 +869,5 @@ https://leetcode.com/problems/valid-parentheses/
 https://leetcode.com/problems/generate-parentheses/
 ## ImplementStrStr
 https://leetcode.com/problems/implement-strstr/
+## SubstringWithConcatenationOfAllWords
+https://leetcode.com/problems/substring-with-concatenation-of-all-words/
