@@ -865,3 +865,5 @@ https://leetcode.com/problems/longest-common-prefix/
 https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 ## ValidParentheses
 https://leetcode.com/problems/valid-parentheses/
+## GenerateParentheses
+https://leetcode.com/problems/generate-parentheses/
