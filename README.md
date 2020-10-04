@@ -867,3 +867,5 @@ https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 https://leetcode.com/problems/valid-parentheses/
 ## GenerateParentheses
 https://leetcode.com/problems/generate-parentheses/
+## ImplementStrStr
+https://leetcode.com/problems/implement-strstr/
