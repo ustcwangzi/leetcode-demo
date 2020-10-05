@@ -871,3 +871,5 @@ https://leetcode.com/problems/generate-parentheses/
 https://leetcode.com/problems/implement-strstr/
 ## SubstringWithConcatenationOfAllWords
 https://leetcode.com/problems/substring-with-concatenation-of-all-words/
+## LongestValidParentheses
+https://leetcode.com/problems/longest-valid-parentheses/
