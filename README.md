@@ -873,3 +873,5 @@ https://leetcode.com/problems/implement-strstr/
 https://leetcode.com/problems/substring-with-concatenation-of-all-words/
 ## LongestValidParentheses
 https://leetcode.com/problems/longest-valid-parentheses/
+## CountAndSay
+https://leetcode.com/problems/count-and-say/
