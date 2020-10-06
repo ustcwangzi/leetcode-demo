@@ -883,3 +883,5 @@ https://leetcode.com/problems/group-anagrams/
 https://leetcode.com/problems/length-of-last-word/
 ## TextJustification
 https://leetcode.com/problems/text-justification/
+## SimplifyPath
+https://leetcode.com/problems/simplify-path/
