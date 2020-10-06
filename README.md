@@ -887,3 +887,5 @@ https://leetcode.com/problems/text-justification/
 https://leetcode.com/problems/simplify-path/
 ## EditDistance
 https://leetcode.com/problems/edit-distance/
+## MinimumWindowSubstring
+https://leetcode.com/problems/minimum-window-substring/
