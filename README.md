@@ -889,3 +889,5 @@ https://leetcode.com/problems/simplify-path/
 https://leetcode.com/problems/edit-distance/
 ## MinimumWindowSubstring
 https://leetcode.com/problems/minimum-window-substring/
+## ScrambleString
+https://leetcode.com/problems/scramble-string/
