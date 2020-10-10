@@ -911,3 +911,5 @@ https://leetcode.com/problems/shortest-palindrome/
 https://leetcode.com/problems/basic-calculator-ii/
 ## RemoveDuplicateLetters
 https://leetcode.com/problems/remove-duplicate-letters/
+## PalindromePairs
+https://leetcode.com/problems/palindrome-pairs/
