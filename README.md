@@ -925,3 +925,5 @@ https://leetcode.com/problems/mini-parser/
 https://leetcode.com/problems/first-unique-character-in-a-string/
 ## AddStrings
 https://leetcode.com/problems/add-strings/
+## NumberOfSegmentsInString
+https://leetcode.com/problems/number-of-segments-in-a-string/
