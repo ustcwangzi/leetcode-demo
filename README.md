@@ -921,3 +921,5 @@ https://leetcode.com/problems/reverse-vowels-of-a-string/
 https://leetcode.com/problems/ransom-note/
 ## MiniParser
 https://leetcode.com/problems/mini-parser/
+## FirstUniqueCharacterInString
+https://leetcode.com/problems/first-unique-character-in-a-string/
