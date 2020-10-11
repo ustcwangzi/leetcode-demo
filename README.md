@@ -919,3 +919,5 @@ https://leetcode.com/problems/reverse-string/
 https://leetcode.com/problems/reverse-vowels-of-a-string/
 ## RansomNote
 https://leetcode.com/problems/ransom-note/
+## MiniParser
+https://leetcode.com/problems/mini-parser/
