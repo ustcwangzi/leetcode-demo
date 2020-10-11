@@ -927,3 +927,5 @@ https://leetcode.com/problems/first-unique-character-in-a-string/
 https://leetcode.com/problems/add-strings/
 ## NumberOfSegmentsInString
 https://leetcode.com/problems/number-of-segments-in-a-string/
+## StringCompression
+https://leetcode.com/problems/string-compression/
