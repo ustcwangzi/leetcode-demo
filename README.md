@@ -929,3 +929,5 @@ https://leetcode.com/problems/add-strings/
 https://leetcode.com/problems/number-of-segments-in-a-string/
 ## StringCompression
 https://leetcode.com/problems/string-compression/
+## RepeatedSubstringPattern
+https://leetcode.com/problems/repeated-substring-pattern/
