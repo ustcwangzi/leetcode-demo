@@ -937,3 +937,5 @@ https://leetcode.com/problems/validate-ip-address/
 https://leetcode.com/problems/detect-capital/
 ## LongestUncommonSubsequenceI
 https://leetcode.com/problems/longest-uncommon-subsequence-i/
+## LongestUncommonSubsequenceII
+https://leetcode.com/problems/longest-uncommon-subsequence-ii/
