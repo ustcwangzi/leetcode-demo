@@ -931,3 +931,5 @@ https://leetcode.com/problems/number-of-segments-in-a-string/
 https://leetcode.com/problems/string-compression/
 ## RepeatedSubstringPattern
 https://leetcode.com/problems/repeated-substring-pattern/
+## ValidateIPAddress
+https://leetcode.com/problems/validate-ip-address/
