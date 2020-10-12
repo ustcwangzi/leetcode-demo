@@ -933,3 +933,5 @@ https://leetcode.com/problems/string-compression/
 https://leetcode.com/problems/repeated-substring-pattern/
 ## ValidateIPAddress
 https://leetcode.com/problems/validate-ip-address/
+## DetectCapital
+https://leetcode.com/problems/detect-capital/
