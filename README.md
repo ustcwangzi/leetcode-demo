@@ -935,3 +935,5 @@ https://leetcode.com/problems/repeated-substring-pattern/
 https://leetcode.com/problems/validate-ip-address/
 ## DetectCapital
 https://leetcode.com/problems/detect-capital/
+## LongestUncommonSubsequenceI
+https://leetcode.com/problems/longest-uncommon-subsequence-i/
