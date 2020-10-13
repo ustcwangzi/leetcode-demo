@@ -939,3 +939,5 @@ https://leetcode.com/problems/detect-capital/
 https://leetcode.com/problems/longest-uncommon-subsequence-i/
 ## LongestUncommonSubsequenceII
 https://leetcode.com/problems/longest-uncommon-subsequence-ii/
+## MinimumTimeDifference
+https://leetcode.com/problems/minimum-time-difference/
