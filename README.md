@@ -943,3 +943,5 @@ https://leetcode.com/problems/longest-uncommon-subsequence-ii/
 https://leetcode.com/problems/minimum-time-difference/
 ## ReverseStringII
 https://leetcode.com/problems/reverse-string-ii/
+## StudentAttendanceRecordI
+https://leetcode.com/problems/student-attendance-record-i/
