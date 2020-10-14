@@ -945,3 +945,5 @@ https://leetcode.com/problems/minimum-time-difference/
 https://leetcode.com/problems/reverse-string-ii/
 ## StudentAttendanceRecordI
 https://leetcode.com/problems/student-attendance-record-i/
+## OptimalDivision
+https://leetcode.com/problems/optimal-division/
