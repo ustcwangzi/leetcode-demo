@@ -947,3 +947,5 @@ https://leetcode.com/problems/reverse-string-ii/
 https://leetcode.com/problems/student-attendance-record-i/
 ## OptimalDivision
 https://leetcode.com/problems/optimal-division/
+## NextGreaterElementIII
+https://leetcode.com/problems/next-greater-element-iii/
