@@ -957,3 +957,5 @@ https://leetcode.com/problems/find-the-closest-palindrome/
 https://leetcode.com/problems/delete-operation-for-two-strings/
 ## TagValidator
 https://leetcode.com/problems/tag-validator/
+## ConstructStringFromBinaryTree
+https://leetcode.com/problems/construct-string-from-binary-tree/
