@@ -963,3 +963,5 @@ https://leetcode.com/problems/construct-string-from-binary-tree/
 https://leetcode.com/problems/find-duplicate-file-in-system/
 ## SmallestRangeCoveringElementsFromKLists
 https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
+## PalindromicSubstrings
+https://leetcode.com/problems/palindromic-substrings/
