@@ -965,3 +965,5 @@ https://leetcode.com/problems/find-duplicate-file-in-system/
 https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
 ## PalindromicSubstrings
 https://leetcode.com/problems/palindromic-substrings/
+## RobotReturnToOrigin
+https://leetcode.com/problems/robot-return-to-origin/
