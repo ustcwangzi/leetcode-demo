@@ -961,3 +961,5 @@ https://leetcode.com/problems/tag-validator/
 https://leetcode.com/problems/construct-string-from-binary-tree/
 ## FindDuplicateFileInSystem
 https://leetcode.com/problems/find-duplicate-file-in-system/
+## SmallestRangeCoveringElementsFromKLists
+https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
