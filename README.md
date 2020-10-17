@@ -975,3 +975,5 @@ https://leetcode.com/problems/valid-parenthesis-string/
 https://leetcode.com/problems/repeated-string-match/
 ## CountBinarySubstrings
 https://leetcode.com/problems/count-binary-substrings/
+## ToLowerCase
+https://leetcode.com/problems/to-lower-case/
