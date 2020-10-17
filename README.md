@@ -971,3 +971,5 @@ https://leetcode.com/problems/palindromic-substrings/
 https://leetcode.com/problems/robot-return-to-origin/
 ## ValidParenthesisString
 https://leetcode.com/problems/valid-parenthesis-string/
+## RepeatedStringMatch
+https://leetcode.com/problems/repeated-string-match/
