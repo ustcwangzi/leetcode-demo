@@ -973,3 +973,5 @@ https://leetcode.com/problems/robot-return-to-origin/
 https://leetcode.com/problems/valid-parenthesis-string/
 ## RepeatedStringMatch
 https://leetcode.com/problems/repeated-string-match/
+## CountBinarySubstrings
+https://leetcode.com/problems/count-binary-substrings/
