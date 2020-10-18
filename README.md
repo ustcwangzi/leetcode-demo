@@ -981,3 +981,5 @@ https://leetcode.com/problems/to-lower-case/
 https://leetcode.com/problems/remove-comments/
 ## CountDifferentPalindromicSubsequences
 https://leetcode.com/problems/count-different-palindromic-subsequences/
+## ParseLispExpression
+https://leetcode.com/problems/parse-lisp-expression/
