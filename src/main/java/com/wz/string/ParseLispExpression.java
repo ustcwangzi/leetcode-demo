@@ -53,7 +53,9 @@ public class ParseLispExpression {
             }
             return map.get(expression);
         }
+
         List<String> list = parse(expression);
+        // 外层的变量值不会随着里层的变量值改变
         Map<String, Integer> newMap = new HashMap<>(map);
         if (expression.charAt(1) == 'm') {
             return evaluate(list.get(0), newMap) * evaluate(list.get(1), newMap);
