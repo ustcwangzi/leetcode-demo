@@ -979,3 +979,5 @@ https://leetcode.com/problems/count-binary-substrings/
 https://leetcode.com/problems/to-lower-case/
 ## RemoveComments
 https://leetcode.com/problems/remove-comments/
+## CountDifferentPalindromicSubsequences
+https://leetcode.com/problems/count-different-palindromic-subsequences/
