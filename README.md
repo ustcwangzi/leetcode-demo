@@ -983,3 +983,5 @@ https://leetcode.com/problems/remove-comments/
 https://leetcode.com/problems/count-different-palindromic-subsequences/
 ## ParseLispExpression
 https://leetcode.com/problems/parse-lisp-expression/
+## SpecialBinaryString
+https://leetcode.com/problems/special-binary-string/
