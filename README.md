@@ -987,3 +987,5 @@ https://leetcode.com/problems/parse-lisp-expression/
 https://leetcode.com/problems/special-binary-string/
 ## ReorganizeString
 https://leetcode.com/problems/reorganize-string/
+## BasicCalculatorIV
+https://leetcode.com/problems/basic-calculator-iv/
