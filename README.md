@@ -991,3 +991,5 @@ https://leetcode.com/problems/reorganize-string/
 https://leetcode.com/problems/basic-calculator-iv/
 ## RotatedDigits
 https://leetcode.com/problems/rotated-digits/
+## CustomSortString
+https://leetcode.com/problems/custom-sort-string/
