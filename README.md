@@ -993,3 +993,5 @@ https://leetcode.com/problems/basic-calculator-iv/
 https://leetcode.com/problems/rotated-digits/
 ## CustomSortString
 https://leetcode.com/problems/custom-sort-string/
+## UniqueMorseCodeWords
+https://leetcode.com/problems/unique-morse-code-words/
