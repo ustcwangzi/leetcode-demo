@@ -989,3 +989,5 @@ https://leetcode.com/problems/special-binary-string/
 https://leetcode.com/problems/reorganize-string/
 ## BasicCalculatorIV
 https://leetcode.com/problems/basic-calculator-iv/
+## RotatedDigits
+https://leetcode.com/problems/rotated-digits/
