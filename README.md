@@ -995,3 +995,5 @@ https://leetcode.com/problems/rotated-digits/
 https://leetcode.com/problems/custom-sort-string/
 ## UniqueMorseCodeWords
 https://leetcode.com/problems/unique-morse-code-words/
+## ExpressiveWords
+https://leetcode.com/problems/expressive-words/
