@@ -997,3 +997,5 @@ https://leetcode.com/problems/custom-sort-string/
 https://leetcode.com/problems/unique-morse-code-words/
 ## ExpressiveWords
 https://leetcode.com/problems/expressive-words/
+## AmbiguousCoordinates
+https://leetcode.com/problems/ambiguous-coordinates/
