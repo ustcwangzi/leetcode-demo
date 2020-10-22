@@ -1001,3 +1001,5 @@ https://leetcode.com/problems/expressive-words/
 https://leetcode.com/problems/ambiguous-coordinates/
 ## MostCommonWord
 https://leetcode.com/problems/most-common-word/
+## GoatLatin
+https://leetcode.com/problems/goat-latin/
