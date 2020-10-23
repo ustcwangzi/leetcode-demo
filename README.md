@@ -1005,3 +1005,5 @@ https://leetcode.com/problems/most-common-word/
 https://leetcode.com/problems/goat-latin/
 ## MaskingPersonalInformation
 https://leetcode.com/problems/masking-personal-information/
+## FindAndReplaceInString
+https://leetcode.com/problems/find-and-replace-in-string/
