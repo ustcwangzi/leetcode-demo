@@ -1003,3 +1003,5 @@ https://leetcode.com/problems/ambiguous-coordinates/
 https://leetcode.com/problems/most-common-word/
 ## GoatLatin
 https://leetcode.com/problems/goat-latin/
+## MaskingPersonalInformation
+https://leetcode.com/problems/masking-personal-information/
