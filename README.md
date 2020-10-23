@@ -1007,3 +1007,5 @@ https://leetcode.com/problems/goat-latin/
 https://leetcode.com/problems/masking-personal-information/
 ## FindAndReplaceInString
 https://leetcode.com/problems/find-and-replace-in-string/
+## SplitArrayIntoFibonacciSequence
+https://leetcode.com/problems/split-array-into-fibonacci-sequence/
