@@ -1013,3 +1013,5 @@ https://leetcode.com/problems/split-array-into-fibonacci-sequence/
 https://leetcode.com/problems/shifting-letters/
 ## ScoreOfParentheses
 https://leetcode.com/problems/score-of-parentheses/
+## BuddyStrings
+https://leetcode.com/problems/buddy-strings/
