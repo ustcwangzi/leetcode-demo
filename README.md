@@ -1019,3 +1019,5 @@ https://leetcode.com/problems/buddy-strings/
 https://leetcode.com/problems/find-and-replace-pattern/
 ## GroupsOfSpecialEquivalentStrings
 https://leetcode.com/problems/groups-of-special-equivalent-strings/
+## WordSubsets
+https://leetcode.com/problems/word-subsets/
