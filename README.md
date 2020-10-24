@@ -1011,3 +1011,5 @@ https://leetcode.com/problems/find-and-replace-in-string/
 https://leetcode.com/problems/split-array-into-fibonacci-sequence/
 ## ShiftingLetters
 https://leetcode.com/problems/shifting-letters/
+## ScoreOfParentheses
+https://leetcode.com/problems/score-of-parentheses/
