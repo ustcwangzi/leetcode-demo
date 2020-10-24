@@ -1023,3 +1023,5 @@ https://leetcode.com/problems/groups-of-special-equivalent-strings/
 https://leetcode.com/problems/word-subsets/
 ## ReverseOnlyLetters
 https://leetcode.com/problems/reverse-only-letters/
+## LongPressedName
+https://leetcode.com/problems/long-pressed-name/
