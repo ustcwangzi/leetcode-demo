@@ -1015,3 +1015,5 @@ https://leetcode.com/problems/shifting-letters/
 https://leetcode.com/problems/score-of-parentheses/
 ## BuddyStrings
 https://leetcode.com/problems/buddy-strings/
+## FindAndReplacePattern
+https://leetcode.com/problems/find-and-replace-pattern/
