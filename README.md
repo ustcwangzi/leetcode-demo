@@ -1009,3 +1009,5 @@ https://leetcode.com/problems/masking-personal-information/
 https://leetcode.com/problems/find-and-replace-in-string/
 ## SplitArrayIntoFibonacciSequence
 https://leetcode.com/problems/split-array-into-fibonacci-sequence/
+## ShiftingLetters
+https://leetcode.com/problems/shifting-letters/
