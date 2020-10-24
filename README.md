@@ -1017,3 +1017,5 @@ https://leetcode.com/problems/score-of-parentheses/
 https://leetcode.com/problems/buddy-strings/
 ## FindAndReplacePattern
 https://leetcode.com/problems/find-and-replace-pattern/
+## GroupsOfSpecialEquivalentStrings
+https://leetcode.com/problems/groups-of-special-equivalent-strings/
