@@ -1031,3 +1031,5 @@ https://leetcode.com/problems/unique-email-addresses/
 https://leetcode.com/problems/stamping-the-sequence/
 ## ReorderDataInLogFiles
 https://leetcode.com/problems/reorder-data-in-log-files/
+## VowelSpellchecker
+https://leetcode.com/problems/vowel-spellchecker/
