@@ -1027,3 +1027,5 @@ https://leetcode.com/problems/reverse-only-letters/
 https://leetcode.com/problems/long-pressed-name/
 ## UniqueEmailAddresses
 https://leetcode.com/problems/unique-email-addresses/
+## StampingTheSequence
+https://leetcode.com/problems/stamping-the-sequence/
