@@ -1033,3 +1033,5 @@ https://leetcode.com/problems/stamping-the-sequence/
 https://leetcode.com/problems/reorder-data-in-log-files/
 ## VowelSpellchecker
 https://leetcode.com/problems/vowel-spellchecker/
+## CheckIfWordIsValidAfterSubstitutions
+https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/
