@@ -1035,3 +1035,5 @@ https://leetcode.com/problems/reorder-data-in-log-files/
 https://leetcode.com/problems/vowel-spellchecker/
 ## CheckIfWordIsValidAfterSubstitutions
 https://leetcode.com/problems/check-if-word-is-valid-after-substitutions/
+## BinaryStringWithSubstringsRepresenting1ToN
+https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/
