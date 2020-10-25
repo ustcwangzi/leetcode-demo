@@ -1025,3 +1025,5 @@ https://leetcode.com/problems/word-subsets/
 https://leetcode.com/problems/reverse-only-letters/
 ## LongPressedName
 https://leetcode.com/problems/long-pressed-name/
+## UniqueEmailAddresses
+https://leetcode.com/problems/unique-email-addresses/
