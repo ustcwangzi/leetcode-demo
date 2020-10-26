@@ -1,6 +1,9 @@
 package com.wz.string;
 
-import java.util.*;
+import java.util.Collections;
+import java.util.HashSet;
+import java.util.LinkedList;
+import java.util.List;
 
 /**
  * Under a grammar given below, strings can represent a set of lowercase words.
@@ -44,37 +47,68 @@ public class BraceExpansionII {
     }
 
     public static List<String> braceExpansionII(String expression) {
-        return new ArrayList<>(helper(expression));
-    }
-
-    private static Set<String> helper(String s) {
-        int left = s.indexOf("{");
-        if (left == -1) {
-            return new TreeSet<>(Arrays.asList(s.split(",")));
+        List<String> result = new LinkedList<>();
+        if (expression.length() <= 1) {
+            result.add(expression);
+            return result;
         }
 
-        int right = left + 1, count = 1;
-        while (right < s.length()) {
-            if (s.charAt(right) == '{') {
-                count++;
-            } else if (s.charAt(right) == '}') {
-                count--;
+        if (expression.charAt(0) == '{') {
+            int count = 0;
+            int idx = 0;
+            while (idx < expression.length()) {
+                if (expression.charAt(idx) == '{') {
+                    count += 1;
+                }
+                if (expression.charAt(idx) == '}') {
+                    count -= 1;
+                }
                 if (count == 0) {
                     break;
                 }
+                idx++;
             }
-            right++;
+
+            List<String> strs = helper(expression.substring(1, idx));
+            HashSet<String> set = new HashSet<>();
+            for (String str : strs) {
+                set.addAll(braceExpansionII(str));
+            }
+
+            List<String> rest = braceExpansionII(expression.substring(idx + 1));
+            for (String str1 : set) {
+                for (String str2 : rest) {
+                    result.add(str1 + str2);
+                }
+            }
+        } else {
+            String prev = expression.charAt(0) + "";
+            List<String> rest = braceExpansionII(expression.substring(1));
+            for (String s : rest) {
+                result.add(prev + s);
+            }
         }
 
-        String leftPart = s.substring(0, left);
-        Set<String> mid = helper(s.substring(left + 1, right));
-        String rightPart = s.substring(right + 1);
+        Collections.sort(result);
+        return result;
+    }
 
-        Set<String> result = new TreeSet<>();
-        for (String str : mid) {
-            String newStr = leftPart + str + rightPart;
-            result.addAll(helper(newStr));
+    private static List<String> helper(String s) {
+        List<String> result = new LinkedList<>();
+        int count = 0, i = 0;
+        for (int j = 0; j < s.length(); j++) {
+            if (s.charAt(j) == ',') {
+                if (count == 0) {
+                    result.add(s.substring(i, j));
+                    i = j + 1;
+                }
+            } else if (s.charAt(j) == '{'){
+                count++;
+            } else if (s.charAt(j) == '}') {
+                count--;
+            }
         }
+        result.add(s.substring(i));
         return result;
     }
 }
