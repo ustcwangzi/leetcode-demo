@@ -913,6 +913,8 @@ https://leetcode.com/problems/shortest-palindrome/
 https://leetcode.com/problems/basic-calculator-ii/
 ## RemoveDuplicateLetters
 https://leetcode.com/problems/remove-duplicate-letters/
+## SmallestSubsequenceOfDistinctCharacters
+https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
 ## PalindromePairs
 https://leetcode.com/problems/palindrome-pairs/
 ## ReverseString
