@@ -1051,3 +1051,5 @@ https://leetcode.com/problems/parsing-a-boolean-expression/
 https://leetcode.com/problems/defanging-an-ip-address/
 ## AlphabetBoardPath
 https://leetcode.com/problems/alphabet-board-path/
+## SwapForLongestRepeatedCharacterSubstring
+https://leetcode.com/problems/swap-for-longest-repeated-character-substring/
