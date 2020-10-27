@@ -1049,3 +1049,5 @@ https://leetcode.com/problems/brace-expansion-ii/
 https://leetcode.com/problems/parsing-a-boolean-expression/
 ## DefangingAnIPAddress
 https://leetcode.com/problems/defanging-an-ip-address/
+## AlphabetBoardPath
+https://leetcode.com/problems/alphabet-board-path/
