@@ -1057,3 +1057,5 @@ https://leetcode.com/problems/swap-for-longest-repeated-character-substring/
 https://leetcode.com/problems/last-substring-in-lexicographical-order/
 ## MaximumNumberOfBalloons
 https://leetcode.com/problems/maximum-number-of-balloons/
+## SplitStringInBalancedStrings
+https://leetcode.com/problems/split-a-string-in-balanced-strings/
