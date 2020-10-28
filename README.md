@@ -1055,3 +1055,5 @@ https://leetcode.com/problems/alphabet-board-path/
 https://leetcode.com/problems/swap-for-longest-repeated-character-substring/
 ## LastSubstringInLexicographicalOrder
 https://leetcode.com/problems/last-substring-in-lexicographical-order/
+## MaximumNumberOfBalloons
+https://leetcode.com/problems/maximum-number-of-balloons/
