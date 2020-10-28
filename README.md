@@ -1053,3 +1053,5 @@ https://leetcode.com/problems/defanging-an-ip-address/
 https://leetcode.com/problems/alphabet-board-path/
 ## SwapForLongestRepeatedCharacterSubstring
 https://leetcode.com/problems/swap-for-longest-repeated-character-substring/
+## LastSubstringInLexicographicalOrder
+https://leetcode.com/problems/last-substring-in-lexicographical-order/
