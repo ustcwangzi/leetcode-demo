@@ -1059,3 +1059,5 @@ https://leetcode.com/problems/last-substring-in-lexicographical-order/
 https://leetcode.com/problems/maximum-number-of-balloons/
 ## SplitStringInBalancedStrings
 https://leetcode.com/problems/split-a-string-in-balanced-strings/
+## ReplaceTheSubstringForBalancedString
+https://leetcode.com/problems/replace-the-substring-for-balanced-string/
