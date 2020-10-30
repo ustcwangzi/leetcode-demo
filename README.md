@@ -1063,3 +1063,5 @@ https://leetcode.com/problems/split-a-string-in-balanced-strings/
 https://leetcode.com/problems/replace-the-substring-for-balanced-string/
 ## MinimumSwapsToMakeStringsEqual
 https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/
+## MinimumRemoveToMakeValidParentheses
+https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
