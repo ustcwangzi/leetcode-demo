@@ -1075,3 +1075,5 @@ https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
 https://leetcode.com/problems/get-watched-videos-by-your-friends/
 ## DistinctEchoSubstrings
 https://leetcode.com/problems/distinct-echo-substrings/
+## PrintWordsVertically
+https://leetcode.com/problems/print-words-vertically/
