@@ -1073,3 +1073,5 @@ https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/
 https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
 ## GetWatchedVideosByYourFriends
 https://leetcode.com/problems/get-watched-videos-by-your-friends/
+## DistinctEchoSubstrings
+https://leetcode.com/problems/distinct-echo-substrings/
