@@ -1067,3 +1067,5 @@ https://leetcode.com/problems/minimum-swaps-to-make-strings-equal/
 https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
 ## SearchSuggestionsSystem
 https://leetcode.com/problems/search-suggestions-system/
+## MaximumNumberOfOccurrencesOfSubstring
+https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/
