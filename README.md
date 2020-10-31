@@ -1069,3 +1069,5 @@ https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/
 https://leetcode.com/problems/search-suggestions-system/
 ## MaximumNumberOfOccurrencesOfSubstring
 https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/
+## DecryptStringFromAlphabetToIntegerMapping
+https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/
