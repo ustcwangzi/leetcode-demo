@@ -1081,3 +1081,5 @@ https://leetcode.com/problems/print-words-vertically/
 https://leetcode.com/problems/break-a-palindrome/
 ## RemovePalindromicSubsequences
 https://leetcode.com/problems/remove-palindromic-subsequences/
+## MinimumNumberOfStepsToMakeTwoStringsAnagram
+https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
