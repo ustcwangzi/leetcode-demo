@@ -1079,3 +1079,5 @@ https://leetcode.com/problems/distinct-echo-substrings/
 https://leetcode.com/problems/print-words-vertically/
 ## BreakPalindrome
 https://leetcode.com/problems/break-a-palindrome/
+## RemovePalindromicSubsequences
+https://leetcode.com/problems/remove-palindromic-subsequences/
