@@ -1083,3 +1083,5 @@ https://leetcode.com/problems/break-a-palindrome/
 https://leetcode.com/problems/remove-palindromic-subsequences/
 ## MinimumNumberOfStepsToMakeTwoStringsAnagram
 https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
+## NumberOfSubstringsContainingAllThreeCharacters
+https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
