@@ -1085,3 +1085,5 @@ https://leetcode.com/problems/remove-palindromic-subsequences/
 https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
 ## NumberOfSubstringsContainingAllThreeCharacters
 https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
+## IncreasingDecreasingString
+https://leetcode.com/problems/increasing-decreasing-string/
