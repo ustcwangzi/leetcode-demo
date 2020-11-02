@@ -1087,3 +1087,5 @@ https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagra
 https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/
 ## IncreasingDecreasingString
 https://leetcode.com/problems/increasing-decreasing-string/
+## FindLongestSubstringContainingVowelsInEvenCounts
+https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
