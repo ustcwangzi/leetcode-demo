@@ -1091,3 +1091,5 @@ https://leetcode.com/problems/increasing-decreasing-string/
 https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
 ## GenerateStringWithCharactersThatHaveOddCounts
 https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/
+## LongestHappyPrefix
+https://leetcode.com/problems/longest-happy-prefix/
