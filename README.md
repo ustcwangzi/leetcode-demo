@@ -1089,3 +1089,5 @@ https://leetcode.com/problems/number-of-substrings-containing-all-three-characte
 https://leetcode.com/problems/increasing-decreasing-string/
 ## FindLongestSubstringContainingVowelsInEvenCounts
 https://leetcode.com/problems/find-the-longest-substring-containing-vowels-in-even-counts/
+## GenerateStringWithCharactersThatHaveOddCounts
+https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/
