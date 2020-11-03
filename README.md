@@ -1101,3 +1101,5 @@ https://leetcode.com/problems/string-matching-in-an-array/
 https://leetcode.com/problems/html-entity-parser/
 ## ReformatTheString
 https://leetcode.com/problems/reformat-the-string/
+## MinimumNumberOfFrogsCroaking
+https://leetcode.com/problems/minimum-number-of-frogs-croaking/
