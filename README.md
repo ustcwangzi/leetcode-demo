@@ -1095,3 +1095,5 @@ https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-co
 https://leetcode.com/problems/longest-happy-prefix/
 ## NumberOfStepsToReduceNumberInBinaryRepresentationToOne
 https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/
+## StringMatchingInArray
+https://leetcode.com/problems/string-matching-in-an-array/
