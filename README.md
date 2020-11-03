@@ -1099,3 +1099,5 @@ https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-repre
 https://leetcode.com/problems/string-matching-in-an-array/
 ## HTMLEntityParser
 https://leetcode.com/problems/html-entity-parser/
+## ReformatTheString
+https://leetcode.com/problems/reformat-the-string/
