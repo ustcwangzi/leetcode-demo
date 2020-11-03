@@ -1097,3 +1097,5 @@ https://leetcode.com/problems/longest-happy-prefix/
 https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/
 ## StringMatchingInArray
 https://leetcode.com/problems/string-matching-in-an-array/
+## HTMLEntityParser
+https://leetcode.com/problems/html-entity-parser/
