@@ -1105,3 +1105,5 @@ https://leetcode.com/problems/reformat-the-string/
 https://leetcode.com/problems/minimum-number-of-frogs-croaking/
 ## MaximumScoreAfterSplittingString
 https://leetcode.com/problems/maximum-score-after-splitting-a-string/
+## MaxDifferenceYouCanGetFromChangingInteger
+https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/
