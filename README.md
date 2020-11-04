@@ -1103,3 +1103,5 @@ https://leetcode.com/problems/html-entity-parser/
 https://leetcode.com/problems/reformat-the-string/
 ## MinimumNumberOfFrogsCroaking
 https://leetcode.com/problems/minimum-number-of-frogs-croaking/
+## MaximumScoreAfterSplittingString
+https://leetcode.com/problems/maximum-score-after-splitting-a-string/
