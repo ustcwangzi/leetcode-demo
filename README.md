@@ -1111,3 +1111,5 @@ https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-intege
 https://leetcode.com/problems/check-if-a-string-can-break-another-string/
 ## DestinationCity
 https://leetcode.com/problems/destination-city/
+## ConsecutiveCharacters
+https://leetcode.com/problems/consecutive-characters/
