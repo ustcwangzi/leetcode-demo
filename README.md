@@ -1115,3 +1115,5 @@ https://leetcode.com/problems/destination-city/
 https://leetcode.com/problems/consecutive-characters/
 ## FormLargestIntegerWithDigitsThatAddUpToTarget
 https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/
+## RearrangeWordsInSentence
+https://leetcode.com/problems/rearrange-words-in-a-sentence/
