@@ -1117,3 +1117,5 @@ https://leetcode.com/problems/consecutive-characters/
 https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/
 ## RearrangeWordsInSentence
 https://leetcode.com/problems/rearrange-words-in-a-sentence/
+## PeopleWhoseListOfFavoriteCompaniesIsNotSubsetOfAnotherList
+https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/
