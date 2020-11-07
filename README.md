@@ -1121,3 +1121,5 @@ https://leetcode.com/problems/rearrange-words-in-a-sentence/
 https://leetcode.com/problems/people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list/
 ## CheckIfWordOccursAsPrefixOfAnyWordInSentence
 https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/
+## MaximumNumberOfVowelsInSubstringOfGivenLength
+https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
