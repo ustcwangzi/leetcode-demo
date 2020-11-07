@@ -1127,3 +1127,5 @@ https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-l
 https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 ## MakingFileNamesUnique
 https://leetcode.com/problems/making-file-names-unique/
+## PathCrossing
+https://leetcode.com/problems/path-crossing/
