@@ -1135,3 +1135,5 @@ https://leetcode.com/problems/reformat-date/
 https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
 ## BulbSwitcherIV
 https://leetcode.com/problems/bulb-switcher-iv/
+## StringCompressionII
+https://leetcode.com/problems/string-compression-ii/
