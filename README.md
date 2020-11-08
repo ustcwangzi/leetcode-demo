@@ -1133,3 +1133,5 @@ https://leetcode.com/problems/path-crossing/
 https://leetcode.com/problems/reformat-date/
 ## NumberOfGoodWaysToSplitString
 https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
+## BulbSwitcherIV
+https://leetcode.com/problems/bulb-switcher-iv/
