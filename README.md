@@ -1131,3 +1131,5 @@ https://leetcode.com/problems/making-file-names-unique/
 https://leetcode.com/problems/path-crossing/
 ## ReformatDate
 https://leetcode.com/problems/reformat-date/
+## NumberOfGoodWaysToSplitString
+https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
