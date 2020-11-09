@@ -1137,3 +1137,5 @@ https://leetcode.com/problems/number-of-good-ways-to-split-a-string/
 https://leetcode.com/problems/bulb-switcher-iv/
 ## StringCompressionII
 https://leetcode.com/problems/string-compression-ii/
+## CanConvertStringInKMoves
+https://leetcode.com/problems/can-convert-string-in-k-moves/
