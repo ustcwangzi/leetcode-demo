@@ -1141,3 +1141,5 @@ https://leetcode.com/problems/string-compression-ii/
 https://leetcode.com/problems/can-convert-string-in-k-moves/
 ## MinimumInsertionsToBalanceParenthesesString
 https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
+## FindLongestAwesomeSubstring
+https://leetcode.com/problems/find-longest-awesome-substring/
