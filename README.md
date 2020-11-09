@@ -1139,3 +1139,5 @@ https://leetcode.com/problems/bulb-switcher-iv/
 https://leetcode.com/problems/string-compression-ii/
 ## CanConvertStringInKMoves
 https://leetcode.com/problems/can-convert-string-in-k-moves/
+## MinimumInsertionsToBalanceParenthesesString
+https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
