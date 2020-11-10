@@ -1149,3 +1149,5 @@ https://leetcode.com/problems/make-the-string-great/
 https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/
 ## ThousandSeparator
 https://leetcode.com/problems/thousand-separator/
+## NumberOfWaysToSplitString
+https://leetcode.com/problems/number-of-ways-to-split-a-string/
