@@ -1145,3 +1145,5 @@ https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string
 https://leetcode.com/problems/find-longest-awesome-substring/
 ## MakeTheStringGreat
 https://leetcode.com/problems/make-the-string-great/
+## FindKthBitInNthBinaryString
+https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/
