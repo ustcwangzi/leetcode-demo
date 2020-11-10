@@ -1143,3 +1143,5 @@ https://leetcode.com/problems/can-convert-string-in-k-moves/
 https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
 ## FindLongestAwesomeSubstring
 https://leetcode.com/problems/find-longest-awesome-substring/
+## MakeTheStringGreat
+https://leetcode.com/problems/make-the-string-great/
