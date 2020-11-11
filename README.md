@@ -1151,3 +1151,5 @@ https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/
 https://leetcode.com/problems/thousand-separator/
 ## NumberOfWaysToSplitString
 https://leetcode.com/problems/number-of-ways-to-split-a-string/
+## ReplaceAllToAvoidConsecutiveRepeatingCharacters
+https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/
