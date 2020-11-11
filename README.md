@@ -1155,3 +1155,5 @@ https://leetcode.com/problems/number-of-ways-to-split-a-string/
 https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/
 ## CheckIfStringIsTransformableWithSubstringSortOperations
 https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/
+## RearrangeSpacesBetweenWords
+https://leetcode.com/problems/rearrange-spaces-between-words/
