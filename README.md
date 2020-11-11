@@ -1153,3 +1153,5 @@ https://leetcode.com/problems/thousand-separator/
 https://leetcode.com/problems/number-of-ways-to-split-a-string/
 ## ReplaceAllToAvoidConsecutiveRepeatingCharacters
 https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/
+## CheckIfStringIsTransformableWithSubstringSortOperations
+https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/
