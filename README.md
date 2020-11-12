@@ -1161,3 +1161,5 @@ https://leetcode.com/problems/rearrange-spaces-between-words/
 https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/
 ## MaximumNestingDepthOfTheParentheses
 https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
+## SplitTwoStringsToMakePalindrome
+https://leetcode.com/problems/split-two-strings-to-make-palindrome/
