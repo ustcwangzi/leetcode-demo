@@ -1157,3 +1157,5 @@ https://leetcode.com/problems/replace-all-s-to-avoid-consecutive-repeating-chara
 https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/
 ## RearrangeSpacesBetweenWords
 https://leetcode.com/problems/rearrange-spaces-between-words/
+## AlertUsingSameKeyCardThreeOrMoreTimesInOneHourPeriod
+https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period/
