@@ -1163,3 +1163,5 @@ https://leetcode.com/problems/alert-using-same-key-card-three-or-more-times-in-a
 https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 ## SplitTwoStringsToMakePalindrome
 https://leetcode.com/problems/split-two-strings-to-make-palindrome/
+## LargestSubstringBetweenTwoEqualCharacters
+https://leetcode.com/problems/largest-substring-between-two-equal-characters/
