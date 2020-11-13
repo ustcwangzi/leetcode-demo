@@ -1165,3 +1165,5 @@ https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 https://leetcode.com/problems/split-two-strings-to-make-palindrome/
 ## LargestSubstringBetweenTwoEqualCharacters
 https://leetcode.com/problems/largest-substring-between-two-equal-characters/
+## CountSubstringsThatDifferByOneCharacter
+https://leetcode.com/problems/count-substrings-that-differ-by-one-character/
