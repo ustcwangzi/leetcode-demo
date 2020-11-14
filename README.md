@@ -1172,3 +1172,5 @@ https://leetcode.com/problems/count-substrings-that-differ-by-one-character/
 https://leetcode.com/problemset/all/?topicSlugs=dynamic-programming
 ## ClimbingStairs
 https://leetcode.com/problems/climbing-stairs/
+## UniqueBinarySearchTrees
+https://leetcode.com/problems/unique-binary-search-trees/
