@@ -1176,3 +1176,5 @@ https://leetcode.com/problems/climbing-stairs/
 https://leetcode.com/problems/unique-binary-search-trees/
 ## UniqueBinarySearchTreesII
 https://leetcode.com/problems/unique-binary-search-trees-ii/
+## PalindromePartitioning
+https://leetcode.com/problems/palindrome-partitioning/
