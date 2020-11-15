@@ -1180,3 +1180,5 @@ https://leetcode.com/problems/unique-binary-search-trees-ii/
 https://leetcode.com/problems/palindrome-partitioning/
 ## PalindromePartitioningII
 https://leetcode.com/problems/palindrome-partitioning-ii/
+## WordBreak
+https://leetcode.com/problems/word-break/
