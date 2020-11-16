@@ -1190,3 +1190,5 @@ https://leetcode.com/problems/dungeon-game/
 https://leetcode.com/problems/house-robber/
 ## HouseRobberII
 https://leetcode.com/problems/house-robber-ii/
+## MaximalSquare
+https://leetcode.com/problems/maximal-square/
