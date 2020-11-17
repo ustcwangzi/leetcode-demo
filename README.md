@@ -1192,3 +1192,5 @@ https://leetcode.com/problems/house-robber/
 https://leetcode.com/problems/house-robber-ii/
 ## MaximalSquare
 https://leetcode.com/problems/maximal-square/
+## LongestIncreasingSubsequence
+https://leetcode.com/problems/longest-increasing-subsequence/
