@@ -1194,3 +1194,5 @@ https://leetcode.com/problems/house-robber-ii/
 https://leetcode.com/problems/maximal-square/
 ## LongestIncreasingSubsequence
 https://leetcode.com/problems/longest-increasing-subsequence/
+## NumArray
+https://leetcode.com/problems/range-sum-query-immutable/
