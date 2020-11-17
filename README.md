@@ -1196,3 +1196,5 @@ https://leetcode.com/problems/maximal-square/
 https://leetcode.com/problems/longest-increasing-subsequence/
 ## NumArray
 https://leetcode.com/problems/range-sum-query-immutable/
+## NumMatrix
+https://leetcode.com/problems/range-sum-query-2d-immutable/
