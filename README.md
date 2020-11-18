@@ -1198,3 +1198,5 @@ https://leetcode.com/problems/longest-increasing-subsequence/
 https://leetcode.com/problems/range-sum-query-immutable/
 ## NumMatrix
 https://leetcode.com/problems/range-sum-query-2d-immutable/
+## BestTimeToBuyAndSellStockWithCooldown
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
