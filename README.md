@@ -1202,3 +1202,5 @@ https://leetcode.com/problems/range-sum-query-2d-immutable/
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
 ## BurstBalloons
 https://leetcode.com/problems/burst-balloons/
+## CreateMaximumNumber
+https://leetcode.com/problems/create-maximum-number/
