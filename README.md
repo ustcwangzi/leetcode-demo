@@ -1200,3 +1200,5 @@ https://leetcode.com/problems/range-sum-query-immutable/
 https://leetcode.com/problems/range-sum-query-2d-immutable/
 ## BestTimeToBuyAndSellStockWithCooldown
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+## BurstBalloons
+https://leetcode.com/problems/burst-balloons/
