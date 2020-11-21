@@ -1222,3 +1222,5 @@ https://leetcode.com/problems/wiggle-subsequence/
 https://leetcode.com/problems/combination-sum-iv/
 ## IsSubsequence
 https://leetcode.com/problems/is-subsequence/
+## FrogJump
+https://leetcode.com/problems/frog-jump/
