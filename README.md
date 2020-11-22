@@ -1228,3 +1228,5 @@ https://leetcode.com/problems/frog-jump/
 https://leetcode.com/problems/split-array-largest-sum/
 ## PartitionEqualSubsetSum
 https://leetcode.com/problems/partition-equal-subset-sum/
+## ArithmeticSlicesIISubsequence
+https://leetcode.com/problems/arithmetic-slices-ii-subsequence/
