@@ -1230,3 +1230,5 @@ https://leetcode.com/problems/split-array-largest-sum/
 https://leetcode.com/problems/partition-equal-subset-sum/
 ## ArithmeticSlicesIISubsequence
 https://leetcode.com/problems/arithmetic-slices-ii-subsequence/
+## CanIWin
+https://leetcode.com/problems/can-i-win/
