@@ -1232,3 +1232,5 @@ https://leetcode.com/problems/partition-equal-subset-sum/
 https://leetcode.com/problems/arithmetic-slices-ii-subsequence/
 ## CanIWin
 https://leetcode.com/problems/can-i-win/
+## UniqueSubstringsInWraparoundString
+https://leetcode.com/problems/unique-substrings-in-wraparound-string/
