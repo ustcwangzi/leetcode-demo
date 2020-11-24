@@ -1238,3 +1238,5 @@ https://leetcode.com/problems/unique-substrings-in-wraparound-string/
 https://leetcode.com/problems/concatenated-words/
 ## OnesAndZeroes
 https://leetcode.com/problems/ones-and-zeroes/
+## PredictTheWinner
+https://leetcode.com/problems/predict-the-winner/
