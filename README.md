@@ -1242,3 +1242,5 @@ https://leetcode.com/problems/ones-and-zeroes/
 https://leetcode.com/problems/predict-the-winner/
 ## TargetSum
 https://leetcode.com/problems/target-sum/
+## FreedomTrail
+https://leetcode.com/problems/freedom-trail/
