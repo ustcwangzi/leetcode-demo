@@ -36,6 +36,7 @@ public class PredictTheWinner {
      * 把问题转换为两个选手所拿元素的差值，若差值大于等于0，则第一个选手获胜
      * 假设当前可选范围为 start ～ end，则递归表达式为
      * max{nums[start] - helper(start+1, end), nums[end] - helper(start, end-1)}
+     * 同时用 dp 数组保存中间结果，提高运算效率
      */
     public static boolean predictTheWinner(int[] nums) {
         int n = nums.length;

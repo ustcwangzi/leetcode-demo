@@ -1240,3 +1240,5 @@ https://leetcode.com/problems/concatenated-words/
 https://leetcode.com/problems/ones-and-zeroes/
 ## PredictTheWinner
 https://leetcode.com/problems/predict-the-winner/
+## TargetSum
+https://leetcode.com/problems/target-sum/
