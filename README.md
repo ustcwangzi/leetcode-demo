@@ -1246,3 +1246,5 @@ https://leetcode.com/problems/target-sum/
 https://leetcode.com/problems/freedom-trail/
 ## LongestPalindromicSubsequence
 https://leetcode.com/problems/longest-palindromic-subsequence/
+## RemoveBoxes
+https://leetcode.com/problems/remove-boxes/
