@@ -1244,3 +1244,5 @@ https://leetcode.com/problems/predict-the-winner/
 https://leetcode.com/problems/target-sum/
 ## FreedomTrail
 https://leetcode.com/problems/freedom-trail/
+## LongestPalindromicSubsequence
+https://leetcode.com/problems/longest-palindromic-subsequence/
