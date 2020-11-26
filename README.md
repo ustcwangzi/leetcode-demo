@@ -1254,3 +1254,5 @@ https://leetcode.com/problems/student-attendance-record-ii/
 https://leetcode.com/problems/out-of-boundary-paths/
 ## NonNegativeIntegersWithoutConsecutiveOnes
 https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/
+## KInversePairsArray
+https://leetcode.com/problems/k-inverse-pairs-array/
