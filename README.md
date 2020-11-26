@@ -1250,3 +1250,5 @@ https://leetcode.com/problems/longest-palindromic-subsequence/
 https://leetcode.com/problems/remove-boxes/
 ## StudentAttendanceRecordII
 https://leetcode.com/problems/student-attendance-record-ii/
+## OutOfBoundaryPaths
+https://leetcode.com/problems/out-of-boundary-paths/
