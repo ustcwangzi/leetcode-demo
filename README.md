@@ -1252,3 +1252,5 @@ https://leetcode.com/problems/remove-boxes/
 https://leetcode.com/problems/student-attendance-record-ii/
 ## OutOfBoundaryPaths
 https://leetcode.com/problems/out-of-boundary-paths/
+## NonNegativeIntegersWithoutConsecutiveOnes
+https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/
