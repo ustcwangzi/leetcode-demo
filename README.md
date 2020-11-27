@@ -1260,3 +1260,5 @@ https://leetcode.com/problems/k-inverse-pairs-array/
 https://leetcode.com/problems/shopping-offers/
 ## DecodeWaysII
 https://leetcode.com/problems/decode-ways-ii/
+## MaximumLengthOfPairChain
+https://leetcode.com/problems/maximum-length-of-pair-chain/
