@@ -1256,3 +1256,5 @@ https://leetcode.com/problems/out-of-boundary-paths/
 https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/
 ## KInversePairsArray
 https://leetcode.com/problems/k-inverse-pairs-array/
+## ShoppingOffers
+https://leetcode.com/problems/shopping-offers/
