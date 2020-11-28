@@ -1266,3 +1266,5 @@ https://leetcode.com/problems/maximum-length-of-pair-chain/
 https://leetcode.com/problems/2-keys-keyboard/
 ## StrangePrinter
 https://leetcode.com/problems/strange-printer/
+## NumberOfLongestIncreasingSubsequence
+https://leetcode.com/problems/number-of-longest-increasing-subsequence/
