@@ -1262,3 +1262,5 @@ https://leetcode.com/problems/shopping-offers/
 https://leetcode.com/problems/decode-ways-ii/
 ## MaximumLengthOfPairChain
 https://leetcode.com/problems/maximum-length-of-pair-chain/
+## TwoKeysKeyboard
+https://leetcode.com/problems/2-keys-keyboard/
