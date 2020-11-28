@@ -1264,3 +1264,5 @@ https://leetcode.com/problems/decode-ways-ii/
 https://leetcode.com/problems/maximum-length-of-pair-chain/
 ## TwoKeysKeyboard
 https://leetcode.com/problems/2-keys-keyboard/
+## StrangePrinter
+https://leetcode.com/problems/strange-printer/
