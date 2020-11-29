@@ -1268,3 +1268,5 @@ https://leetcode.com/problems/2-keys-keyboard/
 https://leetcode.com/problems/strange-printer/
 ## NumberOfLongestIncreasingSubsequence
 https://leetcode.com/problems/number-of-longest-increasing-subsequence/
+## KnightProbabilityInChessboard
+https://leetcode.com/problems/knight-probability-in-chessboard/
