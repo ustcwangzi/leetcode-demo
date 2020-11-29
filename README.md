@@ -1270,3 +1270,5 @@ https://leetcode.com/problems/strange-printer/
 https://leetcode.com/problems/number-of-longest-increasing-subsequence/
 ## KnightProbabilityInChessboard
 https://leetcode.com/problems/knight-probability-in-chessboard/
+## StickersToSpellWord
+https://leetcode.com/problems/stickers-to-spell-word/
