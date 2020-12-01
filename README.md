@@ -1278,3 +1278,5 @@ https://leetcode.com/problems/stickers-to-spell-word/
 https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/
 ## DeleteAndEarn
 https://leetcode.com/problems/delete-and-earn/
+## CherryPickup
+https://leetcode.com/problems/cherry-pickup/
