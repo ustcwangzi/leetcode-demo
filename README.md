@@ -1288,3 +1288,5 @@ https://leetcode.com/problems/cheapest-flights-within-k-stops/
 https://leetcode.com/problems/domino-and-tromino-tiling/
 ## ChampagneTower
 https://leetcode.com/problems/champagne-tower/
+## MinimumSwapsToMakeSequencesIncreasing
+https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/
