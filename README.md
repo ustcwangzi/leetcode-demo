@@ -1286,3 +1286,5 @@ https://leetcode.com/problems/largest-plus-sign/
 https://leetcode.com/problems/cheapest-flights-within-k-stops/
 ## DominoAndTrominoTiling
 https://leetcode.com/problems/domino-and-tromino-tiling/
+## ChampagneTower
+https://leetcode.com/problems/champagne-tower/
