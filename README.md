@@ -1292,3 +1292,5 @@ https://leetcode.com/problems/champagne-tower/
 https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/
 ## SoupServings
 https://leetcode.com/problems/soup-servings/
+## LargestSumOfAverages
+https://leetcode.com/problems/largest-sum-of-averages/
