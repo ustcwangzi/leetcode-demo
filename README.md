@@ -1290,3 +1290,5 @@ https://leetcode.com/problems/domino-and-tromino-tiling/
 https://leetcode.com/problems/champagne-tower/
 ## MinimumSwapsToMakeSequencesIncreasing
 https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/
+## SoupServings
+https://leetcode.com/problems/soup-servings/
