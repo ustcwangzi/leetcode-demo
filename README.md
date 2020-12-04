@@ -1296,3 +1296,5 @@ https://leetcode.com/problems/soup-servings/
 https://leetcode.com/problems/largest-sum-of-averages/
 ## RaceCar
 https://leetcode.com/problems/race-car/
+## New21Game
+https://leetcode.com/problems/new-21-game/
