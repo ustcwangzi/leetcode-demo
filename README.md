@@ -1298,3 +1298,5 @@ https://leetcode.com/problems/largest-sum-of-averages/
 https://leetcode.com/problems/race-car/
 ## New21Game
 https://leetcode.com/problems/new-21-game/
+## PushDominoes
+https://leetcode.com/problems/push-dominoes/
