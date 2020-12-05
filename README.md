@@ -1302,3 +1302,5 @@ https://leetcode.com/problems/new-21-game/
 https://leetcode.com/problems/push-dominoes/
 ## ShortestPathVisitingAllNodes
 https://leetcode.com/problems/shortest-path-visiting-all-nodes/
+## MinimumNumberOfRefuelingStops
+https://leetcode.com/problems/minimum-number-of-refueling-stops/
