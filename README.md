@@ -1304,3 +1304,5 @@ https://leetcode.com/problems/push-dominoes/
 https://leetcode.com/problems/shortest-path-visiting-all-nodes/
 ## MinimumNumberOfRefuelingStops
 https://leetcode.com/problems/minimum-number-of-refueling-stops/
+## ProfitableSchemes
+https://leetcode.com/problems/profitable-schemes/
