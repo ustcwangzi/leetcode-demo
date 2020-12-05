@@ -1306,3 +1306,5 @@ https://leetcode.com/problems/shortest-path-visiting-all-nodes/
 https://leetcode.com/problems/minimum-number-of-refueling-stops/
 ## ProfitableSchemes
 https://leetcode.com/problems/profitable-schemes/
+## BitwiseORsOfSubarrays
+https://leetcode.com/problems/bitwise-ors-of-subarrays/
