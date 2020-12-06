@@ -1310,3 +1310,5 @@ https://leetcode.com/problems/profitable-schemes/
 https://leetcode.com/problems/bitwise-ors-of-subarrays/
 ## ValidPermutationsForDISequence
 https://leetcode.com/problems/valid-permutations-for-di-sequence/
+## NumberOfMusicPlaylists
+https://leetcode.com/problems/number-of-music-playlists/
