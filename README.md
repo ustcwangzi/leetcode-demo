@@ -1308,3 +1308,5 @@ https://leetcode.com/problems/minimum-number-of-refueling-stops/
 https://leetcode.com/problems/profitable-schemes/
 ## BitwiseORsOfSubarrays
 https://leetcode.com/problems/bitwise-ors-of-subarrays/
+## ValidPermutationsForDISequence
+https://leetcode.com/problems/valid-permutations-for-di-sequence/
