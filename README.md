@@ -1312,3 +1312,5 @@ https://leetcode.com/problems/bitwise-ors-of-subarrays/
 https://leetcode.com/problems/valid-permutations-for-di-sequence/
 ## NumberOfMusicPlaylists
 https://leetcode.com/problems/number-of-music-playlists/
+## MinimumFallingPathSum
+https://leetcode.com/problems/minimum-falling-path-sum/
