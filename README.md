@@ -1314,3 +1314,5 @@ https://leetcode.com/problems/valid-permutations-for-di-sequence/
 https://leetcode.com/problems/number-of-music-playlists/
 ## MinimumFallingPathSum
 https://leetcode.com/problems/minimum-falling-path-sum/
+## KnightDialer
+https://leetcode.com/problems/knight-dialer/
