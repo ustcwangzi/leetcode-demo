@@ -1318,3 +1318,5 @@ https://leetcode.com/problems/minimum-falling-path-sum/
 https://leetcode.com/problems/knight-dialer/
 ## DistinctSubsequencesII
 https://leetcode.com/problems/distinct-subsequences-ii/
+## FindTheShortestSuperstring
+https://leetcode.com/problems/find-the-shortest-superstring/
