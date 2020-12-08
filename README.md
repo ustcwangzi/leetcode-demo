@@ -1322,3 +1322,5 @@ https://leetcode.com/problems/distinct-subsequences-ii/
 https://leetcode.com/problems/find-the-shortest-superstring/
 ## TallestBillboard
 https://leetcode.com/problems/tallest-billboard/
+## DeleteColumnsToMakeSortedIII
+https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
