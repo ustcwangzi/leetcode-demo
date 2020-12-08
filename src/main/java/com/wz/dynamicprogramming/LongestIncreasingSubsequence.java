@@ -20,20 +20,18 @@ public class LongestIncreasingSubsequence {
     /**
      * 动态规划
      * dp[i] 表示以 nums[i] 为结尾的最长递增子串的长度
-     * 对于每一个 nums[i]，从 0 搜索到 i，找到小于 nums[i] 的最长递增子串的长度 count
-     * 如果发现某个数小于 nums[i]，更新 count = max(count, dp[j])，最后 dp[i] = count+1，因为需要加上自身
+     * 对于每一个 nums[i]，从 0 搜索到 i，如果发现某个数小于 nums[i]，更新 dp[i] = Math.max(dp[i], dp[j]+1)，加 1 因为需要加上自身
      */
     public static int lengthOfLIS(int[] nums) {
         int n = nums.length, result = 0;
         int[] dp = new int[n];
         for (int i = 0; i < n; i++) {
-            int count = 0;
+            dp[i] = 1;
             for (int j = 0; j < i; j++) {
                 if (nums[j] < nums[i]) {
-                    count = Math.max(count, dp[j]);
+                    dp[i] = Math.max(dp[i], dp[j] + 1);
                 }
             }
-            dp[i] = count + 1;
             result = Math.max(result, dp[i]);
         }
         return result;
