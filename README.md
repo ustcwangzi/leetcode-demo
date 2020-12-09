@@ -1332,3 +1332,5 @@ https://leetcode.com/problems/odd-even-jump/
 https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/
 ## MinimumCostForTickets
 https://leetcode.com/problems/minimum-cost-for-tickets/
+## MinimumCostToMergeStones
+https://leetcode.com/problems/minimum-cost-to-merge-stones/
