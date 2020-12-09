@@ -1326,5 +1326,7 @@ https://leetcode.com/problems/tallest-billboard/
 https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
 ## BinaryTreeCameras
 https://leetcode.com/problems/binary-tree-cameras/
-## 
+## OddEvenJump
 https://leetcode.com/problems/odd-even-jump/
+## TriplesWithBitwiseAndEqualToZero
+https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/
