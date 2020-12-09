@@ -1330,3 +1330,5 @@ https://leetcode.com/problems/binary-tree-cameras/
 https://leetcode.com/problems/odd-even-jump/
 ## TriplesWithBitwiseAndEqualToZero
 https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/
+## MinimumCostForTickets
+https://leetcode.com/problems/minimum-cost-for-tickets/
