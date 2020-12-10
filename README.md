@@ -1338,3 +1338,5 @@ https://leetcode.com/problems/minimum-cost-to-merge-stones/
 https://leetcode.com/problems/video-stitching/
 ## LongestArithmeticSubsequence
 https://leetcode.com/problems/longest-arithmetic-subsequence/
+## MinimumScoreTriangulationOfPolygon
+https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
