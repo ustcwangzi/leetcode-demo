@@ -1336,3 +1336,5 @@ https://leetcode.com/problems/minimum-cost-for-tickets/
 https://leetcode.com/problems/minimum-cost-to-merge-stones/
 ## VideoStitching
 https://leetcode.com/problems/video-stitching/
+## LongestArithmeticSubsequence
+https://leetcode.com/problems/longest-arithmetic-subsequence/
