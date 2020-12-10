@@ -1334,3 +1334,5 @@ https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/
 https://leetcode.com/problems/minimum-cost-for-tickets/
 ## MinimumCostToMergeStones
 https://leetcode.com/problems/minimum-cost-to-merge-stones/
+## VideoStitching
+https://leetcode.com/problems/video-stitching/
