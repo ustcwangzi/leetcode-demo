@@ -1340,3 +1340,5 @@ https://leetcode.com/problems/video-stitching/
 https://leetcode.com/problems/longest-arithmetic-subsequence/
 ## MinimumScoreTriangulationOfPolygon
 https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
+## PartitionArrayForMaximumSum
+https://leetcode.com/problems/partition-array-for-maximum-sum/
