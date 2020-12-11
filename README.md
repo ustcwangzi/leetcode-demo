@@ -1342,3 +1342,5 @@ https://leetcode.com/problems/longest-arithmetic-subsequence/
 https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
 ## PartitionArrayForMaximumSum
 https://leetcode.com/problems/partition-array-for-maximum-sum/
+## LongestStringChain
+https://leetcode.com/problems/longest-string-chain/
