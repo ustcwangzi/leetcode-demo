@@ -1348,3 +1348,5 @@ https://leetcode.com/problems/longest-string-chain/
 https://leetcode.com/problems/last-stone-weight-ii/
 ## ShortestCommonSupersequence
 https://leetcode.com/problems/shortest-common-supersequence/
+## FillingBookcaseShelves
+https://leetcode.com/problems/filling-bookcase-shelves/
