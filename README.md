@@ -1346,3 +1346,5 @@ https://leetcode.com/problems/partition-array-for-maximum-sum/
 https://leetcode.com/problems/longest-string-chain/
 ## LastStoneWeightII
 https://leetcode.com/problems/last-stone-weight-ii/
+## ShortestCommonSupersequence
+https://leetcode.com/problems/shortest-common-supersequence/
