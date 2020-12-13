@@ -1354,3 +1354,5 @@ https://leetcode.com/problems/filling-bookcase-shelves/
 https://leetcode.com/problems/smallest-sufficient-team/
 ## MinimumCostTreeFromLeafValues
 https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
+## Largest1BorderedSquare
+https://leetcode.com/problems/largest-1-bordered-square/
