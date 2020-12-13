@@ -1356,3 +1356,5 @@ https://leetcode.com/problems/smallest-sufficient-team/
 https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
 ## Largest1BorderedSquare
 https://leetcode.com/problems/largest-1-bordered-square/
+## StoneGameII
+https://leetcode.com/problems/stone-game-ii/
