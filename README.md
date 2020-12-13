@@ -1350,3 +1350,5 @@ https://leetcode.com/problems/last-stone-weight-ii/
 https://leetcode.com/problems/shortest-common-supersequence/
 ## FillingBookcaseShelves
 https://leetcode.com/problems/filling-bookcase-shelves/
+## SmallestSufficientTeam
+https://leetcode.com/problems/smallest-sufficient-team/
