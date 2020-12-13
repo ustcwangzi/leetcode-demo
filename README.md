@@ -1352,3 +1352,5 @@ https://leetcode.com/problems/shortest-common-supersequence/
 https://leetcode.com/problems/filling-bookcase-shelves/
 ## SmallestSufficientTeam
 https://leetcode.com/problems/smallest-sufficient-team/
+## MinimumCostTreeFromLeafValues
+https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
