@@ -1360,3 +1360,5 @@ https://leetcode.com/problems/largest-1-bordered-square/
 https://leetcode.com/problems/stone-game-ii/
 ## LongestCommonSubsequence
 https://leetcode.com/problems/longest-common-subsequence/
+## LongestChunkedPalindromeDecomposition
+https://leetcode.com/problems/longest-chunked-palindrome-decomposition/
