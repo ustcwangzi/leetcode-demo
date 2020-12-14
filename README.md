@@ -1362,3 +1362,5 @@ https://leetcode.com/problems/stone-game-ii/
 https://leetcode.com/problems/longest-common-subsequence/
 ## LongestChunkedPalindromeDecomposition
 https://leetcode.com/problems/longest-chunked-palindrome-decomposition/
+## NumberOfDiceRollsWithTargetSum
+https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
