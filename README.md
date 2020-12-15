@@ -1368,3 +1368,5 @@ https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
 https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/
 ## MakeArrayStrictlyIncreasing
 https://leetcode.com/problems/make-array-strictly-increasing/
+## KConcatenationMaximumSum
+https://leetcode.com/problems/k-concatenation-maximum-sum/
