@@ -1370,3 +1370,5 @@ https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/
 https://leetcode.com/problems/make-array-strictly-increasing/
 ## KConcatenationMaximumSum
 https://leetcode.com/problems/k-concatenation-maximum-sum/
+## CountVowelsPermutation
+https://leetcode.com/problems/count-vowels-permutation/
