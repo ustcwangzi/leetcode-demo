@@ -1372,3 +1372,5 @@ https://leetcode.com/problems/make-array-strictly-increasing/
 https://leetcode.com/problems/k-concatenation-maximum-sum/
 ## CountVowelsPermutation
 https://leetcode.com/problems/count-vowels-permutation/
+## DiceRollSimulation
+https://leetcode.com/problems/dice-roll-simulation/
