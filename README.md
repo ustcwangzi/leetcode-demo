@@ -1374,3 +1374,5 @@ https://leetcode.com/problems/k-concatenation-maximum-sum/
 https://leetcode.com/problems/count-vowels-permutation/
 ## DiceRollSimulation
 https://leetcode.com/problems/dice-roll-simulation/
+## MaximumProfitInJobScheduling
+https://leetcode.com/problems/maximum-profit-in-job-scheduling/
