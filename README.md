@@ -1376,3 +1376,5 @@ https://leetcode.com/problems/count-vowels-permutation/
 https://leetcode.com/problems/dice-roll-simulation/
 ## MaximumProfitInJobScheduling
 https://leetcode.com/problems/maximum-profit-in-job-scheduling/
+## TilingRectangleWithTheFewestSquares
+https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/
