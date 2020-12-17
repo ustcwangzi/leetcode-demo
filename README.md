@@ -1382,3 +1382,5 @@ https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/
 https://leetcode.com/problems/greatest-sum-divisible-by-three/
 ## NumberOfWaysToStayInSamePlaceAfterSomeSteps
 https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/
+## PalindromePartitioningIII
+https://leetcode.com/problems/palindrome-partitioning-iii/
