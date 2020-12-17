@@ -25,14 +25,16 @@ package com.wz.dynamicprogramming;
 public class GreatestSumDivisibleByThree {
     public static void main(String[] args) {
         int[] nums = new int[]{3, 6, 5, 1, 8};
-        System.out.println(maxSumDivThree(nums));
+        System.out.println(maxSumDivThree1(nums));
+        System.out.println(maxSumDivThree2(nums));
+        System.out.println(maxSumDivThree3(nums));
     }
 
     /**
-     * dp[i][k] 表示的是截止到 nums[i] 被 3 整除余数为k的最大和，需要考虑 k=0, k=1, k=2 这三种情况：
+     * dp[i][k] 表示截止到 nums[i] 被 3 整除余数为k的最大和，需要考虑 k=0, k=1, k=2 这三种情况：
      * dp[i][*] = max{dp[i-1][*], dp[i-1][*] + nums[i]}  (* 取值为 0,1,2)
      */
-    public static int maxSumDivThree(int[] nums) {
+    public static int maxSumDivThree1(int[] nums) {
         int n = nums.length;
         int[][] dp = new int[n][3];
         dp[0][nums[0] % 3] = nums[0];
@@ -47,5 +49,49 @@ public class GreatestSumDivisibleByThree {
             }
         }
         return dp[n - 1][0];
+    }
+
+    /**
+     * dp[i] 表示截止到 nums[i] 被 3整除余数为 k 的最大和
+     * dp[(i+num) % 3] = max{dp[(i+num) % 3], dp[i] + num}
+     */
+    public static int maxSumDivThree2(int[] nums) {
+        int[] dp = {0, Integer.MIN_VALUE, Integer.MIN_VALUE};
+        for (int num : nums) {
+            int[] tmp = new int[3];
+            for (int i = 0; i < 3; ++i) {
+                tmp[(i + num) % 3] = Math.max(dp[(i + num) % 3], dp[i] + num);
+            }
+            dp = tmp;
+        }
+        return dp[0];
+    }
+
+    /**
+     * 最后数组和只有三种情况
+     * 除以3余0，直接返回
+     * 除以3余1，那么要么减少一个除以3余1的数字、或者减少两个除以3余2的数字
+     * 除以3余2，那么要么减少一个除以3余2的数字、或者减少两个除以3余1的数字
+     */
+    public static int maxSumDivThree3(int[] nums) {
+        int result = 0, leftOne = 40000, leftTwo = 40000;
+        for (int num : nums) {
+            result += num;
+            if (num % 3 == 1) {
+                leftTwo = Math.min(leftTwo, leftOne + num);
+                leftOne = Math.min(leftOne, num);
+            }
+            if (num % 3 == 2) {
+                leftOne = Math.min(leftOne, leftTwo + num);
+                leftTwo = Math.min(leftTwo, num);
+            }
+        }
+        if (result % 3 == 0) {
+            return result;
+        }
+        if (result % 3 == 1) {
+            return result - leftOne;
+        }
+        return result - leftTwo;
     }
 }
