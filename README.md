@@ -1378,3 +1378,5 @@ https://leetcode.com/problems/dice-roll-simulation/
 https://leetcode.com/problems/maximum-profit-in-job-scheduling/
 ## TilingRectangleWithTheFewestSquares
 https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/
+## GreatestSumDivisibleByThree
+https://leetcode.com/problems/greatest-sum-divisible-by-three/
