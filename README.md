@@ -1386,3 +1386,5 @@ https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-som
 https://leetcode.com/problems/palindrome-partitioning-iii/
 ## MinimumFallingPathSumII
 https://leetcode.com/problems/minimum-falling-path-sum-ii/
+## NumberOfPathsWithMaxScore
+https://leetcode.com/problems/number-of-paths-with-max-score/
