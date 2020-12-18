@@ -1388,3 +1388,5 @@ https://leetcode.com/problems/palindrome-partitioning-iii/
 https://leetcode.com/problems/minimum-falling-path-sum-ii/
 ## NumberOfPathsWithMaxScore
 https://leetcode.com/problems/number-of-paths-with-max-score/
+## MinimumInsertionStepsToMakeStringPalindrome
+https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
