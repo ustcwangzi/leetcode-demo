@@ -1390,3 +1390,5 @@ https://leetcode.com/problems/minimum-falling-path-sum-ii/
 https://leetcode.com/problems/number-of-paths-with-max-score/
 ## MinimumInsertionStepsToMakeStringPalindrome
 https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
+## MatrixBlockSum
+https://leetcode.com/problems/matrix-block-sum/
