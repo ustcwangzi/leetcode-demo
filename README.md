@@ -1394,3 +1394,5 @@ https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrom
 https://leetcode.com/problems/matrix-block-sum/
 ## MinimumDistanceToTypeWordUsingTwoFingers
 https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/
+## MinimumNumberOfTapsToOpenToWaterGarden
+https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/
