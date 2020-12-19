@@ -53,6 +53,5 @@ public class MatrixBlockSum {
                 dp[i - 1][j - 1] = preSum[down][right] - preSum[up][right] - preSum[down][left] + preSum[up][left];
             }
         return dp;
-
     }
 }

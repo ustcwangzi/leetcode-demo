@@ -1392,3 +1392,5 @@ https://leetcode.com/problems/number-of-paths-with-max-score/
 https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
 ## MatrixBlockSum
 https://leetcode.com/problems/matrix-block-sum/
+## MinimumDistanceToTypeWordUsingTwoFingers
+https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/
