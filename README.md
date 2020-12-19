@@ -1396,3 +1396,5 @@ https://leetcode.com/problems/matrix-block-sum/
 https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/
 ## MinimumNumberOfTapsToOpenToWaterGarden
 https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/
+## MinimumDifficultyOfJobSchedule
+https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/
