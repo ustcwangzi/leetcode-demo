@@ -1400,3 +1400,5 @@ https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/
 https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/
 ## MaximumProductOfSplittedBinaryTree
 https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/
+## JumpGameV
+https://leetcode.com/problems/jump-game-v/
