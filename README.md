@@ -1402,3 +1402,5 @@ https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/
 https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/
 ## JumpGameV
 https://leetcode.com/problems/jump-game-v/
+## MaximumStudentsTakingExam
+https://leetcode.com/problems/maximum-students-taking-exam/
