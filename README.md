@@ -1408,3 +1408,5 @@ https://leetcode.com/problems/maximum-students-taking-exam/
 https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
 ## MaximumSumBSTInBinaryTree
 https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/
+## PizzaWith3nSlices
+https://leetcode.com/problems/pizza-with-3n-slices/
