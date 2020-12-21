@@ -1404,3 +1404,5 @@ https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/
 https://leetcode.com/problems/jump-game-v/
 ## MaximumStudentsTakingExam
 https://leetcode.com/problems/maximum-students-taking-exam/
+## LongestZigZagPathInBinaryTree
+https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
