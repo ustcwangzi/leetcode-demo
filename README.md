@@ -1406,3 +1406,5 @@ https://leetcode.com/problems/jump-game-v/
 https://leetcode.com/problems/maximum-students-taking-exam/
 ## LongestZigZagPathInBinaryTree
 https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
+## MaximumSumBSTInBinaryTree
+https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/
