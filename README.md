@@ -1412,3 +1412,5 @@ https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/
 https://leetcode.com/problems/pizza-with-3n-slices/
 ## FindAllGoodStrings
 https://leetcode.com/problems/find-all-good-strings/
+## ReducingDishes
+https://leetcode.com/problems/reducing-dishes/
