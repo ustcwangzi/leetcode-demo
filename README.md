@@ -1414,3 +1414,5 @@ https://leetcode.com/problems/pizza-with-3n-slices/
 https://leetcode.com/problems/find-all-good-strings/
 ## ReducingDishes
 https://leetcode.com/problems/reducing-dishes/
+## LongestHappyString
+https://leetcode.com/problems/longest-happy-string/
