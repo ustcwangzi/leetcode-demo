@@ -1410,3 +1410,5 @@ https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
 https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/
 ## PizzaWith3nSlices
 https://leetcode.com/problems/pizza-with-3n-slices/
+## FindAllGoodStrings
+https://leetcode.com/problems/find-all-good-strings/
