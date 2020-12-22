@@ -1416,3 +1416,5 @@ https://leetcode.com/problems/find-all-good-strings/
 https://leetcode.com/problems/reducing-dishes/
 ## LongestHappyString
 https://leetcode.com/problems/longest-happy-string/
+## StoneGameIII
+https://leetcode.com/problems/stone-game-iii/
