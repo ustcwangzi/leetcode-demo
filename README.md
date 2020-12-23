@@ -1432,3 +1432,5 @@ https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/
 https://leetcode.com/problems/max-dot-product-of-two-subsequences/
 ## CherryPickupII
 https://leetcode.com/problems/cherry-pickup-ii/
+## PaintHouseIII
+https://leetcode.com/problems/paint-house-iii/
