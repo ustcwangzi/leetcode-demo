@@ -1418,3 +1418,5 @@ https://leetcode.com/problems/reducing-dishes/
 https://leetcode.com/problems/longest-happy-string/
 ## StoneGameIII
 https://leetcode.com/problems/stone-game-iii/
+## NumberOfWaysToPaintN3Grid
+https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/
