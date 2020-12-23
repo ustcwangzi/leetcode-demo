@@ -1422,3 +1422,5 @@ https://leetcode.com/problems/stone-game-iii/
 https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/
 ## RestoreTheArray
 https://leetcode.com/problems/restore-the-array/
+## ConstrainedSubsequenceSum
+https://leetcode.com/problems/constrained-subsequence-sum/
