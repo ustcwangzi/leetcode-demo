@@ -1430,3 +1430,5 @@ https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-othe
 https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/
 ## MaxDotProductOfTwoSubsequences
 https://leetcode.com/problems/max-dot-product-of-two-subsequences/
+## CherryPickupII
+https://leetcode.com/problems/cherry-pickup-ii/
