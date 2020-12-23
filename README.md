@@ -1428,3 +1428,5 @@ https://leetcode.com/problems/constrained-subsequence-sum/
 https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/
 ## NumberOfWaysOfCuttingPizza
 https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/
+## MaxDotProductOfTwoSubsequences
+https://leetcode.com/problems/max-dot-product-of-two-subsequences/
