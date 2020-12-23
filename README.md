@@ -1426,3 +1426,5 @@ https://leetcode.com/problems/restore-the-array/
 https://leetcode.com/problems/constrained-subsequence-sum/
 ## NumberOfWaysToWearDifferentHatsToEachOther
 https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/
+## NumberOfWaysOfCuttingPizza
+https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/
