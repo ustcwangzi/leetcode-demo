@@ -1424,3 +1424,5 @@ https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/
 https://leetcode.com/problems/restore-the-array/
 ## ConstrainedSubsequenceSum
 https://leetcode.com/problems/constrained-subsequence-sum/
+## NumberOfWaysToWearDifferentHatsToEachOther
+https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/
