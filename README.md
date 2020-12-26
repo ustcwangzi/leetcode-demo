@@ -1438,3 +1438,5 @@ https://leetcode.com/problems/paint-house-iii/
 https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
 ## CountSubmatricesWithAllOnes
 https://leetcode.com/problems/count-submatrices-with-all-ones/
+## MaximumNumberOfNonOverlappingSubarraysWithSumEqualsTarget
+https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
