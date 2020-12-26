@@ -1440,3 +1440,5 @@ https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-targ
 https://leetcode.com/problems/count-submatrices-with-all-ones/
 ## MaximumNumberOfNonOverlappingSubarraysWithSumEqualsTarget
 https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
+## MaximumNonNegativeProductInMatrix
+https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/
