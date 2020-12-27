@@ -1442,3 +1442,5 @@ https://leetcode.com/problems/count-submatrices-with-all-ones/
 https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
 ## MaximumNonNegativeProductInMatrix
 https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/
+## BestTeamWithNoConflicts
+https://leetcode.com/problems/best-team-with-no-conflicts/
