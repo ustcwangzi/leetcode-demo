@@ -1448,3 +1448,5 @@ https://leetcode.com/problems/best-team-with-no-conflicts/
 https://leetcode.com/problems/count-sorted-vowel-strings/
 ## MinimumJumpsToReachHome
 https://leetcode.com/problems/minimum-jumps-to-reach-home/
+## WaysToMakeFairArray
+https://leetcode.com/problems/ways-to-make-a-fair-array/
