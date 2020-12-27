@@ -1446,3 +1446,5 @@ https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/
 https://leetcode.com/problems/best-team-with-no-conflicts/
 ## CountSortedVowelStrings
 https://leetcode.com/problems/count-sorted-vowel-strings/
+## MinimumJumpsToReachHome
+https://leetcode.com/problems/minimum-jumps-to-reach-home/
