@@ -1444,3 +1444,5 @@ https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-s
 https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/
 ## BestTeamWithNoConflicts
 https://leetcode.com/problems/best-team-with-no-conflicts/
+## CountSortedVowelStrings
+https://leetcode.com/problems/count-sorted-vowel-strings/
