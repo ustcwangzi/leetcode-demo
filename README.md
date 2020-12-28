@@ -1450,3 +1450,5 @@ https://leetcode.com/problems/count-sorted-vowel-strings/
 https://leetcode.com/problems/minimum-jumps-to-reach-home/
 ## WaysToMakeFairArray
 https://leetcode.com/problems/ways-to-make-a-fair-array/
+## StoneGameVII
+https://leetcode.com/problems/stone-game-vii/
