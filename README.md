@@ -1461,3 +1461,5 @@ https://leetcode.com/problemset/all/?topicSlugs=depth-first-search
 https://leetcode.com/problems/validate-binary-search-tree/
 ## SameTree
 https://leetcode.com/problems/same-tree/
+## SymmetricTree
+https://leetcode.com/problems/symmetric-tree/
