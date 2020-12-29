@@ -1457,3 +1457,5 @@ https://leetcode.com/problems/where-will-the-ball-fall/
 
 # DFS
 https://leetcode.com/problemset/all/?topicSlugs=depth-first-search
+## ValidateBinarySearchTree
+https://leetcode.com/problems/validate-binary-search-tree/
