@@ -1469,3 +1469,5 @@ https://leetcode.com/problems/maximum-depth-of-binary-tree/
 https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 ## BalancedBinaryTree
 https://leetcode.com/problems/balanced-binary-tree/
+## MinimumDepthOfBinaryTree
+https://leetcode.com/problems/minimum-depth-of-binary-tree/
