@@ -1471,3 +1471,5 @@ https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 https://leetcode.com/problems/balanced-binary-tree/
 ## MinimumDepthOfBinaryTree
 https://leetcode.com/problems/minimum-depth-of-binary-tree/
+## PathSum
+https://leetcode.com/problems/path-sum/
