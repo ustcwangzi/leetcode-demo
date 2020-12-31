@@ -1475,3 +1475,5 @@ https://leetcode.com/problems/minimum-depth-of-binary-tree/
 https://leetcode.com/problems/path-sum/
 ## PathSumII
 https://leetcode.com/problems/path-sum-ii/
+## FlattenBinaryTreeToLinkedList
+https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
