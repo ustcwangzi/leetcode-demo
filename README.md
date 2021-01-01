@@ -1479,3 +1479,5 @@ https://leetcode.com/problems/path-sum-ii/
 https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
 ## PopulatingNextRightPointersInEachNode
 https://leetcode.com/problems/populating-next-right-pointers-in-each-node/
+## PopulatingNextRightPointersInEachNodeII
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/
