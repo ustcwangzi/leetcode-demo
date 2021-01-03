@@ -1491,3 +1491,5 @@ https://leetcode.com/problems/clone-graph/
 https://leetcode.com/problems/binary-tree-right-side-view/
 ## NumberOfIslands
 https://leetcode.com/problems/number-of-islands/
+## CourseSchedule
+https://leetcode.com/problems/course-schedule/
