@@ -1495,3 +1495,5 @@ https://leetcode.com/problems/number-of-islands/
 https://leetcode.com/problems/course-schedule/
 ## CourseScheduleII
 https://leetcode.com/problems/course-schedule-ii/
+## WordDictionary
+https://leetcode.com/problems/design-add-and-search-words-data-structure/
