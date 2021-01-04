@@ -1499,3 +1499,5 @@ https://leetcode.com/problems/course-schedule-ii/
 https://leetcode.com/problems/design-add-and-search-words-data-structure/
 ## BinaryTreePaths
 https://leetcode.com/problems/binary-tree-paths/
+## DecodeString
+https://leetcode.com/problems/decode-string/
