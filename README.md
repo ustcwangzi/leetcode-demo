@@ -1497,3 +1497,5 @@ https://leetcode.com/problems/course-schedule/
 https://leetcode.com/problems/course-schedule-ii/
 ## WordDictionary
 https://leetcode.com/problems/design-add-and-search-words-data-structure/
+## BinaryTreePaths
+https://leetcode.com/problems/binary-tree-paths/
