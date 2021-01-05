@@ -16,7 +16,7 @@ public class BinaryTreeRightSideView {
 
     /**
      * BFS
-     * 思路与 {PopulatingNextRightPointersInEachNodeII} 类似
+     * 思路与 {@link PopulatingNextRightPointersInEachNodeII} 类似
      * 层次遍历，将每一层的最右节点值加入结果中
      */
     public static List<Integer> rightSideView(TreeNode root) {
