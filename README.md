@@ -1505,3 +1505,5 @@ https://leetcode.com/problems/decode-string/
 https://leetcode.com/problems/pacific-atlantic-water-flow/
 ## MatchsticksToSquare
 https://leetcode.com/problems/matchsticks-to-square/
+## IncreasingSubsequences
+https://leetcode.com/problems/increasing-subsequences/
