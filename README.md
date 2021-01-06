@@ -1511,3 +1511,5 @@ https://leetcode.com/problems/increasing-subsequences/
 https://leetcode.com/problems/find-bottom-left-tree-value/
 ## FindLargestValueInEachTreeRow
 https://leetcode.com/problems/find-largest-value-in-each-tree-row/
+## BeautifulArrangement
+https://leetcode.com/problems/beautiful-arrangement/
