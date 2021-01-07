@@ -1515,3 +1515,5 @@ https://leetcode.com/problems/find-largest-value-in-each-tree-row/
 https://leetcode.com/problems/beautiful-arrangement/
 ## ZeroOneMatrix
 https://leetcode.com/problems/01-matrix/
+## NumberOfProvinces
+https://leetcode.com/problems/number-of-provinces/
