@@ -1517,3 +1517,5 @@ https://leetcode.com/problems/beautiful-arrangement/
 https://leetcode.com/problems/01-matrix/
 ## NumberOfProvinces
 https://leetcode.com/problems/number-of-provinces/
+## MaximumDepthOfNaryTree
+https://leetcode.com/problems/maximum-depth-of-n-ary-tree/
