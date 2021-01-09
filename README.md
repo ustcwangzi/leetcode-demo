@@ -1529,3 +1529,5 @@ https://leetcode.com/problems/accounts-merge/
 https://leetcode.com/problems/flood-fill/
 ## NetworkDelayTime
 https://leetcode.com/problems/network-delay-time/
+## IsGraphBipartite
+https://leetcode.com/problems/is-graph-bipartite/
