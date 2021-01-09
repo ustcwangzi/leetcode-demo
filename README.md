@@ -1527,3 +1527,5 @@ https://leetcode.com/problems/employee-importance/
 https://leetcode.com/problems/accounts-merge/
 ## FloodFill
 https://leetcode.com/problems/flood-fill/
+## NetworkDelayTime
+https://leetcode.com/problems/network-delay-time/
