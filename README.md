@@ -1537,3 +1537,5 @@ https://leetcode.com/problems/all-paths-from-source-to-target/
 https://leetcode.com/problems/find-eventual-safe-states/
 ## KeysAndRooms
 https://leetcode.com/problems/keys-and-rooms/
+## AllNodesDistanceKInBinaryTree
+https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
