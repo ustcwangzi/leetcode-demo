@@ -1543,3 +1543,5 @@ https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
 https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
 ## LeafSimilarTrees
 https://leetcode.com/problems/leaf-similar-trees/
+## PossibleBipartition
+https://leetcode.com/problems/possible-bipartition/
