@@ -1541,3 +1541,5 @@ https://leetcode.com/problems/keys-and-rooms/
 https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
 ## SmallestSubtreeWithAllTheDeepestNodes
 https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
+## LeafSimilarTrees
+https://leetcode.com/problems/leaf-similar-trees/
