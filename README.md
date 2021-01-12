@@ -1539,3 +1539,5 @@ https://leetcode.com/problems/find-eventual-safe-states/
 https://leetcode.com/problems/keys-and-rooms/
 ## AllNodesDistanceKInBinaryTree
 https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+## SmallestSubtreeWithAllTheDeepestNodes
+https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
