@@ -1545,3 +1545,5 @@ https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
 https://leetcode.com/problems/leaf-similar-trees/
 ## PossibleBipartition
 https://leetcode.com/problems/possible-bipartition/
+## IncreasingOrderSearchTree
+https://leetcode.com/problems/increasing-order-search-tree/
