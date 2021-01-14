@@ -1553,3 +1553,5 @@ https://leetcode.com/problems/shortest-bridge/
 https://leetcode.com/problems/range-sum-of-bst/
 ## MostStonesRemovedWithSameRowOrColumn
 https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
+## NumbersWithSameConsecutiveDifferences
+https://leetcode.com/problems/numbers-with-same-consecutive-differences/
