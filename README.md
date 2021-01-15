@@ -1557,3 +1557,5 @@ https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
 https://leetcode.com/problems/numbers-with-same-consecutive-differences/
 ## FlipBinaryTreeToMatchPreorderTraversal
 https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/
+## DistributeCoinsInBinaryTree
+https://leetcode.com/problems/distribute-coins-in-binary-tree/
