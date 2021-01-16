@@ -1561,3 +1561,5 @@ https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/
 https://leetcode.com/problems/distribute-coins-in-binary-tree/
 ## SmallestStringStartingFromLeaf
 https://leetcode.com/problems/smallest-string-starting-from-leaf/
+## NumberOfEnclaves
+https://leetcode.com/problems/number-of-enclaves/
