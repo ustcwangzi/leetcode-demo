@@ -1559,3 +1559,5 @@ https://leetcode.com/problems/numbers-with-same-consecutive-differences/
 https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/
 ## DistributeCoinsInBinaryTree
 https://leetcode.com/problems/distribute-coins-in-binary-tree/
+## SmallestStringStartingFromLeaf
+https://leetcode.com/problems/smallest-string-starting-from-leaf/
