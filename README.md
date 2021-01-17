@@ -1563,3 +1563,5 @@ https://leetcode.com/problems/distribute-coins-in-binary-tree/
 https://leetcode.com/problems/smallest-string-starting-from-leaf/
 ## NumberOfEnclaves
 https://leetcode.com/problems/number-of-enclaves/
+## MaximumDifferenceBetweenNodeAndAncestor
+https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
