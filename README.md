@@ -1565,3 +1565,5 @@ https://leetcode.com/problems/smallest-string-starting-from-leaf/
 https://leetcode.com/problems/number-of-enclaves/
 ## MaximumDifferenceBetweenNodeAndAncestor
 https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
+## InsufficientNodesInRootToLeafPaths
+https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/
