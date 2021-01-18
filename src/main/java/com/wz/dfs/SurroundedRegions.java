@@ -47,16 +47,12 @@ public class SurroundedRegions {
         // 第一列和最后一列
         for (int i = 0; i < m; i++) {
             dfs(board, i, 0);
-            if (n > 1) {
-                dfs(board, i, n - 1);
-            }
+            dfs(board, i, n - 1);
         }
         // 第一行和最后一行
         for (int j = 0; j < n; j++) {
             dfs(board, 0, j);
-            if (m > 1) {
-                dfs(board, m - 1, j);
-            }
+            dfs(board, m - 1, j);
         }
 
         for (int i = 0; i < m; i++) {

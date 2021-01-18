@@ -1570,3 +1570,5 @@ https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
 https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/
 ## BinaryTreeColoringGame
 https://leetcode.com/problems/binary-tree-coloring-game/
+## NumberOfClosedIslands
+https://leetcode.com/problems/number-of-closed-islands/
