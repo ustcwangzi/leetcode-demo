@@ -1578,3 +1578,5 @@ https://leetcode.com/problems/deepest-leaves-sum/
 https://leetcode.com/problems/jump-game-iii/
 ## SumOfNodesWithEvenValuedGrandparent
 https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
+## NumberOfOperationsToMakeNetworkConnected
+https://leetcode.com/problems/number-of-operations-to-make-network-connected/
