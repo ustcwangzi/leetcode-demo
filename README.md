@@ -1580,3 +1580,5 @@ https://leetcode.com/problems/jump-game-iii/
 https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/
 ## NumberOfOperationsToMakeNetworkConnected
 https://leetcode.com/problems/number-of-operations-to-make-network-connected/
+## TimeNeededToInformAllEmployees
+https://leetcode.com/problems/time-needed-to-inform-all-employees/
