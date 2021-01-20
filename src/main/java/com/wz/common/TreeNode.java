@@ -27,4 +27,13 @@ public class TreeNode {
         traversalPreOrder(treeNode.left);
         traversalPreOrder(treeNode.right);
     }
+
+    @Override
+    public String toString() {
+        return "TreeNode{" +
+                "val=" + val +
+                ", left=" + left +
+                ", right=" + right +
+                '}';
+    }
 }
