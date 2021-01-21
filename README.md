@@ -1590,3 +1590,5 @@ https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/
 https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/
 ## CountGoodNodesInBinaryTree
 https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+## PseudoPalindromicPathsInBinaryTree
+https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
