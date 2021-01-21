@@ -1588,3 +1588,5 @@ https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-cl
 https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/
 ## MinimumTimeToCollectAllApplesInTree
 https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/
+## CountGoodNodesInBinaryTree
+https://leetcode.com/problems/count-good-nodes-in-binary-tree/
