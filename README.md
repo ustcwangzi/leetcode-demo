@@ -1594,3 +1594,5 @@ https://leetcode.com/problems/count-good-nodes-in-binary-tree/
 https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
 ## ReorderRoutesToMakeAllPathsLeadToTheCityZero
 https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
+## NumberOfNodesInSubTreeWithTheSameLabel
+https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/
