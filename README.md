@@ -1592,3 +1592,5 @@ https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/
 https://leetcode.com/problems/count-good-nodes-in-binary-tree/
 ## PseudoPalindromicPathsInBinaryTree
 https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
+## ReorderRoutesToMakeAllPathsLeadToTheCityZero
+https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
