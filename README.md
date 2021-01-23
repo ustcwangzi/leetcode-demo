@@ -1602,3 +1602,5 @@ https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/
 https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/
 ## PathWithMinimumEffort
 https://leetcode.com/problems/path-with-minimum-effort/
+## MinimizeHammingDistanceAfterSwapOperations
+https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/
