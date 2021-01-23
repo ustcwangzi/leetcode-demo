@@ -1600,3 +1600,5 @@ https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-labe
 https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/
 ## LexicographicallySmallestStringAfterApplyingOperations
 https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/
+## PathWithMinimumEffort
+https://leetcode.com/problems/path-with-minimum-effort/
