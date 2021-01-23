@@ -1598,3 +1598,5 @@ https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-
 https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/
 ## NumberOfGoodLeafNodesPairs
 https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/
+## LexicographicallySmallestStringAfterApplyingOperations
+https://leetcode.com/problems/lexicographically-smallest-string-after-applying-operations/
