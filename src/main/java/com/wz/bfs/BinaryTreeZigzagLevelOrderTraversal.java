@@ -1,14 +1,15 @@
-package com.wz.dfs;
+package com.wz.bfs;
 
 import com.wz.common.TreeNode;
 
-import java.util.ArrayList;
+import java.util.Deque;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
 /**
- * Given a binary tree, return the level order traversal of its nodes' values. (ie, from left to right, level by level).
+ * Given a binary tree, return the zigzag level order traversal of its nodes' values.
+ * (ie, from left to right, then right to left for the next level and alternate between).
  *
  * For example:
  * Given binary tree [3,9,20,null,null,15,7],
@@ -17,25 +18,25 @@ import java.util.Queue;
  *   9  20
  *     /  \
  *    15   7
- * return its level order traversal as:
+ * return its zigzag level order traversal as:
  * [
  *   [3],
- *   [9,20],
+ *   [20,9],
  *   [15,7]
  * ]
  */
-public class BinaryTreeLevelOrderTraversal {
+public class BinaryTreeZigzagLevelOrderTraversal {
     public static void main(String[] args) {
         TreeNode right = new TreeNode(20, new TreeNode(15), new TreeNode(7));
         TreeNode root = new TreeNode(3, new TreeNode(9), right);
-        System.out.println(levelOrder(root));
+        System.out.println(zigzagLevelOrder(root));
     }
 
     /**
-     * BFS
-     * 使用队列进行层次遍历即可
+     * 与 {@link BinaryTreeLevelOrderTraversal} 类似
+     * 只是在遍历时增加一个方向标志 forward，用以表示本次节点值加到层次遍历结果的尾部还是头部
      */
-    public static List<List<Integer>> levelOrder(TreeNode root) {
+    public static List<List<Integer>> zigzagLevelOrder(TreeNode root) {
         List<List<Integer>> result = new LinkedList<>();
         if (root == null) {
             return result;
@@ -43,12 +44,17 @@ public class BinaryTreeLevelOrderTraversal {
 
         Queue<TreeNode> queue = new LinkedList<>();
         queue.add(root);
+        boolean forward = true;
         while (!queue.isEmpty()) {
             int size = queue.size();
-            List<Integer> levelResult = new ArrayList<>(size);
+            Deque<Integer> levelResult = new LinkedList<>();
             for (int i = 0; i < size; i++) {
                 TreeNode cur = queue.poll();
-                levelResult.add(cur.val);
+                if (forward) {
+                    levelResult.add(cur.val);
+                } else {
+                    levelResult.addFirst(cur.val);
+                }
                 if (cur.left != null) {
                     queue.add(cur.left);
                 }
@@ -56,7 +62,8 @@ public class BinaryTreeLevelOrderTraversal {
                     queue.add(cur.right);
                 }
             }
-            result.add(levelResult);
+            forward = !forward;
+            result.add(new LinkedList<>(levelResult));
         }
         return result;
     }

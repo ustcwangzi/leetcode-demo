@@ -1609,3 +1609,5 @@ https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/
 https://leetcode.com/problemset/all/?topicSlugs=breadth-first-search
 ## BinaryTreeLevelOrderTraversal
 https://leetcode.com/problems/binary-tree-level-order-traversal/
+## BinaryTreeZigzagLevelOrderTraversal
+https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
