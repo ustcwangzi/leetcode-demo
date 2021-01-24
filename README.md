@@ -1604,3 +1604,8 @@ https://leetcode.com/problems/lexicographically-smallest-string-after-applying-o
 https://leetcode.com/problems/path-with-minimum-effort/
 ## MinimizeHammingDistanceAfterSwapOperations
 https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/
+
+# BFS
+https://leetcode.com/problemset/all/?topicSlugs=breadth-first-search
+## BinaryTreeLevelOrderTraversal
+https://leetcode.com/problems/binary-tree-level-order-traversal/
