@@ -1621,3 +1621,5 @@ https://leetcode.com/problems/n-ary-tree-level-order-traversal/
 https://leetcode.com/problems/minesweeper/
 ## OpenTheLock
 https://leetcode.com/problems/open-the-lock/
+## CousinsInBinaryTree
+https://leetcode.com/problems/cousins-in-binary-tree/
