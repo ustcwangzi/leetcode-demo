@@ -1619,3 +1619,5 @@ https://leetcode.com/problems/minimum-height-trees/
 https://leetcode.com/problems/n-ary-tree-level-order-traversal/
 ## Minesweeper
 https://leetcode.com/problems/minesweeper/
+## OpenTheLock
+https://leetcode.com/problems/open-the-lock/
