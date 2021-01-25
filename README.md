@@ -1617,3 +1617,5 @@ https://leetcode.com/problems/binary-tree-level-order-traversal-ii/
 https://leetcode.com/problems/minimum-height-trees/
 ## NAryTreeLevelOrderTraversal
 https://leetcode.com/problems/n-ary-tree-level-order-traversal/
+## Minesweeper
+https://leetcode.com/problems/minesweeper/
