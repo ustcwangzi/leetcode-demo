@@ -1625,3 +1625,5 @@ https://leetcode.com/problems/open-the-lock/
 https://leetcode.com/problems/cousins-in-binary-tree/
 ## RottingOranges
 https://leetcode.com/problems/rotting-oranges/
+## ShortestPathInBinaryMatrix
+https://leetcode.com/problems/shortest-path-in-binary-matrix/
