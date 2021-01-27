@@ -1627,3 +1627,5 @@ https://leetcode.com/problems/cousins-in-binary-tree/
 https://leetcode.com/problems/rotting-oranges/
 ## ShortestPathInBinaryMatrix
 https://leetcode.com/problems/shortest-path-in-binary-matrix/
+## ShortestPathWithAlternatingColors
+https://leetcode.com/problems/shortest-path-with-alternating-colors/
