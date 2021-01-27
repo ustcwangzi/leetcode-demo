@@ -1629,3 +1629,5 @@ https://leetcode.com/problems/rotting-oranges/
 https://leetcode.com/problems/shortest-path-in-binary-matrix/
 ## ShortestPathWithAlternatingColors
 https://leetcode.com/problems/shortest-path-with-alternating-colors/
+## MaximumLevelSumOfBinaryTree
+https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
