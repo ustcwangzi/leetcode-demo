@@ -24,7 +24,7 @@ import java.util.Queue;
  * Output: 2
  *
  * Constraints:
- * 1. The number of nodes in the tree is in the range [1, 104].
+ * 1. The number of nodes in the tree is in the range [1, 10^4].
  * 2. -10^5 <= Node.val <= 10^5
  */
 public class MaximumLevelSumOfBinaryTree {

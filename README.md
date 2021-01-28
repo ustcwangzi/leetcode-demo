@@ -1631,3 +1631,5 @@ https://leetcode.com/problems/shortest-path-in-binary-matrix/
 https://leetcode.com/problems/shortest-path-with-alternating-colors/
 ## MaximumLevelSumOfBinaryTree
 https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
+## AsFarFromLandAsPossible
+https://leetcode.com/problems/as-far-from-land-as-possible/
