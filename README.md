@@ -1633,3 +1633,8 @@ https://leetcode.com/problems/shortest-path-with-alternating-colors/
 https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
 ## AsFarFromLandAsPossible
 https://leetcode.com/problems/as-far-from-land-as-possible/
+
+# backtracking
+https://leetcode.com/problemset/all/?topicSlugs=backtracking
+## Permutations
+https://leetcode.com/problems/permutations/

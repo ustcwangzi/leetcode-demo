@@ -61,7 +61,8 @@ public class CombinationSum {
                                        List<Integer> path, List<List<Integer>> result) {
         if (target < 0) {
             return;
-        } else if (target == 0) {
+        }
+        if (target == 0) {
             // 为避免后续path更新影响结果，这里每次需要新建一个列表
             result.add(new LinkedList<>(path));
         } else {
