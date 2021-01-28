@@ -29,7 +29,7 @@ public class Permutations {
      */
     public static List<List<Integer>> permute(int[] nums) {
         List<List<Integer>> result = new LinkedList<>();
-        dfs(nums, new boolean[nums.length], result, new ArrayList<>());
+        dfs(nums, new boolean[nums.length], result, new ArrayList<>(nums.length));
         return result;
     }
 

@@ -30,7 +30,7 @@ public class SubsetsII {
     /**
      * 思路与{@link Subsets}类似
      * 存在重复元素，因此需要先排序，另外，当遇到重复元素时，需要跳过
-     * 例如[1,2,3]，处理第三个元素2时，因为前面已经处理了一次2，所有第三层中，只在已经添加过2的集合{1,2}、{2}上再添加2
+     * 例如[1,2,2]，处理第三个元素2时，因为前面已经处理了一次2，所有第三层中，只在已经添加过2的集合{1,2}、{2}上再添加2
      * 假设下面还有一个2，那么我们只在第四层的包含两个2的集合{1,2,2}、{2,2}上再添加2，其它都不添加
      *                          []     处理1
      *                    /          \
@@ -50,6 +50,11 @@ public class SubsetsII {
         return result;
     }
 
+    /**
+     * 在每一次选数字的时候，只选第一个重复的数字，不选后面的，这样就不会有重复的，例如 [1,2,2]
+     * 得到 [2,2] 的过程是两层递归，每一层都只选当前 index 开始的第一个 2，所以 2 2 还是可以组出来的，
+     * 而且不会组出重复的，因为每一层递归没有考虑重复
+     */
     private static void dfs(int[] nums, int index, List<Integer> group, List<List<Integer>> result) {
         result.add(new ArrayList<>(group));
         for (int i = index; i < nums.length; i++) {
