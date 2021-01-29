@@ -1642,3 +1642,5 @@ https://leetcode.com/problems/permutations/
 https://leetcode.com/problems/permutations-ii/
 ## Combinations
 https://leetcode.com/problems/combinations/
+## LetterCasePermutation
+https://leetcode.com/problems/letter-case-permutation/
