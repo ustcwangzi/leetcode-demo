@@ -1650,3 +1650,5 @@ https://leetcode.com/problems/letter-tile-possibilities/
 https://leetcode.com/problems/path-with-maximum-gold/
 ## MaximumLengthOfConcatenatedStringWithUniqueCharacters
 https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/
+## CombinationIterator
+https://leetcode.com/problems/iterator-for-combination/
