@@ -1646,3 +1646,5 @@ https://leetcode.com/problems/combinations/
 https://leetcode.com/problems/letter-case-permutation/
 ## LetterTilePossibilities
 https://leetcode.com/problems/letter-tile-possibilities/
+## PathWithMaximumGold
+https://leetcode.com/problems/path-with-maximum-gold/
