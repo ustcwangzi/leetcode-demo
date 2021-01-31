@@ -1656,3 +1656,5 @@ https://leetcode.com/problems/iterator-for-combination/
 https://leetcode.com/problems/sequential-digits/
 ## TheKthLexicographicalStringOfAllHappyStringsOfLengthN
 https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
+## SplitStringIntoTheMaxNumberOfUniqueSubstrings
+https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
