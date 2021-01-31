@@ -1654,3 +1654,5 @@ https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-uniqu
 https://leetcode.com/problems/iterator-for-combination/
 ## SequentialDigits
 https://leetcode.com/problems/sequential-digits/
+## TheKthLexicographicalStringOfAllHappyStringsOfLengthN
+https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
