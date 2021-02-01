@@ -1660,3 +1660,5 @@ https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strin
 https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
 ## CountOfMatchesInTournament
 https://leetcode.com/problems/count-of-matches-in-tournament/
+## ConstructTheLexicographicallyLargestValidSequence
+https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/
