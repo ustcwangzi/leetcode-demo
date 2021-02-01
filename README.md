@@ -1658,3 +1658,5 @@ https://leetcode.com/problems/sequential-digits/
 https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/
 ## SplitStringIntoTheMaxNumberOfUniqueSubstrings
 https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/
+## CountOfMatchesInTournament
+https://leetcode.com/problems/count-of-matches-in-tournament/
