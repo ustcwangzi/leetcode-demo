@@ -1662,3 +1662,5 @@ https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-subst
 https://leetcode.com/problems/count-of-matches-in-tournament/
 ## ConstructTheLexicographicallyLargestValidSequence
 https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/
+## FindMinimumTimeToFinishAllJobs
+https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/
