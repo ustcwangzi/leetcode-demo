@@ -7,26 +7,26 @@ import java.util.List;
 import java.util.Stack;
 
 /**
- * Given the root of a binary tree, return the inorder traversal of its nodes' values.
+ * Given the root of a binary tree, return the preorder traversal of its nodes' values.
  *
  * Example 1:
  * @see ../../../../resource/BinaryTreeInorderTraversal.jpg
  * Input: root = [1,null,2,3]
- * Output: [1,3,2]
+ * Output: [1,2,3]
  *
  * Constraints:
  * 1. The number of nodes in the tree is in the range [0, 100].
  * 2. -100 <= Node.val <= 100
  */
-public class BinaryTreeInorderTraversal {
+public class BinaryTreePreorderTraversal {
     public static void main(String[] args) {
         TreeNode right = new TreeNode(2, new TreeNode(3), null);
         TreeNode root = new TreeNode(1, null, right);
-        System.out.println(inorderTraversal(root));
+        System.out.println(preorderTraversal(root));
         System.out.println(traversalUnRecursive(root));
     }
 
-    public static List<Integer> inorderTraversal(TreeNode root) {
+    public static List<Integer> preorderTraversal(TreeNode root) {
         List<Integer> result = new LinkedList<>();
         traversalRecursive(root, result);
         return result;
@@ -39,14 +39,14 @@ public class BinaryTreeInorderTraversal {
         if (root == null) {
             return;
         }
-        traversalRecursive(root.left, result);
         result.add(root.val);
+        traversalRecursive(root.left, result);
         traversalRecursive(root.right, result);
     }
 
     /**
-     * 非递归
-     * 用 cur 记录当前正在遍历的节点，不停的遍历左子树，左子树不空则入栈，否则出栈并将值加入结果集，同时开始遍历右子树
+     * 非递归，与 {@link BinaryTreeInorderTraversal} 类似
+     * 只是将加入结果集的步骤放在了遍历左右子树之前
      */
     private static List<Integer> traversalUnRecursive(TreeNode root) {
         List<Integer> result = new LinkedList<>();
@@ -55,10 +55,10 @@ public class BinaryTreeInorderTraversal {
         while (cur != null || !stack.isEmpty()) {
             if (cur != null) {
                 stack.add(cur);
+                result.add(cur.val);
                 cur = cur.left;
             } else {
                 cur = stack.pop();
-                result.add(cur.val);
                 cur = cur.right;
             }
         }

@@ -1669,3 +1669,5 @@ https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/
 https://leetcode.com/problemset/all/?topicSlugs=stack
 ## BinaryTreeInorderTraversal
 https://leetcode.com/problems/binary-tree-inorder-traversal/
+## BinaryTreePreorderTraversal
+https://leetcode.com/problems/binary-tree-preorder-traversal/
