@@ -1677,3 +1677,5 @@ https://leetcode.com/problems/binary-tree-postorder-traversal/
 https://leetcode.com/problems/evaluate-reverse-polish-notation/
 ## MinStack
 https://leetcode.com/problems/min-stack/
+## BSTIterator
+https://leetcode.com/problems/binary-search-tree-iterator/
