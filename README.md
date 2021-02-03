@@ -1675,3 +1675,5 @@ https://leetcode.com/problems/binary-tree-preorder-traversal/
 https://leetcode.com/problems/binary-tree-postorder-traversal/
 ## EvaluateReversePolishNotation
 https://leetcode.com/problems/evaluate-reverse-polish-notation/
+## MinStack
+https://leetcode.com/problems/min-stack/
