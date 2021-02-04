@@ -1683,3 +1683,5 @@ https://leetcode.com/problems/binary-search-tree-iterator/
 https://leetcode.com/problems/implement-stack-using-queues/
 ## MyQueue
 https://leetcode.com/problems/implement-queue-using-stacks/
+## VerifyPreorderSerializationOfBinaryTree
+https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/
