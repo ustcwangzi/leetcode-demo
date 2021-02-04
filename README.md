@@ -1681,3 +1681,5 @@ https://leetcode.com/problems/min-stack/
 https://leetcode.com/problems/binary-search-tree-iterator/
 ## MyStack
 https://leetcode.com/problems/implement-stack-using-queues/
+## MyQueue
+https://leetcode.com/problems/implement-queue-using-stacks/
