@@ -1685,3 +1685,5 @@ https://leetcode.com/problems/implement-stack-using-queues/
 https://leetcode.com/problems/implement-queue-using-stacks/
 ## VerifyPreorderSerializationOfBinaryTree
 https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/
+## NestedIterator
+https://leetcode.com/problems/flatten-nested-list-iterator/
