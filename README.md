@@ -1687,3 +1687,5 @@ https://leetcode.com/problems/implement-queue-using-stacks/
 https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/
 ## NestedIterator
 https://leetcode.com/problems/flatten-nested-list-iterator/
+## RemoveKDigits
+https://leetcode.com/problems/remove-k-digits/
