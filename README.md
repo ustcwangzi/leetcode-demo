@@ -1689,3 +1689,5 @@ https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/
 https://leetcode.com/problems/flatten-nested-list-iterator/
 ## RemoveKDigits
 https://leetcode.com/problems/remove-k-digits/
+## Find132Pattern
+https://leetcode.com/problems/132-pattern/
