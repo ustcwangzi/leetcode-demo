@@ -1693,3 +1693,5 @@ https://leetcode.com/problems/remove-k-digits/
 https://leetcode.com/problems/132-pattern/
 ## NextGreaterElementI
 https://leetcode.com/problems/next-greater-element-i/
+## NextGreaterElementII
+https://leetcode.com/problems/next-greater-element-ii/
