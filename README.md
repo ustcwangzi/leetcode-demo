@@ -1695,3 +1695,5 @@ https://leetcode.com/problems/132-pattern/
 https://leetcode.com/problems/next-greater-element-i/
 ## NextGreaterElementII
 https://leetcode.com/problems/next-greater-element-ii/
+## BaseballGame
+https://leetcode.com/problems/baseball-game/
