@@ -1691,3 +1691,5 @@ https://leetcode.com/problems/flatten-nested-list-iterator/
 https://leetcode.com/problems/remove-k-digits/
 ## Find132Pattern
 https://leetcode.com/problems/132-pattern/
+## NextGreaterElementI
+https://leetcode.com/problems/next-greater-element-i/
