@@ -1699,3 +1699,5 @@ https://leetcode.com/problems/next-greater-element-ii/
 https://leetcode.com/problems/baseball-game/
 ## AsteroidCollision
 https://leetcode.com/problems/asteroid-collision/
+## DailyTemperatures
+https://leetcode.com/problems/daily-temperatures/
