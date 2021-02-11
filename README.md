@@ -1701,3 +1701,5 @@ https://leetcode.com/problems/baseball-game/
 https://leetcode.com/problems/asteroid-collision/
 ## DailyTemperatures
 https://leetcode.com/problems/daily-temperatures/
+## BackspaceStringCompare
+https://leetcode.com/problems/backspace-string-compare/
