@@ -1707,3 +1707,5 @@ https://leetcode.com/problems/backspace-string-compare/
 https://leetcode.com/problems/decoded-string-at-index/
 ## StockSpanner
 https://leetcode.com/problems/online-stock-span/
+## MinimumAddToMakeParenthesesValid
+https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
