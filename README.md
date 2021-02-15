@@ -1713,3 +1713,5 @@ https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
 https://leetcode.com/problems/validate-stack-sequences/
 ## RemoveOutermostParentheses
 https://leetcode.com/problems/remove-outermost-parentheses/
+## RemoveAllAdjacentDuplicatesInString
+https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
