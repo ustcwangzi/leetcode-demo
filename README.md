@@ -1711,3 +1711,5 @@ https://leetcode.com/problems/online-stock-span/
 https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
 ## ValidateStackSequences
 https://leetcode.com/problems/validate-stack-sequences/
+## RemoveOutermostParentheses
+https://leetcode.com/problems/remove-outermost-parentheses/
