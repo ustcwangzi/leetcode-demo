@@ -1709,3 +1709,5 @@ https://leetcode.com/problems/decoded-string-at-index/
 https://leetcode.com/problems/online-stock-span/
 ## MinimumAddToMakeParenthesesValid
 https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
+## ValidateStackSequences
+https://leetcode.com/problems/validate-stack-sequences/
