@@ -1715,3 +1715,5 @@ https://leetcode.com/problems/validate-stack-sequences/
 https://leetcode.com/problems/remove-outermost-parentheses/
 ## RemoveAllAdjacentDuplicatesInString
 https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+## LongestWellPerformingInterval
+https://leetcode.com/problems/longest-well-performing-interval/
