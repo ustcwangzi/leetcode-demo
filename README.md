@@ -1721,3 +1721,5 @@ https://leetcode.com/problems/longest-well-performing-interval/
 https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/
 ## RemoveAllAdjacentDuplicatesInStringII
 https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/
+## CustomStack
+https://leetcode.com/problems/design-a-stack-with-increment-operation/
