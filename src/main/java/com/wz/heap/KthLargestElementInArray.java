@@ -1,4 +1,4 @@
-package com.wz.stack;
+package com.wz.heap;
 
 import java.util.PriorityQueue;
 
