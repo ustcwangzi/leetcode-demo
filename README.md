@@ -1725,3 +1725,5 @@ https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/
 https://leetcode.com/problems/design-a-stack-with-increment-operation/
 ## BuildAnArrayWithStackOperations
 https://leetcode.com/problems/build-an-array-with-stack-operations/
+## CrawlerLogFolder
+https://leetcode.com/problems/crawler-log-folder/
