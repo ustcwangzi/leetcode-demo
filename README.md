@@ -1729,3 +1729,8 @@ https://leetcode.com/problems/build-an-array-with-stack-operations/
 https://leetcode.com/problems/crawler-log-folder/
 ## FindTheMostCompetitiveSubsequence
 https://leetcode.com/problems/find-the-most-competitive-subsequence/
+
+# Heap
+https://leetcode.com/problemset/all/?topicSlugs=heap
+## KthLargestElementInArray
+https://leetcode.com/problems/kth-largest-element-in-an-array/
