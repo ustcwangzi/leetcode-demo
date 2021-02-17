@@ -1723,3 +1723,5 @@ https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parenthese
 https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/
 ## CustomStack
 https://leetcode.com/problems/design-a-stack-with-increment-operation/
+## BuildAnArrayWithStackOperations
+https://leetcode.com/problems/build-an-array-with-stack-operations/
