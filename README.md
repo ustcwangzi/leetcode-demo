@@ -1738,3 +1738,5 @@ https://leetcode.com/problems/kth-largest-element-in-an-array/
 https://leetcode.com/problems/top-k-frequent-elements/
 ## Twitter
 https://leetcode.com/problems/design-twitter/
+## FindKPairsWithSmallestSums
+https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
