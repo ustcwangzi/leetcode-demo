@@ -1742,3 +1742,5 @@ https://leetcode.com/problems/design-twitter/
 https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
 ## KthSmallestElementInSortedMatrix
 https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
+## SortCharactersByFrequency
+https://leetcode.com/problems/sort-characters-by-frequency/
