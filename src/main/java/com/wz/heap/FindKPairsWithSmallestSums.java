@@ -27,9 +27,9 @@ public class FindKPairsWithSmallestSums {
      */
     public static List<List<Integer>> kSmallestPairs(int[] nums1, int[] nums2, int k) {
         PriorityQueue<List<Integer>> queue = new PriorityQueue<>((num1, num2) -> Integer.compare(num2.get(0) + num2.get(1), num1.get(0) + num1.get(1)));
-        for (int i : nums1) {
-            for (int j : nums2) {
-                queue.add(Arrays.asList(i, j));
+        for (int i = 0; i < Math.min(k, nums1.length); i++) {
+            for (int j = 0; j < Math.min(k, nums2.length); j++) {
+                queue.add(Arrays.asList(nums1[i], nums2[j]));
                 if (queue.size() > k) {
                     queue.poll();
                 }
