@@ -25,8 +25,8 @@ public class KthLargestElementInArray {
     /**
      * 小根堆
      * 以最大的 k 个元素建立小根堆，堆顶是这 k 个元素中最小的
-     * 遍历数组，若堆中元素小于 k，则直接加入堆中，继续遍历下一个元素
-     * 否则，弹出堆顶，将当前元素加入堆中，最后直接返回堆顶元素即可
+     * 遍历数组，若堆中元素个数小于 k，则直接加入堆中，继续遍历下一个元素
+     * 否则，若当前元素大于堆顶，则弹出堆顶，将当前元素加入堆中，最后直接返回堆顶元素即可
      */
     public static int findKthLargest(int[] nums, int k) {
         PriorityQueue<Integer> queue = new PriorityQueue<>(k);

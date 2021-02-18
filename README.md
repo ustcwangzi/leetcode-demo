@@ -1740,3 +1740,5 @@ https://leetcode.com/problems/top-k-frequent-elements/
 https://leetcode.com/problems/design-twitter/
 ## FindKPairsWithSmallestSums
 https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
+## KthSmallestElementInSortedMatrix
+https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
