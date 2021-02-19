@@ -32,13 +32,9 @@ public class TopKFrequentElements {
 
         PriorityQueue<Map.Entry<Integer, Integer>> queue = new PriorityQueue<>(k, Comparator.comparingInt(Map.Entry::getValue));
         for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
-            if (queue.size() < k) {
-                queue.offer(entry);
-                continue;
-            }
-            if (queue.peek().getValue() < entry.getValue()) {
+            queue.offer(entry);
+            if (queue.size() > k) {
                 queue.poll();
-                queue.offer(entry);
             }
         }
 

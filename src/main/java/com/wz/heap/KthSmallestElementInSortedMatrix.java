@@ -32,20 +32,14 @@ public class KthSmallestElementInSortedMatrix {
      * 与 {@link KthLargestElementInArray} 类似
      * 只是 {@link KthLargestElementInArray} 使用小根堆，而本题使用大根堆
      * 以最小的 k 个元素建立大根堆，堆顶是这 k 个元素中最大的
-     * 遍历数组，若堆中元素个数小于 k，则直接加入堆中，继续遍历下一个元素
-     * 否则，若当前元素小于堆顶，则弹出堆顶，将当前元素加入堆中，最后直接返回堆顶元素即可
      */
     public static int kthSmallest(int[][] matrix, int k) {
         PriorityQueue<Integer> queue = new PriorityQueue<>(k, (o1, o2) -> Integer.compare(o2, o1));
         for (int i = 0; i < matrix.length; i++) {
             for (int j = 0; j < matrix[0].length; j++) {
-                if (queue.size() < k) {
-                    queue.offer(matrix[i][j]);
-                    continue;
-                }
-                if (queue.peek() > matrix[i][j]) {
+                queue.offer(matrix[i][j]);
+                if (queue.size() > k) {
                     queue.poll();
-                    queue.offer(matrix[i][j]);
                 }
             }
         }
