@@ -1744,3 +1744,5 @@ https://leetcode.com/problems/find-k-pairs-with-smallest-sums/
 https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 ## SortCharactersByFrequency
 https://leetcode.com/problems/sort-characters-by-frequency/
+## SplitArrayIntoConsecutiveSubsequences
+https://leetcode.com/problems/split-array-into-consecutive-subsequences/
