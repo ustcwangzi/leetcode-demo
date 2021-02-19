@@ -1748,3 +1748,5 @@ https://leetcode.com/problems/sort-characters-by-frequency/
 https://leetcode.com/problems/split-array-into-consecutive-subsequences/
 ## TopKFrequentWords
 https://leetcode.com/problems/top-k-frequent-words/
+## KthLargestElementInStream
+https://leetcode.com/problems/kth-largest-element-in-a-stream/
