@@ -1756,3 +1756,5 @@ https://leetcode.com/problems/k-closest-points-to-origin/
 https://leetcode.com/problems/last-stone-weight/
 ## DistantBarcodes
 https://leetcode.com/problems/distant-barcodes/
+## FurthestBuildingYouCanReach
+https://leetcode.com/problems/furthest-building-you-can-reach/
