@@ -1754,3 +1754,5 @@ https://leetcode.com/problems/kth-largest-element-in-a-stream/
 https://leetcode.com/problems/k-closest-points-to-origin/
 ## LastStoneWeight
 https://leetcode.com/problems/last-stone-weight/
+## DistantBarcodes
+https://leetcode.com/problems/distant-barcodes/
