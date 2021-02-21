@@ -1752,3 +1752,5 @@ https://leetcode.com/problems/top-k-frequent-words/
 https://leetcode.com/problems/kth-largest-element-in-a-stream/
 ## KClosestPointsToOrigin
 https://leetcode.com/problems/k-closest-points-to-origin/
+## LastStoneWeight
+https://leetcode.com/problems/last-stone-weight/
