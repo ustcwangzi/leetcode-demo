@@ -1760,3 +1760,5 @@ https://leetcode.com/problems/distant-barcodes/
 https://leetcode.com/problems/furthest-building-you-can-reach/
 ## MaximumNumberOfEatenApples
 https://leetcode.com/problems/maximum-number-of-eaten-apples/
+## MaximumScoreFromRemovingStones
+https://leetcode.com/problems/maximum-score-from-removing-stones/
