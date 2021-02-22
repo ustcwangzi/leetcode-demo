@@ -1758,3 +1758,5 @@ https://leetcode.com/problems/last-stone-weight/
 https://leetcode.com/problems/distant-barcodes/
 ## FurthestBuildingYouCanReach
 https://leetcode.com/problems/furthest-building-you-can-reach/
+## MaximumNumberOfEatenApples
+https://leetcode.com/problems/maximum-number-of-eaten-apples/
