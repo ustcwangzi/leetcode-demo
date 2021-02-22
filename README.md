@@ -1762,3 +1762,5 @@ https://leetcode.com/problems/furthest-building-you-can-reach/
 https://leetcode.com/problems/maximum-number-of-eaten-apples/
 ## MaximumScoreFromRemovingStones
 https://leetcode.com/problems/maximum-score-from-removing-stones/
+## MinimumLimitOfBallsInBag
+https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/
