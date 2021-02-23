@@ -1764,3 +1764,8 @@ https://leetcode.com/problems/maximum-number-of-eaten-apples/
 https://leetcode.com/problems/maximum-score-from-removing-stones/
 ## MinimumLimitOfBallsInBag
 https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/
+
+# Greedy
+https://leetcode.com/problemset/all/?topicSlugs=greedy
+## GasStation
+https://leetcode.com/problems/gas-station/
