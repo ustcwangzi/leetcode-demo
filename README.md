@@ -1769,3 +1769,5 @@ https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/
 https://leetcode.com/problemset/all/?topicSlugs=greedy
 ## GasStation
 https://leetcode.com/problems/gas-station/
+## QueueReconstructionByHeight
+https://leetcode.com/problems/queue-reconstruction-by-height/
