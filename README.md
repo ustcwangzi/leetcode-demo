@@ -1773,3 +1773,5 @@ https://leetcode.com/problems/gas-station/
 https://leetcode.com/problems/queue-reconstruction-by-height/
 ## NonOverlappingIntervals
 https://leetcode.com/problems/non-overlapping-intervals/
+## MinimumNumberOfArrowsToBurstBalloons
+https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
