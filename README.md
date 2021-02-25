@@ -1780,3 +1780,5 @@ https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 https://leetcode.com/problemset/all/?topicSlugs=tree
 ## LowestCommonAncestorOfBinarySearchTree
 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+## LowestCommonAncestorOfBinaryTree
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
