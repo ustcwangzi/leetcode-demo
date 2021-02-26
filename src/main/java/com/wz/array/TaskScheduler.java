@@ -1,5 +1,7 @@
 package com.wz.array;
 
+import java.util.*;
+
 /**
  * Given a char array representing tasks CPU need to do.
  * It contains capital letters A to Z where different letters represent different tasks.
@@ -18,6 +20,7 @@ public class TaskScheduler {
     public static void main(String[] args) {
         char[] tasks = new char[]{'A', 'A', 'A', 'B', 'B', 'B'};
         System.out.println(leastInterval(tasks, 2));
+        System.out.println(leastInterval2(tasks, 2));
     }
 
     /**
@@ -58,5 +61,51 @@ public class TaskScheduler {
 
         // 模块次数 * 模块长度 + 出现次数最多的任务个数
         return Math.max(tasks.length, (maxFreq - 1) * (n + 1) + maxFreqCount);
+    }
+
+    /**
+     * 大根堆
+     * 由于相同的间隔至少为 n，所以可以把 n+1 看作一组，将任务出现次数存在大根堆中
+     * 每次按照出现次数来填充当前的 n+1 个slot，即因此从堆中取出任务
+     * 每取出一次次数减一，减一之后若还大于 0，则需要继续加入堆中
+     */
+    public static int leastInterval2(char[] tasks, int n) {
+        int[] freq = new int[26];
+        for (char task : tasks) {
+            freq[task - 'A']++;
+        }
+
+        PriorityQueue<Integer> queue = new PriorityQueue<>(Comparator.reverseOrder());
+        for (int num : freq) {
+            if (num > 0) {
+                queue.offer(num);
+            }
+        }
+
+        int result = 0;
+        while (!queue.isEmpty()) {
+            // 分配当前的 n+1 个 slot
+            List<Integer> tmp = new LinkedList<>();
+            for (int i = 0; i < n + 1; i++) {
+                if (queue.isEmpty()) {
+                    break;
+                }
+                tmp.add(queue.poll());
+            }
+
+            for (int cur : tmp) {
+                if (cur > 1) {
+                    queue.offer(cur - 1);
+                }
+            }
+
+            if (queue.isEmpty()) {
+                // 堆空，说明当前的 n+1 未分配满
+                result += tmp.size();
+            } else {
+                result += n + 1;
+            }
+        }
+        return result;
     }
 }
