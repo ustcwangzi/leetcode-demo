@@ -1787,6 +1787,8 @@ https://leetcode.com/problems/lemonade-change/
 https://leetcode.com/problems/score-after-flipping-matrix/
 ## BoatsToSavePeople
 https://leetcode.com/problems/boats-to-save-people/
+## BagOfTokens
+https://leetcode.com/problems/bag-of-tokens/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
