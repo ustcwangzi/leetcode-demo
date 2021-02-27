@@ -1795,6 +1795,8 @@ https://leetcode.com/problems/delete-columns-to-make-sorted/
 https://leetcode.com/problems/delete-columns-to-make-sorted-ii/
 ## StringWithoutAAAOrBBB
 https://leetcode.com/problems/string-without-aaa-or-bbb/
+## MaximizeSumOfArrayAfterKNegations
+https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
