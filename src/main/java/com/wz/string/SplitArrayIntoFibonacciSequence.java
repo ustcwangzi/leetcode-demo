@@ -1,6 +1,6 @@
 package com.wz.string;
 
-import java.util.LinkedList;
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -30,7 +30,7 @@ public class SplitArrayIntoFibonacciSequence {
     }
 
     public static List<Integer> splitIntoFibonacci(String s) {
-        List<Integer> result = new LinkedList<>();
+        List<Integer> result = new ArrayList<>();
         dfs(s, 0, result);
         return result;
     }
@@ -55,7 +55,7 @@ public class SplitArrayIntoFibonacciSequence {
             }
 
             int size = result.size();
-            // 从第三个数字开始，如果新加入的数字不等于前两个数字只和，直接break
+            // 从第三个数字开始，如果新加入的数字不等于前两个数字之和，直接break
             if (size > 2 && num > result.get(size - 2) + result.get(size - 1)) {
                 break;
             }

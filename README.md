@@ -1781,6 +1781,8 @@ https://leetcode.com/problems/assign-cookies/
 https://leetcode.com/problems/monotone-increasing-digits/
 ## PartitionLabels
 https://leetcode.com/problems/partition-labels/
+## LemonadeChange
+https://leetcode.com/problems/lemonade-change/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
