@@ -1779,6 +1779,8 @@ https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 https://leetcode.com/problems/assign-cookies/
 ## MonotoneIncreasingDigits
 https://leetcode.com/problems/monotone-increasing-digits/
+## PartitionLabels
+https://leetcode.com/problems/partition-labels/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
