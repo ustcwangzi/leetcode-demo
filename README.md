@@ -1783,6 +1783,8 @@ https://leetcode.com/problems/monotone-increasing-digits/
 https://leetcode.com/problems/partition-labels/
 ## LemonadeChange
 https://leetcode.com/problems/lemonade-change/
+## ScoreAfterFlippingMatrix
+https://leetcode.com/problems/score-after-flipping-matrix/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
