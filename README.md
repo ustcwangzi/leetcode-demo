@@ -1777,6 +1777,8 @@ https://leetcode.com/problems/non-overlapping-intervals/
 https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 ## AssignCookies
 https://leetcode.com/problems/assign-cookies/
+## MonotoneIncreasingDigits
+https://leetcode.com/problems/monotone-increasing-digits/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
