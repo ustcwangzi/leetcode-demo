@@ -1791,6 +1791,8 @@ https://leetcode.com/problems/boats-to-save-people/
 https://leetcode.com/problems/bag-of-tokens/
 ## DeleteColumnsToMakeSorted
 https://leetcode.com/problems/delete-columns-to-make-sorted/
+## DeleteColumnsToMakeSortedII
+https://leetcode.com/problems/delete-columns-to-make-sorted-ii/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
