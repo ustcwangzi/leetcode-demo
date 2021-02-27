@@ -1785,6 +1785,8 @@ https://leetcode.com/problems/partition-labels/
 https://leetcode.com/problems/lemonade-change/
 ## ScoreAfterFlippingMatrix
 https://leetcode.com/problems/score-after-flipping-matrix/
+## BoatsToSavePeople
+https://leetcode.com/problems/boats-to-save-people/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
