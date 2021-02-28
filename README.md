@@ -1799,6 +1799,8 @@ https://leetcode.com/problems/string-without-aaa-or-bbb/
 https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/
 ## TwoCityScheduling
 https://leetcode.com/problems/two-city-scheduling/
+## LargestValuesFromLabels
+https://leetcode.com/problems/largest-values-from-labels/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
