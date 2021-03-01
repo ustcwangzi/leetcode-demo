@@ -1805,6 +1805,8 @@ https://leetcode.com/problems/largest-values-from-labels/
 https://leetcode.com/problems/car-pooling/
 ## GroupThePeopleGivenTheGroupSizeTheyBelongTo
 https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/
+## RemoveCoveredIntervals
+https://leetcode.com/problems/remove-covered-intervals/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
