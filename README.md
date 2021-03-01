@@ -1807,6 +1807,8 @@ https://leetcode.com/problems/car-pooling/
 https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/
 ## RemoveCoveredIntervals
 https://leetcode.com/problems/remove-covered-intervals/
+## MaximumNumberOfEventsThatCanBeAttended
+https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
