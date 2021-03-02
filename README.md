@@ -1809,6 +1809,8 @@ https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-
 https://leetcode.com/problems/remove-covered-intervals/
 ## MaximumNumberOfEventsThatCanBeAttended
 https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
+## ConstructKPalindromeStrings
+https://leetcode.com/problems/construct-k-palindrome-strings/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
