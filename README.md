@@ -1815,6 +1815,8 @@ https://leetcode.com/problems/construct-k-palindrome-strings/
 https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/
 ## WaterBottles
 https://leetcode.com/problems/water-bottles/
+## MinimumNumbersOfFunctionCallsToMakeTargetArray
+https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
