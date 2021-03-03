@@ -1813,6 +1813,8 @@ https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/
 https://leetcode.com/problems/construct-k-palindrome-strings/
 ## MinimumSubsequenceInNonIncreasingOrder
 https://leetcode.com/problems/minimum-subsequence-in-non-increasing-order/
+## WaterBottles
+https://leetcode.com/problems/water-bottles/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
