@@ -1821,6 +1821,8 @@ https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-a
 https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/
 ## MinimumDeletionCostToAvoidRepeatingLetters
 https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/
+## MaximumSumObtainedOfAnyPermutation
+https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
