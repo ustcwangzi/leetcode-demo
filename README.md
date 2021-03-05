@@ -1825,6 +1825,8 @@ https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/
 https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/
 ## FindValidMatrixGivenRowAndColumnSums
 https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/
+## MinimumDeletionsToMakeCharacterFrequenciesUnique
+https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
