@@ -1823,6 +1823,8 @@ https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/
 https://leetcode.com/problems/minimum-deletion-cost-to-avoid-repeating-letters/
 ## MaximumSumObtainedOfAnyPermutation
 https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/
+## FindValidMatrixGivenRowAndColumnSums
+https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
