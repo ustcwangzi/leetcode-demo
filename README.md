@@ -1829,6 +1829,8 @@ https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/
 https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
 ## MinimumDeletionsToMakeStringBalanced
 https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/
+## DetermineIfTwoStringsAreClose
+https://leetcode.com/problems/determine-if-two-strings-are-close/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
