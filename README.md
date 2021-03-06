@@ -1831,6 +1831,8 @@ https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-un
 https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/
 ## DetermineIfTwoStringsAreClose
 https://leetcode.com/problems/determine-if-two-strings-are-close/
+## MinimumOperationsToReduceXToZero
+https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
