@@ -1827,6 +1827,8 @@ https://leetcode.com/problems/maximum-sum-obtained-of-any-permutation/
 https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/
 ## MinimumDeletionsToMakeCharacterFrequenciesUnique
 https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
+## MinimumDeletionsToMakeStringBalanced
+https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
