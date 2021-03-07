@@ -1833,6 +1833,8 @@ https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/
 https://leetcode.com/problems/determine-if-two-strings-are-close/
 ## MinimumOperationsToReduceXToZero
 https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
+## SmallestStringWithAGivenNumericValue
+https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
