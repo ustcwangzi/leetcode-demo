@@ -1837,6 +1837,8 @@ https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/
 ## MinimumMovesToMakeArrayComplementary
 https://leetcode.com/problems/minimum-moves-to-make-array-complementary/
+## SumOfAbsoluteDifferencesInSortedArray
+https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
