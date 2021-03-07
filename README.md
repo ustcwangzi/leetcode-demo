@@ -1839,6 +1839,8 @@ https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/
 https://leetcode.com/problems/minimum-moves-to-make-array-complementary/
 ## SumOfAbsoluteDifferencesInSortedArray
 https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/
+## StoneGameVI
+https://leetcode.com/problems/stone-game-vi/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
