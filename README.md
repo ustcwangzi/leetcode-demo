@@ -1845,6 +1845,8 @@ https://leetcode.com/problems/stone-game-vi/
 https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 ## MaximumBinaryStringAfterChange
 https://leetcode.com/problems/maximum-binary-string-after-change/
+## MaximumUnitsOnTruck
+https://leetcode.com/problems/maximum-units-on-a-truck/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
