@@ -1841,6 +1841,8 @@ https://leetcode.com/problems/minimum-moves-to-make-array-complementary/
 https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/
 ## StoneGameVI
 https://leetcode.com/problems/stone-game-vi/
+## PartitioningIntoMinimumNumberOfDeciBinaryNumbers
+https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
