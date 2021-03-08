@@ -1843,6 +1843,8 @@ https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/
 https://leetcode.com/problems/stone-game-vi/
 ## PartitioningIntoMinimumNumberOfDeciBinaryNumbers
 https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
+## MaximumBinaryStringAfterChange
+https://leetcode.com/problems/maximum-binary-string-after-change/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
