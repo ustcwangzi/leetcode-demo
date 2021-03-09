@@ -1847,6 +1847,8 @@ https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-nu
 https://leetcode.com/problems/maximum-binary-string-after-change/
 ## MaximumUnitsOnTruck
 https://leetcode.com/problems/maximum-units-on-a-truck/
+## CalculateMoneyInLeetcodeBank
+https://leetcode.com/problems/calculate-money-in-leetcode-bank/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
