@@ -1849,6 +1849,8 @@ https://leetcode.com/problems/maximum-binary-string-after-change/
 https://leetcode.com/problems/maximum-units-on-a-truck/
 ## CalculateMoneyInLeetcodeBank
 https://leetcode.com/problems/calculate-money-in-leetcode-bank/
+## MaximumScoreFromRemovingSubstrings
+https://leetcode.com/problems/maximum-score-from-removing-substrings/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
