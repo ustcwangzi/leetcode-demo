@@ -1853,6 +1853,8 @@ https://leetcode.com/problems/calculate-money-in-leetcode-bank/
 https://leetcode.com/problems/maximum-score-from-removing-substrings/
 ## NumberOfRectanglesThatCanFormTheLargestSquare
 https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/
+## LargestSubmatrixWithRearrangements
+https://leetcode.com/problems/largest-submatrix-with-rearrangements/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
