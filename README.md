@@ -1851,6 +1851,8 @@ https://leetcode.com/problems/maximum-units-on-a-truck/
 https://leetcode.com/problems/calculate-money-in-leetcode-bank/
 ## MaximumScoreFromRemovingSubstrings
 https://leetcode.com/problems/maximum-score-from-removing-substrings/
+## NumberOfRectanglesThatCanFormTheLargestSquare
+https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
