@@ -1855,6 +1855,8 @@ https://leetcode.com/problems/maximum-score-from-removing-substrings/
 https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/
 ## LargestSubmatrixWithRearrangements
 https://leetcode.com/problems/largest-submatrix-with-rearrangements/
+## LatestTimeByReplacingHiddenDigits
+https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
