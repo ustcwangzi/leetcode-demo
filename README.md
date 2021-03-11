@@ -1859,6 +1859,8 @@ https://leetcode.com/problems/largest-submatrix-with-rearrangements/
 https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/
 ## RestoreTheArrayFromAdjacentPairs
 https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/
+## MaximumAbsoluteSumOfAnySubarray
+https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
