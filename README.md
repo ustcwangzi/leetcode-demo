@@ -1857,6 +1857,8 @@ https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-squ
 https://leetcode.com/problems/largest-submatrix-with-rearrangements/
 ## LatestTimeByReplacingHiddenDigits
 https://leetcode.com/problems/latest-time-by-replacing-hidden-digits/
+## RestoreTheArrayFromAdjacentPairs
+https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
