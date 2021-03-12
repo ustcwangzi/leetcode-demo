@@ -44,6 +44,7 @@ public class LargestMergeOfTwoStrings {
      * 如果 a == b，则判断剩下的字符：
      *    若 remain1 > remain2，则将 a 加入结果集，i 右移；
      *    否则将 b 加入结果集，j 右移
+     * 最后将剩余的字符一次性加入结果集
      */
     public static String largestMerge(String word1, String word2) {
         StringBuilder builder = new StringBuilder();

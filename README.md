@@ -1863,6 +1863,8 @@ https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/
 https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/
 ## LargestMergeOfTwoStrings
 https://leetcode.com/problems/largest-merge-of-two-strings/
+## MinimumChangesToMakeAlternatingBinaryString
+https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
