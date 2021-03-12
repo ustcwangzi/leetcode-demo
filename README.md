@@ -1865,6 +1865,8 @@ https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/
 https://leetcode.com/problems/largest-merge-of-two-strings/
 ## MinimumChangesToMakeAlternatingBinaryString
 https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/
+## CountNumberOfHomogenousSubstrings
+https://leetcode.com/problems/count-number-of-homogenous-substrings/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
