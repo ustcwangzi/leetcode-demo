@@ -1873,6 +1873,8 @@ https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-a
 https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/
 ## ClosestDessertCost
 https://leetcode.com/problems/closest-dessert-cost/
+## EqualSumArraysWithMinimumNumberOfOperations
+https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
