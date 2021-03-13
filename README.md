@@ -1871,6 +1871,8 @@ https://leetcode.com/problems/count-number-of-homogenous-substrings/
 https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/
 ## MinimumNumberOfOperationsToMoveAllBallsToEachBox
 https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/
+## ClosestDessertCost
+https://leetcode.com/problems/closest-dessert-cost/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
