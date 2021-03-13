@@ -1867,6 +1867,8 @@ https://leetcode.com/problems/largest-merge-of-two-strings/
 https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/
 ## CountNumberOfHomogenousSubstrings
 https://leetcode.com/problems/count-number-of-homogenous-substrings/
+## FormArrayByConcatenatingSubarraysOfAnotherArray
+https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
