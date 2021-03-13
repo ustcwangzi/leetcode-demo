@@ -1877,6 +1877,8 @@ https://leetcode.com/problems/closest-dessert-cost/
 https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/
 ## CheckIfBinaryStringHasAtMostOneSegmentOfOnes
 https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/
+## MinimumElementsToAddToFormGivenSum
+https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
