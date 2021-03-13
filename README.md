@@ -1875,6 +1875,8 @@ https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-
 https://leetcode.com/problems/closest-dessert-cost/
 ## EqualSumArraysWithMinimumNumberOfOperations
 https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations/
+## CheckIfBinaryStringHasAtMostOneSegmentOfOnes
+https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
