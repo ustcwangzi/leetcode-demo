@@ -1869,6 +1869,8 @@ https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/
 https://leetcode.com/problems/count-number-of-homogenous-substrings/
 ## FormArrayByConcatenatingSubarraysOfAnotherArray
 https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/
+## MinimumNumberOfOperationsToMoveAllBallsToEachBox
+https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
