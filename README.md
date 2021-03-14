@@ -1890,3 +1890,5 @@ https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 https://leetcode.com/problems/count-complete-tree-nodes/
 ## InvertBinaryTree
 https://leetcode.com/problems/invert-binary-tree/
+## KthSmallestElementInBST
+https://leetcode.com/problems/kth-smallest-element-in-a-bst/
