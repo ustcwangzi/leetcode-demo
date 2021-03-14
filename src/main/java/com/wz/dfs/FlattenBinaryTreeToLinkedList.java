@@ -61,8 +61,10 @@ public class FlattenBinaryTreeToLinkedList {
         if (root == null) {
             return;
         }
+
         flatten(root.left);
         flatten(root.right);
+
         TreeNode tmp = root.right;
         root.right = root.left;
         root.left = null;

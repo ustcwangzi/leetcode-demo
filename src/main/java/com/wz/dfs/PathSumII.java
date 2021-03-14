@@ -24,6 +24,11 @@ import java.util.List;
  *    [5,4,11,2],
  *    [5,8,4,5]
  * ]
+ *
+ * Constraints:
+ * 1. The number of nodes in the tree is in the range [0, 5000].
+ * 2. -1000 <= Node.val <= 1000
+ * 3. -1000 <= targetSum <= 1000
  */
 public class PathSumII {
     public static void main(String[] args) {
@@ -36,6 +41,9 @@ public class PathSumII {
         right.left = new TreeNode(13);
         right.right = new TreeNode(4, new TreeNode(5), new TreeNode(1));
         System.out.println(pathSum(root, 22));
+
+        root = new TreeNode(-2, null, new TreeNode(-3));
+        System.out.println(pathSum(root, -5));
     }
 
     /**
@@ -52,7 +60,7 @@ public class PathSumII {
     }
 
     private static void dfs(TreeNode root, int target, List<List<Integer>> result, List<Integer> path) {
-        if (root == null || root.val > target) {
+        if (root == null) {
             return;
         }
         path.add(root.val);
