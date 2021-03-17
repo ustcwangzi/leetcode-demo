@@ -1902,5 +1902,7 @@ https://leetcode.com/problems/serialize-and-deserialize-bst/
 https://leetcode.com/problems/delete-node-in-a-bst/
 ## FindModeInBinarySearchTree
 https://leetcode.com/problems/find-mode-in-binary-search-tree/
-## 
+## MostFrequentSubtreeSum
 https://leetcode.com/problems/most-frequent-subtree-sum/
+## MinimumAbsoluteDifferenceInBST
+https://leetcode.com/problems/minimum-absolute-difference-in-bst/
