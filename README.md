@@ -1908,3 +1908,5 @@ https://leetcode.com/problems/most-frequent-subtree-sum/
 https://leetcode.com/problems/minimum-absolute-difference-in-bst/
 ## ConvertBSTToGreaterTree
 https://leetcode.com/problems/convert-bst-to-greater-tree/
+## DiameterOfBinaryTree
+https://leetcode.com/problems/diameter-of-binary-tree/
