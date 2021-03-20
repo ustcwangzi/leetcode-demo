@@ -1912,3 +1912,5 @@ https://leetcode.com/problems/convert-bst-to-greater-tree/
 https://leetcode.com/problems/diameter-of-binary-tree/
 ## SubtreeOfAnotherTree
 https://leetcode.com/problems/subtree-of-another-tree/
+## NAryTreePreorderTraversal
+https://leetcode.com/problems/n-ary-tree-preorder-traversal/
