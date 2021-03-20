@@ -1914,3 +1914,5 @@ https://leetcode.com/problems/diameter-of-binary-tree/
 https://leetcode.com/problems/subtree-of-another-tree/
 ## NAryTreePreorderTraversal
 https://leetcode.com/problems/n-ary-tree-preorder-traversal/
+## NAryTreePostorderTraversal
+https://leetcode.com/problems/n-ary-tree-postorder-traversal/
