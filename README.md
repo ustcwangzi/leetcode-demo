@@ -1922,3 +1922,5 @@ https://leetcode.com/problems/construct-string-from-binary-tree/
 https://leetcode.com/problems/merge-two-binary-trees/
 ## AddOneRowToTree
 https://leetcode.com/problems/add-one-row-to-tree/
+## AverageOfLevelsInBinaryTree
+https://leetcode.com/problems/average-of-levels-in-binary-tree/
