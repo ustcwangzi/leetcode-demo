@@ -1916,3 +1916,5 @@ https://leetcode.com/problems/subtree-of-another-tree/
 https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 ## NAryTreePostorderTraversal
 https://leetcode.com/problems/n-ary-tree-postorder-traversal/
+## ConstructStringFromBinaryTree
+https://leetcode.com/problems/construct-string-from-binary-tree/
