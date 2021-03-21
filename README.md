@@ -1926,3 +1926,5 @@ https://leetcode.com/problems/add-one-row-to-tree/
 https://leetcode.com/problems/average-of-levels-in-binary-tree/
 ## FindDuplicateSubtrees
 https://leetcode.com/problems/find-duplicate-subtrees/
+## TwoSumIVInputIsBST
+https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
