@@ -1918,3 +1918,5 @@ https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 https://leetcode.com/problems/n-ary-tree-postorder-traversal/
 ## ConstructStringFromBinaryTree
 https://leetcode.com/problems/construct-string-from-binary-tree/
+## MergeTwoBinaryTrees
+https://leetcode.com/problems/merge-two-binary-trees/
