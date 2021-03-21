@@ -1924,3 +1924,5 @@ https://leetcode.com/problems/merge-two-binary-trees/
 https://leetcode.com/problems/add-one-row-to-tree/
 ## AverageOfLevelsInBinaryTree
 https://leetcode.com/problems/average-of-levels-in-binary-tree/
+## FindDuplicateSubtrees
+https://leetcode.com/problems/find-duplicate-subtrees/

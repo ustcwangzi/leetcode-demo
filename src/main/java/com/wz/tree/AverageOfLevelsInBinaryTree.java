@@ -20,6 +20,10 @@ import java.util.Queue;
  * Output: [3.00000,14.50000,11.00000]
  * Explanation: The average value of nodes on level 0 is 3, on level 1 is 14.5, and on level 2 is 11.
  * Hence return [3, 14.5, 11].
+ *
+ * Constraints:
+ * 1. The number of nodes in the tree is in the range [1, 10^4].
+ * 2. -23^1 <= Node.val <= 2^31 - 1
  */
 public class AverageOfLevelsInBinaryTree {
     public static void main(String[] args) {
