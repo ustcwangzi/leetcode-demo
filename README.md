@@ -1928,3 +1928,5 @@ https://leetcode.com/problems/average-of-levels-in-binary-tree/
 https://leetcode.com/problems/find-duplicate-subtrees/
 ## TwoSumIVInputIsBST
 https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
+## MaximumBinaryTree
+https://leetcode.com/problems/maximum-binary-tree/
