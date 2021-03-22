@@ -1930,3 +1930,5 @@ https://leetcode.com/problems/find-duplicate-subtrees/
 https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
 ## MaximumBinaryTree
 https://leetcode.com/problems/maximum-binary-tree/
+## PrintBinaryTree
+https://leetcode.com/problems/print-binary-tree/
