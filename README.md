@@ -1934,3 +1934,5 @@ https://leetcode.com/problems/maximum-binary-tree/
 https://leetcode.com/problems/print-binary-tree/
 ## MaximumWidthOfBinaryTree
 https://leetcode.com/problems/maximum-width-of-binary-tree/
+## TrimBinarySearchTree
+https://leetcode.com/problems/trim-a-binary-search-tree/
