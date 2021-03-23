@@ -62,6 +62,12 @@ public class PrintBinaryTree {
         System.out.println(printTree(root));
     }
 
+    /**
+     * 最后答案一定是个矩形，矩形的宽等于树的高 h，矩形的长等于 2^h-1，先初始化出来这样的一个数组，然后再填数
+     * 每次填的位置都是相对自己所在区间的中点，对于第一行而言，就是中点 mid，这里记左端点 l=0，右端点 r=2^h-1，
+     * 那么 mid = (l+(r-l)/2) 刚好是中点，对于第二行左子树而言，区间变为[l, mid-1]，依然在该区间中点填写值，
+     * 第二行右子树而言，区间为 [mid+1,r]，依然为区间中点填写值，递归下去，依次填充节点值即可
+     */
     public static List<List<String>> printTree(TreeNode root) {
         int height = getHeight(root), level = (int) Math.pow(2, height) - 1;
         List<List<String>> result = new ArrayList<>(height);
@@ -78,6 +84,7 @@ public class PrintBinaryTree {
     }
 
     private static void build(TreeNode root, List<List<String>> result, int level, int left, int right) {
+        // 当前行所需要填充的位置
         int mid = (left + right) / 2;
         result.get(level).set(mid, "" + root.val);
         if (root.left != null) {
