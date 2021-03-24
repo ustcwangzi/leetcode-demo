@@ -1936,3 +1936,5 @@ https://leetcode.com/problems/print-binary-tree/
 https://leetcode.com/problems/maximum-width-of-binary-tree/
 ## TrimBinarySearchTree
 https://leetcode.com/problems/trim-a-binary-search-tree/
+## SecondMinimumNodeInBinaryTree
+https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/
