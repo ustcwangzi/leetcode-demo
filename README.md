@@ -1940,3 +1940,5 @@ https://leetcode.com/problems/trim-a-binary-search-tree/
 https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/
 ## RedundantConnection
 https://leetcode.com/problems/redundant-connection/
+## LongestUnivaluePath
+https://leetcode.com/problems/longest-univalue-path/
