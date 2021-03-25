@@ -1942,3 +1942,5 @@ https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/
 https://leetcode.com/problems/redundant-connection/
 ## LongestUnivaluePath
 https://leetcode.com/problems/longest-univalue-path/
+## SearchInBinarySearchTree
+https://leetcode.com/problems/search-in-a-binary-search-tree/
