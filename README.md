@@ -1944,3 +1944,5 @@ https://leetcode.com/problems/redundant-connection/
 https://leetcode.com/problems/longest-univalue-path/
 ## SearchInBinarySearchTree
 https://leetcode.com/problems/search-in-a-binary-search-tree/
+## InsertIntoBinarySearchTree
+https://leetcode.com/problems/insert-into-a-binary-search-tree/
