@@ -1954,3 +1954,5 @@ https://leetcode.com/problems/binary-tree-pruning/
 https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
 ## AllPossibleFullBinaryTrees
 https://leetcode.com/problems/all-possible-full-binary-trees/
+## FlipEquivalentBinaryTrees
+https://leetcode.com/problems/flip-equivalent-binary-trees/
