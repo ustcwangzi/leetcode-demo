@@ -1950,3 +1950,5 @@ https://leetcode.com/problems/insert-into-a-binary-search-tree/
 https://leetcode.com/problems/minimum-distance-between-bst-nodes/
 ## BinaryTreePruning
 https://leetcode.com/problems/binary-tree-pruning/
+## ConstructBinaryTreeFromPreorderAndPostorderTraversal
+https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
