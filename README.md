@@ -1952,3 +1952,5 @@ https://leetcode.com/problems/minimum-distance-between-bst-nodes/
 https://leetcode.com/problems/binary-tree-pruning/
 ## ConstructBinaryTreeFromPreorderAndPostorderTraversal
 https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/
+## AllPossibleFullBinaryTrees
+https://leetcode.com/problems/all-possible-full-binary-trees/
