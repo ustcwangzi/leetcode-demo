@@ -1948,3 +1948,5 @@ https://leetcode.com/problems/search-in-a-binary-search-tree/
 https://leetcode.com/problems/insert-into-a-binary-search-tree/
 ## MinimumDistanceBetweenBSTNodes
 https://leetcode.com/problems/minimum-distance-between-bst-nodes/
+## BinaryTreePruning
+https://leetcode.com/problems/binary-tree-pruning/
