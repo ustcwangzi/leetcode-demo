@@ -1956,3 +1956,5 @@ https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-
 https://leetcode.com/problems/all-possible-full-binary-trees/
 ## FlipEquivalentBinaryTrees
 https://leetcode.com/problems/flip-equivalent-binary-trees/
+## CheckCompletenessOfBinaryTree
+https://leetcode.com/problems/check-completeness-of-a-binary-tree/
