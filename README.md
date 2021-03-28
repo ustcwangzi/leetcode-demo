@@ -1962,3 +1962,5 @@ https://leetcode.com/problems/check-completeness-of-a-binary-tree/
 https://leetcode.com/problems/univalued-binary-tree/
 ## MaximumBinaryTreeII
 https://leetcode.com/problems/maximum-binary-tree-ii/
+## ConstructBinarySearchTreeFromPreorderTraversal
+https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
