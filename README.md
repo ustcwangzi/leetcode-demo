@@ -1958,3 +1958,5 @@ https://leetcode.com/problems/all-possible-full-binary-trees/
 https://leetcode.com/problems/flip-equivalent-binary-trees/
 ## CheckCompletenessOfBinaryTree
 https://leetcode.com/problems/check-completeness-of-a-binary-tree/
+## UnivaluedBinaryTree
+https://leetcode.com/problems/univalued-binary-tree/
