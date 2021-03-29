@@ -1966,3 +1966,5 @@ https://leetcode.com/problems/maximum-binary-tree-ii/
 https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
 ## SumOfRootToLeafBinaryNumbers
 https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
+## BinarySearchTreeToGreaterSumTree
+https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
