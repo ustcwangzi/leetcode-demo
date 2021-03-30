@@ -1970,3 +1970,5 @@ https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
 https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
 ## FindElements
 https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/
+## AllElementsInTwoBinarySearchTrees
+https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
