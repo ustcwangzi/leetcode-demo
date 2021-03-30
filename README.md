@@ -1968,3 +1968,5 @@ https://leetcode.com/problems/construct-binary-search-tree-from-preorder-travers
 https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/
 ## BinarySearchTreeToGreaterSumTree
 https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
+## FindElements
+https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/
