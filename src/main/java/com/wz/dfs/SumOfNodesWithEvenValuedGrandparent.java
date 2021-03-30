@@ -28,7 +28,7 @@ public class SumOfNodesWithEvenValuedGrandparent {
     private static int sum = 0;
 
     /**
-     * DFS
+     * DFS，先序遍历
      * 递归时记录当前的父节点和祖父节点
      * 如果当前祖父节点的值为偶数，则更新答案，然后递归左子节点和右子节点，在递归时，将父节点更新到祖父节点上，新的父节点为当前节点
      */
