@@ -33,7 +33,7 @@ public class LinkedListInBinaryTree {
     }
 
     /**
-     * 递归处理，遍历所有树结点，每次都将它当作链表的起点与链表进行比较
+     * 递归处理，遍历所有节点，每次都将它当作链表的起点与链表进行比较
      */
     public static boolean isSubPath(ListNode head, TreeNode root) {
         if (head == null || root == null) {
@@ -41,7 +41,7 @@ public class LinkedListInBinaryTree {
         }
 
         // 递归处理三种情况：
-        // 1. 当前结点作为链表起点；2. 左子树根结点作为链表起点；3. 右子树根结点作为链表起点
+        // 1. 当前节点作为链表起点；2. 左子树根节点作为链表起点；3. 右子树根节点作为链表起点
         return valid(head, root) || isSubPath(head, root.left) || isSubPath(head, root.right);
     }
 

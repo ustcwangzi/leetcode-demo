@@ -38,26 +38,26 @@ public class MaximumProductOfSplittedBinaryTree {
 
     /**
      * 先计算所有节点之和
-     * 再将以每一个结点为切分点的子树的和放到 SUM_LIST 中，然后逐个计算乘积
+     * 再将以每一个节点为切分点的子树的和放到 SUM_LIST 中，然后逐个计算乘积
      */
     public static int maxProduct(TreeNode root) {
         if (root == null) {
             return 0;
         }
 
-        int allSum = getSum(root);
+        int totalSum = calSum(root);
         long result = 0;
         for (int subSum : SUM_LIST) {
-            result = Math.max(result, (long) subSum * (allSum - subSum));
+            result = Math.max(result, (long) subSum * (totalSum - subSum));
         }
         return (int) (result % MOD);
     }
 
-    private static int getSum(TreeNode root) {
+    private static int calSum(TreeNode root) {
         if (root == null) {
             return 0;
         }
-        int sum = (root.val + getSum(root.left) + getSum(root.right)) % MOD;
+        int sum = (root.val + calSum(root.left) + calSum(root.right)) % MOD;
         SUM_LIST.add(sum);
         return sum;
     }
