@@ -1981,3 +1981,5 @@ https://leetcode.com/problems/even-odd-tree/
 https://leetcode.com/problemset/algorithms/?topicSlugs=sort
 ## LargestNumber
 https://leetcode.com/problems/largest-number/
+## ContainsDuplicateIII
+https://leetcode.com/problems/contains-duplicate-iii/
