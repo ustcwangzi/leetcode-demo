@@ -24,7 +24,7 @@ public class SortArrayByParityII {
     }
 
     /**
-     * 利用两个指针，在偶数位置上找到第一个奇数；在奇数位置上找到第一个偶数，然后互相
+     * 利用两个指针，在偶数位置上找到第一个奇数；在奇数位置上找到第一个偶数，然后进行交换
      */
     public static int[] sortArrayByParityII(int[] A) {
         int i = 0, j = 1, len = A.length;
