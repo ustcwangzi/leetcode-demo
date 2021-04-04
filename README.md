@@ -1997,3 +1997,5 @@ https://leetcode.com/problems/intersection-of-two-arrays-ii/
 https://leetcode.com/problems/longest-word-in-dictionary-through-deleting/
 ## CarFleet
 https://leetcode.com/problems/car-fleet/
+## MatrixCellsInDistanceOrder
+https://leetcode.com/problems/matrix-cells-in-distance-order/
