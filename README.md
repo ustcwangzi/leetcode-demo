@@ -2001,3 +2001,5 @@ https://leetcode.com/problems/car-fleet/
 https://leetcode.com/problems/matrix-cells-in-distance-order/
 ## RelativeSortArray
 https://leetcode.com/problems/relative-sort-array/
+## SortIntegersByTheNumberOf1Bits
+https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
