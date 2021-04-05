@@ -2011,3 +2011,5 @@ https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-
 https://leetcode.com/problems/shuffle-string/
 ## MaximumNumberOfCoinsYouCanGet
 https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
+## ArithmeticSubarrays
+https://leetcode.com/problems/arithmetic-subarrays/
