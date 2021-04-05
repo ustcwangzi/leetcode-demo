@@ -79,6 +79,7 @@ public class RankTeamsByVotes {
         }
 
         int teamNum = votes[0].length();
+        // 存储每个队的得票情况
         Map<Character, Team> teamMap = new HashMap<>(teamNum);
         for (String vote : votes) {
             char[] array = vote.toCharArray();
@@ -113,6 +114,7 @@ public class RankTeamsByVotes {
 
     private static class Team {
         private char name;
+        // 得到 第一、第二 ... 的投票情况
         private int[] votes;
 
         public Team(char name, int[] votes) {

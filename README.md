@@ -2003,3 +2003,5 @@ https://leetcode.com/problems/matrix-cells-in-distance-order/
 https://leetcode.com/problems/relative-sort-array/
 ## SortIntegersByTheNumberOf1Bits
 https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
+## SortIntegersByThePowerValue
+https://leetcode.com/problems/sort-integers-by-the-power-value/
