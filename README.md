@@ -2005,3 +2005,5 @@ https://leetcode.com/problems/relative-sort-array/
 https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
 ## SortIntegersByThePowerValue
 https://leetcode.com/problems/sort-integers-by-the-power-value/
+## NumberOfSubsequencesThatSatisfyTheGivenSumCondition
+https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/

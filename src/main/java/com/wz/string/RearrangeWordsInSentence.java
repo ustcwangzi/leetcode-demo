@@ -33,13 +33,13 @@ import java.util.Comparator;
  */
 public class RearrangeWordsInSentence {
     public static void main(String[] args) {
-        System.out.println("Leetcode is cool");
+        System.out.println(arrangeWords("Leetcode is cool"));
     }
 
     /**
      * 将 text 转为小写后，用" "将每个单词分开，然后按照长度进行排序，最后将第一个字符改为大写
      */
-    public String arrangeWords(String text) {
+    public static String arrangeWords(String text) {
         String[] array = text.toLowerCase().split(" ");
         Arrays.sort(array, Comparator.comparingInt(String::length));
         String result = String.join(" ", array);
