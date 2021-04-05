@@ -2015,3 +2015,5 @@ https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
 https://leetcode.com/problems/arithmetic-subarrays/
 ## SortArrayByIncreasingFrequency
 https://leetcode.com/problems/sort-array-by-increasing-frequency/
+## WidestVerticalAreaBetweenTwoPointsContainingNoPoints
+https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/
