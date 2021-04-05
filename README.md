@@ -2007,3 +2007,5 @@ https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
 https://leetcode.com/problems/sort-integers-by-the-power-value/
 ## NumberOfSubsequencesThatSatisfyTheGivenSumCondition
 https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
+## ShuffleString
+https://leetcode.com/problems/shuffle-string/
