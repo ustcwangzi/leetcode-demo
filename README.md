@@ -2013,3 +2013,5 @@ https://leetcode.com/problems/shuffle-string/
 https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
 ## ArithmeticSubarrays
 https://leetcode.com/problems/arithmetic-subarrays/
+## SortArrayByIncreasingFrequency
+https://leetcode.com/problems/sort-array-by-increasing-frequency/
