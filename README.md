@@ -2017,3 +2017,5 @@ https://leetcode.com/problems/arithmetic-subarrays/
 https://leetcode.com/problems/sort-array-by-increasing-frequency/
 ## WidestVerticalAreaBetweenTwoPointsContainingNoPoints
 https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/
+## CheckArrayFormationThroughConcatenation
+https://leetcode.com/problems/check-array-formation-through-concatenation/
