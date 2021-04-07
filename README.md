@@ -496,6 +496,8 @@ https://leetcode.com/problems/count-good-triplets/
 https://leetcode.com/problems/find-the-winner-of-an-array-game/
 ## KthMissingPositiveNumber
 https://leetcode.com/problems/kth-missing-positive-number/
+## ThreeConsecutiveOdds
+https://leetcode.com/problems/three-consecutive-odds/
 
 # lists
 https://leetcode.com/problemset/all/?topicSlugs=linked-list
