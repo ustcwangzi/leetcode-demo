@@ -498,6 +498,8 @@ https://leetcode.com/problems/find-the-winner-of-an-array-game/
 https://leetcode.com/problems/kth-missing-positive-number/
 ## ThreeConsecutiveOdds
 https://leetcode.com/problems/three-consecutive-odds/
+## MagneticForceBetweenTwoBalls
+https://leetcode.com/problems/magnetic-force-between-two-balls/
 
 # lists
 https://leetcode.com/problemset/all/?topicSlugs=linked-list
