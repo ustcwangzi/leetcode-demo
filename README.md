@@ -502,6 +502,8 @@ https://leetcode.com/problems/three-consecutive-odds/
 https://leetcode.com/problems/magnetic-force-between-two-balls/
 ## DetectPatternOfLengthMRepeatedKOrMoreTimes
 https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/
+## MatrixDiagonalSum
+https://leetcode.com/problems/matrix-diagonal-sum/
 
 # lists
 https://leetcode.com/problemset/all/?topicSlugs=linked-list
