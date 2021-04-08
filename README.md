@@ -504,6 +504,9 @@ https://leetcode.com/problems/magnetic-force-between-two-balls/
 https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/
 ## MatrixDiagonalSum
 https://leetcode.com/problems/matrix-diagonal-sum/
+## ShortestSubarrayToBeRemovedToMakeArraySorted
+https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
+
 
 # lists
 https://leetcode.com/problemset/all/?topicSlugs=linked-list
@@ -575,6 +578,7 @@ https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list
 https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 ## LinkedListInBinaryTree
 https://leetcode.com/problems/linked-list-in-binary-tree/
+
 
 # math
 https://leetcode.com/problemset/all/?topicSlugs=math
