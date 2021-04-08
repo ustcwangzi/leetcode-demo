@@ -500,6 +500,8 @@ https://leetcode.com/problems/kth-missing-positive-number/
 https://leetcode.com/problems/three-consecutive-odds/
 ## MagneticForceBetweenTwoBalls
 https://leetcode.com/problems/magnetic-force-between-two-balls/
+## DetectPatternOfLengthMRepeatedKOrMoreTimes
+https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-times/
 
 # lists
 https://leetcode.com/problemset/all/?topicSlugs=linked-list
