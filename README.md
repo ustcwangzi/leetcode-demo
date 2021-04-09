@@ -578,6 +578,8 @@ https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list
 https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/
 ## LinkedListInBinaryTree
 https://leetcode.com/problems/linked-list-in-binary-tree/
+## SpecialPositionsInBinaryMatrix
+https://leetcode.com/problems/special-positions-in-a-binary-matrix/
 
 
 # math
