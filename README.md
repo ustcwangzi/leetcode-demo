@@ -506,6 +506,8 @@ https://leetcode.com/problems/detect-pattern-of-length-m-repeated-k-or-more-time
 https://leetcode.com/problems/matrix-diagonal-sum/
 ## ShortestSubarrayToBeRemovedToMakeArraySorted
 https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
+## MakeSumDivisibleByP
+https://leetcode.com/problems/make-sum-divisible-by-p/
 
 
 # lists
