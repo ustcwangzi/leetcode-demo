@@ -512,6 +512,8 @@ https://leetcode.com/problems/make-sum-divisible-by-p/
 https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
 ## MeanOfArrayAfterRemovingSomeElements
 https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
+## SlowestKey
+https://leetcode.com/problems/slowest-key/
 
 
 # lists
