@@ -514,6 +514,8 @@ https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equa
 https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 ## SlowestKey
 https://leetcode.com/problems/slowest-key/
+## GetMaximumInGeneratedArray
+https://leetcode.com/problems/get-maximum-in-generated-array/
 
 
 # lists
