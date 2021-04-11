@@ -508,6 +508,8 @@ https://leetcode.com/problems/matrix-diagonal-sum/
 https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
 ## MakeSumDivisibleByP
 https://leetcode.com/problems/make-sum-divisible-by-p/
+## SpecialArrayWithXElementsGreaterThanOrEqualX
+https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
 
 
 # lists
