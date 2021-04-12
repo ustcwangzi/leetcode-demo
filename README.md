@@ -516,6 +516,8 @@ https://leetcode.com/problems/mean-of-array-after-removing-some-elements/
 https://leetcode.com/problems/slowest-key/
 ## GetMaximumInGeneratedArray
 https://leetcode.com/problems/get-maximum-in-generated-array/
+## DefuseTheBomb
+https://leetcode.com/problems/defuse-the-bomb/
 
 
 # lists
