@@ -518,6 +518,8 @@ https://leetcode.com/problems/slowest-key/
 https://leetcode.com/problems/get-maximum-in-generated-array/
 ## DefuseTheBomb
 https://leetcode.com/problems/defuse-the-bomb/
+## RichestCustomerWealth
+https://leetcode.com/problems/richest-customer-wealth/
 
 
 # lists
