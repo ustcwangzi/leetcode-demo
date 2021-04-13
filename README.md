@@ -522,6 +522,8 @@ https://leetcode.com/problems/defuse-the-bomb/
 https://leetcode.com/problems/richest-customer-wealth/
 ## NumberOfStudentsUnableToEatLunch
 https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
+## AverageWaitingTime
+https://leetcode.com/problems/average-waiting-time/
 
 
 # lists
