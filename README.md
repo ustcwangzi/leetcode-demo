@@ -520,6 +520,8 @@ https://leetcode.com/problems/get-maximum-in-generated-array/
 https://leetcode.com/problems/defuse-the-bomb/
 ## RichestCustomerWealth
 https://leetcode.com/problems/richest-customer-wealth/
+## NumberOfStudentsUnableToEatLunch
+https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
 
 
 # lists
