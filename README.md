@@ -524,6 +524,8 @@ https://leetcode.com/problems/richest-customer-wealth/
 https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
 ## AverageWaitingTime
 https://leetcode.com/problems/average-waiting-time/
+## CountGoodMeals
+https://leetcode.com/problems/count-good-meals/
 
 
 # lists
