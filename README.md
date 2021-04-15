@@ -526,6 +526,8 @@ https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
 https://leetcode.com/problems/average-waiting-time/
 ## CountGoodMeals
 https://leetcode.com/problems/count-good-meals/
+## TupleWithSameProduct
+https://leetcode.com/problems/tuple-with-same-product/
 
 
 # lists
