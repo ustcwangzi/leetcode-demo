@@ -528,6 +528,8 @@ https://leetcode.com/problems/average-waiting-time/
 https://leetcode.com/problems/count-good-meals/
 ## TupleWithSameProduct
 https://leetcode.com/problems/tuple-with-same-product/
+## FindTheHighestAltitude
+https://leetcode.com/problems/find-the-highest-altitude/
 
 
 # lists
