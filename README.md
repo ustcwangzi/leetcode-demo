@@ -530,6 +530,8 @@ https://leetcode.com/problems/count-good-meals/
 https://leetcode.com/problems/tuple-with-same-product/
 ## FindTheHighestAltitude
 https://leetcode.com/problems/find-the-highest-altitude/
+## FindKthLargestXORCoordinateValue
+https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/
 
 
 # lists
