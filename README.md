@@ -534,6 +534,8 @@ https://leetcode.com/problems/find-the-highest-altitude/
 https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/
 ## MaximumNumberOfBallsInBox
 https://leetcode.com/problems/maximum-number-of-balls-in-a-box/
+## SumOfUniqueElements
+https://leetcode.com/problems/sum-of-unique-elements/
 
 
 # lists
