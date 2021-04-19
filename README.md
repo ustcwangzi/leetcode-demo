@@ -532,6 +532,8 @@ https://leetcode.com/problems/tuple-with-same-product/
 https://leetcode.com/problems/find-the-highest-altitude/
 ## FindKthLargestXORCoordinateValue
 https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/
+## MaximumNumberOfBallsInBox
+https://leetcode.com/problems/maximum-number-of-balls-in-a-box/
 
 
 # lists
