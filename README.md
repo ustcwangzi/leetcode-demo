@@ -536,6 +536,8 @@ https://leetcode.com/problems/find-kth-largest-xor-coordinate-value/
 https://leetcode.com/problems/maximum-number-of-balls-in-a-box/
 ## SumOfUniqueElements
 https://leetcode.com/problems/sum-of-unique-elements/
+## CheckIfArrayIsSortedAndRotated
+https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 
 
 # lists
