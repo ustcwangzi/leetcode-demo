@@ -542,6 +542,8 @@ https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 https://leetcode.com/problems/count-items-matching-a-rule/
 ## FindNearestPointThatHasTheSameXOrYCoordinate
 https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/
+## MinimumNumberOfOperationsToReinitializePermutation
+https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/
 
 
 # lists
