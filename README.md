@@ -540,6 +540,8 @@ https://leetcode.com/problems/sum-of-unique-elements/
 https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 ## CountItemsMatchingRule
 https://leetcode.com/problems/count-items-matching-a-rule/
+## FindNearestPointThatHasTheSameXOrYCoordinate
+https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/
 
 
 # lists
