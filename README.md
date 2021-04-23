@@ -550,6 +550,8 @@ https://leetcode.com/problems/count-nice-pairs-in-an-array/
 https://leetcode.com/problems/find-the-winner-of-the-circular-game/
 ## MinimumOperationsToMakeTheArrayIncreasing
 https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
+## MaximumIceCreamBars
+https://leetcode.com/problems/maximum-ice-cream-bars/
 
 
 # lists
