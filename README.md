@@ -548,6 +548,8 @@ https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-per
 https://leetcode.com/problems/count-nice-pairs-in-an-array/
 ## FindTheWinnerOfTheCircularGame
 https://leetcode.com/problems/find-the-winner-of-the-circular-game/
+## MinimumOperationsToMakeTheArrayIncreasing
+https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
 
 
 # lists
