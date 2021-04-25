@@ -636,7 +636,6 @@ https://leetcode.com/problems/design-front-middle-back-queue/
 ## SwappingNodesInLinkedList
 https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
 
-
 ------------------------------------------------------------------------------------------
 
 # math
@@ -921,6 +920,8 @@ https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
 https://leetcode.com/problems/minimum-operations-to-make-array-equal/
 ## NumberOfWaysWhereSquareOfNumberIsEqualToProductOfTwoNumbers
 https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/
+
+------------------------------------------------------------------------------------------
 
 # string
 https://leetcode.com/problemset/all/?topicSlugs=string
@@ -1238,6 +1239,9 @@ https://leetcode.com/problems/split-two-strings-to-make-palindrome/
 https://leetcode.com/problems/largest-substring-between-two-equal-characters/
 ## CountSubstringsThatDifferByOneCharacter
 https://leetcode.com/problems/count-substrings-that-differ-by-one-character/
+
+
+------------------------------------------------------------------------------------------
 
 # dynamicprogramming
 https://leetcode.com/problemset/all/?topicSlugs=dynamic-programming
