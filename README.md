@@ -633,6 +633,9 @@ https://leetcode.com/problems/sum-of-all-odd-length-subarrays/
 https://leetcode.com/problems/merge-in-between-linked-lists/
 ## FrontMiddleBackQueue
 https://leetcode.com/problems/design-front-middle-back-queue/
+## SwappingNodesInLinkedList
+https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
+
 
 ------------------------------------------------------------------------------------------
 
