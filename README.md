@@ -1239,6 +1239,8 @@ https://leetcode.com/problems/split-two-strings-to-make-palindrome/
 https://leetcode.com/problems/largest-substring-between-two-equal-characters/
 ## CountSubstringsThatDifferByOneCharacter
 https://leetcode.com/problems/count-substrings-that-differ-by-one-character/
+## CheckIfTwoStringArraysAreEquivalent
+https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 
 
 ------------------------------------------------------------------------------------------
