@@ -1,4 +1,4 @@
-package com.wz.lists;
+package com.wz.string;
 
 /**
  * Given two string arrays word1 and word2, return true if the two arrays represent the same string, and false otherwise.
