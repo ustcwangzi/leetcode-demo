@@ -1241,9 +1241,10 @@ https://leetcode.com/problems/largest-substring-between-two-equal-characters/
 https://leetcode.com/problems/count-substrings-that-differ-by-one-character/
 ## CheckIfTwoStringArraysAreEquivalent
 https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
-## 
+## MaximumRepeatingSubstring
 https://leetcode.com/problems/maximum-repeating-substring/
-MaximumRepeatingSubstring
+## GoalParserInterpretation
+https://leetcode.com/problems/goal-parser-interpretation/
 
 ------------------------------------------------------------------------------------------
 
