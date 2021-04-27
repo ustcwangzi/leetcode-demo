@@ -1245,6 +1245,8 @@ https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 https://leetcode.com/problems/maximum-repeating-substring/
 ## GoalParserInterpretation
 https://leetcode.com/problems/goal-parser-interpretation/
+## CountTheNumberOfConsistentStrings
+https://leetcode.com/problems/count-the-number-of-consistent-strings/
 
 ------------------------------------------------------------------------------------------
 
