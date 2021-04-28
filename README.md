@@ -1247,6 +1247,8 @@ https://leetcode.com/problems/maximum-repeating-substring/
 https://leetcode.com/problems/goal-parser-interpretation/
 ## CountTheNumberOfConsistentStrings
 https://leetcode.com/problems/count-the-number-of-consistent-strings/
+## ReformatPhoneNumber
+https://leetcode.com/problems/reformat-phone-number/
 
 ------------------------------------------------------------------------------------------
 
