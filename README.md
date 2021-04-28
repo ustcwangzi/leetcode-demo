@@ -1249,6 +1249,8 @@ https://leetcode.com/problems/goal-parser-interpretation/
 https://leetcode.com/problems/count-the-number-of-consistent-strings/
 ## ReformatPhoneNumber
 https://leetcode.com/problems/reformat-phone-number/
+## DetermineIfStringHalvesAreAlike
+https://leetcode.com/problems/determine-if-string-halves-are-alike/
 
 ------------------------------------------------------------------------------------------
 
