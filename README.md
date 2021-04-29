@@ -1251,6 +1251,8 @@ https://leetcode.com/problems/count-the-number-of-consistent-strings/
 https://leetcode.com/problems/reformat-phone-number/
 ## DetermineIfStringHalvesAreAlike
 https://leetcode.com/problems/determine-if-string-halves-are-alike/
+## ChangeMinimumCharactersToSatisfyOneOfThreeConditions
+https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/
 
 ------------------------------------------------------------------------------------------
 
