@@ -1255,6 +1255,8 @@ https://leetcode.com/problems/determine-if-string-halves-are-alike/
 https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/
 ## LongestNiceSubstring
 https://leetcode.com/problems/longest-nice-substring/
+## MergeStringsAlternately
+https://leetcode.com/problems/merge-strings-alternately/
 
 ------------------------------------------------------------------------------------------
 
