@@ -1253,6 +1253,8 @@ https://leetcode.com/problems/reformat-phone-number/
 https://leetcode.com/problems/determine-if-string-halves-are-alike/
 ## ChangeMinimumCharactersToSatisfyOneOfThreeConditions
 https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-conditions/
+## LongestNiceSubstring
+https://leetcode.com/problems/longest-nice-substring/
 
 ------------------------------------------------------------------------------------------
 
