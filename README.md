@@ -1259,6 +1259,8 @@ https://leetcode.com/problems/longest-nice-substring/
 https://leetcode.com/problems/merge-strings-alternately/
 ## SumOfBeautyOfAllSubstrings
 https://leetcode.com/problems/sum-of-beauty-of-all-substrings/
+## CheckIfOneStringSwapCanMakeStringsEqual
+https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
 
 ------------------------------------------------------------------------------------------
 
