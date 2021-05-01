@@ -1261,6 +1261,8 @@ https://leetcode.com/problems/merge-strings-alternately/
 https://leetcode.com/problems/sum-of-beauty-of-all-substrings/
 ## CheckIfOneStringSwapCanMakeStringsEqual
 https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
+## SecondLargestDigitInString
+https://leetcode.com/problems/second-largest-digit-in-a-string/
 
 ------------------------------------------------------------------------------------------
 
