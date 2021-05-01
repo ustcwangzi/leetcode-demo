@@ -1257,6 +1257,8 @@ https://leetcode.com/problems/change-minimum-characters-to-satisfy-one-of-three-
 https://leetcode.com/problems/longest-nice-substring/
 ## MergeStringsAlternately
 https://leetcode.com/problems/merge-strings-alternately/
+## SumOfBeautyOfAllSubstrings
+https://leetcode.com/problems/sum-of-beauty-of-all-substrings/
 
 ------------------------------------------------------------------------------------------
 
