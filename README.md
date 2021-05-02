@@ -1263,6 +1263,8 @@ https://leetcode.com/problems/sum-of-beauty-of-all-substrings/
 https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
 ## SecondLargestDigitInString
 https://leetcode.com/problems/second-largest-digit-in-a-string/
+## NumberOfDifferentIntegersInString
+https://leetcode.com/problems/number-of-different-integers-in-a-string/
 
 ------------------------------------------------------------------------------------------
 
