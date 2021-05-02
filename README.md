@@ -1267,6 +1267,8 @@ https://leetcode.com/problems/second-largest-digit-in-a-string/
 https://leetcode.com/problems/number-of-different-integers-in-a-string/
 ## EvaluateTheBracketPairsOfString
 https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/
+## DetermineColorOfChessboardSquare
+https://leetcode.com/problems/determine-color-of-a-chessboard-square/
 
 ------------------------------------------------------------------------------------------
 
