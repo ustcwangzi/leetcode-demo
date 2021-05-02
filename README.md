@@ -1265,6 +1265,8 @@ https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/
 https://leetcode.com/problems/second-largest-digit-in-a-string/
 ## NumberOfDifferentIntegersInString
 https://leetcode.com/problems/number-of-different-integers-in-a-string/
+## EvaluateTheBracketPairsOfString
+https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/
 
 ------------------------------------------------------------------------------------------
 

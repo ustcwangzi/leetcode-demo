@@ -35,15 +35,14 @@ public class NumberOfDifferentIntegersInString {
     /**
      * 遍历 word，使用 set 收集结果，使用 start 记录每个数字的起始位置
      * 若当前是字母并且 start 不是 -1，则将 word[start...i) 放入 set 中，同时将 start 更新为 -1
-     * 若当前是数字并且 start 是 -1，则将 start 更为为 i
-     * 遍历完成后，若 start 不是 -1，则将 word[start...n-1] 放入 set中，以免遗漏最后的数字
+     * 若当前是数字并且 start 是 -1，则将 start 更新为 i
+     * 遍历完成后，若 start 不是 -1，则将 word[start...n-1] 放入 set 中，以免遗漏最后的数字
      */
     public static int numDifferentIntegers(String word) {
         Set<String> set = new HashSet<>();
         int start = -1;
         for (int i = 0; i < word.length(); i++) {
-            char cur = word.charAt(i);
-            if (Character.isLetter(cur)) {
+            if (Character.isLetter(word.charAt(i))) {
                 if (start != -1) {
                     set.add(rmLeadZero(word.substring(start, i)));
                     start = -1;
