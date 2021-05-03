@@ -1273,6 +1273,8 @@ https://leetcode.com/problems/determine-color-of-a-chessboard-square/
 https://leetcode.com/problems/sentence-similarity-iii/
 ## TruncateSentence
 https://leetcode.com/problems/truncate-sentence/
+## CheckIfTheSentenceIsPangram
+https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 
 ------------------------------------------------------------------------------------------
 
