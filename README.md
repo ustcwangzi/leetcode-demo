@@ -1271,6 +1271,8 @@ https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/
 https://leetcode.com/problems/determine-color-of-a-chessboard-square/
 ## SentenceSimilarityIII
 https://leetcode.com/problems/sentence-similarity-iii/
+## TruncateSentence
+https://leetcode.com/problems/truncate-sentence/
 
 ------------------------------------------------------------------------------------------
 
