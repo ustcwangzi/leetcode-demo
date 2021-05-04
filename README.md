@@ -1277,6 +1277,8 @@ https://leetcode.com/problems/truncate-sentence/
 https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 ## LongestSubstringOfAllVowelsInOrder
 https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/
+## ReplaceAllDigitsWithCharacters
+https://leetcode.com/problems/replace-all-digits-with-characters/
 
 ------------------------------------------------------------------------------------------
 
