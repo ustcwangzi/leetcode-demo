@@ -1281,6 +1281,8 @@ https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/
 https://leetcode.com/problems/replace-all-digits-with-characters/
 ## SplittingStringIntoDescendingConsecutiveValues
 https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/
+## MinimumAdjacentSwapsToReachTheKthSmallestNumber
+https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/
 
 ------------------------------------------------------------------------------------------
 
