@@ -1279,6 +1279,8 @@ https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 https://leetcode.com/problems/longest-substring-of-all-vowels-in-order/
 ## ReplaceAllDigitsWithCharacters
 https://leetcode.com/problems/replace-all-digits-with-characters/
+## SplittingStringIntoDescendingConsecutiveValues
+https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/
 
 ------------------------------------------------------------------------------------------
 
