@@ -1572,6 +1572,8 @@ https://leetcode.com/problems/ways-to-make-a-fair-array/
 https://leetcode.com/problems/stone-game-vii/
 ## WhereWillTheBallFall
 https://leetcode.com/problems/where-will-the-ball-fall/
+## MinimumSidewayJumps
+https://leetcode.com/problems/minimum-sideway-jumps/
 
 ------------------------------------------------------------------------------------------
 
