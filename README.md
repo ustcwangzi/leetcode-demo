@@ -1573,6 +1573,8 @@ https://leetcode.com/problems/stone-game-vii/
 ## WhereWillTheBallFall
 https://leetcode.com/problems/where-will-the-ball-fall/
 
+------------------------------------------------------------------------------------------
+
 # DFS
 https://leetcode.com/problemset/all/?topicSlugs=depth-first-search
 ## ValidateBinarySearchTree
@@ -1723,6 +1725,8 @@ https://leetcode.com/problems/path-with-minimum-effort/
 ## MinimizeHammingDistanceAfterSwapOperations
 https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/
 
+------------------------------------------------------------------------------------------
+
 # BFS
 https://leetcode.com/problemset/all/?topicSlugs=breadth-first-search
 ## BinaryTreeLevelOrderTraversal
@@ -1751,6 +1755,10 @@ https://leetcode.com/problems/shortest-path-with-alternating-colors/
 https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
 ## AsFarFromLandAsPossible
 https://leetcode.com/problems/as-far-from-land-as-possible/
+## MapOfHighestPeak
+https://leetcode.com/problems/map-of-highest-peak/
+
+------------------------------------------------------------------------------------------
 
 # backtracking
 https://leetcode.com/problemset/all/?topicSlugs=backtracking
