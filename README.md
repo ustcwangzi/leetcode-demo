@@ -1793,6 +1793,8 @@ https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequ
 ## FindMinimumTimeToFinishAllJobs
 https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/
 
+------------------------------------------------------------------------------------------
+
 # Stack
 https://leetcode.com/problemset/all/?topicSlugs=stack
 ## BinaryTreeInorderTraversal
@@ -1858,6 +1860,8 @@ https://leetcode.com/problems/crawler-log-folder/
 ## FindTheMostCompetitiveSubsequence
 https://leetcode.com/problems/find-the-most-competitive-subsequence/
 
+------------------------------------------------------------------------------------------
+
 # Heap
 https://leetcode.com/problemset/all/?topicSlugs=heap
 ## KthLargestElementInArray
@@ -1892,6 +1896,10 @@ https://leetcode.com/problems/maximum-number-of-eaten-apples/
 https://leetcode.com/problems/maximum-score-from-removing-stones/
 ## MinimumLimitOfBallsInBag
 https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/
+## MaximumAveragePassRatio
+https://leetcode.com/problems/maximum-average-pass-ratio/
+
+------------------------------------------------------------------------------------------
 
 # Greedy
 https://leetcode.com/problemset/all/?topicSlugs=greedy
