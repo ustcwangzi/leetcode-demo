@@ -1898,6 +1898,8 @@ https://leetcode.com/problems/maximum-score-from-removing-stones/
 https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/
 ## MaximumAveragePassRatio
 https://leetcode.com/problems/maximum-average-pass-ratio/
+## SingleThreadedCPU
+https://leetcode.com/problems/single-threaded-cpu/
 
 ------------------------------------------------------------------------------------------
 
