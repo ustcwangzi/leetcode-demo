@@ -2019,6 +2019,10 @@ https://leetcode.com/problems/equal-sum-arrays-with-minimum-number-of-operations
 https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/
 ## MinimumElementsToAddToFormGivenSum
 https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/
+## MaximumNumberOfConsecutiveValuesYouCanMake
+https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/
+
+------------------------------------------------------------------------------------------
 
 # Tree
 https://leetcode.com/problemset/all/?topicSlugs=tree
