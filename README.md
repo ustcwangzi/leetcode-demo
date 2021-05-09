@@ -2021,6 +2021,8 @@ https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-
 https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/
 ## MaximumNumberOfConsecutiveValuesYouCanMake
 https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/
+## MaximumValueAtGivenIndexInBoundedArray
+https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/
 
 ------------------------------------------------------------------------------------------
 
