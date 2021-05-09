@@ -1900,6 +1900,8 @@ https://leetcode.com/problems/minimum-limit-of-balls-in-a-bag/
 https://leetcode.com/problems/maximum-average-pass-ratio/
 ## SingleThreadedCPU
 https://leetcode.com/problems/single-threaded-cpu/
+## SeatManager
+https://leetcode.com/problems/seat-reservation-manager/
 
 ------------------------------------------------------------------------------------------
 
