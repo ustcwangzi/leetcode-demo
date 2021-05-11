@@ -37,7 +37,7 @@ public class FrequencyOfTheMostFrequentElement {
      * 先对数组进行排序，然后使用一个滑动窗口 [left, right]，统计将 nums[left...right] 全部变成 nums[right] 需要的操作次数 count
      * 若 count > k，则说明需要的操作次数太多，将 left 右移，同时减少对应的操作次数
      * 否则，说明操作次数满足条件，将 right 右移，同时更新结果长度
-     * 这里可以快速计算操作次数，以 [1, 2, 4] 为例说明该过程：
+     * 这里可以快速计算操作次数，因为每次只移动一个位置，因此只需要考虑窗口中最后两个元素即可，以 [1, 2, 4] 为例说明该过程：
      * 初始时，left=0，right=1，窗口内元素为 [1,2]，需要变为[2,2]，操作次数为 nums[right] - nums[right-1]
      * 此时，left=0，right=2，窗口内元素为 [2,2,4]，需要变为[4,4,4]，操作次数为 (nums[right] - nums[right-1]) * (right-left)
      */
