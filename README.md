@@ -2025,6 +2025,8 @@ https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/
 https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/
 ## MinimumAbsoluteSumDifference
 https://leetcode.com/problems/minimum-absolute-sum-difference/
+## FrequencyOfTheMostFrequentElement
+https://leetcode.com/problems/frequency-of-the-most-frequent-element/
 
 ------------------------------------------------------------------------------------------
 
