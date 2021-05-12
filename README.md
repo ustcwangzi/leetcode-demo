@@ -2027,6 +2027,8 @@ https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/
 https://leetcode.com/problems/minimum-absolute-sum-difference/
 ## FrequencyOfTheMostFrequentElement
 https://leetcode.com/problems/frequency-of-the-most-frequent-element/
+## MaximumElementAfterDecreasingAndRearranging
+https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
 
 ------------------------------------------------------------------------------------------
 
