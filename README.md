@@ -2029,6 +2029,8 @@ https://leetcode.com/problems/minimum-absolute-sum-difference/
 https://leetcode.com/problems/frequency-of-the-most-frequent-element/
 ## MaximumElementAfterDecreasingAndRearranging
 https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
+## MaximumDistanceBetweenPairOfValues
+https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/
 
 ------------------------------------------------------------------------------------------
 
@@ -2128,6 +2130,8 @@ https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
 https://leetcode.com/problems/delete-leaves-with-a-given-value/
 ## EvenOddTree
 https://leetcode.com/problems/even-odd-tree/
+
+------------------------------------------------------------------------------------------
 
 # Sort
 https://leetcode.com/problemset/algorithms/?topicSlugs=sort
