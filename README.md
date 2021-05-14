@@ -2130,6 +2130,8 @@ https://leetcode.com/problems/all-elements-in-two-binary-search-trees/
 https://leetcode.com/problems/delete-leaves-with-a-given-value/
 ## EvenOddTree
 https://leetcode.com/problems/even-odd-tree/
+## MaximumSubarrayMinProduct
+https://leetcode.com/problems/maximum-subarray-min-product/
 
 ------------------------------------------------------------------------------------------
 
