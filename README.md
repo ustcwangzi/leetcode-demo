@@ -556,6 +556,8 @@ https://leetcode.com/problems/maximum-ice-cream-bars/
 https://leetcode.com/problems/minimum-distance-to-the-target-element/
 ## MaximumPopulationYear
 https://leetcode.com/problems/maximum-population-year/
+## RotatingTheBox
+https://leetcode.com/problems/rotating-the-box/
 
 ------------------------------------------------------------------------------------------
 
