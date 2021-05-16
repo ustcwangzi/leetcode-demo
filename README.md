@@ -552,6 +552,8 @@ https://leetcode.com/problems/find-the-winner-of-the-circular-game/
 https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
 ## MaximumIceCreamBars
 https://leetcode.com/problems/maximum-ice-cream-bars/
+## MinimumDistanceToTheTargetElement
+https://leetcode.com/problems/minimum-distance-to-the-target-element/
 
 ------------------------------------------------------------------------------------------
 
