@@ -2191,3 +2191,5 @@ https://leetcode.com/problemset/algorithms/?topicSlugs=hash-table
 https://leetcode.com/problems/valid-sudoku/
 ## SingleNumber
 https://leetcode.com/problems/single-number/
+## RepeatedDNASequences
+https://leetcode.com/problems/repeated-dna-sequences/
