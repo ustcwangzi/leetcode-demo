@@ -2189,3 +2189,5 @@ https://leetcode.com/problems/check-array-formation-through-concatenation/
 https://leetcode.com/problemset/algorithms/?topicSlugs=hash-table
 ## ValidSudoku
 https://leetcode.com/problems/valid-sudoku/
+## SingleNumber
+https://leetcode.com/problems/single-number/
