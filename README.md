@@ -2195,3 +2195,5 @@ https://leetcode.com/problems/single-number/
 https://leetcode.com/problems/repeated-dna-sequences/
 ## IsomorphicStrings
 https://leetcode.com/problems/isomorphic-strings/
+## WordPattern
+https://leetcode.com/problems/word-pattern/
