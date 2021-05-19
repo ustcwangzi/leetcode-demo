@@ -2193,3 +2193,5 @@ https://leetcode.com/problems/valid-sudoku/
 https://leetcode.com/problems/single-number/
 ## RepeatedDNASequences
 https://leetcode.com/problems/repeated-dna-sequences/
+## IsomorphicStrings
+https://leetcode.com/problems/isomorphic-strings/
