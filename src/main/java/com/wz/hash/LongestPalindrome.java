@@ -28,7 +28,7 @@ import java.util.Map;
 public class LongestPalindrome {
     public static void main(String[] args) {
         System.out.println(longestPalindrome("abccccdd"));
-        System.out.println(longestPalindrome("bbaaacd"));
+        System.out.println(longestPalindrome("aaabbbccc"));
     }
 
     /**
