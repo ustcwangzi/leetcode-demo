@@ -2197,3 +2197,5 @@ https://leetcode.com/problems/repeated-dna-sequences/
 https://leetcode.com/problems/isomorphic-strings/
 ## WordPattern
 https://leetcode.com/problems/word-pattern/
+## FindTheDifference
+https://leetcode.com/problems/find-the-difference/
