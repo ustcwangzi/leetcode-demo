@@ -2201,3 +2201,5 @@ https://leetcode.com/problems/word-pattern/
 https://leetcode.com/problems/find-the-difference/
 ## LongestPalindrome
 https://leetcode.com/problems/longest-palindrome/
+## FindAllAnagramsInString
+https://leetcode.com/problems/find-all-anagrams-in-a-string/
