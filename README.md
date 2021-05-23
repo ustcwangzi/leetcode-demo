@@ -2211,3 +2211,5 @@ https://leetcode.com/problems/island-perimeter/
 https://leetcode.com/problems/keyboard-row/
 ## ContiguousArray
 https://leetcode.com/problems/contiguous-array/
+## BrickWall
+https://leetcode.com/problems/brick-wall/
