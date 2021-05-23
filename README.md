@@ -2213,3 +2213,5 @@ https://leetcode.com/problems/keyboard-row/
 https://leetcode.com/problems/contiguous-array/
 ## BrickWall
 https://leetcode.com/problems/brick-wall/
+## DistributeCandies
+https://leetcode.com/problems/distribute-candies/
