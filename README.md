@@ -2215,3 +2215,5 @@ https://leetcode.com/problems/contiguous-array/
 https://leetcode.com/problems/brick-wall/
 ## DistributeCandies
 https://leetcode.com/problems/distribute-candies/
+## LongestHarmoniousSubsequence
+https://leetcode.com/problems/longest-harmonious-subsequence/
