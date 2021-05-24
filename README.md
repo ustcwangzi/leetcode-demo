@@ -2217,3 +2217,5 @@ https://leetcode.com/problems/brick-wall/
 https://leetcode.com/problems/distribute-candies/
 ## LongestHarmoniousSubsequence
 https://leetcode.com/problems/longest-harmonious-subsequence/
+## MinimumIndexSumOfTwoLists
+https://leetcode.com/problems/minimum-index-sum-of-two-lists/

@@ -44,7 +44,7 @@ public class LongestHarmoniousSubsequence {
         int result = 0;
         for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
             if (map.containsKey(entry.getKey() + 1)) {
-                result = Math.max(result, map.get(entry.getKey()) + map.get(entry.getKey() + 1));
+                result = Math.max(result, entry.getValue() + map.get(entry.getKey() + 1));
             }
         }
         return result;
