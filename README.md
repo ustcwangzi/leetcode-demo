@@ -2221,3 +2221,5 @@ https://leetcode.com/problems/longest-harmonious-subsequence/
 https://leetcode.com/problems/minimum-index-sum-of-two-lists/
 ## ReplaceWords
 https://leetcode.com/problems/replace-words/
+## MagicDictionary
+https://leetcode.com/problems/implement-magic-dictionary/
