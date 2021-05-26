@@ -2225,3 +2225,5 @@ https://leetcode.com/problems/replace-words/
 https://leetcode.com/problems/implement-magic-dictionary/
 ## MyHashSet
 https://leetcode.com/problems/design-hashset/
+## MyHashMap
+https://leetcode.com/problems/design-hashmap/

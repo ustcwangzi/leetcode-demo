@@ -27,7 +27,7 @@ package com.wz.hash;
  *
  * Constraints:
  * 1. 0 <= key <= 10^6
- * 2. At most 104 calls will be made to add, remove, and contains.
+ * 2. At most 10^4 calls will be made to add, remove, and contains.
  */
 public class MyHashSet {
     public static void main(String[] args) {
