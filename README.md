@@ -2227,3 +2227,5 @@ https://leetcode.com/problems/implement-magic-dictionary/
 https://leetcode.com/problems/design-hashset/
 ## MyHashMap
 https://leetcode.com/problems/design-hashmap/
+## LongestWordInDictionary
+https://leetcode.com/problems/longest-word-in-dictionary/
