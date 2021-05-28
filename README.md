@@ -2229,3 +2229,5 @@ https://leetcode.com/problems/design-hashset/
 https://leetcode.com/problems/design-hashmap/
 ## LongestWordInDictionary
 https://leetcode.com/problems/longest-word-in-dictionary/
+## JewelsAndStones
+https://leetcode.com/problems/jewels-and-stones/
