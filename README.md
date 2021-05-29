@@ -2231,3 +2231,5 @@ https://leetcode.com/problems/design-hashmap/
 https://leetcode.com/problems/longest-word-in-dictionary/
 ## JewelsAndStones
 https://leetcode.com/problems/jewels-and-stones/
+## SubdomainVisitCount
+https://leetcode.com/problems/subdomain-visit-count/
