@@ -2235,3 +2235,5 @@ https://leetcode.com/problems/jewels-and-stones/
 https://leetcode.com/problems/subdomain-visit-count/
 ## UncommonWordsFromTwoSentences
 https://leetcode.com/problems/uncommon-words-from-two-sentences/
+## BinarySubarraysWithSum
+https://leetcode.com/problems/binary-subarrays-with-sum/
