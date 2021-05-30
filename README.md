@@ -2237,3 +2237,5 @@ https://leetcode.com/problems/subdomain-visit-count/
 https://leetcode.com/problems/uncommon-words-from-two-sentences/
 ## BinarySubarraysWithSum
 https://leetcode.com/problems/binary-subarrays-with-sum/
+## MinimumAreaRectangle
+https://leetcode.com/problems/minimum-area-rectangle/
