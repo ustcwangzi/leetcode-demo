@@ -2239,3 +2239,5 @@ https://leetcode.com/problems/uncommon-words-from-two-sentences/
 https://leetcode.com/problems/binary-subarrays-with-sum/
 ## MinimumAreaRectangle
 https://leetcode.com/problems/minimum-area-rectangle/
+## VerifyingAnAlienDictionary
+https://leetcode.com/problems/verifying-an-alien-dictionary/
