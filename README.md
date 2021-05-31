@@ -2243,3 +2243,5 @@ https://leetcode.com/problems/minimum-area-rectangle/
 https://leetcode.com/problems/verifying-an-alien-dictionary/
 ## PrisonCellsAfterNDays
 https://leetcode.com/problems/prison-cells-after-n-days/
+## NRepeatedElementInSize2NArray
+https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
