@@ -2245,3 +2245,5 @@ https://leetcode.com/problems/verifying-an-alien-dictionary/
 https://leetcode.com/problems/prison-cells-after-n-days/
 ## NRepeatedElementInSize2NArray
 https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
+## TimeMap
+https://leetcode.com/problems/time-based-key-value-store/
