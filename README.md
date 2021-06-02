@@ -2249,3 +2249,5 @@ https://leetcode.com/problems/n-repeated-element-in-size-2n-array/
 https://leetcode.com/problems/time-based-key-value-store/
 ## FlipColumnsForMaximumNumberOfEqualRows
 https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/
+## OccurrencesAfterBigram
+https://leetcode.com/problems/occurrences-after-bigram/
