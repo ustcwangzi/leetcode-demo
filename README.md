@@ -2253,3 +2253,5 @@ https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/
 https://leetcode.com/problems/occurrences-after-bigram/
 ## FindWordsThatCanBeFormedByCharacters
 https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
+## UniqueNumberOfOccurrences
+https://leetcode.com/problems/unique-number-of-occurrences/
