@@ -2255,3 +2255,5 @@ https://leetcode.com/problems/occurrences-after-bigram/
 https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
 ## UniqueNumberOfOccurrences
 https://leetcode.com/problems/unique-number-of-occurrences/
+## MaxNumberOfKSumPairs
+https://leetcode.com/problems/max-number-of-k-sum-pairs/

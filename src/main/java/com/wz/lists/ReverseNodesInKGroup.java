@@ -39,6 +39,7 @@ public class ReverseNodesInKGroup {
         int count = 0;
         while (head != null) {
             count++;
+            // reverse 会导致 head 节点位置变化，因此这里需要将 next 保存下来
             ListNode next = head.next;
             if (count == k) {
                 pre = reverse(pre, next);
