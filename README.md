@@ -2257,3 +2257,5 @@ https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/
 https://leetcode.com/problems/unique-number-of-occurrences/
 ## MaxNumberOfKSumPairs
 https://leetcode.com/problems/max-number-of-k-sum-pairs/
+## FindingTheUsersActiveMinutes
+https://leetcode.com/problems/finding-the-users-active-minutes/
