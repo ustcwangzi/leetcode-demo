@@ -1289,6 +1289,8 @@ https://leetcode.com/problems/replace-all-digits-with-characters/
 https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-values/
 ## MinimumAdjacentSwapsToReachTheKthSmallestNumber
 https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/
+## SortingTheSentence
+https://leetcode.com/problems/sorting-the-sentence/
 
 ------------------------------------------------------------------------------------------
 
