@@ -1291,6 +1291,8 @@ https://leetcode.com/problems/splitting-a-string-into-descending-consecutive-val
 https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-number/
 ## SortingTheSentence
 https://leetcode.com/problems/sorting-the-sentence/
+## SubstringsOfSizeThreeWithDistinctCharacters
+https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/
 
 ------------------------------------------------------------------------------------------
 
