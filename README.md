@@ -1293,6 +1293,8 @@ https://leetcode.com/problems/minimum-adjacent-swaps-to-reach-the-kth-smallest-n
 https://leetcode.com/problems/sorting-the-sentence/
 ## SubstringsOfSizeThreeWithDistinctCharacters
 https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/
+## CheckIfWordEqualsSummationOfTwoWords
+https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
 
 ------------------------------------------------------------------------------------------
 
