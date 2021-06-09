@@ -2271,3 +2271,5 @@ https://leetcode.com/problems/finding-the-users-active-minutes/
 https://leetcode.com/problemset/algorithms/?topicSlugs=two-pointers
 ## LongestRepeatingCharacterReplacement
 https://leetcode.com/problems/longest-repeating-character-replacement/
+## PermutationInString
+https://leetcode.com/problems/permutation-in-string/
