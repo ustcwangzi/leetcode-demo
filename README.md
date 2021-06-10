@@ -2273,3 +2273,5 @@ https://leetcode.com/problemset/algorithms/?topicSlugs=two-pointers
 https://leetcode.com/problems/longest-repeating-character-replacement/
 ## PermutationInString
 https://leetcode.com/problems/permutation-in-string/
+## MostProfitAssigningWork
+https://leetcode.com/problems/most-profit-assigning-work/
