@@ -2277,3 +2277,5 @@ https://leetcode.com/problems/permutation-in-string/
 https://leetcode.com/problems/most-profit-assigning-work/
 ## LongestMountainInArray
 https://leetcode.com/problems/longest-mountain-in-array/
+## FruitIntoBaskets
+https://leetcode.com/problems/fruit-into-baskets/
