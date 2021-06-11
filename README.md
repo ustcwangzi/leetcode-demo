@@ -2275,3 +2275,5 @@ https://leetcode.com/problems/longest-repeating-character-replacement/
 https://leetcode.com/problems/permutation-in-string/
 ## MostProfitAssigningWork
 https://leetcode.com/problems/most-profit-assigning-work/
+## LongestMountainInArray
+https://leetcode.com/problems/longest-mountain-in-array/
