@@ -20,6 +20,8 @@ public class AddTwoNumbersII {
         ListNode l1 = ListNode.build(new int[]{7, 2, 4, 3});
         ListNode l2 = ListNode.build(new int[]{5, 6, 4});
         ListNode.print(addTwoNumbers(l1, l2));
+        System.out.println();
+        ListNode.print(addInList(l1, l2));
     }
 
     /**
@@ -62,5 +64,52 @@ public class AddTwoNumbersII {
         }
         // 等于0说明最高位没产生进位
         return result.val == 0 ? result.next : result;
+    }
+
+    /**
+     * 使用栈保存两个链表元素，然后依次弹出元素进行相加，产生的新节点采用头插法加入结果中
+     */
+    public static ListNode addInList(ListNode head1, ListNode head2) {
+        Stack<Integer> stack1 = new Stack<>(), stack2 = new Stack<>();
+        ListNode cur = head1;
+        while (cur != null) {
+            stack1.push(cur.val);
+            cur = cur.next;
+        }
+        cur = head2;
+        while (cur != null) {
+            stack2.push(cur.val);
+            cur = cur.next;
+        }
+
+        ListNode dummy = new ListNode(0);
+        int carry = 0;
+        while (!stack1.isEmpty() && !stack2.isEmpty()) {
+            int sum = stack1.pop() + stack2.pop() + carry;
+            carry = sum / 10;
+            cur = new ListNode(sum % 10);
+            cur.next = dummy.next;
+            dummy.next = cur;
+        }
+        while (!stack1.isEmpty()) {
+            int sum = stack1.pop() + carry;
+            carry = sum / 10;
+            cur = new ListNode(sum % 10);
+            cur.next = dummy.next;
+            dummy.next = cur;
+        }
+        while (!stack2.isEmpty()) {
+            int sum = stack2.pop() + carry;
+            carry = sum / 10;
+            cur = new ListNode(sum % 10);
+            cur.next = dummy.next;
+            dummy.next = cur;
+        }
+        if (carry > 0) {
+            cur = new ListNode(carry);
+            cur.next = dummy.next;
+            dummy.next = cur;
+        }
+        return dummy.next;
     }
 }
