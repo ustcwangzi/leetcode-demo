@@ -2279,3 +2279,5 @@ https://leetcode.com/problems/most-profit-assigning-work/
 https://leetcode.com/problems/longest-mountain-in-array/
 ## FruitIntoBaskets
 https://leetcode.com/problems/fruit-into-baskets/
+## ThreeSumWithMultiplicity
+https://leetcode.com/problems/3sum-with-multiplicity/
