@@ -2281,3 +2281,5 @@ https://leetcode.com/problems/longest-mountain-in-array/
 https://leetcode.com/problems/fruit-into-baskets/
 ## ThreeSumWithMultiplicity
 https://leetcode.com/problems/3sum-with-multiplicity/
+## IntervalListIntersections
+https://leetcode.com/problems/interval-list-intersections/
