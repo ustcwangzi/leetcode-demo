@@ -2283,3 +2283,5 @@ https://leetcode.com/problems/fruit-into-baskets/
 https://leetcode.com/problems/3sum-with-multiplicity/
 ## IntervalListIntersections
 https://leetcode.com/problems/interval-list-intersections/
+## MaxConsecutiveOnesIII
+https://leetcode.com/problems/max-consecutive-ones-iii/
