@@ -2285,3 +2285,5 @@ https://leetcode.com/problems/3sum-with-multiplicity/
 https://leetcode.com/problems/interval-list-intersections/
 ## MaxConsecutiveOnesIII
 https://leetcode.com/problems/max-consecutive-ones-iii/
+## CountNumberOfNiceSubarrays
+https://leetcode.com/problems/count-number-of-nice-subarrays/
