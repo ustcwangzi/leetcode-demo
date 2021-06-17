@@ -22,8 +22,8 @@ public class LongestPalindromicSubstring {
      * 动态规划
      * dp[i][j] 表示字符串区间 [i, j] 是否为回文串，分为以下情况：
      * 1. 如果 s[i] = s[j]，只有一个字符，肯定是回文串
-     * 2. 如果 i - j == 1，说明是相邻字符，此时需要判断 s[i] 是否等于 s[j]
-     * 3. 如果 i - j > 1，除了判断 s[i] 和 s[j] 相等之外，子串 [i+1, j-1] 也需要是回文串，即 dp[i+1][j-1] 为 true
+     * 2. 如果 j - i == 1，说明是相邻字符，此时需要判断 s[i] 是否等于 s[j]
+     * 3. 如果 j - i > 1，除了判断 s[i] 和 s[j] 相等之外，子串 [i+1, j-1] 也需要是回文串，即 dp[i+1][j-1] 为 true
      */
     public static String longestPalindrome(String s) {
         int n = s.length();

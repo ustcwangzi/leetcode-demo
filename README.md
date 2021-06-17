@@ -2289,3 +2289,5 @@ https://leetcode.com/problems/max-consecutive-ones-iii/
 https://leetcode.com/problems/count-number-of-nice-subarrays/
 ## MaximumErasureValue
 https://leetcode.com/problems/maximum-erasure-value/
+## WaysToSplitArrayIntoThreeSubarrays
+https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/
