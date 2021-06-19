@@ -2293,3 +2293,5 @@ https://leetcode.com/problems/maximum-erasure-value/
 https://leetcode.com/problems/ways-to-split-array-into-three-subarrays/
 ## MinimumLengthOfStringAfterDeletingSimilarEnds
 https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/
+## MaximumAscendingSubarraySum
+https://leetcode.com/problems/maximum-ascending-subarray-sum/

@@ -44,25 +44,25 @@ public class ThreeSumWithMultiplicity {
      * 4. 若三个数字都不相同，则直接用这三个数字 map[i]，map[j]，map[k] 相乘即可
      */
     public static int threeSumMulti(int[] arr, int target) {
-        int mod = 1000000007, n = arr.length;
+        int mod = 1000000007;
         long result = 0;
         Map<Integer, Long> map = new HashMap<>();
         for (int num : arr) {
             map.put(num, map.getOrDefault(num, 0L) + 1);
         }
 
-        for (Map.Entry<Integer, Long> entry1 : map.entrySet()) {
+        for (Map.Entry<Integer, Long> entry : map.entrySet()) {
             for (Map.Entry<Integer, Long> entry2 : map.entrySet()) {
-                int i = entry1.getKey(), j = entry2.getKey(), k = target - i - j;
+                int i = entry.getKey(), j = entry2.getKey(), k = target - i - j;
                 if (!map.containsKey(k)) {
                     continue;
                 }
                 if (i == j && j == k) {
-                    result += entry1.getValue() * (entry1.getValue() - 1) * (entry1.getValue() - 2) / 6;
+                    result += entry.getValue() * (entry.getValue() - 1) * (entry.getValue() - 2) / 6;
                 } else if (i == j) {
-                    result += entry1.getValue() * (entry1.getValue() - 1) / 2 * map.get(k);
+                    result += entry.getValue() * (entry.getValue() - 1) / 2 * map.get(k);
                 } else if (i < j && j < k) {
-                    result += entry1.getValue() * entry2.getValue() * map.get(k);
+                    result += entry.getValue() * entry2.getValue() * map.get(k);
                 }
             }
         }
