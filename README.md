@@ -2191,6 +2191,7 @@ https://leetcode.com/problems/widest-vertical-area-between-two-points-containing
 https://leetcode.com/problems/check-array-formation-through-concatenation/
 
 ------------------------------------------------------------------------------------------
+
 # hash
 https://leetcode.com/problemset/algorithms/?topicSlugs=hash-table
 ## ValidSudoku
@@ -2267,6 +2268,7 @@ https://leetcode.com/problems/max-number-of-k-sum-pairs/
 https://leetcode.com/problems/finding-the-users-active-minutes/
 
 ------------------------------------------------------------------------------------------
+
 # twopointer
 https://leetcode.com/problemset/algorithms/?topicSlugs=two-pointers
 ## LongestRepeatingCharacterReplacement
@@ -2297,3 +2299,8 @@ https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-en
 https://leetcode.com/problems/maximum-ascending-subarray-sum/
 ## LongerContiguousSegmentsOfOnesThanZeros
 https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/
+
+------------------------------------------------------------------------------------------
+
+# binarysearch
+https://leetcode.com/problemset/algorithms/?topicSlugs=binary-search
