@@ -18,9 +18,24 @@ public class SqrtX {
     public static void main(String[] args) {
         System.out.println(mySqrt(4));
         System.out.println(mySqrt(8));
+        System.out.println(mySqrt2(8));
+        System.out.println(mySqrt2(8));
     }
 
     public static int mySqrt(int x) {
         return (int) Math.sqrt(x);
+    }
+
+    /**
+     * 连续 n 个奇数相加的结果一定是平方数
+     */
+    public static int mySqrt2(int x) {
+        int i = 1, result = 0;
+        while (x >= 0) {
+            x -= i;
+            i += 2;
+            result++;
+        }
+        return result - 1;
     }
 }
