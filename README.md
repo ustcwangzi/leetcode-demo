@@ -2306,3 +2306,5 @@ https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/
 https://leetcode.com/problemset/algorithms/?topicSlugs=binary-search
 ## Search2DMatrixII
 https://leetcode.com/problems/search-a-2d-matrix-ii/
+## FindRightInterval
+https://leetcode.com/problems/find-right-interval/
