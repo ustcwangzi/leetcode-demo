@@ -2308,3 +2308,5 @@ https://leetcode.com/problemset/algorithms/?topicSlugs=binary-search
 https://leetcode.com/problems/search-a-2d-matrix-ii/
 ## FindRightInterval
 https://leetcode.com/problems/find-right-interval/
+## Heaters
+https://leetcode.com/problems/heaters/
