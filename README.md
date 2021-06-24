@@ -2310,3 +2310,5 @@ https://leetcode.com/problems/search-a-2d-matrix-ii/
 https://leetcode.com/problems/find-right-interval/
 ## Heaters
 https://leetcode.com/problems/heaters/
+## SingleElementInSortedArray
+https://leetcode.com/problems/single-element-in-a-sorted-array/
