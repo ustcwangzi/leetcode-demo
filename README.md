@@ -2314,3 +2314,5 @@ https://leetcode.com/problems/heaters/
 https://leetcode.com/problems/single-element-in-a-sorted-array/
 ## FindKClosestElements
 https://leetcode.com/problems/find-k-closest-elements/
+## BinarySearch
+https://leetcode.com/problems/binary-search/
