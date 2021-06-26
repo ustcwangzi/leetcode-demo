@@ -2316,3 +2316,5 @@ https://leetcode.com/problems/single-element-in-a-sorted-array/
 https://leetcode.com/problems/find-k-closest-elements/
 ## BinarySearch
 https://leetcode.com/problems/binary-search/
+## FindSmallestLetterGreaterThanTarget
+https://leetcode.com/problems/find-smallest-letter-greater-than-target/
