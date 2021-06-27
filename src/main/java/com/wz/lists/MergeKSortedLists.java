@@ -35,7 +35,6 @@ public class MergeKSortedLists {
      * 然后把取出节点的下一个节点再加入堆中，下次仍从堆中取出最小的节点做相同的操作，以此类推，直到堆中没有元素
      */
     public static ListNode mergeKLists(ListNode[] lists) {
-        int n = lists.length;
         PriorityQueue<ListNode> queue = new PriorityQueue<>(Comparator.comparingInt(o -> o.val));
         // 将每个链表的首节点加入堆中
         for (ListNode node : lists) {

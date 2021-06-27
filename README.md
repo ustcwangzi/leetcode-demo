@@ -2318,3 +2318,5 @@ https://leetcode.com/problems/find-k-closest-elements/
 https://leetcode.com/problems/binary-search/
 ## FindSmallestLetterGreaterThanTarget
 https://leetcode.com/problems/find-smallest-letter-greater-than-target/
+## PeakIndexInMountainArray
+https://leetcode.com/problems/peak-index-in-a-mountain-array/
