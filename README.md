@@ -2320,3 +2320,5 @@ https://leetcode.com/problems/binary-search/
 https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 ## PeakIndexInMountainArray
 https://leetcode.com/problems/peak-index-in-a-mountain-array/
+## KokoEatingBananas
+https://leetcode.com/problems/koko-eating-bananas/
