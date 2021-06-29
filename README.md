@@ -2322,3 +2322,5 @@ https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 https://leetcode.com/problems/peak-index-in-a-mountain-array/
 ## KokoEatingBananas
 https://leetcode.com/problems/koko-eating-bananas/
+## FindTheSmallestDivisorGivenThreshold
+https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
