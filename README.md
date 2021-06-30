@@ -2324,3 +2324,5 @@ https://leetcode.com/problems/peak-index-in-a-mountain-array/
 https://leetcode.com/problems/koko-eating-bananas/
 ## FindTheSmallestDivisorGivenThreshold
 https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
+## FindLatestGroupOfSizeM
+https://leetcode.com/problems/find-latest-group-of-size-m/
