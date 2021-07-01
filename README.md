@@ -2326,3 +2326,5 @@ https://leetcode.com/problems/koko-eating-bananas/
 https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
 ## FindLatestGroupOfSizeM
 https://leetcode.com/problems/find-latest-group-of-size-m/
+## MinimumSpeedToArriveOnTime
+https://leetcode.com/problems/minimum-speed-to-arrive-on-time/
