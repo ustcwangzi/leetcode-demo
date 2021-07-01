@@ -33,19 +33,20 @@ public class FindTheSmallestDivisorGivenThreshold {
      * 二分查找，与 {@link KokoEatingBananas} 类似
      * divisor 的范围为 [1...max{nums}]
      * 使用二分查找来求解，对于每个 mid，求出余数之和与 threshold 进行比较，若大于，则说明 mid 太小，将 left 赋值为 mid+1
-     * 否则说明符合要求，将 right 赋值为 mid，缩小范围
+     * 否则说明符合要求，将 right 赋值为 mid-1，缩小范围，同时记录当前结果
      */
     public static int smallestDivisor(int[] nums, int threshold) {
-        int left = 1, right = Arrays.stream(nums).max().getAsInt();
-        while (left < right) {
+        int left = 1, right = Arrays.stream(nums).max().getAsInt(), result = 0;
+        while (left <= right) {
             int mid = left + (right - left) / 2;
             if (valid(nums, threshold, mid)) {
-                right = mid;
+                result = mid;
+                right = mid - 1;
             } else {
                 left = mid + 1;
             }
         }
-        return left;
+        return result;
     }
 
     private static boolean valid(int[] nums, int threshold, int divisor) {

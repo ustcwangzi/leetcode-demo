@@ -38,11 +38,11 @@ public class KokoEatingBananas {
      * 在 h 时间内吃完所有香蕉，一个小时内不能换堆，求出最小的吃速
      * 吃速最小是 1，最大是每次吃一堆，也就是所有堆中最大的香蕉个数，因此吃速范围为 [1...max{piles}]
      * 使用二分查找来求解，对于每个 mid，求出吃完所有香蕉所需时间 cost，若 cost 大于 h，则说明时间不够，将 left 赋值为 mid+1
-     * 否则说明时间是符合要求的，将 right 赋值为 mid，缩小范围
+     * 否则说明时间是符合要求的，将 right 赋值为 mid-1，缩小范围，同时记录当前结果
      */
     public static int minEatingSpeed(int[] piles, int h) {
-        int left = 1, right = Arrays.stream(piles).max().getAsInt();
-        while (left < right) {
+        int left = 1, right = Arrays.stream(piles).max().getAsInt(), result = 0;
+        while (left <= right) {
             int mid = left + (right - left) / 2;
             // 吃完所有香蕉所需时间
             int cost = 0;
@@ -50,11 +50,12 @@ public class KokoEatingBananas {
                 cost += pile % mid == 0 ? pile / mid : pile / mid + 1;
             }
             if (cost <= h) {
-                right = mid;
+                result = mid;
+                right = mid - 1;
             } else {
                 left = mid + 1;
             }
         }
-        return right;
+        return result;
     }
 }
