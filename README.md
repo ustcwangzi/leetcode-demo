@@ -2328,3 +2328,5 @@ https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
 https://leetcode.com/problems/find-latest-group-of-size-m/
 ## MinimumSpeedToArriveOnTime
 https://leetcode.com/problems/minimum-speed-to-arrive-on-time/
+## FindTheStudentThatWillReplaceTheChalk
+https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/
