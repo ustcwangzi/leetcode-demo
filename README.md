@@ -2189,6 +2189,8 @@ https://leetcode.com/problems/sort-array-by-increasing-frequency/
 https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/
 ## CheckArrayFormationThroughConcatenation
 https://leetcode.com/problems/check-array-formation-through-concatenation/
+## MinimizeMaximumPairSumInArray
+https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
 
 ------------------------------------------------------------------------------------------
 
