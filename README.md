@@ -2148,7 +2148,7 @@ https://leetcode.com/problems/maximum-subarray-min-product/
 ------------------------------------------------------------------------------------------
 
 # Sort
-https://leetcode.com/problemset/algorithms/?topicSlugs=sort
+https://leetcode.com/problemset/algorithms/?topicSlugs=sorting
 ## LargestNumber
 https://leetcode.com/problems/largest-number/
 ## ContainsDuplicateIII
@@ -2191,6 +2191,8 @@ https://leetcode.com/problems/widest-vertical-area-between-two-points-containing
 https://leetcode.com/problems/check-array-formation-through-concatenation/
 ## MinimizeMaximumPairSumInArray
 https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
+## ReductionOperationsToMakeTheArrayElementsEqual
+https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/
 
 ------------------------------------------------------------------------------------------
 
