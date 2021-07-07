@@ -2193,6 +2193,8 @@ https://leetcode.com/problems/check-array-formation-through-concatenation/
 https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
 ## ReductionOperationsToMakeTheArrayElementsEqual
 https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/
+## RelativeRanks
+https://leetcode.com/problems/relative-ranks/
 
 ------------------------------------------------------------------------------------------
 
