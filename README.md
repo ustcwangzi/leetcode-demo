@@ -2195,6 +2195,8 @@ https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
 https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/
 ## RelativeRanks
 https://leetcode.com/problems/relative-ranks/
+## MaximumProductDifferenceBetweenTwoPairs
+https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
 
 ------------------------------------------------------------------------------------------
 
