@@ -2197,6 +2197,8 @@ https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-eq
 https://leetcode.com/problems/relative-ranks/
 ## MaximumProductDifferenceBetweenTwoPairs
 https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
+## EliminateMaximumNumberOfMonsters
+https://leetcode.com/problems/eliminate-maximum-number-of-monsters/
 
 ------------------------------------------------------------------------------------------
 
