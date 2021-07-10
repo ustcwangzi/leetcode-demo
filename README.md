@@ -1738,6 +1738,8 @@ https://leetcode.com/problems/lexicographically-smallest-string-after-applying-o
 https://leetcode.com/problems/path-with-minimum-effort/
 ## MinimizeHammingDistanceAfterSwapOperations
 https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/
+## RecoverBinarySearchTree
+https://leetcode.com/problems/recover-binary-search-tree/
 
 ------------------------------------------------------------------------------------------
 
