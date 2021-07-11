@@ -1740,6 +1740,8 @@ https://leetcode.com/problems/path-with-minimum-effort/
 https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/
 ## RecoverBinarySearchTree
 https://leetcode.com/problems/recover-binary-search-tree/
+## ReconstructItinerary
+https://leetcode.com/problems/reconstruct-itinerary/
 
 ------------------------------------------------------------------------------------------
 
