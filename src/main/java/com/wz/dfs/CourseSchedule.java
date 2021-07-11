@@ -1,7 +1,9 @@
 package com.wz.dfs;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 /**
  * There are a total of numCourses courses you have to take, labeled from 0 to numCourses-1.
@@ -46,13 +48,7 @@ public class CourseSchedule {
      * 所有课程 DFS 结束则返回 true
      */
     public static boolean canFinish(int numCourses, int[][] prerequisites) {
-        List<Integer>[] graph = new ArrayList[numCourses];
-        for (int i = 0; i < numCourses; i++) {
-            graph[i] = new ArrayList<>();
-        }
-        for (int[] prerequisite : prerequisites) {
-            graph[prerequisite[0]].add(prerequisite[1]);
-        }
+        Map<Integer, List<Integer>> graph = buildGraph(numCourses, prerequisites);
         int[] visited = new int[numCourses];
         for (int i = 0; i < numCourses; i++) {
             if (!dfs(i, visited, graph)) {
@@ -62,7 +58,7 @@ public class CourseSchedule {
         return true;
     }
 
-    private static boolean dfs(int course, int[] visited, List<Integer>[] graph) {
+    private static boolean dfs(int course, int[] visited, Map<Integer, List<Integer>> graph) {
         if (visited[course] == 1) {
             return false;
         }
@@ -71,12 +67,23 @@ public class CourseSchedule {
         }
 
         visited[course] = 1;
-        for (int i : graph[course]) {
-            if (!dfs(i, visited, graph)) {
+        for (int neighbor : graph.get(course)) {
+            if (!dfs(neighbor, visited, graph)) {
                 return false;
             }
         }
         visited[course] = 2;
         return true;
+    }
+
+    private static Map<Integer, List<Integer>> buildGraph(int numCourses, int[][] prerequisites) {
+        Map<Integer, List<Integer>> graph = new HashMap<>();
+        for (int i = 0; i < numCourses; i++) {
+            graph.put(i, new ArrayList<>());
+        }
+        for (int[] prerequisite : prerequisites) {
+            graph.get(prerequisite[0]).add(prerequisite[1]);
+        }
+        return graph;
     }
 }

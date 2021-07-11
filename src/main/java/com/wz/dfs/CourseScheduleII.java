@@ -43,14 +43,14 @@ public class CourseScheduleII {
      * {@link CourseSchedule} 也可以使用类似方法，只是不用记录结果集，只需检查是否存在入度不等于 0 的课程
      */
     public static int[] findOrder(int numCourses, int[][] prerequisites) {
-        List<Integer>[] graph = new ArrayList[numCourses];
+        Map<Integer, List<Integer>> graph = new HashMap<>();
         for (int i = 0; i < numCourses; i++) {
-            graph[i] = new ArrayList<>();
+            graph.put(i, new ArrayList<>());
         }
 
         int[] inDegree = new int[numCourses];
         for (int[] prerequisite : prerequisites) {
-            graph[prerequisite[1]].add(prerequisite[0]);
+            graph.get(prerequisite[1]).add(prerequisite[0]);
             inDegree[prerequisite[0]]++;
         }
 
@@ -65,9 +65,9 @@ public class CourseScheduleII {
         while (!queue.isEmpty()) {
             int cur = queue.poll();
             result.add(cur);
-            for (int course : graph[cur]) {
-                if (--inDegree[course] == 0) {
-                    queue.add(course);
+            for (int neighbor : graph.get(cur)) {
+                if (--inDegree[neighbor] == 0) {
+                    queue.add(neighbor);
                 }
             }
         }
@@ -75,11 +75,6 @@ public class CourseScheduleII {
             return new int[0];
         }
 
-        int[] array = new int[numCourses];
-        int index = 0;
-        for (int course : result) {
-            array[index++] = course;
-        }
-        return array;
+        return result.stream().mapToInt(Integer::intValue).toArray();
     }
 }
