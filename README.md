@@ -1742,6 +1742,9 @@ https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/
 https://leetcode.com/problems/recover-binary-search-tree/
 ## ReconstructItinerary
 https://leetcode.com/problems/reconstruct-itinerary/
+## LexicographicalNumbers
+https://leetcode.com/problems/lexicographical-numbers/
+
 
 ------------------------------------------------------------------------------------------
 
