@@ -1782,6 +1782,8 @@ https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
 https://leetcode.com/problems/as-far-from-land-as-possible/
 ## MapOfHighestPeak
 https://leetcode.com/problems/map-of-highest-peak/
+## AverageOfLevelsInBinaryTree
+https://leetcode.com/problems/average-of-levels-in-binary-tree/
 
 ------------------------------------------------------------------------------------------
 
