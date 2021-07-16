@@ -2056,6 +2056,8 @@ https://leetcode.com/problems/frequency-of-the-most-frequent-element/
 https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
 ## MaximumDistanceBetweenPairOfValues
 https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/
+## FlowerPlantingWithNoAdjacent
+https://leetcode.com/problems/flower-planting-with-no-adjacent/
 
 ------------------------------------------------------------------------------------------
 
