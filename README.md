@@ -1784,6 +1784,8 @@ https://leetcode.com/problems/as-far-from-land-as-possible/
 https://leetcode.com/problems/map-of-highest-peak/
 ## AverageOfLevelsInBinaryTree
 https://leetcode.com/problems/average-of-levels-in-binary-tree/
+## ValidateBinaryTreeNodes
+https://leetcode.com/problems/validate-binary-tree-nodes/
 
 ------------------------------------------------------------------------------------------
 
