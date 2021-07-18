@@ -1748,6 +1748,8 @@ https://leetcode.com/problems/lexicographical-numbers/
 https://leetcode.com/problems/evaluate-division/
 ## BattleshipsInBoard
 https://leetcode.com/problems/battleships-in-a-board/
+## BalanceBinarySearchTree
+https://leetcode.com/problems/balance-a-binary-search-tree/
 
 
 ------------------------------------------------------------------------------------------
