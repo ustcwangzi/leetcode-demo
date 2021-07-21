@@ -116,10 +116,6 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
 ## BestTimeToBuyAndSellStockWithTransactionFee
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
-## WordLadder
-https://leetcode.com/problems/word-ladder/
-## WordLadderII
-https://leetcode.com/problems/word-ladder-ii/
 ## LongestConsecutiveSequence
 https://leetcode.com/problems/longest-consecutive-sequence/
 ## MajorityElement
@@ -1792,6 +1788,12 @@ https://leetcode.com/problems/map-of-highest-peak/
 https://leetcode.com/problems/average-of-levels-in-binary-tree/
 ## ValidateBinaryTreeNodes
 https://leetcode.com/problems/validate-binary-tree-nodes/
+## WordLadder
+https://leetcode.com/problems/word-ladder/
+## WordLadderII
+https://leetcode.com/problems/word-ladder-ii/
+## MinimumGeneticMutation
+https://leetcode.com/problems/minimum-genetic-mutation/
 
 ------------------------------------------------------------------------------------------
 

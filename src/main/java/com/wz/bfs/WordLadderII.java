@@ -1,4 +1,6 @@
-package com.wz.array;
+package com.wz.bfs;
+
+import com.wz.bfs.WordLadder;
 
 import java.util.*;
 

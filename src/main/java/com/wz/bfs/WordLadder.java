@@ -1,4 +1,4 @@
-package com.wz.array;
+package com.wz.bfs;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -56,7 +56,7 @@ public class WordLadder {
     }
 
     /**
-     * 广度优先搜索BFS
+     * BFS
      * 对于每个元素都找到它的相邻节点（即编辑距离为1的元素），然后放入visited中，同时从wordList中移除
      * 进行下一次的循环，每循环一次，其实就是从beginWord向endWord变化的一步，因此distance++
      */
