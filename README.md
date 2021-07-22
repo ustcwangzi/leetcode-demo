@@ -1794,6 +1794,8 @@ https://leetcode.com/problems/word-ladder/
 https://leetcode.com/problems/word-ladder-ii/
 ## MinimumGeneticMutation
 https://leetcode.com/problems/minimum-genetic-mutation/
+## CBTInserter
+https://leetcode.com/problems/complete-binary-tree-inserter/
 
 ------------------------------------------------------------------------------------------
 
