@@ -2377,3 +2377,7 @@ https://leetcode.com/problems/find-the-student-that-will-replace-the-chalk/
 https://leetcode.com/problems/maximum-number-of-removable-characters/
 ## FindPeakElementII
 https://leetcode.com/problems/find-a-peak-element-ii/
+
+# other
+## ReverseBits
+https://leetcode.com/problems/reverse-bits/
