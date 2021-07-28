@@ -2381,3 +2381,5 @@ https://leetcode.com/problems/find-a-peak-element-ii/
 # other
 ## ReverseBits
 https://leetcode.com/problems/reverse-bits/
+## NumberOf1Bits
+https://leetcode.com/problems/number-of-1-bits/
