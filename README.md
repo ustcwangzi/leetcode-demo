@@ -2383,3 +2383,5 @@ https://leetcode.com/problems/find-a-peak-element-ii/
 https://leetcode.com/problems/reverse-bits/
 ## NumberOf1Bits
 https://leetcode.com/problems/number-of-1-bits/
+## BitwiseAndOfNumbersRange
+https://leetcode.com/problems/bitwise-and-of-numbers-range/
