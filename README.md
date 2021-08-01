@@ -2387,3 +2387,5 @@ https://leetcode.com/problems/number-of-1-bits/
 https://leetcode.com/problems/bitwise-and-of-numbers-range/
 ## Trie
 https://leetcode.com/problems/implement-trie-prefix-tree/
+## DifferentWaysToAddParentheses
+https://leetcode.com/problems/different-ways-to-add-parentheses/
