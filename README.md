@@ -2239,6 +2239,8 @@ https://leetcode.com/problems/valid-sudoku/
 https://leetcode.com/problems/single-number/
 ## SingleNumberII
 https://leetcode.com/problems/single-number-ii/
+## SingleNumberIII
+https://leetcode.com/problems/single-number-iii/
 ## RepeatedDNASequences
 https://leetcode.com/problems/repeated-dna-sequences/
 ## IsomorphicStrings
