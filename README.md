@@ -2393,3 +2393,5 @@ https://leetcode.com/problems/implement-trie-prefix-tree/
 https://leetcode.com/problems/different-ways-to-add-parentheses/
 ## PeekingIterator
 https://leetcode.com/problems/peeking-iterator/
+## NimGame
+https://leetcode.com/problems/nim-game/
