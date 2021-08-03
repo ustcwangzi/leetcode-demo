@@ -2391,3 +2391,5 @@ https://leetcode.com/problems/bitwise-and-of-numbers-range/
 https://leetcode.com/problems/implement-trie-prefix-tree/
 ## DifferentWaysToAddParentheses
 https://leetcode.com/problems/different-ways-to-add-parentheses/
+## PeekingIterator
+https://leetcode.com/problems/peeking-iterator/
