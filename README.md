@@ -2395,3 +2395,5 @@ https://leetcode.com/problems/different-ways-to-add-parentheses/
 https://leetcode.com/problems/peeking-iterator/
 ## NimGame
 https://leetcode.com/problems/nim-game/
+## BullsAndCows
+https://leetcode.com/problems/bulls-and-cows/
