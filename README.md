@@ -1831,6 +1831,8 @@ https://leetcode.com/problems/count-of-matches-in-tournament/
 https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/
 ## FindMinimumTimeToFinishAllJobs
 https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/
+## AdditiveNumber
+https://leetcode.com/problems/additive-number/
 
 ------------------------------------------------------------------------------------------
 
