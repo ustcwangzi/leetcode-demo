@@ -2399,3 +2399,5 @@ https://leetcode.com/problems/peeking-iterator/
 https://leetcode.com/problems/nim-game/
 ## BullsAndCows
 https://leetcode.com/problems/bulls-and-cows/
+## SumOfTwoIntegers
+https://leetcode.com/problems/sum-of-two-integers/
