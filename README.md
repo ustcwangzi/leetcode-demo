@@ -2401,3 +2401,5 @@ https://leetcode.com/problems/nim-game/
 https://leetcode.com/problems/bulls-and-cows/
 ## SumOfTwoIntegers
 https://leetcode.com/problems/sum-of-two-integers/
+## NumArray
+https://leetcode.com/problems/range-sum-query-mutable/
