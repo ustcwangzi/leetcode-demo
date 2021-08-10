@@ -2405,3 +2405,5 @@ https://leetcode.com/problems/sum-of-two-integers/
 https://leetcode.com/problems/range-sum-query-mutable/
 ## MaximumProductOfWordLengths
 https://leetcode.com/problems/maximum-product-of-word-lengths/
+## IncreasingTripletSubsequence
+https://leetcode.com/problems/increasing-triplet-subsequence/
