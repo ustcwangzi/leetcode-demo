@@ -2409,3 +2409,5 @@ https://leetcode.com/problems/range-sum-query-mutable/
 https://leetcode.com/problems/maximum-product-of-word-lengths/
 ## IncreasingTripletSubsequence
 https://leetcode.com/problems/increasing-triplet-subsequence/
+## LinkedListRandomNode
+https://leetcode.com/problems/linked-list-random-node/
