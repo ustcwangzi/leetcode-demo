@@ -26,10 +26,7 @@ public class PowerOfThree {
     public static void main(String[] args) {
         System.out.println(isPowerOfThree(27));
         System.out.println(isPowerOfThree2(27));
-        System.out.println(isPowerOfThree(9));
-        System.out.println(isPowerOfThree2(9));
-        System.out.println(isPowerOfThree(45));
-        System.out.println(isPowerOfThree2(45));
+        System.out.println(isPowerOfThree3(1));
     }
 
     /**
@@ -47,5 +44,14 @@ public class PowerOfThree {
      */
     public static boolean isPowerOfThree2(int n) {
         return n > 0 && 1162261467 % n == 0;
+    }
+
+    /**
+     * 3^X==N   =>   log(3^X)==logN   =>   X*log3==logN   =>   X==(logN)/(log3)
+     * 然后判断 X 是否为整数即可
+     */
+    public static boolean isPowerOfThree3(int n) {
+        double lg = Math.log(n) / Math.log(3);
+        return Math.abs(lg - Math.round(lg)) <= 0.00000000000001;
     }
 }

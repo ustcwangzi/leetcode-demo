@@ -21,6 +21,7 @@ public class PowerOfTwo {
     public static void main(String[] args) {
         System.out.println(isPowerOfTwo(16));
         System.out.println(isPowerOfTwo(218));
+        System.out.println(isPowerOfTwo2(218));
     }
 
     /**
@@ -28,5 +29,14 @@ public class PowerOfTwo {
      */
     public static boolean isPowerOfTwo(int n) {
         return n > 0 && ((n & (n - 1))) == 0;
+    }
+
+    /**
+     * 2^X==N   =>   log(2^X)==logN   =>   X*log2==logN   =>   X==(logN)/(log2)
+     * 然后判断 X 是否为整数即可
+     */
+    public static boolean isPowerOfTwo2(int n) {
+        double lg = Math.log(n) / Math.log(2);
+        return Math.abs(lg - Math.round(lg)) <= 0.00000000000001;
     }
 }

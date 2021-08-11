@@ -690,6 +690,8 @@ https://leetcode.com/problems/basic-calculator/
 https://leetcode.com/problems/power-of-two/
 ## PowerOfThree
 https://leetcode.com/problems/power-of-three/
+## PowerOfFour
+https://leetcode.com/problems/power-of-four/
 ## NumberOfDigitOne
 https://leetcode.com/problems/number-of-digit-one/
 ## AddDigits
