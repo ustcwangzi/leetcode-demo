@@ -2411,3 +2411,5 @@ https://leetcode.com/problems/maximum-product-of-word-lengths/
 https://leetcode.com/problems/increasing-triplet-subsequence/
 ## LinkedListRandomNode
 https://leetcode.com/problems/linked-list-random-node/
+## LongestSubstringWithAtLeastKRepeatingCharacters
+https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
