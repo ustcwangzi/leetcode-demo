@@ -2413,3 +2413,5 @@ https://leetcode.com/problems/increasing-triplet-subsequence/
 https://leetcode.com/problems/linked-list-random-node/
 ## LongestSubstringWithAtLeastKRepeatingCharacters
 https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
+## ConvertNumberToHexadecimal
+https://leetcode.com/problems/convert-a-number-to-hexadecimal/
