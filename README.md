@@ -2417,3 +2417,5 @@ https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-charac
 https://leetcode.com/problems/convert-a-number-to-hexadecimal/
 ## MaximumXOROfTwoNumbersInArray
 https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
+## FizzBuzz
+https://leetcode.com/problems/fizz-buzz/
