@@ -2415,3 +2415,5 @@ https://leetcode.com/problems/linked-list-random-node/
 https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/
 ## ConvertNumberToHexadecimal
 https://leetcode.com/problems/convert-a-number-to-hexadecimal/
+## MaximumXOROfTwoNumbersInArray
+https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
