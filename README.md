@@ -2419,3 +2419,5 @@ https://leetcode.com/problems/convert-a-number-to-hexadecimal/
 https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
 ## FizzBuzz
 https://leetcode.com/problems/fizz-buzz/
+## NumberOfBoomerangs
+https://leetcode.com/problems/number-of-boomerangs/
