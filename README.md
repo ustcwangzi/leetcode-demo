@@ -2421,3 +2421,5 @@ https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
 https://leetcode.com/problems/fizz-buzz/
 ## NumberOfBoomerangs
 https://leetcode.com/problems/number-of-boomerangs/
+## HammingDistance
+https://leetcode.com/problems/hamming-distance/
