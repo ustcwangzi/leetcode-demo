@@ -2423,3 +2423,5 @@ https://leetcode.com/problems/fizz-buzz/
 https://leetcode.com/problems/number-of-boomerangs/
 ## HammingDistance
 https://leetcode.com/problems/hamming-distance/
+## ImplementRand10UsingRand7
+https://leetcode.com/problems/implement-rand10-using-rand7/
