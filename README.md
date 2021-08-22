@@ -2435,3 +2435,5 @@ https://leetcode.com/problems/random-flip-matrix/
 https://leetcode.com/problems/base-7/
 ## NumberComplement
 https://leetcode.com/problems/number-complement/
+## ConstructTheRectangle
+https://leetcode.com/problems/construct-the-rectangle/
