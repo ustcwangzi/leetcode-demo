@@ -2431,3 +2431,5 @@ https://leetcode.com/problems/implement-rand10-using-rand7/
 https://leetcode.com/problems/random-pick-with-weight/
 ## RandomFlipMatrix
 https://leetcode.com/problems/random-flip-matrix/
+## Base7
+https://leetcode.com/problems/base-7/
