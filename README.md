@@ -2437,3 +2437,5 @@ https://leetcode.com/problems/base-7/
 https://leetcode.com/problems/number-complement/
 ## ConstructTheRectangle
 https://leetcode.com/problems/construct-the-rectangle/
+## LicenseKeyFormatting
+https://leetcode.com/problems/license-key-formatting/
