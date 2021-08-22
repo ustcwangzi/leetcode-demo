@@ -2441,3 +2441,5 @@ https://leetcode.com/problems/construct-the-rectangle/
 https://leetcode.com/problems/license-key-formatting/
 ## TotalHammingDistance
 https://leetcode.com/problems/total-hamming-distance/
+## DiagonalTraverse
+https://leetcode.com/problems/diagonal-traverse/
