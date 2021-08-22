@@ -2447,3 +2447,5 @@ https://leetcode.com/problems/diagonal-traverse/
 https://leetcode.com/problems/design-circular-queue/
 ## MyCircularDeque
 https://leetcode.com/problems/design-circular-deque/
+## ExclusiveTimeOfFunctions
+https://leetcode.com/problems/exclusive-time-of-functions/
