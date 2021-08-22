@@ -2439,3 +2439,5 @@ https://leetcode.com/problems/number-complement/
 https://leetcode.com/problems/construct-the-rectangle/
 ## LicenseKeyFormatting
 https://leetcode.com/problems/license-key-formatting/
+## TotalHammingDistance
+https://leetcode.com/problems/total-hamming-distance/
