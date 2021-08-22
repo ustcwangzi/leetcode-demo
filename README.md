@@ -2443,3 +2443,5 @@ https://leetcode.com/problems/license-key-formatting/
 https://leetcode.com/problems/total-hamming-distance/
 ## DiagonalTraverse
 https://leetcode.com/problems/diagonal-traverse/
+## MyCircularQueue
+https://leetcode.com/problems/design-circular-queue/
