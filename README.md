@@ -2425,3 +2425,5 @@ https://leetcode.com/problems/number-of-boomerangs/
 https://leetcode.com/problems/hamming-distance/
 ## ImplementRand10UsingRand7
 https://leetcode.com/problems/implement-rand10-using-rand7/
+## RandomPickWithWeight
+https://leetcode.com/problems/random-pick-with-weight/
