@@ -2427,3 +2427,5 @@ https://leetcode.com/problems/hamming-distance/
 https://leetcode.com/problems/implement-rand10-using-rand7/
 ## RandomPickWithWeight
 https://leetcode.com/problems/random-pick-with-weight/
+## RandomFlipMatrix
+https://leetcode.com/problems/random-flip-matrix/
