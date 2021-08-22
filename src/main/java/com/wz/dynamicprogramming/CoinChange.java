@@ -29,12 +29,12 @@ public class CoinChange {
      * 动态规划
      * dp[i] 表示金额为 i 时所需硬币个数
      * dp[0] = 0，表示无需硬币，其他值可以初始化为 amount+1，因为最小硬币是 1，所以最多需要 amount 个硬币，amount+1 也就相当于当前的最大值
-     * 更新 dp[i] 的方法就是遍历每个硬币，如果遍历到的硬币值 coin 小于 i，就用 dp[i-coin] + 1 来更新 dp[i]，所以状态转移方程为：
+     * 更新 dp[i] 的方法就是遍历每个硬币，如果遍历到的硬币值 coin <= i，就用 dp[i-coin] + 1 来更新 dp[i]，所以状态转移方程为：
      * dp[i] = min(dp[i], dp[i-coin] + 1)
      */
     public static int coinChange(int[] coins, int amount) {
         int[] dp = new int[amount + 1];
-        for (int i = 1; i < dp.length; i++) {
+        for (int i = 1; i <= amount; i++) {
             dp[i] = amount + 1;
             for (int coin : coins) {
                 if (coin <= i) {
