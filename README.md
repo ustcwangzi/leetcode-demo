@@ -2445,3 +2445,5 @@ https://leetcode.com/problems/total-hamming-distance/
 https://leetcode.com/problems/diagonal-traverse/
 ## MyCircularQueue
 https://leetcode.com/problems/design-circular-queue/
+## MyCircularDeque
+https://leetcode.com/problems/design-circular-deque/
