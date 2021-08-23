@@ -2449,3 +2449,5 @@ https://leetcode.com/problems/design-circular-queue/
 https://leetcode.com/problems/design-circular-deque/
 ## ExclusiveTimeOfFunctions
 https://leetcode.com/problems/exclusive-time-of-functions/
+## MapSum
+https://leetcode.com/problems/map-sum-pairs/
