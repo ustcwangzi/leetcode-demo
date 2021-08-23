@@ -2451,3 +2451,5 @@ https://leetcode.com/problems/design-circular-deque/
 https://leetcode.com/problems/exclusive-time-of-functions/
 ## MapSum
 https://leetcode.com/problems/map-sum-pairs/
+## BinaryNumberWithAlternatingBits
+https://leetcode.com/problems/binary-number-with-alternating-bits/
