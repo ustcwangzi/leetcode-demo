@@ -1,4 +1,4 @@
-package com.wz.array;
+package com.wz.other;
 
 import java.util.TreeMap;
 
@@ -28,7 +28,7 @@ public class MyCalendarI {
         System.out.println(calendarI.book(20, 30));
     }
 
-    private TreeMap<Integer, Integer> map;
+    private final TreeMap<Integer, Integer> map;
 
     public MyCalendarI() {
         map = new TreeMap<>();
