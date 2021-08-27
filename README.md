@@ -1752,6 +1752,8 @@ https://leetcode.com/problems/balance-a-binary-search-tree/
 https://leetcode.com/problems/course-schedule-iv/
 ## CountSubIslands
 https://leetcode.com/problems/count-sub-islands/
+## PyramidTransitionMatrix
+https://leetcode.com/problems/pyramid-transition-matrix/
 
 
 ------------------------------------------------------------------------------------------
