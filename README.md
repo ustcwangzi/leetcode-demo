@@ -2459,3 +2459,5 @@ https://leetcode.com/problems/my-calendar-i/
 https://leetcode.com/problems/my-calendar-ii/
 ## ShortestCompletingWord
 https://leetcode.com/problems/shortest-completing-word/
+## PrimeNumberOfSetBitsInBinaryRepresentation
+https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/
