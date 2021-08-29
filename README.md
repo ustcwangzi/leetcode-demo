@@ -2461,3 +2461,5 @@ https://leetcode.com/problems/my-calendar-ii/
 https://leetcode.com/problems/shortest-completing-word/
 ## PrimeNumberOfSetBitsInBinaryRepresentation
 https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/
+## SwapAdjacentInLRString
+https://leetcode.com/problems/swap-adjacent-in-lr-string/
