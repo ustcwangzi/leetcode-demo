@@ -2465,3 +2465,5 @@ https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/
 https://leetcode.com/problems/swap-adjacent-in-lr-string/
 ## KthSymbolInGrammar
 https://leetcode.com/problems/k-th-symbol-in-grammar/
+## RotateString
+https://leetcode.com/problems/rotate-string/
