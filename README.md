@@ -2467,3 +2467,5 @@ https://leetcode.com/problems/swap-adjacent-in-lr-string/
 https://leetcode.com/problems/k-th-symbol-in-grammar/
 ## RotateString
 https://leetcode.com/problems/rotate-string/
+## NumberOfLinesToWriteString
+https://leetcode.com/problems/number-of-lines-to-write-string/
