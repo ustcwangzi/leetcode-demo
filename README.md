@@ -2469,3 +2469,5 @@ https://leetcode.com/problems/k-th-symbol-in-grammar/
 https://leetcode.com/problems/rotate-string/
 ## NumberOfLinesToWriteString
 https://leetcode.com/problems/number-of-lines-to-write-string/
+## MaxIncreaseToKeepCitySkyline
+https://leetcode.com/problems/max-increase-to-keep-city-skyline/
