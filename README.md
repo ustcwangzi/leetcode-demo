@@ -2471,3 +2471,5 @@ https://leetcode.com/problems/rotate-string/
 https://leetcode.com/problems/number-of-lines-to-write-string/
 ## MaxIncreaseToKeepCitySkyline
 https://leetcode.com/problems/max-increase-to-keep-city-skyline/
+## ShortEncodingOfWords
+https://leetcode.com/problems/short-encoding-of-words/
