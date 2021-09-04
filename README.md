@@ -2473,3 +2473,5 @@ https://leetcode.com/problems/number-of-lines-to-write-string/
 https://leetcode.com/problems/max-increase-to-keep-city-skyline/
 ## ShortEncodingOfWords
 https://leetcode.com/problems/short-encoding-of-words/
+## ShortestDistanceToCharacter
+https://leetcode.com/problems/shortest-distance-to-a-character/
