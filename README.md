@@ -1584,6 +1584,8 @@ https://leetcode.com/problems/stone-game-vii/
 https://leetcode.com/problems/where-will-the-ball-fall/
 ## MinimumSidewayJumps
 https://leetcode.com/problems/minimum-sideway-jumps/
+## BinaryTreesWithFactors
+https://leetcode.com/problems/binary-trees-with-factors/
 
 ------------------------------------------------------------------------------------------
 
