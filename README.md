@@ -1756,6 +1756,8 @@ https://leetcode.com/problems/course-schedule-iv/
 https://leetcode.com/problems/count-sub-islands/
 ## PyramidTransitionMatrix
 https://leetcode.com/problems/pyramid-transition-matrix/
+## LoudAndRich
+https://leetcode.com/problems/loud-and-rich/
 
 
 ------------------------------------------------------------------------------------------
