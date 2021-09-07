@@ -2479,3 +2479,5 @@ https://leetcode.com/problems/max-increase-to-keep-city-skyline/
 https://leetcode.com/problems/short-encoding-of-words/
 ## ShortestDistanceToCharacter
 https://leetcode.com/problems/shortest-distance-to-a-character/
+## ExamRoom
+https://leetcode.com/problems/exam-room/
