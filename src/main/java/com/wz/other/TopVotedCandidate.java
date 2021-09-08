@@ -79,6 +79,7 @@ public class TopVotedCandidate {
     }
 
     public int q(int t) {
+        // floorKey: 小于或等于key的最大键，不存在则返回null
         return timeMap.get(timeMap.floorKey(t));
     }
 }
