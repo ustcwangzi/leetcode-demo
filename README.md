@@ -2481,3 +2481,5 @@ https://leetcode.com/problems/short-encoding-of-words/
 https://leetcode.com/problems/shortest-distance-to-a-character/
 ## ExamRoom
 https://leetcode.com/problems/exam-room/
+## TopVotedCandidate
+https://leetcode.com/problems/online-election/
