@@ -34,9 +34,9 @@ public class MaximumSumCircularSubarray {
      * 如果数组不是环形的那么答案就是最大子数组和，如果是环形的那么数组除去答案的那一部分仍然是连续的，
      * 这样答案就是 max{最大子数组和，sum - 最小子数组和}，注意这里如果数组全为负数，应该返回最大子数组和而不是0
      */
-    public static int maxSubarraySumCircular(int[] A) {
-        int allSum = 0, maxSum = A[0], curMax = 0, minSum = A[0], curMin = 0;
-        for (int num : A) {
+    public static int maxSubarraySumCircular(int[] nums) {
+        int allSum = 0, maxSum = nums[0], curMax = 0, minSum = nums[0], curMin = 0;
+        for (int num : nums) {
             curMax = Math.max(curMax + num, num);
             // 最大子数组之和
             maxSum = Math.max(maxSum, curMax);
