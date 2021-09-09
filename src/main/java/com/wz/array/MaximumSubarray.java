@@ -13,6 +13,7 @@ public class MaximumSubarray {
     public static void main(String[] args) {
         int[] nums = new int[]{-2, 1, -3, 4, -1, 2, 1, -5, 4};
         System.out.println(maxSubArray(nums));
+        System.out.println(maxSubArray2(nums));
     }
 
     /**
@@ -26,6 +27,18 @@ public class MaximumSubarray {
         for (int i = 1; i < nums.length; i++) {
             dp[i] = Math.max(0, dp[i - 1]) + nums[i];
             result = Math.max(result, dp[i]);
+        }
+        return result;
+    }
+
+    /**
+     * 方案一中 dp[i] 仅依赖 dp[i-1]，因此可以去除数组，使用变量 curSum 来记录当前累加和
+     */
+    public static int maxSubArray2(int[] nums) {
+        int curSum = 0, result = Integer.MIN_VALUE;
+        for (int num : nums) {
+            curSum = Math.max(0, curSum) + num;
+            result = Math.max(result, curSum);
         }
         return result;
     }

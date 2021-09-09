@@ -30,11 +30,12 @@ public class MaximumSumCircularSubarray {
 
     /**
      * @see ../../../../resource/MaximumSumCircularSubarray.jpg
+     * 是对 {@link MaximumSubarray} 的扩展
      * 如果数组不是环形的那么答案就是最大子数组和，如果是环形的那么数组除去答案的那一部分仍然是连续的，
-     * 这样答案就是max(最大子数组和，sum - 最小子数组和)，注意这里如果数组全为负数，应该返回最大子数组和而不是0
+     * 这样答案就是 max{最大子数组和，sum - 最小子数组和}，注意这里如果数组全为负数，应该返回最大子数组和而不是0
      */
     public static int maxSubarraySumCircular(int[] A) {
-        int total = 0, maxSum = A[0], curMax = 0, minSum = A[0], curMin = 0;
+        int allSum = 0, maxSum = A[0], curMax = 0, minSum = A[0], curMin = 0;
         for (int num : A) {
             curMax = Math.max(curMax + num, num);
             // 最大子数组之和
@@ -42,8 +43,8 @@ public class MaximumSumCircularSubarray {
             curMin = Math.min(curMin + num, num);
             // 最小子数组之和
             minSum = Math.min(minSum, curMin);
-            total += num;
+            allSum += num;
         }
-        return maxSum > 0 ? Math.max(maxSum, total - minSum) : maxSum;
+        return maxSum > 0 ? Math.max(maxSum, allSum - minSum) : maxSum;
     }
 }
