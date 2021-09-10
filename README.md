@@ -2483,3 +2483,5 @@ https://leetcode.com/problems/shortest-distance-to-a-character/
 https://leetcode.com/problems/exam-room/
 ## TopVotedCandidate
 https://leetcode.com/problems/online-election/
+## BeautifulArray
+https://leetcode.com/problems/beautiful-array/
