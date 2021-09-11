@@ -2485,3 +2485,5 @@ https://leetcode.com/problems/exam-room/
 https://leetcode.com/problems/online-election/
 ## BeautifulArray
 https://leetcode.com/problems/beautiful-array/
+## RecentCounter
+https://leetcode.com/problems/number-of-recent-calls/
