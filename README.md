@@ -2487,3 +2487,5 @@ https://leetcode.com/problems/online-election/
 https://leetcode.com/problems/beautiful-array/
 ## RecentCounter
 https://leetcode.com/problems/number-of-recent-calls/
+## SatisfiabilityOfEqualityEquations
+https://leetcode.com/problems/satisfiability-of-equality-equations/
