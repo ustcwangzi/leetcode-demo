@@ -2489,3 +2489,5 @@ https://leetcode.com/problems/beautiful-array/
 https://leetcode.com/problems/number-of-recent-calls/
 ## SatisfiabilityOfEqualityEquations
 https://leetcode.com/problems/satisfiability-of-equality-equations/
+## FindTheTownJudge
+https://leetcode.com/problems/find-the-town-judge/
