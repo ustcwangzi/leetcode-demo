@@ -2491,3 +2491,5 @@ https://leetcode.com/problems/number-of-recent-calls/
 https://leetcode.com/problems/satisfiability-of-equality-equations/
 ## FindTheTownJudge
 https://leetcode.com/problems/find-the-town-judge/
+## NthTribonacciNumber
+https://leetcode.com/problems/n-th-tribonacci-number/
