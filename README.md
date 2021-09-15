@@ -2493,3 +2493,5 @@ https://leetcode.com/problems/satisfiability-of-equality-equations/
 https://leetcode.com/problems/find-the-town-judge/
 ## NthTribonacciNumber
 https://leetcode.com/problems/n-th-tribonacci-number/
+## XORQueriesOfSubarray
+https://leetcode.com/problems/xor-queries-of-a-subarray/
