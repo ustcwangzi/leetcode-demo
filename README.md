@@ -2495,3 +2495,5 @@ https://leetcode.com/problems/find-the-town-judge/
 https://leetcode.com/problems/n-th-tribonacci-number/
 ## XORQueriesOfSubarray
 https://leetcode.com/problems/xor-queries-of-a-subarray/
+## MinimumFlipsToMakeAORBEqualToC
+https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/
