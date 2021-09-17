@@ -2499,3 +2499,5 @@ https://leetcode.com/problems/xor-queries-of-a-subarray/
 https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/
 ## FindTheCityWithTheSmallestNumberOfNeighborsAtThresholdDistance
 https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/
+## NumberOfStepsToReduceNumberToZero
+https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
