@@ -2503,3 +2503,5 @@ https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbor
 https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 ## DestinationCity
 https://leetcode.com/problems/destination-city/
+## BrowserHistory
+https://leetcode.com/problems/design-browser-history/
