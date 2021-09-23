@@ -1806,6 +1806,8 @@ https://leetcode.com/problems/minimum-genetic-mutation/
 https://leetcode.com/problems/complete-binary-tree-inserter/
 ## NearestExitFromEntranceInMaze
 https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
+## PathWithMaximumProbability
+https://leetcode.com/problems/path-with-maximum-probability/
 
 ------------------------------------------------------------------------------------------
 
