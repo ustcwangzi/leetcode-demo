@@ -2084,6 +2084,8 @@ https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
 https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/
 ## FlowerPlantingWithNoAdjacent
 https://leetcode.com/problems/flower-planting-with-no-adjacent/
+## MinimumSwapsToArrangeBinaryGrid
+https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/
 
 ------------------------------------------------------------------------------------------
 
