@@ -2509,3 +2509,5 @@ https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/
 https://leetcode.com/problems/destination-city/
 ## BrowserHistory
 https://leetcode.com/problems/design-browser-history/
+## MinimumNumberOfVerticesToReachAllNodes
+https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
