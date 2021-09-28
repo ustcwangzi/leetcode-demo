@@ -1758,6 +1758,8 @@ https://leetcode.com/problems/count-sub-islands/
 https://leetcode.com/problems/pyramid-transition-matrix/
 ## LoudAndRich
 https://leetcode.com/problems/loud-and-rich/
+## DetectCyclesIn2DGrid
+https://leetcode.com/problems/detect-cycles-in-2d-grid/
 
 
 ------------------------------------------------------------------------------------------
