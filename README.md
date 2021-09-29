@@ -2513,3 +2513,5 @@ https://leetcode.com/problems/destination-city/
 https://leetcode.com/problems/design-browser-history/
 ## MinimumNumberOfVerticesToReachAllNodes
 https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
+## ParkingSystem
+https://leetcode.com/problems/design-parking-system/
