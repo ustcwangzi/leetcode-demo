@@ -2515,3 +2515,5 @@ https://leetcode.com/problems/design-browser-history/
 https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
 ## ParkingSystem
 https://leetcode.com/problems/design-parking-system/
+## MinCostToConnectAllPoints
+https://leetcode.com/problems/min-cost-to-connect-all-points/
