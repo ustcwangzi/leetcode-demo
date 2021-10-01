@@ -1760,6 +1760,8 @@ https://leetcode.com/problems/pyramid-transition-matrix/
 https://leetcode.com/problems/loud-and-rich/
 ## DetectCyclesIn2DGrid
 https://leetcode.com/problems/detect-cycles-in-2d-grid/
+## ThroneInheritance
+https://leetcode.com/problems/throne-inheritance/
 
 
 ------------------------------------------------------------------------------------------
