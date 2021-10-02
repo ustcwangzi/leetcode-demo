@@ -2519,3 +2519,5 @@ https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
 https://leetcode.com/problems/design-parking-system/
 ## MinCostToConnectAllPoints
 https://leetcode.com/problems/min-cost-to-connect-all-points/
+## MaximalNetworkRank
+https://leetcode.com/problems/maximal-network-rank/
