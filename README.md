@@ -2521,3 +2521,5 @@ https://leetcode.com/problems/design-parking-system/
 https://leetcode.com/problems/min-cost-to-connect-all-points/
 ## MaximalNetworkRank
 https://leetcode.com/problems/maximal-network-rank/
+## ConcatenationOfConsecutiveBinaryNumbers
+https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
