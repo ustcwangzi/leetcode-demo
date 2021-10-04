@@ -1530,6 +1530,8 @@ https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/
 https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/
 ## JumpGameV
 https://leetcode.com/problems/jump-game-v/
+## JumpGameVI
+https://leetcode.com/problems/jump-game-vi/
 ## MaximumStudentsTakingExam
 https://leetcode.com/problems/maximum-students-taking-exam/
 ## LongestZigZagPathInBinaryTree
@@ -1586,6 +1588,7 @@ https://leetcode.com/problems/where-will-the-ball-fall/
 https://leetcode.com/problems/minimum-sideway-jumps/
 ## BinaryTreesWithFactors
 https://leetcode.com/problems/binary-trees-with-factors/
+
 
 ------------------------------------------------------------------------------------------
 
