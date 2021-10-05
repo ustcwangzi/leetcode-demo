@@ -2526,3 +2526,5 @@ https://leetcode.com/problems/min-cost-to-connect-all-points/
 https://leetcode.com/problems/maximal-network-rank/
 ## ConcatenationOfConsecutiveBinaryNumbers
 https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
+## DecodeXORedArray
+https://leetcode.com/problems/decode-xored-array/
