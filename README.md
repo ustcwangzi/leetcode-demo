@@ -2528,5 +2528,7 @@ https://leetcode.com/problems/maximal-network-rank/
 https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
 ## DecodeXORedArray
 https://leetcode.com/problems/decode-xored-array/
+## DecodeXORedPermutation
+https://leetcode.com/problems/decode-xored-permutation/
 ## SellDiminishingValuedColoredBalls
 https://leetcode.com/problems/sell-diminishing-valued-colored-balls/
