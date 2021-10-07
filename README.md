@@ -1765,6 +1765,8 @@ https://leetcode.com/problems/loud-and-rich/
 https://leetcode.com/problems/detect-cycles-in-2d-grid/
 ## ThroneInheritance
 https://leetcode.com/problems/throne-inheritance/
+## MaximumScoreFromPerformingMultiplicationOperations
+https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/
 
 
 ------------------------------------------------------------------------------------------
