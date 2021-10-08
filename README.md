@@ -2534,3 +2534,5 @@ https://leetcode.com/problems/decode-xored-array/
 https://leetcode.com/problems/decode-xored-permutation/
 ## SellDiminishingValuedColoredBalls
 https://leetcode.com/problems/sell-diminishing-valued-colored-balls/
+## CheckIfNumberIsSumOfPowersOfThree
+https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/
