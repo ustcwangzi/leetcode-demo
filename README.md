@@ -1767,6 +1767,8 @@ https://leetcode.com/problems/detect-cycles-in-2d-grid/
 https://leetcode.com/problems/throne-inheritance/
 ## MaximumScoreFromPerformingMultiplicationOperations
 https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/
+## NumberOfRestrictedPathsFromFirstToLastNode
+https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/
 
 
 ------------------------------------------------------------------------------------------
