@@ -2542,3 +2542,5 @@ https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/
 https://leetcode.com/problems/find-center-of-star-graph/
 ## AuthenticationManager
 https://leetcode.com/problems/design-authentication-manager/
+## SignOfTheProductOfAnArray
+https://leetcode.com/problems/sign-of-the-product-of-an-array/
