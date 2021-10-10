@@ -2540,3 +2540,5 @@ https://leetcode.com/problems/sell-diminishing-valued-colored-balls/
 https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/
 ## FindCenterOfStarGraph
 https://leetcode.com/problems/find-center-of-star-graph/
+## AuthenticationManager
+https://leetcode.com/problems/design-authentication-manager/
