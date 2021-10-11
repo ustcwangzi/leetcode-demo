@@ -2544,3 +2544,5 @@ https://leetcode.com/problems/find-center-of-star-graph/
 https://leetcode.com/problems/design-authentication-manager/
 ## SignOfTheProductOfAnArray
 https://leetcode.com/problems/sign-of-the-product-of-an-array/
+## QueriesOnNumberOfPointsInsideCircle
+https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/
