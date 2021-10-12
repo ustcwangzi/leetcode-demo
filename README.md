@@ -2546,3 +2546,5 @@ https://leetcode.com/problems/design-authentication-manager/
 https://leetcode.com/problems/sign-of-the-product-of-an-array/
 ## QueriesOnNumberOfPointsInsideCircle
 https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/
+## MaximumXORForEachQuery
+https://leetcode.com/problems/maximum-xor-for-each-query/
