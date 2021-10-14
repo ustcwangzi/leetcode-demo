@@ -2550,3 +2550,5 @@ https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle/
 https://leetcode.com/problems/maximum-xor-for-each-query/
 ## SumOfDigitsInBaseK
 https://leetcode.com/problems/sum-of-digits-in-base-k/
+## IncrementalMemoryLeak
+https://leetcode.com/problems/incremental-memory-leak/
