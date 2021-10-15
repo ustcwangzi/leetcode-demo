@@ -1769,6 +1769,8 @@ https://leetcode.com/problems/throne-inheritance/
 https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/
 ## NumberOfRestrictedPathsFromFirstToLastNode
 https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/
+## SumOfAllSubsetXORTotals
+https://leetcode.com/problems/sum-of-all-subset-xor-totals/
 
 
 ------------------------------------------------------------------------------------------
