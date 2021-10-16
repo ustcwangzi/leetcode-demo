@@ -2554,3 +2554,5 @@ https://leetcode.com/problems/maximum-xor-for-each-query/
 https://leetcode.com/problems/sum-of-digits-in-base-k/
 ## IncrementalMemoryLeak
 https://leetcode.com/problems/incremental-memory-leak/
+## MinimumNumberOfSwapsToMakeTheBinaryStringAlternating
+https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/
