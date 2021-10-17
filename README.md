@@ -2556,3 +2556,5 @@ https://leetcode.com/problems/sum-of-digits-in-base-k/
 https://leetcode.com/problems/incremental-memory-leak/
 ## MinimumNumberOfSwapsToMakeTheBinaryStringAlternating
 https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/
+## FindSumPairs
+https://leetcode.com/problems/finding-pairs-with-a-certain-sum/
