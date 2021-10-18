@@ -2558,3 +2558,5 @@ https://leetcode.com/problems/incremental-memory-leak/
 https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-alternating/
 ## FindSumPairs
 https://leetcode.com/problems/finding-pairs-with-a-certain-sum/
+## JumpGameVII
+https://leetcode.com/problems/jump-game-vii/
