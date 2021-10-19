@@ -2560,3 +2560,6 @@ https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-binary-string-
 https://leetcode.com/problems/finding-pairs-with-a-certain-sum/
 ## JumpGameVII
 https://leetcode.com/problems/jump-game-vii/
+## 
+https://leetcode.com/problems/maximum-value-after-insertion/
+MaximumValueAfterInsertion
