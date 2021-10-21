@@ -1588,6 +1588,8 @@ https://leetcode.com/problems/where-will-the-ball-fall/
 https://leetcode.com/problems/minimum-sideway-jumps/
 ## BinaryTreesWithFactors
 https://leetcode.com/problems/binary-trees-with-factors/
+## EggDropWith2EggsAndNFloors
+https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/
 
 
 ------------------------------------------------------------------------------------------
