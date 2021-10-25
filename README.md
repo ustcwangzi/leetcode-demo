@@ -2566,3 +2566,5 @@ https://leetcode.com/problems/jump-game-vii/
 https://leetcode.com/problems/maximum-value-after-insertion/
 ## ProcessTasksUsingServers
 https://leetcode.com/problems/process-tasks-using-servers/
+## DetermineWhetherMatrixCanBeObtainedByRotation
+https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/
