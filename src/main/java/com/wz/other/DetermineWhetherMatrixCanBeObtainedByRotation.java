@@ -23,13 +23,15 @@ package com.wz.other;
  */
 public class DetermineWhetherMatrixCanBeObtainedByRotation {
     public static void main(String[] args) {
-
+        System.out.println(findRotation(
+                new int[][]{{0, 0, 0}, {0, 1, 0}, {1, 1, 1}},
+                new int[][]{{1, 1, 1}, {0, 1, 0}, {0, 0, 0}}));
     }
 
     /**
      * 对原数组旋转90度之后和 target 进行比较，相等则直接返回 true，最多旋转 3 次
      */
-    public boolean findRotation(int[][] mat, int[][] target) {
+    public static boolean findRotation(int[][] mat, int[][] target) {
         if (checkEqual(mat, target)) {
             return true;
         }
@@ -65,7 +67,7 @@ public class DetermineWhetherMatrixCanBeObtainedByRotation {
         return result;
     }
 
-    public boolean checkEqual(int[][] matrix, int[][] target) {
+    public static boolean checkEqual(int[][] matrix, int[][] target) {
         int n = matrix.length;
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {
