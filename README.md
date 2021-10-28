@@ -2572,3 +2572,5 @@ https://leetcode.com/problems/process-tasks-using-servers/
 https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/
 ## CheckIfAllTheIntegersInRangeAreCovered
 https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/
+## 
+https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/
