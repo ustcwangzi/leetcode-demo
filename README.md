@@ -2101,6 +2101,8 @@ https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/
 https://leetcode.com/problems/flower-planting-with-no-adjacent/
 ## MinimumSwapsToArrangeBinaryGrid
 https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/
+## MergeTripletsToFormTargetTriplet
+https://leetcode.com/problems/merge-triplets-to-form-target-triplet/
 
 ------------------------------------------------------------------------------------------
 
