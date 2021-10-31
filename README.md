@@ -2578,3 +2578,5 @@ https://leetcode.com/problems/check-if-all-the-integers-in-a-range-are-covered/
 https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/
 ## LargestOddNumberInString
 https://leetcode.com/problems/largest-odd-number-in-string/
+## MinimumAbsoluteDifferenceQueries
+https://leetcode.com/problems/minimum-absolute-difference-queries/
