@@ -2580,3 +2580,5 @@ https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/
 https://leetcode.com/problems/largest-odd-number-in-string/
 ## MinimumAbsoluteDifferenceQueries
 https://leetcode.com/problems/minimum-absolute-difference-queries/
+## RemoveOneElementToMakeTheArrayStrictlyIncreasing
+https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/
