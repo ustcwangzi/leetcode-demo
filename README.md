@@ -2582,3 +2582,5 @@ https://leetcode.com/problems/largest-odd-number-in-string/
 https://leetcode.com/problems/minimum-absolute-difference-queries/
 ## RemoveOneElementToMakeTheArrayStrictlyIncreasing
 https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/
+## RemoveAllOccurrencesOfSubstring
+https://leetcode.com/problems/remove-all-occurrences-of-a-substring/
