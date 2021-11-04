@@ -2585,3 +2585,5 @@ https://leetcode.com/problems/minimum-absolute-difference-queries/
 https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-increasing/
 ## RemoveAllOccurrencesOfSubstring
 https://leetcode.com/problems/remove-all-occurrences-of-a-substring/
+## BuildArrayFromPermutation
+https://leetcode.com/problems/build-array-from-permutation/
