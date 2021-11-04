@@ -30,7 +30,7 @@ import java.util.Arrays;
 public class BuildArrayFromPermutation {
     public static void main(String[] args) {
         System.out.println(Arrays.toString(buildArray(new int[]{5, 0, 1, 2, 3, 4})));
-    }ø
+    }
 
     /**
      * 直接构建即可
