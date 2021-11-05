@@ -2587,3 +2587,5 @@ https://leetcode.com/problems/remove-one-element-to-make-the-array-strictly-incr
 https://leetcode.com/problems/remove-all-occurrences-of-a-substring/
 ## BuildArrayFromPermutation
 https://leetcode.com/problems/build-array-from-permutation/
+## CountGoodNumbers
+https://leetcode.com/problems/count-good-numbers/
