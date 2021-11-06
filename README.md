@@ -2589,3 +2589,5 @@ https://leetcode.com/problems/remove-all-occurrences-of-a-substring/
 https://leetcode.com/problems/build-array-from-permutation/
 ## CountGoodNumbers
 https://leetcode.com/problems/count-good-numbers/
+## CountSquareSumTriples
+https://leetcode.com/problems/count-square-sum-triples/

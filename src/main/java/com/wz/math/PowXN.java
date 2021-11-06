@@ -22,6 +22,10 @@ public class PowXN {
         return Math.pow(x, n);
     }
 
+    /**
+     * 如果 n 是偶数，比如 4，那么相当于是两个2相乘，也就是 n^4 = n^2 * n^2，也就是说现在只需要求出 n^2 就可以了
+     * 如果 n 为奇数的话也是差不多的，比如说 5，x^5 = x^2 * x^2 * x，也就说还是求出 x^2，比上面多乘了一个x
+     */
     public static double myPow2(double x, int n) {
         if (n == 0) {
             return 1;
