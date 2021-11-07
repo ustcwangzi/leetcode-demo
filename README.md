@@ -2104,6 +2104,8 @@ https://leetcode.com/problems/flower-planting-with-no-adjacent/
 https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/
 ## MergeTripletsToFormTargetTriplet
 https://leetcode.com/problems/merge-triplets-to-form-target-triplet/
+## SumGame
+https://leetcode.com/problems/sum-game/
 
 ------------------------------------------------------------------------------------------
 
