@@ -2593,3 +2593,5 @@ https://leetcode.com/problems/build-array-from-permutation/
 https://leetcode.com/problems/count-good-numbers/
 ## CountSquareSumTriples
 https://leetcode.com/problems/count-square-sum-triples/
+## ConcatenationOfArray
+https://leetcode.com/problems/concatenation-of-array/
