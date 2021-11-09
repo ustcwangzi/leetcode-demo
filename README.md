@@ -2597,3 +2597,5 @@ https://leetcode.com/problems/count-square-sum-triples/
 https://leetcode.com/problems/concatenation-of-array/
 ## UniqueLength3PalindromicSubsequences
 https://leetcode.com/problems/unique-length-3-palindromic-subsequences/
+## MaximumNumberOfWordsYouCanType
+https://leetcode.com/problems/maximum-number-of-words-you-can-type/
