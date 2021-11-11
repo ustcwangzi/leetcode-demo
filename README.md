@@ -2599,3 +2599,5 @@ https://leetcode.com/problems/concatenation-of-array/
 https://leetcode.com/problems/unique-length-3-palindromic-subsequences/
 ## MaximumNumberOfWordsYouCanType
 https://leetcode.com/problems/maximum-number-of-words-you-can-type/
+## AddMinimumNumberOfRungs
+https://leetcode.com/problems/add-minimum-number-of-rungs/
