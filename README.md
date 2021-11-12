@@ -2601,3 +2601,5 @@ https://leetcode.com/problems/unique-length-3-palindromic-subsequences/
 https://leetcode.com/problems/maximum-number-of-words-you-can-type/
 ## AddMinimumNumberOfRungs
 https://leetcode.com/problems/add-minimum-number-of-rungs/
+## CheckIfAllCharactersHaveEqualNumberOfOccurrences
+https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
