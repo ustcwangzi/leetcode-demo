@@ -1592,6 +1592,8 @@ https://leetcode.com/problems/binary-trees-with-factors/
 https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/
 ## MaximumAlternatingSubsequenceSum
 https://leetcode.com/problems/maximum-alternating-subsequence-sum/
+## MaximumNumberOfPointsWithCost
+https://leetcode.com/problems/maximum-number-of-points-with-cost/
 
 ------------------------------------------------------------------------------------------
 
