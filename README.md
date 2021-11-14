@@ -1971,6 +1971,8 @@ https://leetcode.com/problems/maximum-average-pass-ratio/
 https://leetcode.com/problems/single-threaded-cpu/
 ## SeatManager
 https://leetcode.com/problems/seat-reservation-manager/
+## TheNumberOfTheSmallestUnoccupiedChair
+https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/
 
 ------------------------------------------------------------------------------------------
 
