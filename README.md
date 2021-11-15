@@ -2607,3 +2607,5 @@ https://leetcode.com/problems/maximum-number-of-words-you-can-type/
 https://leetcode.com/problems/add-minimum-number-of-rungs/
 ## CheckIfAllCharactersHaveEqualNumberOfOccurrences
 https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
+## DescribeThePainting
+https://leetcode.com/problems/describe-the-painting/
