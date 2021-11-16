@@ -2609,3 +2609,5 @@ https://leetcode.com/problems/add-minimum-number-of-rungs/
 https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/
 ## DescribeThePainting
 https://leetcode.com/problems/describe-the-painting/
+## SumOfDigitsOfStringAfterConvert
+https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
