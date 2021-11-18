@@ -2112,6 +2112,9 @@ https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/
 https://leetcode.com/problems/merge-triplets-to-form-target-triplet/
 ## SumGame
 https://leetcode.com/problems/sum-game/
+## MaximumNumberOfWeeksForWhichYouCanWork
+https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/
+
 
 ------------------------------------------------------------------------------------------
 
