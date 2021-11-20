@@ -2618,3 +2618,5 @@ https://leetcode.com/problems/describe-the-painting/
 https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
 ## ThreeDivisors
 https://leetcode.com/problems/three-divisors/
+## DeleteCharactersToMakeFancyString
+https://leetcode.com/problems/delete-characters-to-make-fancy-string/
