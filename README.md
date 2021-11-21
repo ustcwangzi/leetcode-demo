@@ -2620,3 +2620,5 @@ https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
 https://leetcode.com/problems/three-divisors/
 ## DeleteCharactersToMakeFancyString
 https://leetcode.com/problems/delete-characters-to-make-fancy-string/
+## CheckIfStringIsPrefixOfArray
+https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
