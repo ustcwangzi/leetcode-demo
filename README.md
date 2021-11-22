@@ -1975,6 +1975,9 @@ https://leetcode.com/problems/single-threaded-cpu/
 https://leetcode.com/problems/seat-reservation-manager/
 ## TheNumberOfTheSmallestUnoccupiedChair
 https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/
+## RemoveStonesToMinimizeTotal
+https://leetcode.com/problems/remove-stones-to-minimize-the-total/
+
 
 ------------------------------------------------------------------------------------------
 
