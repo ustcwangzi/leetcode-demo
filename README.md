@@ -2627,3 +2627,5 @@ https://leetcode.com/problems/delete-characters-to-make-fancy-string/
 https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
 ## MinimumNumberOfSwapsToMakeStringBalanced
 https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
+## NumberOfStringsThatAppearAsSubstringsInWord
+https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
