@@ -2625,3 +2625,5 @@ https://leetcode.com/problems/three-divisors/
 https://leetcode.com/problems/delete-characters-to-make-fancy-string/
 ## CheckIfStringIsPrefixOfArray
 https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/
+## MinimumNumberOfSwapsToMakeStringBalanced
+https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
