@@ -1778,6 +1778,8 @@ https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node
 https://leetcode.com/problems/sum-of-all-subset-xor-totals/
 ## MaximumCompatibilityScoreSum
 https://leetcode.com/problems/maximum-compatibility-score-sum/
+## FindIfPathExistsInGraph
+https://leetcode.com/problems/find-if-path-exists-in-graph/
 
 
 ------------------------------------------------------------------------------------------
