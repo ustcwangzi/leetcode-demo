@@ -1594,6 +1594,8 @@ https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors/
 https://leetcode.com/problems/maximum-alternating-subsequence-sum/
 ## MaximumNumberOfPointsWithCost
 https://leetcode.com/problems/maximum-number-of-points-with-cost/
+## NumberOfWaysToArriveAtDestination
+https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
 
 ------------------------------------------------------------------------------------------
 
