@@ -2633,3 +2633,5 @@ https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balance
 https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/
 ## ArrayWithElementsNotEqualToAverageOfNeighbors
 https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/
+## MinimumTimeToTypeWordUsingSpecialTypewriter
+https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/
