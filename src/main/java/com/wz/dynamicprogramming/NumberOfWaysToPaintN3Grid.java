@@ -11,7 +11,7 @@ package com.wz.dynamicprogramming;
  * Input: n = 1
  * Output: 12
  * Explanation: There are 12 possible way to paint the grid as shown:
- * @see ../../../../resource/NumberOfWaysToPaintN3Grid.jpg
+ * @link ../../../../resource/NumberOfWaysToPaintN3Grid.jpg
  *
  * Example 2:
  * Input: n = 2

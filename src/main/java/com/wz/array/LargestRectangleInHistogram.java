@@ -6,7 +6,7 @@ import java.util.Stack;
  * Given n non-negative integers representing the histogram's bar height where the width of each bar is 1,
  * find the area of largest rectangle in the histogram.
  *
- * @see ../../../../resource/LargestRectangleInHistogram.jpg
+ * @link ../../../../resource/LargestRectangleInHistogram.jpg
  * Given height = [2,1,5,6,2,3]. The largest rectangle is shown in the shaded area, which has area = 10 unit.
  * <p>
  * Example:

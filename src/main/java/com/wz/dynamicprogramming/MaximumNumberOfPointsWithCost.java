@@ -13,7 +13,7 @@ import java.util.Arrays;
  * 2. -x for x < 0.
  *
  * Example 1:
- * @see ../../../../resource/MaximumNumberOfPointsWithCost1.jpg
+ * @link ../../../../resource/MaximumNumberOfPointsWithCost1.jpg
  * Input: points = [[1,2,3],[1,5,1],[3,1,1]]
  * Output: 9
  * Explanation:
@@ -23,7 +23,7 @@ import java.util.Arrays;
  * Your final score is 11 - 2 = 9.
  *
  * Example 2:
- * @see ../../../../resource/MaximumNumberOfPointsWithCost2.jpg
+ * @link ../../../../resource/MaximumNumberOfPointsWithCost2.jpg
  * Input: points = [[1,5],[2,3],[4,2]]
  * Output: 11
  * Explanation:

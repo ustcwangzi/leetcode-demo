@@ -10,22 +10,22 @@ import java.util.Queue;
  * Note that the nodes have no values and that we only use the node numbers in this problem.
  *
  * Example 1:
- * @see ../../../../resource/ValidateBinaryTreeNodes1.jpg
+ * @link ../../../../resource/ValidateBinaryTreeNodes1.jpg
  * Input: n = 4, leftChild = [1,-1,3,-1], rightChild = [2,-1,-1,-1]
  * Output: true
  *
  * Example 2:
- * @see ../../../../resource/ValidateBinaryTreeNodes2.jpg
+ * @link ../../../../resource/ValidateBinaryTreeNodes2.jpg
  * Input: n = 4, leftChild = [1,-1,3,-1], rightChild = [2,3,-1,-1]
  * Output: false
  *
  * Example 3:
- * @see ../../../../resource/ValidateBinaryTreeNodes3.jpg
+ * @link ../../../../resource/ValidateBinaryTreeNodes3.jpg
  * Input: n = 2, leftChild = [1,0], rightChild = [-1,-1]
  * Output: false
  *
  * Example 4:
- * @see ../../../../resource/ValidateBinaryTreeNodes4.jpg
+ * @link ../../../../resource/ValidateBinaryTreeNodes4.jpg
  * Input: n = 6, leftChild = [1,-1,-1,4,-1,-1], rightChild = [2,-1,-1,5,-1,-1]
  * Output: false
  *

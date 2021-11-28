@@ -17,12 +17,12 @@ import java.util.Queue;
  *    as the new root of the whole original tree, and the original tree is the new root's left subtree.
  *
  * Example 1:
- * @see ../../../../resource/AddOneRowToTree1.jpg
+ * @link ../../../../resource/AddOneRowToTree1.jpg
  * Input: root = [4,2,6,3,1,5], val = 1, depth = 2
  * Output: [4,1,1,2,null,null,6,3,1,5]
  *
  * Example 2:
- * @see ../../../../resource/AddOneRowToTree2.jpg
+ * @link ../../../../resource/AddOneRowToTree2.jpg
  * Input: root = [4,2,null,3,1], val = 1, depth = 3
  * Output: [4,2,null,1,1,3,null,null,1]
  *

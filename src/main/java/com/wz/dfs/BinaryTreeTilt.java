@@ -9,7 +9,7 @@ import com.wz.common.TreeNode;
  * The rule is similar if there the node does not have a right child.
  *
  * Example 1:
- * @see ../../../../resource/BinaryTreeTilt1.jpg
+ * @link ../../../../resource/BinaryTreeTilt1.jpg
  * Input: root = [1,2,3]
  * Output: 1
  * Explanation:
@@ -19,7 +19,7 @@ import com.wz.common.TreeNode;
  * Sum of every tilt : 0 + 0 + 1 = 1
  *
  * Example 2:
- * @see ../../../../resource/BinaryTreeTilt2.jpg
+ * @link ../../../../resource/BinaryTreeTilt2.jpg
  * Input: root = [4,2,9,3,5,null,7]
  * Output: 15
  * Explanation:

@@ -10,7 +10,7 @@ package com.wz.array;
  * Return the moment when the last ant(s) fall out of the plank.
  *
  * Example 1:
- * @see ../../../../resource/LastMomentBeforeAllAntsFallOutOfPlank.jpg
+ * @link ../../../../resource/LastMomentBeforeAllAntsFallOutOfPlank.jpg
  * Input: n = 4, left = [4,3], right = [0,1]
  * Output: 4
  * Explanation: In the image above:

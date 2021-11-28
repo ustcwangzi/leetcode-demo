@@ -11,7 +11,7 @@ import java.util.Queue;
  * Answers within 10-5 of the actual answer will be accepted.
  *
  * Example 1:
- * @see ../../../../resource/AverageOfLevelsInBinaryTree.jpg
+ * @link ../../../../resource/AverageOfLevelsInBinaryTree.jpg
  * Input: root = [3,9,20,null,15,7]
  * Output: [3.00000,14.50000,11.00000]
  * Explanation: The average value of nodes on level 0 is 3, on level 1 is 14.5, and on level 2 is 11.

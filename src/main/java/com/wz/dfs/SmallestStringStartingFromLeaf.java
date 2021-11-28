@@ -10,7 +10,7 @@ import com.wz.common.TreeNode;
  * "ab" is lexicographically smaller than "aba".  A leaf of a node is a node that has no children.)
  *
  * Example 1:
- * @see ../../../../resource/SmallestStringStartingFromLeaf.jpg
+ * @link ../../../../resource/SmallestStringStartingFromLeaf.jpg
  * Input: [0,1,2,3,4,3,4]
  * Output: "dba"
  */

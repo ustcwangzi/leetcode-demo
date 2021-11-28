@@ -8,13 +8,13 @@ import com.wz.common.TreeNode;
  * as the lowest node in T that has both p and q as descendants (where we allow a node to be a descendant of itself).”
  *
  * Example 1:
- * @see ../../../../resource/LowestCommonAncestorOfBinaryTree.jpg
+ * @link ../../../../resource/LowestCommonAncestorOfBinaryTree.jpg
  * Input: root = [3,5,1,6,2,0,8,null,null,7,4], p = 5, q = 1
  * Output: 3
  * Explanation: The LCA of nodes 5 and 1 is 3.
  *
  * Example 2:
- * @see ../../../../resource/LowestCommonAncestorOfBinaryTree.jpg
+ * @link ../../../../resource/LowestCommonAncestorOfBinaryTree.jpg
  * Input: root = [3,5,1,6,2,0,8,null,null,7,4], p = 5, q = 4
  * Output: 5
  * Explanation: The LCA of nodes 5 and 4 is 5, since a node can be a descendant of itself according to the LCA definition.

@@ -7,7 +7,7 @@ import com.wz.common.TreeNode;
  * original BST is changed to the original key plus sum of all keys greater than the original key in BST.
  *
  * Example 1:
- * @see ../../../../resource/ConvertBSTToGreaterTree.jpg
+ * @link ../../../../resource/ConvertBSTToGreaterTree.jpg
  * Input: root = [4,1,6,0,2,5,7,null,null,null,3,null,null,null,8]
  * Output: [30,36,21,36,35,26,15,null,null,null,33,null,null,null,8]
  *

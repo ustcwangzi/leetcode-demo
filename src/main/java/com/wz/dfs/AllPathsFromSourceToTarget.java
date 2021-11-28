@@ -11,7 +11,7 @@ import java.util.List;
  * (i.e., there is a directed edge from node i to node graph[i][j]).
  *
  * Example 1:
- * @see ../../../../resource/AllPathsFromSourceToTarget.jpg
+ * @link ../../../../resource/AllPathsFromSourceToTarget.jpg
  * Input: graph = [[1,2],[3],[3],[]]
  * Output: [[0,1,3],[0,2,3]]
  * Explanation: There are two paths: 0 -> 1 -> 3 and 0 -> 2 -> 3.

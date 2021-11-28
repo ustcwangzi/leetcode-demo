@@ -11,13 +11,13 @@ import java.util.*;
  * It's guaranteed that each city can reach the city 0 after reorder.
  *
  * Example 1:
- * @see ../../../../resource/ReorderRoutesToMakeAllPathsLeadToTheCityZero1.jpg
+ * @link ../../../../resource/ReorderRoutesToMakeAllPathsLeadToTheCityZero1.jpg
  * Input: n = 6, connections = [[0,1],[1,3],[2,3],[4,0],[4,5]]
  * Output: 3
  * Explanation: Change the direction of edges show in red such that each node can reach the node 0 (capital).
  *
  * Example 2:
- * @see ../../../../resource/ReorderRoutesToMakeAllPathsLeadToTheCityZero2.jpg
+ * @link ../../../../resource/ReorderRoutesToMakeAllPathsLeadToTheCityZero2.jpg
  * Input: n = 5, connections = [[1,0],[1,2],[3,2],[3,4]]
  * Output: 2
  * Explanation: Change the direction of edges show in red such that each node can reach the node 0 (capital).

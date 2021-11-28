@@ -8,12 +8,12 @@ import com.wz.common.TreeNode;
  * The length of the path between two nodes is represented by the number of edges between them.
  *
  * Example 1:
- * @see ../../../../resource/LongestUnivaluePath1.jpg
+ * @link ../../../../resource/LongestUnivaluePath1.jpg
  * Input: root = [5,4,5,1,1,5]
  * Output: 2
  *
  * Example 2:
- * @see ../../../../resource/LongestUnivaluePath2.jpg
+ * @link ../../../../resource/LongestUnivaluePath2.jpg
  * Input: root = [1,4,5,4,4,5]
  * Output: 2
  *

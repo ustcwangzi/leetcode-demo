@@ -8,7 +8,7 @@ import com.wz.common.TreeNode;
  * Return the number of pseudo-palindromic paths going from the root node to leaf nodes.
  *
  * Example 1:
- * @see ../../../../resource/PseudoPalindromicPathsInBinaryTree.jpg
+ * @link ../../../../resource/PseudoPalindromicPathsInBinaryTree.jpg
  * Input: root = [2,3,1,3,1,null,1]
  * Output: 2
  * Explanation: The figure above represents the given binary tree. There are three paths going from the root node to leaf nodes:

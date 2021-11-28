@@ -13,7 +13,7 @@ import java.util.Queue;
  * Follow up: Solve the problem if repeated values on the tree are allowed.
  *
  * Example 1:
- * @see ../../../../resource/FindCorrespondingNodeOfBinaryTreeInCloneOfThatTree.jpg
+ * @link ../../../../resource/FindCorrespondingNodeOfBinaryTreeInCloneOfThatTree.jpg
  * Input: tree = [7,4,3,null,null,6,19], target = 3
  * Output: 3
  * Explanation: In all examples the original and cloned trees are shown. The target node is a green node from the original tree.

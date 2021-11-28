@@ -16,7 +16,7 @@ import com.wz.common.TreeNode;
  * If it is not possible, return false.
  *
  * Example 1:
- * @see ../../../../resource/BinaryTreeColoringGame.jpg
+ * @link ../../../../resource/BinaryTreeColoringGame.jpg
  * Input: root = [1,2,3,4,5,6,7,8,9,10,11], n = 11, x = 3
  * Output: true
  * Explanation: The second player can choose the node with value 2.

@@ -12,7 +12,7 @@ import java.util.*;
  * return the minimum number of crossed bricks after drawing such a vertical line.
  *
  * Example 1:
- * @see ../../../../resource/BrickWall.jpg
+ * @link ../../../../resource/BrickWall.jpg
  * Input: wall = [[1,2,2,1],[3,1,2],[1,3,2],[2,4],[3,1,2],[1,3,1,1]]
  * Output: 2
  *

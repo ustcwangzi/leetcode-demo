@@ -10,7 +10,7 @@ import java.util.Set;
  * return true if there exist two elements in the BST such that their sum is equal to the given target.
  *
  * Example 1:
- * @see ../../../../resource/TwoSumIVInputIsBST.jpg
+ * @link ../../../../resource/TwoSumIVInputIsBST.jpg
  * Input: root = [5,3,6,2,4,null,7], k = 9
  * Output: true
  *

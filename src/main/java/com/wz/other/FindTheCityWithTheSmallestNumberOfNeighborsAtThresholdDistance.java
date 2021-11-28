@@ -10,7 +10,7 @@ import java.util.Arrays;
  *  Notice that the distance of a path connecting cities i and j is equal to the sum of the edges' weights along that path.
  *
  *  Example 1:
- *  @see ../../../../resource/FindTheCityWithTheSmallestNumberOfNeighborsAtThresholdDistance1.jpg
+ *  @link ../../../../resource/FindTheCityWithTheSmallestNumberOfNeighborsAtThresholdDistance1.jpg
  *  Input: n = 4, edges = [[0,1,3],[1,2,1],[1,3,4],[2,3,1]], distanceThreshold = 4
  *  Output: 3
  *  Explanation: The figure above describes the graph.
@@ -22,7 +22,7 @@ import java.util.Arrays;
  *  Cities 0 and 3 have 2 neighboring cities at a distanceThreshold = 4, but we have to return city 3 since it has the greatest number.
  *
  *  Example 2:
- *  @see ../../../../resource/FindTheCityWithTheSmallestNumberOfNeighborsAtThresholdDistance2.jpg
+ *  @link ../../../../resource/FindTheCityWithTheSmallestNumberOfNeighborsAtThresholdDistance2.jpg
  *  Input: n = 5, edges = [[0,1,2],[0,4,8],[1,2,3],[1,4,2],[2,3,1],[3,4,1]], distanceThreshold = 2
  *  Output: 0
  *  Explanation: The figure above describes the graph.

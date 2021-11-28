@@ -8,7 +8,7 @@ import java.util.*;
  * 1. the first row consists of the characters "qwertyuiop",
  * 2. the second row consists of the characters "asdfghjkl", and
  * 3. the third row consists of the characters "zxcvbnm".
- * @see ../../../../resource/KeyboardRow.jpg
+ * @link ../../../../resource/KeyboardRow.jpg
  *
  * Example 1:
  * Input: words = ["Hello","Alaska","Dad","Peace"]

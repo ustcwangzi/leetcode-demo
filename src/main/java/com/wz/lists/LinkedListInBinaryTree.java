@@ -10,7 +10,7 @@ import com.wz.common.TreeNode;
  * In this context downward path means a path that starts at some node and goes downwards.
  *
  * Example:
- * @see ../../../../resource/LinkedListInBinaryTree.jpg
+ * @link ../../../../resource/LinkedListInBinaryTree.jpg
  * Input: head = [4,2,8], root = [1,4,4,null,2,2,null,1,null,6,8,null,null,null,null,1,3]
  * Output: true
  * Explanation: Nodes in blue form a subpath in the binary Tree.

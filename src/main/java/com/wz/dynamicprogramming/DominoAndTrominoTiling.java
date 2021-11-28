@@ -35,7 +35,7 @@ public class DominoAndTrominoTiling {
      * 当N=4时，那么就是一个4x2大小的棋盘，共用十一种放置方法，太多了就不一一画出来了，但是其也是由之前的情况组合而成的。
      *  首先是N=3的所有情况后面加上一个竖着多米诺骨牌，然后是N=2的所有情况加上两个平行的横向的多米诺骨牌，然后N=1再加上两种三格骨牌对角摆开的情况，
      *  然后N=0（空集）再加上两种三格骨牌和一个横向多米诺骨牌组成的情况。
-     * @see ../../../../resource/DominoAndTrominoTiling.jpg
+     * @link ../../../../resource/DominoAndTrominoTiling.jpg
      * 总结一个很重要的规律，就是 dp[n] 是由之前的 dp 值组成的，其中 dp[n-1] 和 dp[n-2] 各自能贡献一种组成方式，而dp[n-3]，一直到dp[0]，
      * 都能各自贡献两种组成方式，所以状态转移方程：
      * dp[n] = dp[n-1] + dp[n-2] + 2 * (dp[n-3] + ... + dp[0])

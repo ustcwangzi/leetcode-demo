@@ -9,7 +9,7 @@ import java.util.*;
  * Return a list of the values of all nodes that have a distance K from the target node.  The answer can be returned in any order.
  *
  * Example 1:
- * @see ../../../../resource/AllNodesDistanceKInBinaryTree.jpg
+ * @link ../../../../resource/AllNodesDistanceKInBinaryTree.jpg
  * Input: root = [3,5,1,6,2,0,8,null,null,7,4], target = 5, K = 2
  * Output: [7,4,1]
  * Explanation:

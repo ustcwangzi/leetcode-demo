@@ -13,7 +13,7 @@ import java.util.Queue;
  * Given the root of a binary tree, return true if the binary tree is Even-Odd, otherwise return false.
  *
  * Example 1:
- * @see ../../../../resource/EvenOddTree1.jpg
+ * @link ../../../../resource/EvenOddTree1.jpg
  * Input: root = [1,10,4,3,null,7,9,12,8,6,null,null,2]
  * Output: true
  * Explanation: The node values on each level are:
@@ -24,7 +24,7 @@ import java.util.Queue;
  * Since levels 0 and 2 are all odd and increasing, and levels 1 and 3 are all even and decreasing, the tree is Even-Odd.
  *
  * Example 2:
- * @see ../../../../resource/EvenOddTree2.jpg
+ * @link ../../../../resource/EvenOddTree2.jpg
  * Input: root = [5,4,2,3,3,7]
  * Output: false
  * Explanation: The node values on each level are:
@@ -34,7 +34,7 @@ import java.util.Queue;
  * Node values in the level 2 must be in strictly increasing order, so the tree is not Even-Odd.
  *
  * Example 3:
- * @see ../../../../resource/EvenOddTree3.jpg
+ * @link ../../../../resource/EvenOddTree3.jpg
  * Input: root = [5,9,1,3,5,7]
  * Output: false
  * Explanation: Node values in the level 1 should be even integers.

@@ -12,13 +12,13 @@ import java.util.stream.Collectors;
  * Follow up: A solution using O(n) space is pretty straight forward. Could you devise a constant space solution?
  *
  * Example 1:
- * @see ../../../../resource/RecoverBinarySearchTree1.jpg
+ * @link ../../../../resource/RecoverBinarySearchTree1.jpg
  * Input: root = [1,3,null,null,2]
  * Output: [3,1,null,null,2]
  * Explanation: 3 cannot be a left child of 1 because 3 > 1. Swapping 1 and 3 makes the BST valid.
  *
  * Example 2:
- * @see ../../../../resource/RecoverBinarySearchTree2.jpg
+ * @link ../../../../resource/RecoverBinarySearchTree2.jpg
  * Input: root = [3,1,4,null,null,2]
  * Output: [2,1,4,null,null,3]
  * Explanation: 2 cannot be in the right subtree of 3 because 2 < 3. Swapping 2 and 3 makes the BST valid.

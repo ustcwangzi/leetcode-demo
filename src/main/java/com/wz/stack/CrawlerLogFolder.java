@@ -13,7 +13,7 @@ import java.util.Stack;
  * Return the minimum number of operations needed to go back to the main folder after the change folder operations.
  *
  * Example 1:
- * @see ../../../../resource/CrawlerLogFolder.jpg
+ * @link ../../../../resource/CrawlerLogFolder.jpg
  * Input: logs = ["d1/","d2/","../","d21/","./"]
  * Output: 2
  * Explanation: Use this change folder operation "../" 2 times and go back to the main folder.

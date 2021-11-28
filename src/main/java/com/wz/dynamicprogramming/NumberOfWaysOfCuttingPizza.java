@@ -10,7 +10,7 @@ package com.wz.dynamicprogramming;
  * Since the answer can be a huge number, return this modulo 10^9 + 7.
  *
  * Example 1:
- * @see ../../../../resource/NumberOfWaysOfCuttingPizza.jpg
+ * @link ../../../../resource/NumberOfWaysOfCuttingPizza.jpg
  * Input: pizza = ["A..","AAA","..."], k = 3
  * Output: 3
  * Explanation: The figure above shows the three ways to cut the pizza. Note that pieces must contain at least one apple.

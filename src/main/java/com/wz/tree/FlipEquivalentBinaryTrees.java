@@ -8,7 +8,7 @@ import com.wz.common.TreeNode;
  * Given the roots of two binary trees root1 and root2, return true if the two trees are flip equivelent or false otherwise.
  *
  * Example 1:
- * @see ../../../../resource/FlipEquivalentBinaryTrees.jpg
+ * @link ../../../../resource/FlipEquivalentBinaryTrees.jpg
  * Flipped Trees Diagram
  * Input: root1 = [1,2,3,4,5,6,null,null,null,7,8], root2 = [1,3,2,null,6,4,5,null,null,null,null,8,7]
  * Output: true

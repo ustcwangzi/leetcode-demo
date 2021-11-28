@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * Given three integers n, m and k. Consider the following algorithm to find the maximum element of an array of positive integers:
- * @see ../../../../resource/BuildArrayWhereYouCanFindMaximumExactlyKComparisons.jpg
+ * @link ../../../../resource/BuildArrayWhereYouCanFindMaximumExactlyKComparisons.jpg
  * You should build the array arr which has the following properties:
  * arr has exactly n integers.
  * 1 <= arr[i] <= m where (0 <= i < n).

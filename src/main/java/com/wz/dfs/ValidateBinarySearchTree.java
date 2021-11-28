@@ -10,12 +10,12 @@ import com.wz.common.TreeNode;
  * Both the left and right subtrees must also be binary search trees.
  *
  * Example 1:
- * @see ../../../../resource/ValidateBinarySearchTree1.jpg
+ * @link ../../../../resource/ValidateBinarySearchTree1.jpg
  * Input: root = [2,1,3]
  * Output: true
  *
  * Example 2:
- * @see ../../../../resource/ValidateBinarySearchTree2.jpg
+ * @link ../../../../resource/ValidateBinarySearchTree2.jpg
  * Input: root = [5,1,4,null,null,3,6]
  * Output: false
  * Explanation: The root node's value is 5 but its right child's value is 4.

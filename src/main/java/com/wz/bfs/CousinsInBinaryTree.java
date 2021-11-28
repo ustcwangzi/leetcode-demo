@@ -12,17 +12,17 @@ import java.util.Queue;
  * Return true if and only if the nodes corresponding to the values x and y are cousins.
  *
  * Example 1:
- * @see ../../../../resource/CousinsInBinaryTree1.jpg
+ * @link ../../../../resource/CousinsInBinaryTree1.jpg
  * Input: root = [1,2,3,4], x = 4, y = 3
  * Output: false
  *
  * Example 2:
- * @see ../../../../resource/CousinsInBinaryTree2.jpg
+ * @link ../../../../resource/CousinsInBinaryTree2.jpg
  * Input: root = [1,2,3,null,4,null,5], x = 5, y = 4
  * Output: true
  *
  * Example 3:
- * @see ../../../../resource/CousinsInBinaryTree3.jpg
+ * @link ../../../../resource/CousinsInBinaryTree3.jpg
  * Input: root = [1,2,3,null,4], x = 2, y = 3
  * Output: false
  *

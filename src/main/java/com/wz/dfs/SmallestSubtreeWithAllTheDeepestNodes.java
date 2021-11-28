@@ -10,7 +10,7 @@ import com.wz.common.TreeNode;
  * Note: This question is the same as 1123: https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
  *
  * Example 1:
- * @see ../../../../resource/SmallestSubtreeWithAllTheDeepestNodes.jpg
+ * @link ../../../../resource/SmallestSubtreeWithAllTheDeepestNodes.jpg
  * Input: root = [3,5,1,6,2,0,8,null,null,7,4]
  * Output: [2,7,4]
  * Explanation: We return the node with value 2, colored in yellow in the diagram.

@@ -20,7 +20,7 @@ import java.util.Map;
  * The given node will always be the first node with val = 1. You must return the copy of the given node as a reference to the cloned graph.
  *
  * Example 1:
- * @see ../../../../resource/CloneGraph.jpg
+ * @link ../../../../resource/CloneGraph.jpg
  * Input: adjList = [[2,4],[1,3],[2,4],[1,3]]
  * Output: [[2,4],[1,3],[2,4],[1,3]]
  * Explanation: There are 4 nodes in the graph.

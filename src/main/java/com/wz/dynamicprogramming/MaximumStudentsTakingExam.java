@@ -9,7 +9,7 @@ package com.wz.dynamicprogramming;
  * Students must be placed in seats in good condition.
  *
  * Example 1:
- * @see ../../../../resource/MaximumStudentsTakingExam.jpg
+ * @link ../../../../resource/MaximumStudentsTakingExam.jpg
  * Input: seats = [["#",".","#","#",".","#"],
  *                 [".","#","#","#","#","."],
  *                 ["#",".","#","#",".","#"]]

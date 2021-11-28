@@ -12,7 +12,7 @@ package com.wz.dynamicprogramming;
  * Return the minimum possible height that the total bookshelf can be after placing shelves in this manner.
  *
  * Example 1:
- * @see ../../../../resource/FillingBookcaseShelves.jpg
+ * @link ../../../../resource/FillingBookcaseShelves.jpg
  * Input: books = [[1,1],[2,3],[2,3],[1,1],[1,1],[1,1],[1,2]], shelf_width = 4
  * Output: 6
  * Explanation:

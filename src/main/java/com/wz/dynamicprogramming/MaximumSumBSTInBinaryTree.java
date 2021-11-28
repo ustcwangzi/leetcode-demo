@@ -10,13 +10,13 @@ import com.wz.common.TreeNode;
  * Both the left and right subtrees must also be binary search trees.
  *
  * Example 1:
- * @see ../../../../resource/MaximumSumBSTInBinaryTree1.jpg
+ * @link ../../../../resource/MaximumSumBSTInBinaryTree1.jpg
  * Input: root = [1,4,3,2,4,2,5,null,null,null,null,null,null,4,6]
  * Output: 20
  * Explanation: Maximum sum in a valid Binary search tree is obtained in root node with key equal to 3.
  *
  * Example 2:
- * @see ../../../../resource/MaximumSumBSTInBinaryTree2.jpg
+ * @link ../../../../resource/MaximumSumBSTInBinaryTree2.jpg
  * Input: root = [4,3,null,1,2]
  * Output: 2
  * Explanation: Maximum sum in a valid Binary search tree is obtained in a single root node with key equal to 2.

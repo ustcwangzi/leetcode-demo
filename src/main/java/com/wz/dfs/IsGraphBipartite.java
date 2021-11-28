@@ -12,13 +12,13 @@ import java.util.Queue;
  * graph[i] does not contain i, and it doesn't contain any element twice.
  *
  * Example 1:
- * @see ../../../../resource/IsGraphBipartite1.jpg
+ * @link ../../../../resource/IsGraphBipartite1.jpg
  * Input: graph = [[1,3],[0,2],[1,3],[0,2]]
  * Output: true
  * Explanation: We can divide the vertices into two groups: {0, 2} and {1, 3}.
  *
  * Example 2:
- * @see ../../../../resource/IsGraphBipartite2.jpg
+ * @link ../../../../resource/IsGraphBipartite2.jpg
  * Input: graph = [[1,2,3],[0,2],[0,1,3],[0,2]]
  * Output: false
  * Explanation: We cannot find a way to divide the set of nodes into two independent subsets.

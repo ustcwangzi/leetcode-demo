@@ -8,7 +8,7 @@ import com.wz.common.TreeNode;
  * A node A is an ancestor of B if either: any child of A is equal to B, or any child of A is an ancestor of B.
  *
  * Example 1:
- * @see ../../../../resource/MaximumDifferenceBetweenNodeAndAncestor.jpg
+ * @link ../../../../resource/MaximumDifferenceBetweenNodeAndAncestor.jpg
  * Input: root = [8,3,10,1,6,null,14,null,null,4,7,13]
  * Output: 7
  * Explanation: We have various ancestor-node differences, some of which are given below :

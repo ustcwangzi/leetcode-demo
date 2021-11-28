@@ -13,20 +13,20 @@ package com.wz.dynamicprogramming;
  * Note: There will be no obstacles on points 0 and n.
  *
  * Example 1:
- * @see ../../../../resource/MinimumSidewayJumps1.jpg
+ * @link ../../../../resource/MinimumSidewayJumps1.jpg
  * Input: obstacles = [0,1,2,3,0]
  * Output: 2
  * Explanation: The optimal solution is shown by the arrows above. There are 2 side jumps (red arrows).
  * Note that the frog can jump over obstacles only when making side jumps (as shown at point 2).
  *
  * Example 2:
- * @see ../../../../resource/MinimumSidewayJumps2.jpg
+ * @link ../../../../resource/MinimumSidewayJumps2.jpg
  * Input: obstacles = [0,1,1,3,3,0]
  * Output: 0
  * Explanation: There are no obstacles on lane 2. No side jumps are required.
  *
  * Example 3:
- * @see ../../../../resource/MinimumSidewayJumps3.jpg
+ * @link ../../../../resource/MinimumSidewayJumps3.jpg
  * Input: obstacles = [0,2,1,0,3,0]
  * Output: 2
  * Explanation: The optimal solution is shown by the arrows above. There are 2 side jumps.

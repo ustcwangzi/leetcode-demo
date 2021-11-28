@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * Given a non-negative integer numRows, generate the first numRows of Pascal's triangle.
  *
- * @see ../../../../resource/PascalTriangle.jpg
+ * @link ../../../../resource/PascalTriangle.jpg
  * In Pascal's triangle, each number is the sum of the two numbers directly above it.
  *
  * Example:

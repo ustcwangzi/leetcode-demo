@@ -29,7 +29,7 @@ public class FindDuplicateNumber {
     /**
      * 快慢指针
      * 将数组想象成链表，则存在重复元素时代表链表存在环，因此转化成链表求环的问题
-     * @see ../../../../resource/FindDuplicateNumber.jpg
+     * @link ../../../../resource/FindDuplicateNumber.jpg
      * slow和fast都从起点开始出发，slow的速度为1，fast的速度为2
      * 在红点处相遇，相遇时slow走了a+b，fast走了a+b+c+b，存在a+b+c+b=2*(a+b) => a==c
      * 此时，将fast重新放到起点，速度也为1，则相遇时刚好位于环的入口处

@@ -11,13 +11,13 @@ import java.util.List;
  * Since the answer may be too large, return it modulo 10^9 + 7.
  *
  * Example 1:
- * @see ../../../../resource/MaximumProductOfSplittedBinaryTree1.jpg
+ * @link ../../../../resource/MaximumProductOfSplittedBinaryTree1.jpg
  * Input: root = [1,2,3,4,5,6]
  * Output: 110
  * Explanation: Remove the red edge and get 2 binary trees with sum 11 and 10. Their product is 110 (11*10)
  *
  * Example 2:
- * @see ../../../../resource/MaximumProductOfSplittedBinaryTree2.jpg
+ * @link ../../../../resource/MaximumProductOfSplittedBinaryTree2.jpg
  * Input: root = [1,null,2,3,4,null,null,5,6]
  * Output: 90
  * Explanation:  Remove the red edge and get 2 binary trees with sum 15 and 6.Their product is 90 (15*6)

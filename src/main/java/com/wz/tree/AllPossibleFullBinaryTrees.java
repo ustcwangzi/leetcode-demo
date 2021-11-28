@@ -14,7 +14,7 @@ import java.util.Map;
  * A full binary tree is a binary tree where each node has exactly 0 or 2 children.
  *
  * Example 1:
- * @see ../../../../resource/AllPossibleFullBinaryTrees.jpg
+ * @link ../../../../resource/AllPossibleFullBinaryTrees.jpg
  * Input: n = 7
  * Output: [[0,0,0,null,null,0,0,null,null,0,0],[0,0,0,null,null,0,0,0,0],
  *          [0,0,0,0,0,0,0],[0,0,0,0,0,null,null,null,null,0,0],[0,0,0,0,0,null,null,0,0]]

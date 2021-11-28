@@ -10,12 +10,12 @@ import com.wz.common.TreeNode;
  * Return the root of the trimmed binary search tree. Note that the root may change depending on the given bounds.
  *
  * Example 1:
- * @see ../../../../resource/TrimBinarySearchTree1.jpg
+ * @link ../../../../resource/TrimBinarySearchTree1.jpg
  * Input: root = [1,0,2], low = 1, high = 2
  * Output: [1,null,2]
  *
  * Example 2:
- * @see ../../../../resource/TrimBinarySearchTree2.jpg
+ * @link ../../../../resource/TrimBinarySearchTree2.jpg
  * Input: root = [3,0,4,null,2,null,null,1], low = 1, high = 3
  * Output: [3,2,null,1]
  *

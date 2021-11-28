@@ -10,7 +10,7 @@ import java.util.Arrays;
  * Given the integer array position and the integer m. Return the required force.
  *
  * Example 1:
- * @see ../../../../resource/MagneticForceBetweenTwoBalls.jpg
+ * @link ../../../../resource/MagneticForceBetweenTwoBalls.jpg
  * Input: position = [1,2,3,4,7], m = 3
  * Output: 3
  * Explanation:

@@ -4,7 +4,7 @@ package com.wz.array;
  * Given an array nums of 0s and 1s and an integer k, return True if all 1's are at least k places away from each other, otherwise return False.
  *
  * Example 1:
- * @see ../../../../resource/CheckIfAll1AreAtLeastLengthKPlacesAway.jpg
+ * @link ../../../../resource/CheckIfAll1AreAtLeastLengthKPlacesAway.jpg
  * Input: nums = [1,0,0,0,1,0,0,1], k = 2
  * Output: true
  * Explanation: Each of the 1s are at least 2 places away from each other.

@@ -9,13 +9,13 @@ import java.util.Arrays;
  * You must write an algorithm that runs in O(m log(n)) or O(n log(m)) time.
  *
  * Example 1:
- * @see ../../../../resource/FindPeakElementII1.jpg
+ * @link ../../../../resource/FindPeakElementII1.jpg
  * Input: mat = [[1,4],[3,2]]
  * Output: [0,1]
  * Explanation: Both 3 and 4 are peak elements so [1,0] and [0,1] are both acceptable answers.
  *
  * Example 2:
- * @see ../../../../resource/FindPeakElementII2.jpg
+ * @link ../../../../resource/FindPeakElementII2.jpg
  * Input: mat = [[10,20,15],[21,30,14],[7,16,32]]
  * Output: [1,1]
  * Explanation: Both 30 and 32 are peak elements so [1,1] and [2,2] are both acceptable answers.

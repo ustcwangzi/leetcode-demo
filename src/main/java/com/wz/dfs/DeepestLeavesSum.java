@@ -9,7 +9,7 @@ import java.util.Queue;
  * Given a binary tree, return the sum of values of its deepest leaves.
  *
  * Example 1:
- * @see ../../../../resource/DeepestLeavesSum.jpg
+ * @link ../../../../resource/DeepestLeavesSum.jpg
  * Input: root = [1,2,3,4,5,null,6,7,null,null,null,null,8]
  * Output: 15
  *

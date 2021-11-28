@@ -13,7 +13,7 @@ import java.util.Set;
  * Given edges and the integers n, start, and end, return true if there is a valid path from start to end, or false otherwise.
  *
  * Example 1:
- * @see ../../../../resource/FindIfPathExistsInGraph1.jpg
+ * @link ../../../../resource/FindIfPathExistsInGraph1.jpg
  * Input: n = 3, edges = [[0,1],[1,2],[2,0]], start = 0, end = 2
  * Output: true
  * Explanation: There are two paths from vertex 0 to vertex 2:
@@ -21,7 +21,7 @@ import java.util.Set;
  * - 0 → 2
  *
  * Example 2:
- * @see ../../../../resource/FindIfPathExistsInGraph2.jpg
+ * @link ../../../../resource/FindIfPathExistsInGraph2.jpg
  * Input: n = 6, edges = [[0,1],[0,2],[3,5],[5,4],[4,3]], start = 0, end = 5
  * Output: false
  * Explanation: There is no path from vertex 0 to vertex 5.

@@ -14,7 +14,7 @@ import java.util.Arrays;
  * Output: 200
  * Explanation:
  * The graph looks like this:
- * @see ../../../../resource/CheapestFlightsWithinKStops.jpg
+ * @link ../../../../resource/CheapestFlightsWithinKStops.jpg
  * The cheapest price from city 0 to city 2 with at most 1 stop costs 200, as marked red in the picture.
  *
  * Example 2:
@@ -24,7 +24,7 @@ import java.util.Arrays;
  * Output: 500
  * Explanation:
  * The graph looks like this:
- * @see ../../../../resource/CheapestFlightsWithinKStops.jpg
+ * @link ../../../../resource/CheapestFlightsWithinKStops.jpg
  * The cheapest price from city 0 to city 2 with at most 0 stop costs 500, as marked blue in the picture.
  *
  * Constraints:

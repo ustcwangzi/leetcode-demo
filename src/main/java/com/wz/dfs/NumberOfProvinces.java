@@ -9,12 +9,12 @@ package com.wz.dfs;
  * Return the total number of provinces.
  *
  * Example 1:
- * @see ../../../../resource/NumberOfProvinces1.jpg
+ * @link ../../../../resource/NumberOfProvinces1.jpg
  * Input: isConnected = [[1,1,0],[1,1,0],[0,0,1]]
  * Output: 2
  *
  * Example 2:
- * @see ../../../../resource/NumberOfProvinces2.jpg
+ * @link ../../../../resource/NumberOfProvinces2.jpg
  * Input: isConnected = [[1,0,0],[0,1,0],[0,0,1]]
  * Output: 3
  *

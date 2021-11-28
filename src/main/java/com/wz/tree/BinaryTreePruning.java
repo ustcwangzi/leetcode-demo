@@ -8,7 +8,7 @@ import com.wz.common.TreeNode;
  * (Recall that the subtree of a node X is X, plus every node that is a descendant of X.)
  *
  * Example 1:
- * @see ../../../../resource/BinaryTreePruning1.jpg
+ * @link ../../../../resource/BinaryTreePruning1.jpg
  * Input: [1,null,0,0,1]
  * Output: [1,null,0,null,1]
  * Explanation:
@@ -16,7 +16,7 @@ import com.wz.common.TreeNode;
  * The diagram on the right represents the answer.
  *
  * Example 2:
- * @see ../../../../resource/BinaryTreePruning2.jpg
+ * @link ../../../../resource/BinaryTreePruning2.jpg
  * Input: [1,0,1,0,0,0,1]
  * Output: [1,null,1,null,1]
  *

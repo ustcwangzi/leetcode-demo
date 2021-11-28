@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * Given a m * n matrix mat of integers, sort it diagonally in ascending order from the top-left to the bottom-right then return the sorted array.
- * @see ../../../../resource/SortTheMatrixDiagonally.jpg
+ * @link ../../../../resource/SortTheMatrixDiagonally.jpg
  *
  * Example 1:
  * Input: mat = [[3,3,1,1],[2,2,1,2],[1,1,1,2]]

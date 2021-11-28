@@ -7,7 +7,7 @@ package com.wz.dynamicprogramming;
  * Input: m = 2, n = 2, N = 2, i = 0, j = 0
  * Output: 6
  * Explanation:
- * @see ../../../../resource/OutOfBoundaryPaths.jpg
+ * @link ../../../../resource/OutOfBoundaryPaths.jpg
  *
  * Note:
  * 1. Once you move the ball out of boundary, you cannot move it back.

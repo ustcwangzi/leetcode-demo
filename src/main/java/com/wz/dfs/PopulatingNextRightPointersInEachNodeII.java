@@ -19,7 +19,7 @@ import java.util.Queue;
  * Recursive approach is fine, you may assume implicit stack space does not count as extra space for this problem.
  *
  * Example 1:
- * @see ../../../../resource/PopulatingNextRightPointersInEachNodeII.jpg
+ * @link ../../../../resource/PopulatingNextRightPointersInEachNodeII.jpg
  * Input: root = [1,2,3,4,5,null,7]
  * Output: [1,#,2,3,#,4,5,7,#]
  * Explanation: Given the above binary tree (Figure A), your function should populate each next pointer to point to its next right node,

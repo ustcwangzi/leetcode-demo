@@ -9,7 +9,7 @@ import java.util.Arrays;
  * Return an array answer, where answer[j] is the answer to the jth query.
  *
  * Example 1:
- * @see ../../../../resource/QueriesOnNumberOfPointsInsideCircle.jpg
+ * @link ../../../../resource/QueriesOnNumberOfPointsInsideCircle.jpg
  * Input: points = [[1,3],[3,3],[5,3],[2,2]], queries = [[2,3,1],[4,3,1],[1,1,2]]
  * Output: [3,2,2]
  * Explanation: The points and circles are shown above.

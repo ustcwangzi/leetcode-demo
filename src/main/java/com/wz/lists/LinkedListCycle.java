@@ -8,7 +8,7 @@ import com.wz.common.ListNode;
  * (0-indexed) in the linked list where tail connects to. If pos is -1, then there is no cycle in the linked list.
  *
  * Example:
- * @see ../../../../resource/LinkedListCycle.jpg
+ * @link ../../../../resource/LinkedListCycle.jpg
  * Input: head = [3,2,0,-4], pos = 1
  * Output: true
  * Explanation: There is a cycle in the linked list, where tail connects to the second node.

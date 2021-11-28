@@ -14,7 +14,7 @@ package com.wz.dfs;
  * ]
  * Output: 2
  * Explanation: The 2x2 grid is as follows:
- * @see ../../../../resource/RegionsCutBySlashes1.jpg
+ * @link ../../../../resource/RegionsCutBySlashes1.jpg
  *
  * Example 2:
  * Input:
@@ -24,7 +24,7 @@ package com.wz.dfs;
  * ]
  * Output: 1
  * Explanation: The 2x2 grid is as follows:
- * @see ../../../../resource/RegionsCutBySlashes2.jpg
+ * @link ../../../../resource/RegionsCutBySlashes2.jpg
  */
 public class RegionsCutBySlashes {
     public static void main(String[] args) {

@@ -12,13 +12,13 @@ import com.wz.common.TreeNode;
  * Return the longest ZigZag path contained in that tree.
  *
  * Example 1:
- * @see ../../../../resource/LongestZigZagPathInBinaryTree1.jpg
+ * @link ../../../../resource/LongestZigZagPathInBinaryTree1.jpg
  * Input: root = [1,null,1,1,1,null,null,1,1,null,1,null,null,null,1,null,1]
  * Output: 3
  * Explanation: Longest ZigZag path in blue nodes (right -> left -> right).
  *
  * Example 2:
- * @see ../../../../resource/LongestZigZagPathInBinaryTree1.jpg
+ * @link ../../../../resource/LongestZigZagPathInBinaryTree1.jpg
  * Input: root = [1,1,1,null,1,null,null,1,1,null,1]
  * Output: 4
  * Explanation: Longest ZigZag path in blue nodes (left -> right -> left -> right).

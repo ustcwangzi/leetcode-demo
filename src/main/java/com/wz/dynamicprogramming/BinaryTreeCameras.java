@@ -8,13 +8,13 @@ import com.wz.common.TreeNode;
  * Calculate the minimum number of cameras needed to monitor all nodes of the tree.
  *
  * Example 1:
- * @see ../../../../resource/BinaryTreeCameras1.jpg
+ * @link ../../../../resource/BinaryTreeCameras1.jpg
  * Input: [0,0,null,0,0]
  * Output: 1
  * Explanation: One camera is enough to monitor all nodes if placed as shown.
  *
  * Example 2:
- * @see ../../../../resource/BinaryTreeCameras2.jpg
+ * @link ../../../../resource/BinaryTreeCameras2.jpg
  * Input: [0,0,null,0,null,0,null,null,0]
  * Output: 2
  * Explanation: At least two cameras are needed to monitor all nodes of the tree.

@@ -16,13 +16,13 @@ import java.util.Map;
  * Return the number of minutes needed to inform all the employees about the urgent news.
  *
  * Example 1:
- * @see ../../../../resource/TimeNeededToInformAllEmployees1.jpg
+ * @link ../../../../resource/TimeNeededToInformAllEmployees1.jpg
  * Input: n = 1, headID = 0, manager = [-1], informTime = [0]
  * Output: 0
  * Explanation: The head of the company is the only employee in the company.
  *
  * Example 2:
- * @see ../../../../resource/TimeNeededToInformAllEmployees2.jpg
+ * @link ../../../../resource/TimeNeededToInformAllEmployees2.jpg
  * Input: n = 6, headID = 2, manager = [2,2,-1,2,2,2], informTime = [0,0,1,0,0,0]
  * Output: 1
  * Explanation: The head of the company with id = 2 is the direct manager of all the employees in the company and needs 1 minute to inform them all.

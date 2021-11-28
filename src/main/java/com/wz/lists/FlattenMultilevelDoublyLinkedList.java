@@ -13,9 +13,9 @@ import com.wz.common.Node;
  * Output: [1,2,3,7,8,11,12,9,10,4,5,6]
  * Explanation:
  * The multilevel linked list in the input is as follows:
- * @see ../../../../resource/FlattenMultilevelDoublyLinkedList1.jpg
+ * @link ../../../../resource/FlattenMultilevelDoublyLinkedList1.jpg
  * After flattening the multilevel linked list it becomes:
- * @see ../../../../resource/FlattenMultilevelDoublyLinkedList2.jpg
+ * @link ../../../../resource/FlattenMultilevelDoublyLinkedList2.jpg
  */
 public class FlattenMultilevelDoublyLinkedList {
     /**

@@ -29,7 +29,7 @@ public class MaximumSumCircularSubarray {
     }
 
     /**
-     * @see ../../../../resource/MaximumSumCircularSubarray.jpg
+     * @link ../../../../resource/MaximumSumCircularSubarray.jpg
      * 是对 {@link MaximumSubarray} 的扩展
      * 如果数组不是环形的那么答案就是最大子数组和，如果是环形的那么数组除去答案的那一部分仍然是连续的，
      * 这样答案就是 max{最大子数组和，sum - 最小子数组和}，注意这里如果数组全为负数，应该返回最大子数组和而不是0

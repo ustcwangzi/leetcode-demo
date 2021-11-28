@@ -7,18 +7,18 @@ package com.wz.dfs;
  * Return true if any cycle of the same value exists in grid, otherwise, return false.
  *
  * Example 1:
- * @see ../../../../resource/DetectCyclesIn2DGrid1.jpg
+ * @link ../../../../resource/DetectCyclesIn2DGrid1.jpg
  * Input: grid = [["a","a","a","a"],["a","b","b","a"],["a","b","b","a"],["a","a","a","a"]]
  * Output: true
  * Explanation: There are two valid cycles shown in different colors in the image below:
- * @see ../../../../resource/DetectCyclesIn2DGrid2.jpg
+ * @link ../../../../resource/DetectCyclesIn2DGrid2.jpg
  *
  * Example 2:
- * @see ../../../../resource/DetectCyclesIn2DGrid3.jpg
+ * @link ../../../../resource/DetectCyclesIn2DGrid3.jpg
  * Input: grid = [["c","c","c","a"],["c","d","c","c"],["c","c","e","c"],["f","c","c","c"]]
  * Output: true
  * Explanation: There is only one valid cycle highlighted in the image below:
- * @see ../../../../resource/DetectCyclesIn2DGrid4.jpg
+ * @link ../../../../resource/DetectCyclesIn2DGrid4.jpg
  *
  * Constraints:
  * 1. m == grid.length

@@ -8,13 +8,13 @@ package com.wz.dfs;
  * Return the minimum number of times you need to do this in order to make all the computers connected. If it's not possible, return -1.
  *
  * Example 1:
- * @see ../../../../resource/NumberOfOperationsToMakeNetworkConnected1.jpg
+ * @link ../../../../resource/NumberOfOperationsToMakeNetworkConnected1.jpg
  * Input: n = 4, connections = [[0,1],[0,2],[1,2]]
  * Output: 1
  * Explanation: Remove cable between computer 1 and 2 and place between computers 1 and 3.
  *
  * Example 2:
- * @see ../../../../resource/NumberOfOperationsToMakeNetworkConnected2.jpg
+ * @link ../../../../resource/NumberOfOperationsToMakeNetworkConnected2.jpg
  * Input: n = 6, connections = [[0,1],[0,2],[0,3],[1,2],[1,3]]
  * Output: 2
  *

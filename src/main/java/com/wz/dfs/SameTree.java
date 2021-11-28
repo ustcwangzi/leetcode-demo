@@ -7,12 +7,12 @@ import com.wz.common.TreeNode;
  * Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.
  *
  * Example 1:
- * @see ../../../../resource/SameTree1.jpg
+ * @link ../../../../resource/SameTree1.jpg
  * Input: p = [1,2,3], q = [1,2,3]
  * Output: true
  *
  * Example 2:
- * @see ../../../../resource/SameTree2.jpg
+ * @link ../../../../resource/SameTree2.jpg
  * Input: p = [1,2], q = [1,null,2]
  * Output: false
  *

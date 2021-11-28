@@ -10,13 +10,13 @@ import com.wz.common.TreeNode;
  * Follow up: Can you solve it with time complexity O(height of tree)?
  *
  * Example 1:
- * @see ../../../../resource/DeleteNodeInBST1.jpg
+ * @link ../../../../resource/DeleteNodeInBST1.jpg
  * Input: root = [5,3,6,2,4,null,7], key = 3
  * Output: [5,4,6,2,null,null,7]
  * Explanation: Given key to delete is 3. So we find the node with value 3 and delete it.
  * One valid answer is [5,4,6,2,null,null,7], shown in the above BST.
  * Please notice that another valid answer is [5,2,6,null,4,null,7] and it's also accepted.
- * @see ../../../../resource/DeleteNodeInBST2.jpg
+ * @link ../../../../resource/DeleteNodeInBST2.jpg
  *
  * Constraints:
  * 1. The number of nodes in the tree is in the range [0, 10^4].

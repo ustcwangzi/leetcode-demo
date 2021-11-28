@@ -14,14 +14,14 @@ import java.util.Arrays;
  * Return an n x m matrix representing the box after the rotation described above.
  *
  * Example 1:
- * @see ../../../../resource/RotatingTheBox1.jpg
+ * @link ../../../../resource/RotatingTheBox1.jpg
  * Input: box = [["#",".","#"]]
  * Output: [["."],
  *          ["#"],
  *          ["#"]]
  *
  * Example 2:
- * @see ../../../../resource/RotatingTheBox2.jpg
+ * @link ../../../../resource/RotatingTheBox2.jpg
  * Input: box = [["#",".","*","."],
  *               ["#","#","*","."]]
  * Output: [["#","."],
@@ -30,7 +30,7 @@ import java.util.Arrays;
  *          [".","."]]
  *
  * Example 3:
- * @see ../../../../resource/RotatingTheBox3.jpg
+ * @link ../../../../resource/RotatingTheBox3.jpg
  * Input: box = [["#","#","*",".","*","."],
  *               ["#","#","#","*",".","."],
  *               ["#","#","#",".","#","."]]

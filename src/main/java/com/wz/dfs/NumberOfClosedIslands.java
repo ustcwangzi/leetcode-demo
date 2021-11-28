@@ -6,7 +6,7 @@ package com.wz.dfs;
  * Return the number of closed islands.
  *
  * Example 1:
- * @see ../../../../resource/NumberOfClosedIslands.jpg
+ * @link ../../../../resource/NumberOfClosedIslands.jpg
  * Input: grid = [[1,1,1,1,1,1,1,0],[1,0,0,0,0,1,1,0],[1,0,1,0,1,1,1,0],[1,0,0,0,0,1,0,1],[1,1,1,1,1,1,1,0]]
  * Output: 2
  * Explanation:

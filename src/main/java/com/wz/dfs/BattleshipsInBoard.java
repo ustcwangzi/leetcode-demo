@@ -7,7 +7,7 @@ package com.wz.dfs;
  * At least one horizontal or vertical cell separates between two battleships (i.e., there are no adjacent battleships).
  *
  * Example 1:
- * @see ../../../../resource/BattleshipsInBoard.jpg
+ * @link ../../../../resource/BattleshipsInBoard.jpg
  * Input: board = [["X",".",".","X"],[".",".",".","X"],[".",".",".","X"]]
  * Output: 2
  *

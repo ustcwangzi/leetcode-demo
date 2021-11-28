@@ -11,7 +11,7 @@ import java.util.List;
  * Each group of children is separated by the null value (See examples)
  *
  * Example 1:
- * @see ../../../../resource/NAryTreePreorderTraversal.jpg
+ * @link ../../../../resource/NAryTreePreorderTraversal.jpg
  * Input: root = [1,null,3,2,4,null,5,6]
  * Output: [5,6,3,2,4,1]
  */

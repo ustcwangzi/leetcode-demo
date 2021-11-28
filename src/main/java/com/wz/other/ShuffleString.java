@@ -6,7 +6,7 @@ package com.wz.other;
  * Return the shuffled string.
  *
  * Example 1:
- * @see ../../../../resource/ShuffleString.jpg
+ * @link ../../../../resource/ShuffleString.jpg
  * Input: s = "codeleet", indices = [4,5,6,7,0,2,1,3]
  * Output: "leetcode"
  * Explanation: As shown, "codeleet" becomes "leetcode" after shuffling.

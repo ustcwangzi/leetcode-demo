@@ -13,12 +13,12 @@ import java.util.Map;
  * Two trees are duplicate if they have the same structure with the same node values.
  *
  * Example 1:
- * @see ../../../../resource/FindDuplicateSubtrees1.jpg
+ * @link ../../../../resource/FindDuplicateSubtrees1.jpg
  * Input: root = [1,2,3,4,null,2,4,null,null,4]
  * Output: [[2,4],[4]]
  *
  * Example 2:
- * @see ../../../../resource/FindDuplicateSubtrees2.jpg
+ * @link ../../../../resource/FindDuplicateSubtrees2.jpg
  * Input: root = [2,1,1]
  * Output: [[1]]
  *

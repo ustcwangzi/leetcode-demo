@@ -16,7 +16,7 @@ import java.util.Map;
  * 5. Note that if a token expires at time t, and another action happens on time t (renew or countUnexpiredTokens), the expiration takes place before the other actions.
  *
  * Example 1:
- * @see ../../../../resource/AuthenticationManager.jpg
+ * @link ../../../../resource/AuthenticationManager.jpg
  * Input
  * ["AuthenticationManager", "renew", "generate", "countUnexpiredTokens", "generate", "renew", "renew", "countUnexpiredTokens"]
  * [[5], ["aaa", 1], ["aaa", 2], [6], ["bbb", 7], ["aaa", 8], ["bbb", 10], [15]]

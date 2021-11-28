@@ -13,7 +13,7 @@ import java.util.Arrays;
  * the ball from the ith column at the top, or -1 if the ball gets stuck in the box.
  *
  * Example 1:
- * @see ../../../../resource/WhereWillTheBallFall.jpg
+ * @link ../../../../resource/WhereWillTheBallFall.jpg
  * Input: grid = [[1,1,1,-1,-1],[1,1,1,-1,-1],[-1,-1,-1,1,1],[1,1,1,1,-1],[-1,-1,-1,-1,-1]]
  * Output: [1,-1,-1,-1,-1]
  * Explanation: This example is shown in the photo.

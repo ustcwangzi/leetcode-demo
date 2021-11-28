@@ -5,7 +5,7 @@ package com.wz.other;
  * Flip operation consists of change any single bit 1 to 0 or change the bit 0 to 1 in their binary representation.
  *
  * Example 1:
- * @see ../../../../resource/MinimumFlipsToMakeAORBEqualToC.jpg
+ * @link ../../../../resource/MinimumFlipsToMakeAORBEqualToC.jpg
  * Input: a = 2, b = 6, c = 5
  * Output: 3
  * Explanation: After flips a = 1 , b = 4 , c = 5 such that (a OR b == c)

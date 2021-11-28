@@ -7,7 +7,7 @@ import com.wz.common.TreeNode;
  * Return the number of good nodes in the binary tree.
  *
  * Example 1:
- * @see ../../../../resource/CountGoodNodesInBinaryTree.jpg
+ * @link ../../../../resource/CountGoodNodesInBinaryTree.jpg
  * Input: root = [3,1,4,3,null,1,5]
  * Output: 4
  * Explanation: Nodes in blue are good.

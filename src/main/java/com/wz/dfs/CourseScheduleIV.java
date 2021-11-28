@@ -22,7 +22,7 @@ import java.util.*;
  * Explanation: There are no prerequisites, and each course is independent.
  *
  * Example 3:
- * @see ../../../../resource/CourseScheduleIV.jpg
+ * @link ../../../../resource/CourseScheduleIV.jpg
  * Input: numCourses = 3, prerequisites = [[1,2],[1,0],[2,0]], queries = [[1,0],[1,2]]
  * Output: [true,true]
  *

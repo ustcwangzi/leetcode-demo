@@ -10,7 +10,7 @@ import java.util.Queue;
  * Return the smallest level x such that the sum of all the values of nodes at level x is maximal.
  *
  * Example 1:
- * @see ../../../../resource/MaximumLevelSumOfBinaryTree.jpg
+ * @link ../../../../resource/MaximumLevelSumOfBinaryTree.jpg
  * Input: root = [1,7,0,7,-8,null,null]
  * Output: 2
  * Explanation:

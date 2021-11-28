@@ -3,7 +3,7 @@ package com.wz.string;
 /**
  * On an alphabet board, we start at position (0, 0), corresponding to character board[0][0].
  * Here, board = ["abcde", "fghij", "klmno", "pqrst", "uvwxy", "z"], as shown in the diagram below.
- * @see ../../../../resource/AlphabetBoardPath.jpg
+ * @link ../../../../resource/AlphabetBoardPath.jpg
  * We may make the following moves:
  * 1. 'U' moves our position up one row, if the position exists on the board;
  * 2. 'D' moves our position down one row, if the position exists on the board;

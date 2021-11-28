@@ -9,7 +9,7 @@ import com.wz.common.ListNode;
  * Note: Do not modify the linked list.
  *
  * Example:
- * @see ../../../../resource/LinkedListCycle.jpg
+ * @link ../../../../resource/LinkedListCycle.jpg
  * Input: head = [3,2,0,-4], pos = 1
  * Output: tail connects to node index 1
  * Explanation: There is a cycle in the linked list, where tail connects to the second node.
@@ -30,7 +30,7 @@ public class LinkedListCycleII {
 
     /**
      * 思路与{@link com.wz.array.FindDuplicateNumber} 类似
-     * @see ../../../../resource/FindDuplicateNumber.jpg
+     * @link ../../../../resource/FindDuplicateNumber.jpg
      * slow 和 fast 都从起点开始出发，slow 的速度为 1，fast 的速度为 2
      * 在红点处相遇，相遇时 slow 走了 a+b，fast 走了 a+b+c+b，存在 a+b+c+b = 2*(a+b) => a == c
      * 此时，将 slow 重新放到起点，fast 速度设为 1，则相遇时刚好位于环的入口处

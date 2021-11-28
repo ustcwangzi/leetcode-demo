@@ -15,12 +15,12 @@ import java.util.List;
  * If we cannot do so, then return the list [-1].
  *
  * Example 1:
- * @see ../../../../resource/FlipBinaryTreeToMatchPreorderTraversal1.jpg
+ * @link ../../../../resource/FlipBinaryTreeToMatchPreorderTraversal1.jpg
  * Input: root = [1,2], voyage = [2,1]
  * Output: [-1]
  *
  * Example 2:
- * @see ../../../../resource/FlipBinaryTreeToMatchPreorderTraversal2.jpg
+ * @link ../../../../resource/FlipBinaryTreeToMatchPreorderTraversal2.jpg
  * Input: root = [1,2,3], voyage = [1,3,2]
  * Output: [1]
  *

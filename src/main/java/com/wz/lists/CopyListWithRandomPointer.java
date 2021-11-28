@@ -10,7 +10,7 @@ import com.wz.common.RandomNode;
  * 2. random_index: the index of the node (range from 0 to n-1) where random pointer points to, or null if it does not point to any node.
  *
  * Example 1:
- * @see ../../../../resource/CopyListWithRandomPointer.jpg
+ * @link ../../../../resource/CopyListWithRandomPointer.jpg
  * Input: head = [[7,null],[13,0],[11,4],[10,2],[1,0]]
  * Output: [[7,null],[13,0],[11,4],[10,2],[1,0]]
  */

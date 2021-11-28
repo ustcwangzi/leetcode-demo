@@ -14,15 +14,15 @@ import java.util.Queue;
  *
  * Example 1:
  * Input: [[0,1],[1,0]]
- * @see ../../../../resource/ShortestPathInBinaryMatrix1_1.jpg
+ * @link ../../../../resource/ShortestPathInBinaryMatrix1_1.jpg
  * Output: 2
- * @see ../../../../resource/ShortestPathInBinaryMatrix1_2.jpg
+ * @link ../../../../resource/ShortestPathInBinaryMatrix1_2.jpg
  *
  * Example 2:
  * Input: [[0,0,0],[1,1,0],[1,1,0]]
- * @see ../../../../resource/ShortestPathInBinaryMatrix2_1.jpg
+ * @link ../../../../resource/ShortestPathInBinaryMatrix2_1.jpg
  * Output: 4
- * @see ../../../../resource/ShortestPathInBinaryMatrix2_2.jpg
+ * @link ../../../../resource/ShortestPathInBinaryMatrix2_2.jpg
  *
  * Note:
  * 1. 1 <= grid.length == grid[0].length <= 100

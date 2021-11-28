@@ -17,14 +17,14 @@ import java.util.Queue;
  * Return an integer matrix height of size m x n where height[i][j] is cell (i, j)'s height. If there are multiple solutions, return any of them.
  *
  * Example 1:
- * @see ../../../../resource/MapOfHighestPeak1.jpg
+ * @link ../../../../resource/MapOfHighestPeak1.jpg
  * Input: isWater = [[0,1],[0,0]]
  * Output: [[1,0],[2,1]]
  * Explanation: The image shows the assigned heights of each cell.
  * The blue cell is the water cell, and the green cells are the land cells.
  *
  * Example 2:
- * @see ../../../../resource/MapOfHighestPeak2.jpg
+ * @link ../../../../resource/MapOfHighestPeak2.jpg
  * Input: isWater = [[0,0,1],[1,0,0],[0,0,0]]
  * Output: [[1,1,0],[0,1,1],[1,2,2]]
  * Explanation: A height of 2 is the maximum possible height of any assignment.

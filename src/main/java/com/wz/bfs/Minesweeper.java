@@ -30,7 +30,7 @@ import java.util.Arrays;
  *  ['B', '1', '1', '1', 'B'],
  *  ['B', 'B', 'B', 'B', 'B']]
  * Explanation:
- * @see ../../../../resource/Minesweeper1.jpg
+ * @link ../../../../resource/Minesweeper1.jpg
  *
  * Example 2:
  * Input:
@@ -45,7 +45,7 @@ import java.util.Arrays;
  *  ['B', '1', '1', '1', 'B'],
  *  ['B', 'B', 'B', 'B', 'B']]
  * Explanation:
- * @see ../../../../resource/Minesweeper2.jpg
+ * @link ../../../../resource/Minesweeper2.jpg
  *
  * Note:
  * 1. The range of the input matrix's height and width is [1,50].

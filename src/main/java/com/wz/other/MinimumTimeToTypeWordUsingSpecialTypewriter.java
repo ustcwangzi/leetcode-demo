@@ -3,7 +3,7 @@ package com.wz.other;
 /**
  * There is a special typewriter with lowercase English letters 'a' to 'z' arranged in a circle with a pointer.
  * A character can only be typed if the pointer is pointing to that character. The pointer is initially pointing to the character 'a'.
- * @see ../../../../resource/MinimumTimeToTypeWordUsingSpecialTypewriter.jpg
+ * @link ../../../../resource/MinimumTimeToTypeWordUsingSpecialTypewriter.jpg
  * Each second, you may perform one of the following operations:
  * 1. Move the pointer one character counterclockwise or clockwise.
  * 2. Type the character the pointer is currently on.

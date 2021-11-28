@@ -8,7 +8,7 @@ import com.wz.common.TreeNode;
  * Note: A leaf is a node with no children.
  *
  * Example 1:
- * @see ../../../../resource/MinimumDepthOfBinaryTree.jpg
+ * @link ../../../../resource/MinimumDepthOfBinaryTree.jpg
  * Input: root = [3,9,20,null,null,15,7]
  * Output: 2
  *

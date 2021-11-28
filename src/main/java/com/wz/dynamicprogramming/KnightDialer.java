@@ -7,9 +7,9 @@ import java.util.Arrays;
  * or two squares horizontally and one square vertically (with both forming the shape of an L).
  * The possible movements of chess knight are shown in this diagaram:
  * A chess knight can move as indicated in the chess diagram below:
- * @see ../../../../resource/KnightDialer1.jpg
+ * @link ../../../../resource/KnightDialer1.jpg
  * We have a chess knight and a phone pad as shown below, the knight can only stand on a numeric cell (i.e. blue cell).
- * @see ../../../../resource/KnightDialer2.jpg
+ * @link ../../../../resource/KnightDialer2.jpg
  * Given an integer n, return how many distinct phone numbers of length n we can dial.
  * You are allowed to place the knight on any numeric cell initially and then you should perform n - 1 jumps to
  * dial a number of length n. All jumps should be valid knight jumps.

@@ -15,7 +15,7 @@ import java.util.Set;
  * 2. Only the filled cells need to be validated according to the mentioned rules.
  *
  * Example 1:
- * @see ../../../../resource/ValidSudoku.jpg
+ * @link ../../../../resource/ValidSudoku.jpg
  * Input: board =
  * [["5","3",".",".","7",".",".",".","."]
  * ,["6",".",".","1","9","5",".",".","."]

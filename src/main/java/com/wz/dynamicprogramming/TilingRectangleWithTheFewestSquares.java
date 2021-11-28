@@ -4,7 +4,7 @@ package com.wz.dynamicprogramming;
  * Given a rectangle of size n x m, find the minimum number of integer-sided squares that tile the rectangle.
  *
  * Example 1:
- * @see ../../../../resource/TilingRectangleWithTheFewestSquares1.jpg
+ * @link ../../../../resource/TilingRectangleWithTheFewestSquares1.jpg
  * Input: n = 2, m = 3
  * Output: 3
  * Explanation: 3 squares are necessary to cover the rectangle.
@@ -12,7 +12,7 @@ package com.wz.dynamicprogramming;
  * 1 (square of 2x2)
  *
  * Example 2:
- * @see ../../../../resource/TilingRectangleWithTheFewestSquares2.jpg
+ * @link ../../../../resource/TilingRectangleWithTheFewestSquares2.jpg
  * Input: n = 5, m = 8
  * Output: 5
  *

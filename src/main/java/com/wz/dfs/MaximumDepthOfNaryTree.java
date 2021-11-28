@@ -10,7 +10,7 @@ import java.util.List;
  * Nary-Tree input serialization is represented in their level order traversal, each group of children is separated by the null value (See examples).
  *
  * Example 1:
- * @see ../../../../resource/MaximumDepthOfNaryTree.jpg
+ * @link ../../../../resource/MaximumDepthOfNaryTree.jpg
  * Input: root = [1,null,3,2,4,null,5,6]
  * Output: 3
  */

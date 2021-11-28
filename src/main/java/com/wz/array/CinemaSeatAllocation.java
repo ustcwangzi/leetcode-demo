@@ -13,7 +13,7 @@ import java.util.Map;
  * four-person group in the middle, which means to have two people on each side.
  *
  * Example 1:
- * @see ../../../../resource/CinemaSeatAllocation.jpg
+ * @link ../../../../resource/CinemaSeatAllocation.jpg
  * Input: n = 3, reservedSeats = [[1,2],[1,3],[1,8],[2,6],[3,1],[3,10]]
  * Output: 4
  * Explanation: The figure above shows the optimal allocation for four groups,

@@ -11,7 +11,7 @@ import java.util.Queue;
  * Return the number of steps in the shortest path from the entrance to the nearest exit, or -1 if no such path exists.
  *
  * Example 1:
- * @see ../../../../resource/NearestExitFromEntranceInMaze1.jpg
+ * @link ../../../../resource/NearestExitFromEntranceInMaze1.jpg
  * Input: maze = [["+","+",".","+"],[".",".",".","+"],["+","+","+","."]], entrance = [1,2]
  * Output: 1
  * Explanation: There are 3 exits in this maze at [1,0], [0,2], and [2,3].
@@ -22,7 +22,7 @@ import java.util.Queue;
  * Thus, the nearest exit is [0,2], which is 1 step away.
  *
  * Example 2:
- * @see ../../../../resource/NearestExitFromEntranceInMaze2.jpg
+ * @link ../../../../resource/NearestExitFromEntranceInMaze2.jpg
  * Input: maze = [["+","+","+"],[".",".","."],["+","+","+"]], entrance = [1,0]
  * Output: 2
  * Explanation: There is 1 exit in this maze at [1,2].
@@ -32,7 +32,7 @@ import java.util.Queue;
  * Thus, the nearest exit is [1,2], which is 2 steps away.
  *
  * Example 3:
- * @see ../../../../resource/NearestExitFromEntranceInMaze3.jpg
+ * @link ../../../../resource/NearestExitFromEntranceInMaze3.jpg
  * Input: maze = [[".","+"]], entrance = [0,0]
  * Output: -1
  * Explanation: There are no exits in this maze.

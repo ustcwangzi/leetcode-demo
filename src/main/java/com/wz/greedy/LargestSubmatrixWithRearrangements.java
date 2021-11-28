@@ -7,14 +7,14 @@ import java.util.Arrays;
  * Return the area of the largest submatrix within matrix where every element of the submatrix is 1 after reordering the columns optimally.
  *
  * Example 1:
- * @see ../../../../resource/LargestSubmatrixWithRearrangements1.jpg
+ * @link ../../../../resource/LargestSubmatrixWithRearrangements1.jpg
  * Input: matrix = [[0,0,1],[1,1,1],[1,0,1]]
  * Output: 4
  * Explanation: You can rearrange the columns as shown above.
  * The largest submatrix of 1s, in bold, has an area of 4.
  *
  * Example 2:
- * @see ../../../../resource/LargestSubmatrixWithRearrangements2.jpg
+ * @link ../../../../resource/LargestSubmatrixWithRearrangements2.jpg
  * Input: matrix = [[1,0,1,0,1]]
  * Output: 3
  * Explanation: You can rearrange the columns as shown above.
@@ -40,7 +40,7 @@ public class LargestSubmatrixWithRearrangements {
      * 然后遍历每行，计算以该行为底的最大矩形面积，就很简单了：
      * 已经知道了每个点上方有多少个连续的 1，在遍历每行时，可以直接获取到以该行为底的所有列的高度(连续 1 的高度)
      * 对以改行为底的所有连续列排序，从高到低依次计算矩形的面积即可
-     * 以例1为例说明该过程： @see ../../../../resource/LargestSubmatrixWithRearrangements.jpg
+     * 以例1为例说明该过程： @link ../../../../resource/LargestSubmatrixWithRearrangements.jpg
      */
     public static int largestSubmatrix(int[][] matrix) {
         int m = matrix.length, n = matrix[0].length;

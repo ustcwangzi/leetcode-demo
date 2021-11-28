@@ -10,13 +10,13 @@ package com.wz.dynamicprogramming;
  * Return the maximum possible sum of slice sizes which you can have.
  *
  * Example 1:
- * @see ../../../../resource/PizzaWith3nSlices1.jpg
+ * @link ../../../../resource/PizzaWith3nSlices1.jpg
  * Input: slices = [1,2,3,4,5,6]
  * Output: 10
  * Explanation: Pick pizza slice of size 4, Alice and Bob will pick slices with size 3 and 5 respectively. Then Pick slices with size 6, finally Alice and Bob will pick slice of size 2 and 1 respectively. Total = 4 + 6.
  *
  * Example 2:
- * @see ../../../../resource/PizzaWith3nSlices2.jpg
+ * @link ../../../../resource/PizzaWith3nSlices2.jpg
  * Input: slices = [8,9,8,6,1,1]
  * Output: 16
  * Output: Pick pizza slice of size 8 in each turn. If you pick slice with size 9 your partners will pick slices of size 8.

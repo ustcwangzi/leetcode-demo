@@ -11,7 +11,7 @@ package com.wz.dynamicprogramming;
  * the two glasses on the second row are half full.  After three cups of champagne are poured,
  * those two cups become full - there are 3 full glasses total now.  After four cups of champagne are poured,
  * the third row has the middle glass half full, and the two outside glasses are a quarter full, as pictured below.
- * @see ../../../../resource/ChampagneTower.jpg
+ * @link ../../../../resource/ChampagneTower.jpg
  * Now after pouring some non-negative integer cups of champagne, return how full the jth glass in the ith row is (both i and j are 0-indexed.)
  *
  * Example 1:

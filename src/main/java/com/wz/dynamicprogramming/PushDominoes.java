@@ -3,7 +3,7 @@ package com.wz.dynamicprogramming;
 /**
  * There are N dominoes in a line, and we place each domino vertically upright.
  * In the beginning, we simultaneously push some of the dominoes either to the left or to the right.
- * @see ../../../../resource/PushDominoes.jpg
+ * @link ../../../../resource/PushDominoes.jpg
  * After each second, each domino that is falling to the left pushes the adjacent domino on the left.
  * Similarly, the dominoes falling to the right push their adjacent dominoes standing on the right.
  * When a vertical domino has dominoes falling on it from both sides, it stays still due to the balance of the forces.

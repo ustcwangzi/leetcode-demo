@@ -8,12 +8,12 @@ import com.wz.common.TreeNode;
  * a binary tree in which the left and right subtrees of every node differ in height by no more than 1.
  *
  * Example 1:
- * @see ../../../../resource/BalancedBinaryTree1.jpg
+ * @link ../../../../resource/BalancedBinaryTree1.jpg
  * Input: root = [3,9,20,null,null,15,7]
  * Output: true
  *
  * Example 2:
- * @see ../../../../resource/BalancedBinaryTree2.jpg
+ * @link ../../../../resource/BalancedBinaryTree2.jpg
  * Input: root = [1,2,2,3,3,null,null,4,4]
  * Output: false
  *

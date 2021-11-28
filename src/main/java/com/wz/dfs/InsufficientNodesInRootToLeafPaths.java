@@ -8,9 +8,9 @@ import com.wz.common.TreeNode;
  * Delete all insufficient nodes simultaneously, and return the root of the resulting binary tree.
  *
  * Example 1:
- * @see ../../../../resource/InsufficientNodesInRootToLeafPaths1.jpg
+ * @link ../../../../resource/InsufficientNodesInRootToLeafPaths1.jpg
  * Input: root = [1,2,3,4,-99,-99,7,8,9,-99,-99,12,13,-99,14], limit = 1
- * @see ../../../../resource/InsufficientNodesInRootToLeafPaths2.jpg
+ * @link ../../../../resource/InsufficientNodesInRootToLeafPaths2.jpg
  * Output: [1,2,3,4,null,null,7,8,9,null,14]
  */
 public class InsufficientNodesInRootToLeafPaths {

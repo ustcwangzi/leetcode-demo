@@ -14,7 +14,7 @@ import java.util.Queue;
  * Return the minimum number of minutes that must elapse until no cell has a fresh orange. If this is impossible, return -1.
  *
  * Example 1:
- * @see ../../../../resource/RottingOranges.jpg
+ * @link ../../../../resource/RottingOranges.jpg
  * Input: grid = [[2,1,1],[1,1,0],[0,1,1]]
  * Output: 4
  *

@@ -1,7 +1,7 @@
 package com.wz.greedy;
 
 /**
- * @see ../../../../resource/MinimumNumbersOfFunctionCallsToMakeTargetArray.jpg
+ * @link ../../../../resource/MinimumNumbersOfFunctionCallsToMakeTargetArray.jpg
  * Your task is to form an integer array nums from an initial array of zeros arr that is the same size as nums.
  * Return the minimum number of function calls to make nums from arr.
  * The answer is guaranteed to fit in a 32-bit signed integer.

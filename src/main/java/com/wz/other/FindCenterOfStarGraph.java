@@ -7,7 +7,7 @@ package com.wz.other;
  * Return the center of the given star graph.
  *
  * Example 1:
- * @see ../../../../resource/FindCenterOfStarGraph.jpg
+ * @link ../../../../resource/FindCenterOfStarGraph.jpg
  * Input: edges = [[1,2],[2,3],[4,2]]
  * Output: 2
  * Explanation: As shown in the figure above, node 2 is connected to every other node, so 2 is the center.
