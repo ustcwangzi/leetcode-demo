@@ -2642,3 +2642,5 @@ https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-wor
 https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/
 ## MinimumTimeToTypeWordUsingSpecialTypewriter
 https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/
+## FindGreatestCommonDivisorOfArray
+https://leetcode.com/problems/find-greatest-common-divisor-of-array/
