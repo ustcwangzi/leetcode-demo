@@ -2644,3 +2644,5 @@ https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighb
 https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/
 ## FindGreatestCommonDivisorOfArray
 https://leetcode.com/problems/find-greatest-common-divisor-of-array/
+## FindUniqueBinaryString
+https://leetcode.com/problems/find-unique-binary-string/
