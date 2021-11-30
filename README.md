@@ -2646,3 +2646,5 @@ https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter
 https://leetcode.com/problems/find-greatest-common-divisor-of-array/
 ## FindUniqueBinaryString
 https://leetcode.com/problems/find-unique-binary-string/
+## MinimumDifferenceBetweenHighestAndLowestOfKScores
+https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
