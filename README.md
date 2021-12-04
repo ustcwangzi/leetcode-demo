@@ -1984,6 +1984,8 @@ https://leetcode.com/problems/seat-reservation-manager/
 https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/
 ## RemoveStonesToMinimizeTotal
 https://leetcode.com/problems/remove-stones-to-minimize-the-total/
+## FindTheKthLargestIntegerInTheArray
+https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/
 
 
 ------------------------------------------------------------------------------------------
