@@ -2650,3 +2650,5 @@ https://leetcode.com/problems/find-greatest-common-divisor-of-array/
 https://leetcode.com/problems/find-unique-binary-string/
 ## MinimumDifferenceBetweenHighestAndLowestOfKScores
 https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
+## FindTheMiddleIndexInArray
+https://leetcode.com/problems/find-the-middle-index-in-array/
