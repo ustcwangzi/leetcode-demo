@@ -1785,6 +1785,8 @@ https://leetcode.com/problems/sum-of-all-subset-xor-totals/
 https://leetcode.com/problems/maximum-compatibility-score-sum/
 ## FindIfPathExistsInGraph
 https://leetcode.com/problems/find-if-path-exists-in-graph/
+## FindAllGroupsOfFarmland
+https://leetcode.com/problems/find-all-groups-of-farmland/
 
 
 ------------------------------------------------------------------------------------------
