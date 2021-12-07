@@ -2654,3 +2654,5 @@ https://leetcode.com/problems/find-unique-binary-string/
 https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/
 ## FindTheMiddleIndexInArray
 https://leetcode.com/problems/find-the-middle-index-in-array/
+## CountSpecialQuadruplets
+https://leetcode.com/problems/count-special-quadruplets/
