@@ -2658,3 +2658,5 @@ https://leetcode.com/problems/find-the-middle-index-in-array/
 https://leetcode.com/problems/count-special-quadruplets/
 ## ReversePrefixOfWord
 https://leetcode.com/problems/reverse-prefix-of-word/
+## CountNumberOfPairsWithAbsoluteDifferenceK
+https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
