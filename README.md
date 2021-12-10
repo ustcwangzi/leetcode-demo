@@ -2660,3 +2660,5 @@ https://leetcode.com/problems/count-special-quadruplets/
 https://leetcode.com/problems/reverse-prefix-of-word/
 ## CountNumberOfPairsWithAbsoluteDifferenceK
 https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
+## FinalValueOfVariableAfterPerformingOperations
+https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
