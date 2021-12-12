@@ -2664,3 +2664,5 @@ https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/
 https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
 ## TheNumberOfWeakCharactersInTheGame
 https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/
+## NumberOfPairsOfInterchangeableRectangles
+https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/
