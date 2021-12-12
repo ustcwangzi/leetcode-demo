@@ -2666,3 +2666,5 @@ https://leetcode.com/problems/final-value-of-variable-after-performing-operation
 https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/
 ## NumberOfPairsOfInterchangeableRectangles
 https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/
+## MaximumDifferenceBetweenIncreasingElements
+https://leetcode.com/problems/maximum-difference-between-increasing-elements/
