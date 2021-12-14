@@ -2668,3 +2668,5 @@ https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/
 https://leetcode.com/problems/number-of-pairs-of-interchangeable-rectangles/
 ## MaximumDifferenceBetweenIncreasingElements
 https://leetcode.com/problems/maximum-difference-between-increasing-elements/
+## Convert1DArrayInto2DArray
+https://leetcode.com/problems/convert-1d-array-into-2d-array/
