@@ -2672,3 +2672,5 @@ https://leetcode.com/problems/maximum-difference-between-increasing-elements/
 https://leetcode.com/problems/convert-1d-array-into-2d-array/
 ## MinimumMovesToConvertString
 https://leetcode.com/problems/minimum-moves-to-convert-string/
+## TwoOutOfThree
+https://leetcode.com/problems/two-out-of-three/
