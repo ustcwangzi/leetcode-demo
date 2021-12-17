@@ -2674,3 +2674,5 @@ https://leetcode.com/problems/convert-1d-array-into-2d-array/
 https://leetcode.com/problems/minimum-moves-to-convert-string/
 ## TwoOutOfThree
 https://leetcode.com/problems/two-out-of-three/
+## MinimumNumberOfMovesToSeatEveryone
+https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
