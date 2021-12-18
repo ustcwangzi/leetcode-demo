@@ -2676,3 +2676,5 @@ https://leetcode.com/problems/minimum-moves-to-convert-string/
 https://leetcode.com/problems/two-out-of-three/
 ## MinimumNumberOfMovesToSeatEveryone
 https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
+## NumberOfPairsOfStringsWithConcatenationEqualToTarget
+https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
