@@ -1787,6 +1787,8 @@ https://leetcode.com/problems/maximum-compatibility-score-sum/
 https://leetcode.com/problems/find-if-path-exists-in-graph/
 ## FindAllGroupsOfFarmland
 https://leetcode.com/problems/find-all-groups-of-farmland/
+## MaximumProductOfTheLengthOfTwoPalindromicSubsequences
+https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/
 
 
 ------------------------------------------------------------------------------------------
