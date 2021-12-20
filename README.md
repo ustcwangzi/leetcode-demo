@@ -1598,6 +1598,8 @@ https://leetcode.com/problems/maximum-number-of-points-with-cost/
 https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
 ## MinimizeTheDifferenceBetweenTargetAndChosenElements
 https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements/
+## MaximumEarningsFromTaxi
+https://leetcode.com/problems/maximum-earnings-from-taxi/
 
 
 ------------------------------------------------------------------------------------------
