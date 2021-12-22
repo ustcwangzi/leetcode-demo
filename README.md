@@ -2684,3 +2684,5 @@ https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
 https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equal-to-target/
 ## CheckIfNumbersAreAscendingInSentence
 https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
+## FindOriginalArrayFromDoubledArray
+https://leetcode.com/problems/find-original-array-from-doubled-array/
