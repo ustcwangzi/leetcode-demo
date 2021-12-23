@@ -2686,3 +2686,5 @@ https://leetcode.com/problems/number-of-pairs-of-strings-with-concatenation-equa
 https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
 ## FindOriginalArrayFromDoubledArray
 https://leetcode.com/problems/find-original-array-from-doubled-array/
+## SumOfBeautyInTheArray
+https://leetcode.com/problems/sum-of-beauty-in-the-array/
