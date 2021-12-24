@@ -2688,3 +2688,5 @@ https://leetcode.com/problems/check-if-numbers-are-ascending-in-a-sentence/
 https://leetcode.com/problems/find-original-array-from-doubled-array/
 ## SumOfBeautyInTheArray
 https://leetcode.com/problems/sum-of-beauty-in-the-array/
+## GridGame
+https://leetcode.com/problems/grid-game/
