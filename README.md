@@ -2407,6 +2407,9 @@ https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-en
 https://leetcode.com/problems/maximum-ascending-subarray-sum/
 ## LongerContiguousSegmentsOfOnesThanZeros
 https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/
+## MaximizeTheConfusionOfAnExam
+https://leetcode.com/problems/maximize-the-confusion-of-an-exam/
+
 
 ------------------------------------------------------------------------------------------
 
