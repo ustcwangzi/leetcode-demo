@@ -2134,6 +2134,8 @@ https://leetcode.com/problems/sum-game/
 https://leetcode.com/problems/maximum-number-of-weeks-for-which-you-can-work/
 ## MaximumMatrixSum
 https://leetcode.com/problems/maximum-matrix-sum/
+## FindMissingObservations
+https://leetcode.com/problems/find-missing-observations/
 
 
 ------------------------------------------------------------------------------------------
