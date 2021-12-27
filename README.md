@@ -2697,3 +2697,5 @@ https://leetcode.com/problems/sum-of-beauty-in-the-array/
 https://leetcode.com/problems/grid-game/
 ## MinimumOperationsToMakeUniValueGrid
 https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
+## StockPrice
+https://leetcode.com/problems/stock-price-fluctuation/
