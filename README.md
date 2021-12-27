@@ -2695,3 +2695,5 @@ https://leetcode.com/problems/find-original-array-from-doubled-array/
 https://leetcode.com/problems/sum-of-beauty-in-the-array/
 ## GridGame
 https://leetcode.com/problems/grid-game/
+## MinimumOperationsToMakeUniValueGrid
+https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
