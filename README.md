@@ -2699,3 +2699,5 @@ https://leetcode.com/problems/grid-game/
 https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
 ## StockPrice
 https://leetcode.com/problems/stock-price-fluctuation/
+## RemoveColoredPiecesIfBothNeighborsAreTheSameColor
+https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/
