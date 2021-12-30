@@ -1791,6 +1791,8 @@ https://leetcode.com/problems/find-if-path-exists-in-graph/
 https://leetcode.com/problems/find-all-groups-of-farmland/
 ## MaximumProductOfTheLengthOfTwoPalindromicSubsequences
 https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/
+## CountNumberOfMaximumBitwiseOrSubsets
+https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/
 
 
 ------------------------------------------------------------------------------------------
