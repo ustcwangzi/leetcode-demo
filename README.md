@@ -2703,3 +2703,5 @@ https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
 https://leetcode.com/problems/stock-price-fluctuation/
 ## RemoveColoredPiecesIfBothNeighborsAreTheSameColor
 https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/
+## KthDistinctStringInArray
+https://leetcode.com/problems/kth-distinct-string-in-an-array/
