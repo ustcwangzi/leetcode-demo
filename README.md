@@ -2707,3 +2707,5 @@ https://leetcode.com/problems/stock-price-fluctuation/
 https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/
 ## KthDistinctStringInArray
 https://leetcode.com/problems/kth-distinct-string-in-an-array/
+## PlatesBetweenCandles
+https://leetcode.com/problems/plates-between-candles/
