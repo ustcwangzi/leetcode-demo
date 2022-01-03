@@ -2709,3 +2709,5 @@ https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-sa
 https://leetcode.com/problems/kth-distinct-string-in-an-array/
 ## PlatesBetweenCandles
 https://leetcode.com/problems/plates-between-candles/
+## FindTheMinimumAndMaximumNumberOfNodesBetweenCriticalPoints
+https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/
