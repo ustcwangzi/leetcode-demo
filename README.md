@@ -1843,6 +1843,9 @@ https://leetcode.com/problems/complete-binary-tree-inserter/
 https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
 ## PathWithMaximumProbability
 https://leetcode.com/problems/path-with-maximum-probability/
+## MinimumOperationsToConvertNumber
+https://leetcode.com/problems/minimum-operations-to-convert-number/
+
 
 ------------------------------------------------------------------------------------------
 
