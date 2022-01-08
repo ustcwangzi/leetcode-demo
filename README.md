@@ -2723,3 +2723,5 @@ https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-betwe
 https://leetcode.com/problems/vowels-of-all-substrings/
 ## SmallestIndexWithEqualValue
 https://leetcode.com/problems/smallest-index-with-equal-value/
+## CountVowelSubstringsOfString
+https://leetcode.com/problems/count-vowel-substrings-of-a-string/
