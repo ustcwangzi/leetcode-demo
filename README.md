@@ -2725,3 +2725,5 @@ https://leetcode.com/problems/vowels-of-all-substrings/
 https://leetcode.com/problems/smallest-index-with-equal-value/
 ## CountVowelSubstringsOfString
 https://leetcode.com/problems/count-vowel-substrings-of-a-string/
+## MostBeautifulItemForEachQuery
+https://leetcode.com/problems/most-beautiful-item-for-each-query/
