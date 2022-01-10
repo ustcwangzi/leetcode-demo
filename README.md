@@ -2727,3 +2727,5 @@ https://leetcode.com/problems/smallest-index-with-equal-value/
 https://leetcode.com/problems/count-vowel-substrings-of-a-string/
 ## MostBeautifulItemForEachQuery
 https://leetcode.com/problems/most-beautiful-item-for-each-query/
+## CheckWhetherTwoStringsAreAlmostEquivalent
+https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/
