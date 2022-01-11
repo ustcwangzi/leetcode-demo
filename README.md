@@ -2729,3 +2729,5 @@ https://leetcode.com/problems/count-vowel-substrings-of-a-string/
 https://leetcode.com/problems/most-beautiful-item-for-each-query/
 ## CheckWhetherTwoStringsAreAlmostEquivalent
 https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/
+## TimeNeededToBuyTickets
+https://leetcode.com/problems/time-needed-to-buy-tickets/
