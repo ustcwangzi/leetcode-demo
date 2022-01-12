@@ -2418,6 +2418,8 @@ https://leetcode.com/problems/maximum-ascending-subarray-sum/
 https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/
 ## MaximizeTheConfusionOfAnExam
 https://leetcode.com/problems/maximize-the-confusion-of-an-exam/
+## TwoFurthestHousesWithDifferentColors
+https://leetcode.com/problems/two-furthest-houses-with-different-colors/
 
 
 ------------------------------------------------------------------------------------------
