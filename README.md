@@ -2735,3 +2735,5 @@ https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/
 https://leetcode.com/problems/time-needed-to-buy-tickets/
 ## WateringPlants
 https://leetcode.com/problems/watering-plants/
+## RangeFreqQuery
+https://leetcode.com/problems/range-frequency-queries/
