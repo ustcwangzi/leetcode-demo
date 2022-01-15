@@ -2737,3 +2737,5 @@ https://leetcode.com/problems/time-needed-to-buy-tickets/
 https://leetcode.com/problems/watering-plants/
 ## RangeFreqQuery
 https://leetcode.com/problems/range-frequency-queries/
+## CountCommonWordsWithOneOccurrence
+https://leetcode.com/problems/count-common-words-with-one-occurrence/
