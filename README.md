@@ -2739,3 +2739,5 @@ https://leetcode.com/problems/watering-plants/
 https://leetcode.com/problems/range-frequency-queries/
 ## CountCommonWordsWithOneOccurrence
 https://leetcode.com/problems/count-common-words-with-one-occurrence/
+## MinimumCostHomecomingOfRobotInGrid
+https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/
