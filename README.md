@@ -2741,3 +2741,5 @@ https://leetcode.com/problems/range-frequency-queries/
 https://leetcode.com/problems/count-common-words-with-one-occurrence/
 ## MinimumCostHomecomingOfRobotInGrid
 https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/
+## KRadiusSubarrayAverages
+https://leetcode.com/problems/k-radius-subarray-averages/
