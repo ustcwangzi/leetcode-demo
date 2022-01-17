@@ -2743,3 +2743,5 @@ https://leetcode.com/problems/count-common-words-with-one-occurrence/
 https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/
 ## KRadiusSubarrayAverages
 https://leetcode.com/problems/k-radius-subarray-averages/
+## MinimumNumberOfBucketsRequiredToCollectRainwaterFromHouses
+https://leetcode.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses/
