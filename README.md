@@ -2745,3 +2745,5 @@ https://leetcode.com/problems/minimum-cost-homecoming-of-a-robot-in-a-grid/
 https://leetcode.com/problems/k-radius-subarray-averages/
 ## MinimumNumberOfBucketsRequiredToCollectRainwaterFromHouses
 https://leetcode.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses/
+## FindTargetIndicesAfterSortingArray
+https://leetcode.com/problems/find-target-indices-after-sorting-array/
