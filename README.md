@@ -2747,3 +2747,5 @@ https://leetcode.com/problems/k-radius-subarray-averages/
 https://leetcode.com/problems/minimum-number-of-buckets-required-to-collect-rainwater-from-houses/
 ## FindTargetIndicesAfterSortingArray
 https://leetcode.com/problems/find-target-indices-after-sorting-array/
+## RemovingMinimumAndMaximumFromArray
+https://leetcode.com/problems/removing-minimum-and-maximum-from-array/
