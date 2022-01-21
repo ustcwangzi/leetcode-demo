@@ -2752,3 +2752,5 @@ https://leetcode.com/problems/minimum-number-of-buckets-required-to-collect-rain
 https://leetcode.com/problems/find-target-indices-after-sorting-array/
 ## RemovingMinimumAndMaximumFromArray
 https://leetcode.com/problems/removing-minimum-and-maximum-from-array/
+## Finding3DigitEvenNumbers
+https://leetcode.com/problems/finding-3-digit-even-numbers/
