@@ -1798,6 +1798,8 @@ https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-s
 https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/
 ## StepByStepDirectionsFromBinaryTreeNodeToAnother
 https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to-another/
+## DetonateTheMaximumBombs
+https://leetcode.com/problems/detonate-the-maximum-bombs/
 
 
 ------------------------------------------------------------------------------------------
