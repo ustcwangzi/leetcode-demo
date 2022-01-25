@@ -1955,6 +1955,9 @@ https://leetcode.com/problems/build-an-array-with-stack-operations/
 https://leetcode.com/problems/crawler-log-folder/
 ## FindTheMostCompetitiveSubsequence
 https://leetcode.com/problems/find-the-most-competitive-subsequence/
+## SumOfSubarrayRanges
+https://leetcode.com/problems/sum-of-subarray-ranges/
+
 
 ------------------------------------------------------------------------------------------
 
