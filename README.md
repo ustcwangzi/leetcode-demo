@@ -2763,3 +2763,5 @@ https://leetcode.com/problems/removing-minimum-and-maximum-from-array/
 https://leetcode.com/problems/finding-3-digit-even-numbers/
 ## FindGoodDaysToRobTheBank
 https://leetcode.com/problems/find-good-days-to-rob-the-bank/
+## AddingSpacesToString
+https://leetcode.com/problems/adding-spaces-to-a-string/
