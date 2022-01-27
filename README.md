@@ -2430,10 +2430,10 @@ https://leetcode.com/problems/longer-contiguous-segments-of-ones-than-zeros/
 https://leetcode.com/problems/maximize-the-confusion-of-an-exam/
 ## TwoFurthestHousesWithDifferentColors
 https://leetcode.com/problems/two-furthest-houses-with-different-colors/
-## 
+## NumberOfSmoothDescentPeriodsOfStock
 https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
 
-NumberOfSmoothDescentPeriodsOfStock
+
 ------------------------------------------------------------------------------------------
 
 # binarysearch
