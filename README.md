@@ -2009,6 +2009,8 @@ https://leetcode.com/problems/remove-stones-to-minimize-the-total/
 https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/
 ## TwoBestNonOverlappingEvents
 https://leetcode.com/problems/two-best-non-overlapping-events/
+## FindAllPossibleRecipesFromGivenSupplies
+https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
 
 
 ------------------------------------------------------------------------------------------
