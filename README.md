@@ -2769,3 +2769,5 @@ https://leetcode.com/problems/find-good-days-to-rob-the-bank/
 https://leetcode.com/problems/adding-spaces-to-a-string/
 ## ValidParenthesisString
 https://leetcode.com/problems/valid-parenthesis-string/
+## CheckIfParenthesesStringCanBeValid
+https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/
