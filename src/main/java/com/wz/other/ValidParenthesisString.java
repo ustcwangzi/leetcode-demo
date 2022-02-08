@@ -1,4 +1,4 @@
-package com.wz.string;
+package com.wz.other;
 
 /**
  * Given a string containing only three types of characters: '(', ')' and '*',
@@ -24,39 +24,39 @@ public class ValidParenthesisString {
     }
 
     /**
-     * low 表示当*代表左括号时左括号剩余个数，high 表示当*代表右括号时左括号剩余个数。
-     * 那么当 high 小于0时，说明就算把星号都当作左括号了，还是不够抵消右括号，返回 false
-     * 而当 low 大于0时，说明左括号的个数太多了，没有足够多的右括号来抵消，返回 false
-     * 遍历字符串，当遇到左括号时，low 和 high 都自增1；
-     * 当遇到右括号时，只有 low 大于0时，low 才减1，保证了low不会小于0，而 high 直接自减1；
-     * 当遇到星号时，只有当 low 大于0时，low 才减1，保证了low不会小于0，而 high 直接自增1，因为 high 把星号当作左括号
-     * 若此时 high 小于0，说明右括号太多，返回 false。当循环退出后，看 low 是否为0
+     * 左括号个数范围为 [min, max]，遍历字符串
+     * 若当前为左括号，min++、max++
+     * 若当前为右括号，min--、max--
+     * 若当前为 *，分三种情况：
+     * 1. * 为左括号，max++
+     * 2. * 为右括号，min--
+     * 3. * 为''，min 和 max 都不用变化
+     * 而当 max<0 时，说明左括号的个数太少了，返回 false，如 ())(
+     * 同时需要注意 min 最小为 0，不可能为负数
+     * 最后，若 min == 0，说明能够找到合法的字符串
      */
     public static boolean checkValidString(String s) {
         if (s.length() == 0 || s.equals("*")) {
             return true;
         }
 
-        int low = 0, high = 0;
+        int min = 0, max = 0;
         for (int i = 0; i < s.length(); i++) {
             if (s.charAt(i) == '(') {
-                low++;
-                high++;
+                min++;
+                max++;
             } else if (s.charAt(i) == ')') {
-                if (low > 0) {
-                    low--;
-                }
-                high--;
+                min--;
+                max--;
             } else {
-                if (low > 0) {
-                    low--;
-                }
-                high++;
+                min--;
+                max++;
             }
-            if (high < 0) {
+            if (max < 0) {
                 return false;
             }
+            min = Math.max(min, 0);
         }
-        return low == 0;
+        return min == 0;
     }
 }

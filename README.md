@@ -1048,8 +1048,6 @@ https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
 https://leetcode.com/problems/palindromic-substrings/
 ## RobotReturnToOrigin
 https://leetcode.com/problems/robot-return-to-origin/
-## ValidParenthesisString
-https://leetcode.com/problems/valid-parenthesis-string/
 ## RepeatedStringMatch
 https://leetcode.com/problems/repeated-string-match/
 ## CountBinarySubstrings
@@ -2769,3 +2767,5 @@ https://leetcode.com/problems/finding-3-digit-even-numbers/
 https://leetcode.com/problems/find-good-days-to-rob-the-bank/
 ## AddingSpacesToString
 https://leetcode.com/problems/adding-spaces-to-a-string/
+## ValidParenthesisString
+https://leetcode.com/problems/valid-parenthesis-string/
