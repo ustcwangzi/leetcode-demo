@@ -2009,6 +2009,8 @@ https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/
 https://leetcode.com/problems/two-best-non-overlapping-events/
 ## FindAllPossibleRecipesFromGivenSupplies
 https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
+## FindSubsequenceOfLengthKWithTheLargestSum
+https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/
 
 
 ------------------------------------------------------------------------------------------
