@@ -2773,3 +2773,5 @@ https://leetcode.com/problems/adding-spaces-to-a-string/
 https://leetcode.com/problems/valid-parenthesis-string/
 ## CheckIfParenthesesStringCanBeValid
 https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/
+## RingsAndRods
+https://leetcode.com/problems/rings-and-rods/
