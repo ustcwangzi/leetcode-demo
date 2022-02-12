@@ -37,6 +37,7 @@ import java.util.*;
 public class IntervalsBetweenIdenticalElements {
     public static void main(String[] args) {
         System.out.println(Arrays.toString(getDistances1(new int[]{2, 1, 3, 1, 2, 3, 3})));
+        System.out.println(Arrays.toString(getDistances2(new int[]{2, 1, 3, 1, 2, 3, 3})));
     }
 
     /**

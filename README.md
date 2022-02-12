@@ -2777,3 +2777,5 @@ https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/
 https://leetcode.com/problems/rings-and-rods/
 ## IntervalsBetweenIdenticalElements
 https://leetcode.com/problems/intervals-between-identical-elements/
+## FindFirstPalindromicStringInTheArray
+https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
