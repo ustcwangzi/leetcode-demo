@@ -2779,3 +2779,5 @@ https://leetcode.com/problems/rings-and-rods/
 https://leetcode.com/problems/intervals-between-identical-elements/
 ## FindFirstPalindromicStringInTheArray
 https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
+## MaximumNumberOfWordsFoundInSentences
+https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
