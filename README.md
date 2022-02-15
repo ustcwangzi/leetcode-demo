@@ -2783,3 +2783,5 @@ https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
 https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 ## ExecutionOfAllSuffixInstructionsStayingInGrid
 https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/
+## ANumberAfterDoubleReversal
+https://leetcode.com/problems/a-number-after-a-double-reversal/
