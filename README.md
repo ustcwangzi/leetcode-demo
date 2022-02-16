@@ -2785,3 +2785,5 @@ https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/
 https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-grid/
 ## ANumberAfterDoubleReversal
 https://leetcode.com/problems/a-number-after-a-double-reversal/
+## CheckIfAllAAppearsBeforeAllB
+https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/
