@@ -2789,3 +2789,5 @@ https://leetcode.com/problems/execution-of-all-suffix-instructions-staying-in-a-
 https://leetcode.com/problems/a-number-after-a-double-reversal/
 ## CheckIfAllAAppearsBeforeAllB
 https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/
+## NumberOfLaserBeamsInBank
+https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
