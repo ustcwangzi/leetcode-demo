@@ -2791,3 +2791,5 @@ https://leetcode.com/problems/a-number-after-a-double-reversal/
 https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/
 ## NumberOfLaserBeamsInBank
 https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
+## CapitalizeTheTitle
+https://leetcode.com/problems/capitalize-the-title/submissions/
