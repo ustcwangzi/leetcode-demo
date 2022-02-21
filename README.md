@@ -2795,3 +2795,5 @@ https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/
 https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
 ## CapitalizeTheTitle
 https://leetcode.com/problems/capitalize-the-title/submissions/
+## LongestPalindromeByConcatenatingTwoLetterWords
+https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/
