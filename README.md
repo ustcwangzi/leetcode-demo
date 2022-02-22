@@ -2797,3 +2797,5 @@ https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
 https://leetcode.com/problems/capitalize-the-title/submissions/
 ## LongestPalindromeByConcatenatingTwoLetterWords
 https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/
+## CheckIfEveryRowAndColumnContainsAllNumbers
+https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers/
