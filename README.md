@@ -2438,6 +2438,8 @@ https://leetcode.com/problems/maximize-the-confusion-of-an-exam/
 https://leetcode.com/problems/two-furthest-houses-with-different-colors/
 ## NumberOfSmoothDescentPeriodsOfStock
 https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
+## MinimumSwapsToGroupAll1sTogetherII
+https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
 
 
 ------------------------------------------------------------------------------------------
