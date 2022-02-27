@@ -2805,3 +2805,5 @@ https://leetcode.com/problems/check-if-every-row-and-column-contains-all-numbers
 https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/
 ## DivideStringIntoGroupsOfSizeK
 https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/
+## MinimumMovesToReachTargetScore
+https://leetcode.com/problems/minimum-moves-to-reach-target-score/
