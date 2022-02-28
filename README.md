@@ -1603,6 +1603,8 @@ https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
 https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-elements/
 ## MaximumEarningsFromTaxi
 https://leetcode.com/problems/maximum-earnings-from-taxi/
+## SolvingQuestionsWithBrainpower
+https://leetcode.com/problems/solving-questions-with-brainpower/
 
 
 ------------------------------------------------------------------------------------------
