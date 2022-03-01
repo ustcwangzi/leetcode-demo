@@ -2809,3 +2809,5 @@ https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/
 https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/
 ## MinimumMovesToReachTargetScore
 https://leetcode.com/problems/minimum-moves-to-reach-target-score/
+## CountTheHiddenSequences
+https://leetcode.com/problems/count-the-hidden-sequences/
