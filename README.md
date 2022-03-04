@@ -2815,3 +2815,5 @@ https://leetcode.com/problems/count-the-hidden-sequences/
 https://leetcode.com/problems/rearrange-array-elements-by-sign/
 ## FindAllLonelyNumbersInTheArray
 https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/
+## AllDivisionsWithTheHighestScoreOfBinaryArray
+https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/
