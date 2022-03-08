@@ -2820,3 +2820,5 @@ https://leetcode.com/problems/rearrange-array-elements-by-sign/
 https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/
 ## AllDivisionsWithTheHighestScoreOfBinaryArray
 https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/
+## MinimumOperationsToMakeTheArrayAlternating
+https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/
