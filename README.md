@@ -2320,6 +2320,8 @@ https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
 https://leetcode.com/problems/eliminate-maximum-number-of-monsters/
 ## SmallestValueOfTheRearrangedNumber
 https://leetcode.com/problems/smallest-value-of-the-rearranged-number/
+## PartitionArrayAccordingToGivenPivot
+https://leetcode.com/problems/partition-array-according-to-given-pivot/
 
 
 ------------------------------------------------------------------------------------------
