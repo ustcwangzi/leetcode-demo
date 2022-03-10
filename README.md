@@ -2322,6 +2322,8 @@ https://leetcode.com/problems/eliminate-maximum-number-of-monsters/
 https://leetcode.com/problems/smallest-value-of-the-rearranged-number/
 ## PartitionArrayAccordingToGivenPivot
 https://leetcode.com/problems/partition-array-according-to-given-pivot/
+## RemovingMinimumNumberOfMagicBeans
+https://leetcode.com/problems/removing-minimum-number-of-magic-beans/
 
 
 ------------------------------------------------------------------------------------------
