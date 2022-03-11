@@ -2826,3 +2826,5 @@ https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/
 https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-array/
 ## MinimumOperationsToMakeTheArrayAlternating
 https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/
+## FindThreeConsecutiveIntegersThatSumToGivenNumber
+https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/
