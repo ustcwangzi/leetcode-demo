@@ -2489,6 +2489,8 @@ https://leetcode.com/problems/maximum-number-of-removable-characters/
 https://leetcode.com/problems/find-a-peak-element-ii/
 ## MinimizedMaximumOfProductsDistributedToAnyStore
 https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/
+## MinimumTimeToCompleteTrips
+https://leetcode.com/problems/minimum-time-to-complete-trips/
 
 
 ------------------------------------------------------------------------------------------
