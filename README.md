@@ -2328,6 +2328,8 @@ https://leetcode.com/problems/smallest-value-of-the-rearranged-number/
 https://leetcode.com/problems/partition-array-according-to-given-pivot/
 ## RemovingMinimumNumberOfMagicBeans
 https://leetcode.com/problems/removing-minimum-number-of-magic-beans/
+## SortTheJumbledNumbers
+https://leetcode.com/problems/sort-the-jumbled-numbers/
 
 
 ------------------------------------------------------------------------------------------
