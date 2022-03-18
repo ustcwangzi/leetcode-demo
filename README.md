@@ -2332,6 +2332,8 @@ https://leetcode.com/problems/partition-array-according-to-given-pivot/
 https://leetcode.com/problems/removing-minimum-number-of-magic-beans/
 ## SortTheJumbledNumbers
 https://leetcode.com/problems/sort-the-jumbled-numbers/
+## AppendKIntegersWithMinimalSum
+https://leetcode.com/problems/append-k-integers-with-minimal-sum/
 
 
 ------------------------------------------------------------------------------------------
