@@ -2169,6 +2169,8 @@ https://leetcode.com/problems/find-missing-observations/
 https://leetcode.com/problems/destroying-asteroids/
 ## MaximumSplitOfPositiveEvenIntegers
 https://leetcode.com/problems/maximum-split-of-positive-even-integers/
+## MaximizeTheTopmostElementAfterKMoves
+https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/
 
 
 ------------------------------------------------------------------------------------------
