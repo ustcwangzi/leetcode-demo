@@ -2171,6 +2171,8 @@ https://leetcode.com/problems/destroying-asteroids/
 https://leetcode.com/problems/maximum-split-of-positive-even-integers/
 ## MaximizeTheTopmostElementAfterKMoves
 https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/
+## MaximizeNumberOfSubsequencesInString
+https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/
 
 
 ------------------------------------------------------------------------------------------
