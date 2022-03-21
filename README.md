@@ -1804,6 +1804,8 @@ https://leetcode.com/problems/step-by-step-directions-from-a-binary-tree-node-to
 https://leetcode.com/problems/detonate-the-maximum-bombs/
 ## AllAncestorsOfNodeInDirectedAcyclicGraph
 https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/
+## MaximumPointsInAnArcheryCompetition
+https://leetcode.com/problems/maximum-points-in-an-archery-competition/
 
 
 ------------------------------------------------------------------------------------------
