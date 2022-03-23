@@ -2850,3 +2850,5 @@ https://leetcode.com/problems/all-divisions-with-the-highest-score-of-a-binary-a
 https://leetcode.com/problems/minimum-operations-to-make-the-array-alternating/
 ## FindThreeConsecutiveIntegersThatSumToGivenNumber
 https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-given-number/
+## Bitset
+https://leetcode.com/problems/design-bitset/
