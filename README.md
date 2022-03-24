@@ -2177,6 +2177,8 @@ https://leetcode.com/problems/maximum-split-of-positive-even-integers/
 https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/
 ## MaximizeNumberOfSubsequencesInString
 https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/
+## MinimumCostOfBuyingCandiesWithDiscount
+https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
 
 
 ------------------------------------------------------------------------------------------
