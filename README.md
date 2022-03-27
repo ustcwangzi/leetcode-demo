@@ -2859,3 +2859,5 @@ https://leetcode.com/problems/find-three-consecutive-integers-that-sum-to-a-give
 https://leetcode.com/problems/design-bitset/
 ## CountIntegersWithEvenDigitSum
 https://leetcode.com/problems/count-integers-with-even-digit-sum/
+## CountHillsAndValleysInAnArray
+https://leetcode.com/problems/count-hills-and-valleys-in-an-array/
