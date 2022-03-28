@@ -2861,3 +2861,5 @@ https://leetcode.com/problems/design-bitset/
 https://leetcode.com/problems/count-integers-with-even-digit-sum/
 ## CountHillsAndValleysInAnArray
 https://leetcode.com/problems/count-hills-and-valleys-in-an-array/
+## FindPalindromeWithFixedLength
+https://leetcode.com/problems/find-palindrome-with-fixed-length/
