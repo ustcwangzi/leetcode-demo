@@ -2179,6 +2179,8 @@ https://leetcode.com/problems/maximize-the-topmost-element-after-k-moves/
 https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/
 ## MinimumCostOfBuyingCandiesWithDiscount
 https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
+## MinimumDeletionsToMakeArrayBeautiful
+https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/
 
 
 ------------------------------------------------------------------------------------------
