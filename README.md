@@ -2865,3 +2865,5 @@ https://leetcode.com/problems/count-integers-with-even-digit-sum/
 https://leetcode.com/problems/count-hills-and-valleys-in-an-array/
 ## FindPalindromeWithFixedLength
 https://leetcode.com/problems/find-palindrome-with-fixed-length/
+## CountElementsWithStrictlySmallerAndGreaterElements
+https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/
