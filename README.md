@@ -2867,3 +2867,5 @@ https://leetcode.com/problems/count-hills-and-valleys-in-an-array/
 https://leetcode.com/problems/find-palindrome-with-fixed-length/
 ## CountElementsWithStrictlySmallerAndGreaterElements
 https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/
+## MostFrequentNumberFollowingKeyInArray
+https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/
