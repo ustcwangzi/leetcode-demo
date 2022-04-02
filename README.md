@@ -2351,6 +2351,8 @@ https://leetcode.com/problems/removing-minimum-number-of-magic-beans/
 https://leetcode.com/problems/sort-the-jumbled-numbers/
 ## AppendKIntegersWithMinimalSum
 https://leetcode.com/problems/append-k-integers-with-minimal-sum/
+## SortEvenAndOddIndicesIndependently
+https://leetcode.com/problems/sort-even-and-odd-indices-independently/
 
 
 ------------------------------------------------------------------------------------------
