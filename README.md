@@ -2873,3 +2873,5 @@ https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-e
 https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/
 ## FindTheDifferenceOfTwoArrays
 https://leetcode.com/problems/find-the-difference-of-two-arrays/
+## NumberOfWaysToSelectBuildings
+https://leetcode.com/problems/number-of-ways-to-select-buildings/
