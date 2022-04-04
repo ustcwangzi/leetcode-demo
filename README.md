@@ -2518,6 +2518,8 @@ https://leetcode.com/problems/find-a-peak-element-ii/
 https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/
 ## MinimumTimeToCompleteTrips
 https://leetcode.com/problems/minimum-time-to-complete-trips/
+## MaximumCandiesAllocatedToKChildren
+https://leetcode.com/problems/maximum-candies-allocated-to-k-children/
 
 
 ------------------------------------------------------------------------------------------

@@ -32,7 +32,6 @@ import java.util.Set;
  * Output: 0
  * Explanation: If you remove the first index in the array removable, "abc" is no longer a subsequence.
  *
- *
  * Constraints:
  * 1. 1 <= p.length <= s.length <= 10^5
  * 2. 0 <= removable.length < s.length
