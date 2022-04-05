@@ -2877,3 +2877,5 @@ https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/
 https://leetcode.com/problems/find-the-difference-of-two-arrays/
 ## NumberOfWaysToSelectBuildings
 https://leetcode.com/problems/number-of-ways-to-select-buildings/
+## FindPlayersWithZeroOrOneLosses
+https://leetcode.com/problems/find-players-with-zero-or-one-losses/
