@@ -2879,3 +2879,5 @@ https://leetcode.com/problems/find-the-difference-of-two-arrays/
 https://leetcode.com/problems/number-of-ways-to-select-buildings/
 ## FindPlayersWithZeroOrOneLosses
 https://leetcode.com/problems/find-players-with-zero-or-one-losses/
+## MinimumNumberOfOperationsToConvertTime
+https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/
