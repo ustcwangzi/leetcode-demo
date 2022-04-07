@@ -2881,3 +2881,5 @@ https://leetcode.com/problems/number-of-ways-to-select-buildings/
 https://leetcode.com/problems/find-players-with-zero-or-one-losses/
 ## MinimumNumberOfOperationsToConvertTime
 https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/
+## FindAllKDistantIndicesInArray
+https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/
