@@ -2883,3 +2883,5 @@ https://leetcode.com/problems/find-players-with-zero-or-one-losses/
 https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/
 ## FindAllKDistantIndicesInArray
 https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/
+## DivideArrayIntoEqualPairs
+https://leetcode.com/problems/divide-array-into-equal-pairs/
