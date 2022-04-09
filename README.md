@@ -2885,3 +2885,5 @@ https://leetcode.com/problems/minimum-number-of-operations-to-convert-time/
 https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/
 ## DivideArrayIntoEqualPairs
 https://leetcode.com/problems/divide-array-into-equal-pairs/
+## FindTriangularSumOfArray
+https://leetcode.com/problems/find-triangular-sum-of-an-array/
