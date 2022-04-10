@@ -2887,3 +2887,5 @@ https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/
 https://leetcode.com/problems/divide-array-into-equal-pairs/
 ## FindTriangularSumOfArray
 https://leetcode.com/problems/find-triangular-sum-of-an-array/
+## KeepMultiplyingFoundValuesByTwo
+https://leetcode.com/problems/keep-multiplying-found-values-by-two/
