@@ -2025,6 +2025,8 @@ https://leetcode.com/problems/reorganize-string/
 https://leetcode.com/problems/construct-string-with-repeat-limit/
 ## MinimumOperationsToHalveArraySum
 https://leetcode.com/problems/minimum-operations-to-halve-array-sum/
+## MaximumProductAfterKIncrements
+https://leetcode.com/problems/maximum-product-after-k-increments/
 
 
 ------------------------------------------------------------------------------------------
