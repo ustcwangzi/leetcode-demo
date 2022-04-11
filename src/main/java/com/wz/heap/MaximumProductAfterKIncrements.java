@@ -6,7 +6,7 @@ import java.util.Queue;
 
 /**
  * You are given an array of non-negative integers nums and an integer k. In one operation, you may choose any element from nums and increment it by 1.
- * Return the maximum product of nums after at most k operations. Since the answer may be very large, return it modulo 109 + 7.
+ * Return the maximum product of nums after at most k operations. Since the answer may be very large, return it modulo 10^9 + 7.
  *
  * Example 1:
  * Input: nums = [0,4], k = 5
