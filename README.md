@@ -2355,6 +2355,8 @@ https://leetcode.com/problems/sort-the-jumbled-numbers/
 https://leetcode.com/problems/append-k-integers-with-minimal-sum/
 ## SortEvenAndOddIndicesIndependently
 https://leetcode.com/problems/sort-even-and-odd-indices-independently/
+## LargestNumberAfterDigitSwapsByParity
+https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/
 
 
 ------------------------------------------------------------------------------------------
