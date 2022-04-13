@@ -1294,6 +1294,9 @@ https://leetcode.com/problems/sorting-the-sentence/
 https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/
 ## CheckIfWordEqualsSummationOfTwoWords
 https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/
+## CountingWordsWithGivenPrefix
+https://leetcode.com/problems/counting-words-with-a-given-prefix/
+
 
 ------------------------------------------------------------------------------------------
 
