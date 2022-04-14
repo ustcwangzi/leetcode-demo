@@ -2896,3 +2896,6 @@ https://leetcode.com/problems/divide-array-into-equal-pairs/
 https://leetcode.com/problems/find-triangular-sum-of-an-array/
 ## KeepMultiplyingFoundValuesByTwo
 https://leetcode.com/problems/keep-multiplying-found-values-by-two/
+## CountOperationsToObtainZero
+https://leetcode.com/problems/count-operations-to-obtain-zero/
+
