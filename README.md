@@ -2360,6 +2360,8 @@ https://leetcode.com/problems/append-k-integers-with-minimal-sum/
 https://leetcode.com/problems/sort-even-and-odd-indices-independently/
 ## LargestNumberAfterDigitSwapsByParity
 https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/
+## MinimumSumOfFourDigitNumberAfterSplittingDigits
+https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
 
 
 ------------------------------------------------------------------------------------------
