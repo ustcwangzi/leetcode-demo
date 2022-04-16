@@ -2900,4 +2900,6 @@ https://leetcode.com/problems/find-triangular-sum-of-an-array/
 https://leetcode.com/problems/keep-multiplying-found-values-by-two/
 ## CountOperationsToObtainZero
 https://leetcode.com/problems/count-operations-to-obtain-zero/
+## CountEqualAndDivisiblePairsInArray
+https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
 
