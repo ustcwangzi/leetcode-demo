@@ -2903,3 +2903,7 @@ https://leetcode.com/problems/count-operations-to-obtain-zero/
 ## CountEqualAndDivisiblePairsInArray
 https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
 
+# design
+## ATM
+https://leetcode.com/problems/design-an-atm-machine/
+
