@@ -2186,6 +2186,8 @@ https://leetcode.com/problems/maximize-number-of-subsequences-in-a-string/
 https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
 ## MinimumDeletionsToMakeArrayBeautiful
 https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/
+## MinimumRoundsToCompleteAllTasks
+https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/
 
 
 ------------------------------------------------------------------------------------------
@@ -2902,6 +2904,7 @@ https://leetcode.com/problems/keep-multiplying-found-values-by-two/
 https://leetcode.com/problems/count-operations-to-obtain-zero/
 ## CountEqualAndDivisiblePairsInArray
 https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
+
 
 # design
 ## ATM
