@@ -2188,6 +2188,8 @@ https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/
 https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/
 ## MinimumRoundsToCompleteAllTasks
 https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/
+## NumberOfWaysToBuyPensAndPencils
+https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/
 
 
 ------------------------------------------------------------------------------------------
