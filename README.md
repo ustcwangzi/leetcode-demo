@@ -2908,6 +2908,8 @@ https://leetcode.com/problems/count-operations-to-obtain-zero/
 https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
 ## CalculateDigitSumOfString
 https://leetcode.com/problems/calculate-digit-sum-of-a-string/
+## FindClosestNumberToZero
+https://leetcode.com/problems/find-closest-number-to-zero/
 
 # design
 ## ATM
