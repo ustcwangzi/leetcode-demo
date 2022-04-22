@@ -639,6 +639,8 @@ https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
 https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
 ## MaximumTwinSumOfLinkedList
 https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
+## MergeNodesInBetweenZeros
+https://leetcode.com/problems/merge-nodes-in-between-zeros/
 
 
 ------------------------------------------------------------------------------------------
