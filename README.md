@@ -2912,6 +2912,8 @@ https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/
 https://leetcode.com/problems/calculate-digit-sum-of-a-string/
 ## FindClosestNumberToZero
 https://leetcode.com/problems/find-closest-number-to-zero/
+## MinimumBitFlipsToConvertNumber
+https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
 
 # design
 ## ATM
