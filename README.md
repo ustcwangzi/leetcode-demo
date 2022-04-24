@@ -2914,6 +2914,9 @@ https://leetcode.com/problems/calculate-digit-sum-of-a-string/
 https://leetcode.com/problems/find-closest-number-to-zero/
 ## MinimumBitFlipsToConvertNumber
 https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
+# CellsInRangeOnExcelSheet
+https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/
+
 
 # design
 ## ATM
