@@ -2535,6 +2535,8 @@ https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-s
 https://leetcode.com/problems/minimum-time-to-complete-trips/
 ## MaximumCandiesAllocatedToKChildren
 https://leetcode.com/problems/maximum-candies-allocated-to-k-children/
+## CountNumberOfRectanglesContainingEachPoint
+https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/
 
 
 ------------------------------------------------------------------------------------------
