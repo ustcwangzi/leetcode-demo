@@ -2918,6 +2918,8 @@ https://leetcode.com/problems/find-closest-number-to-zero/
 https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
 # CellsInRangeOnExcelSheet
 https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/
+## IntersectionOfMultipleArrays
+https://leetcode.com/problems/intersection-of-multiple-arrays/
 
 
 # design
