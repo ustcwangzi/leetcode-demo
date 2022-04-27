@@ -2296,6 +2296,8 @@ https://leetcode.com/problems/even-odd-tree/
 https://leetcode.com/problems/maximum-subarray-min-product/
 ## CreateBinaryTreeFromDescriptions
 https://leetcode.com/problems/create-binary-tree-from-descriptions/
+## RootEqualsSumOfChildren
+https://leetcode.com/problems/root-equals-sum-of-children/
 
 
 ------------------------------------------------------------------------------------------
