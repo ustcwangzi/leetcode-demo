@@ -88,8 +88,6 @@ https://leetcode.com/problems/sort-colors/
 https://leetcode.com/problems/subsets/
 ## SubsetsII
 https://leetcode.com/problems/subsets-ii/
-## WordSearch
-https://leetcode.com/problems/word-search/
 ## LargestRectangleInHistogram
 https://leetcode.com/problems/largest-rectangle-in-histogram/
 ## MaximalRectangle
@@ -1811,6 +1809,11 @@ https://leetcode.com/problems/detonate-the-maximum-bombs/
 https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/
 ## MaximumPointsInAnArcheryCompetition
 https://leetcode.com/problems/maximum-points-in-an-archery-competition/
+## WordSearch
+https://leetcode.com/problems/word-search/
+## WordSearchII
+https://leetcode.com/problems/word-search-ii/
+
 
 
 ------------------------------------------------------------------------------------------
