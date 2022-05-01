@@ -1971,6 +1971,8 @@ https://leetcode.com/problems/crawler-log-folder/
 https://leetcode.com/problems/find-the-most-competitive-subsequence/
 ## SumOfSubarrayRanges
 https://leetcode.com/problems/sum-of-subarray-ranges/
+## SlidingWindowMaximum
+https://leetcode.com/problems/sliding-window-maximum/
 
 
 ------------------------------------------------------------------------------------------
