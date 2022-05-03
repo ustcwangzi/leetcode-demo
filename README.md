@@ -2937,4 +2937,6 @@ https://leetcode.com/problems/maximum-gap/
 # design
 ## ATM
 https://leetcode.com/problems/design-an-atm-machine/
+## MedianFinder
+https://leetcode.com/problems/find-median-from-data-stream/
 
