@@ -1,4 +1,4 @@
-package com.wz.tree;
+package com.wz.design;
 
 import com.wz.common.TreeNode;
 

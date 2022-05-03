@@ -2220,8 +2220,6 @@ https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 https://leetcode.com/problems/sum-of-left-leaves/
 ## PathSumIII
 https://leetcode.com/problems/path-sum-iii/
-## SerializeAndDeserializeBST
-https://leetcode.com/problems/serialize-and-deserialize-bst/
 ## DeleteNodeInBST
 https://leetcode.com/problems/delete-node-in-a-bst/
 ## FindModeInBinarySearchTree
@@ -2939,4 +2937,8 @@ https://leetcode.com/problems/maximum-gap/
 https://leetcode.com/problems/design-an-atm-machine/
 ## MedianFinder
 https://leetcode.com/problems/find-median-from-data-stream/
+## SerializeAndDeserializeBST
+https://leetcode.com/problems/serialize-and-deserialize-bst/
+## Codec
+https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 
