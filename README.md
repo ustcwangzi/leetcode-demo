@@ -2547,6 +2547,8 @@ https://leetcode.com/problems/minimum-time-to-complete-trips/
 https://leetcode.com/problems/maximum-candies-allocated-to-k-children/
 ## CountNumberOfRectanglesContainingEachPoint
 https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/
+## CountOfSmallerNumbersAfterSelf
+https://leetcode.com/problems/count-of-smaller-numbers-after-self/
 
 
 ------------------------------------------------------------------------------------------
