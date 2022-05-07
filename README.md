@@ -2204,7 +2204,9 @@ https://leetcode.com/problems/minimum-deletions-to-make-array-beautiful/
 https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/
 ## NumberOfWaysToBuyPensAndPencils
 https://leetcode.com/problems/number-of-ways-to-buy-pens-and-pencils/
-
+## 
+https://leetcode.com/problems/patching-array/
+PatchingArray
 
 ------------------------------------------------------------------------------------------
 
