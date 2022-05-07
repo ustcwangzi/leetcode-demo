@@ -1817,6 +1817,8 @@ https://leetcode.com/problems/word-search-ii/
 https://leetcode.com/problems/expression-add-operators/
 ## RemoveInvalidParentheses
 https://leetcode.com/problems/remove-invalid-parentheses/
+## LongestIncreasingPathInMatrix
+https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
 
 
 ------------------------------------------------------------------------------------------
