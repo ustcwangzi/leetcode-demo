@@ -2949,4 +2949,5 @@ https://leetcode.com/problems/find-median-from-data-stream/
 https://leetcode.com/problems/serialize-and-deserialize-bst/
 ## Codec
 https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
-
+## SummaryRanges
+https://leetcode.com/problems/data-stream-as-disjoint-intervals/
