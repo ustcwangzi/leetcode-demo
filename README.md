@@ -2938,7 +2938,11 @@ https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/
 https://leetcode.com/problems/intersection-of-multiple-arrays/
 ## MaximumGap
 https://leetcode.com/problems/maximum-gap/
+## PerfectRectangle
+https://leetcode.com/problems/perfect-rectangle/
 
+
+------------------------------------------------------------------------------------------
 
 # design
 ## ATM
