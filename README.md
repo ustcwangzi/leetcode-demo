@@ -1871,6 +1871,8 @@ https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
 https://leetcode.com/problems/path-with-maximum-probability/
 ## MinimumOperationsToConvertNumber
 https://leetcode.com/problems/minimum-operations-to-convert-number/
+## TrappingRainWaterII
+https://leetcode.com/problems/trapping-rain-water-ii/
 
 
 ------------------------------------------------------------------------------------------
