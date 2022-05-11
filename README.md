@@ -2957,3 +2957,5 @@ https://leetcode.com/problems/serialize-and-deserialize-bst/
 https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 ## SummaryRanges
 https://leetcode.com/problems/data-stream-as-disjoint-intervals/
+## AllOne
+https://leetcode.com/problems/all-oone-data-structure/
