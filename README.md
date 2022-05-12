@@ -2942,6 +2942,8 @@ https://leetcode.com/problems/intersection-of-multiple-arrays/
 https://leetcode.com/problems/maximum-gap/
 ## PerfectRectangle
 https://leetcode.com/problems/perfect-rectangle/
+## KthSmallestInLexicographicalOrder
+https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/
 
 
 ------------------------------------------------------------------------------------------
