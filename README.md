@@ -2466,8 +2466,7 @@ https://leetcode.com/problems/unique-number-of-occurrences/
 https://leetcode.com/problems/max-number-of-k-sum-pairs/
 ## FindingTheUsersActiveMinutes
 https://leetcode.com/problems/finding-the-users-active-minutes/
-## LRUCache
-https://leetcode.com/problems/lru-cache/
+
 
 ------------------------------------------------------------------------------------------
 
@@ -2961,3 +2960,8 @@ https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 https://leetcode.com/problems/data-stream-as-disjoint-intervals/
 ## AllOne
 https://leetcode.com/problems/all-oone-data-structure/
+## LRUCache
+https://leetcode.com/problems/lru-cache/
+## LFUCache
+https://leetcode.com/problems/lfu-cache/
+

@@ -1,4 +1,4 @@
-package com.wz.hash;
+package com.wz.design;
 
 import java.util.Iterator;
 import java.util.LinkedHashMap;
