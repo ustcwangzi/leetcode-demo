@@ -2386,6 +2386,8 @@ https://leetcode.com/problems/sort-even-and-odd-indices-independently/
 https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity/
 ## MinimumSumOfFourDigitNumberAfterSplittingDigits
 https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/
+##ReversePairs
+https://leetcode.com/problems/reverse-pairs/
 
 
 ------------------------------------------------------------------------------------------
