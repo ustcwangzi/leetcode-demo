@@ -2048,6 +2048,8 @@ https://leetcode.com/problems/maximum-product-after-k-increments/
 https://leetcode.com/problems/the-skyline-problem/
 ## SlidingWindowMedian
 https://leetcode.com/problems/sliding-window-median/
+## IPO
+https://leetcode.com/problems/ipo/
 
 
 ------------------------------------------------------------------------------------------
