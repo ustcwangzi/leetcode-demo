@@ -2050,6 +2050,8 @@ https://leetcode.com/problems/the-skyline-problem/
 https://leetcode.com/problems/sliding-window-median/
 ## IPO
 https://leetcode.com/problems/ipo/
+## CourseScheduleIII
+https://leetcode.com/problems/course-schedule-iii/
 
 
 ------------------------------------------------------------------------------------------
