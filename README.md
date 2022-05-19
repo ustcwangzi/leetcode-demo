@@ -2562,6 +2562,8 @@ https://leetcode.com/problems/maximum-candies-allocated-to-k-children/
 https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/
 ## CountOfSmallerNumbersAfterSelf
 https://leetcode.com/problems/count-of-smaller-numbers-after-self/
+## KthSmallestNumberInMultiplicationTable
+https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/
 
 
 ------------------------------------------------------------------------------------------
