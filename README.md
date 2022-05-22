@@ -1821,6 +1821,10 @@ https://leetcode.com/problems/remove-invalid-parentheses/
 https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
 ## TwentyFourGame
 https://leetcode.com/problems/24-game/
+## RedundantConnection
+https://leetcode.com/problems/redundant-connection/
+## RedundantConnectionII
+https://leetcode.com/problems/redundant-connection-ii/
 
 
 ------------------------------------------------------------------------------------------
@@ -2278,8 +2282,6 @@ https://leetcode.com/problems/maximum-width-of-binary-tree/
 https://leetcode.com/problems/trim-a-binary-search-tree/
 ## SecondMinimumNodeInBinaryTree
 https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/
-## RedundantConnection
-https://leetcode.com/problems/redundant-connection/
 ## LongestUnivaluePath
 https://leetcode.com/problems/longest-univalue-path/
 ## SearchInBinarySearchTree
