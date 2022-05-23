@@ -2959,6 +2959,8 @@ https://leetcode.com/problems/maximum-gap/
 https://leetcode.com/problems/perfect-rectangle/
 ## KthSmallestInLexicographicalOrder
 https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/
+## FallingSquares
+https://leetcode.com/problems/falling-squares/
 
 
 ------------------------------------------------------------------------------------------
