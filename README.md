@@ -2982,4 +2982,5 @@ https://leetcode.com/problems/all-oone-data-structure/
 https://leetcode.com/problems/lru-cache/
 ## LFUCache
 https://leetcode.com/problems/lfu-cache/
-
+## RandomPickWithBlacklist
+https://leetcode.com/problems/random-pick-with-blacklist/
