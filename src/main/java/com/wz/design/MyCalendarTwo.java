@@ -1,4 +1,4 @@
-package com.wz.other;
+package com.wz.design;
 
 import java.util.Map;
 import java.util.TreeMap;
@@ -51,7 +51,7 @@ public class MyCalendarTwo {
     }
 
     /**
-     * 是对 {@link MyCalendarI} 的扩展，依然使用 TreeMap，每个区间加入时，判断 [left, right) 内是否存在出现 2 次以上的区间
+     * 是对 {@link MyCalendar} 的扩展，依然使用 TreeMap，每个区间加入时，判断 [left, right) 内是否存在出现 2 次以上的区间
      * 若没有，则将 start、end 加入 TreeMap 中，同时将 [start, end) 内的区间出现次数加一
      */
     public boolean book(int start, int end) {

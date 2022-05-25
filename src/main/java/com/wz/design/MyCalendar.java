@@ -1,4 +1,4 @@
-package com.wz.other;
+package com.wz.design;
 
 import java.util.TreeMap;
 
@@ -20,17 +20,17 @@ import java.util.TreeMap;
  * The first event can be booked.  The second can't because time 15 is already booked by another event.
  * The third event can be booked, as the first event takes every time less than 20, but not including 20.
  */
-public class MyCalendarI {
+public class MyCalendar {
     public static void main(String[] args) {
-        MyCalendarI calendarI = new MyCalendarI();
-        System.out.println(calendarI.book(10, 20));
-        System.out.println(calendarI.book(15, 25));
-        System.out.println(calendarI.book(20, 30));
+        MyCalendar calendar = new MyCalendar();
+        System.out.println(calendar.book(10, 20));
+        System.out.println(calendar.book(15, 25));
+        System.out.println(calendar.book(20, 30));
     }
 
     private final TreeMap<Integer, Integer> map;
 
-    public MyCalendarI() {
+    public MyCalendar() {
         map = new TreeMap<>();
     }
 
