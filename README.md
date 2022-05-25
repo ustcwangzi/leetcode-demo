@@ -2984,3 +2984,5 @@ https://leetcode.com/problems/lru-cache/
 https://leetcode.com/problems/lfu-cache/
 ## RandomPickWithBlacklist
 https://leetcode.com/problems/random-pick-with-blacklist/
+## RangeModule
+https://leetcode.com/problems/range-module/
