@@ -2988,3 +2988,5 @@ https://leetcode.com/problems/my-calendar-i/
 https://leetcode.com/problems/my-calendar-ii/
 ## MyCalendarThree
 https://leetcode.com/problems/my-calendar-iii/
+## WordFilter
+https://leetcode.com/problems/prefix-and-suffix-search/
