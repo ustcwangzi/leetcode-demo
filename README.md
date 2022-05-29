@@ -1881,6 +1881,8 @@ https://leetcode.com/problems/minimum-operations-to-convert-number/
 https://leetcode.com/problems/trapping-rain-water-ii/
 ## CutOffTreesForGolfEvent
 https://leetcode.com/problems/cut-off-trees-for-golf-event/
+## SlidingPuzzle
+https://leetcode.com/problems/sliding-puzzle/
 
 
 ------------------------------------------------------------------------------------------
