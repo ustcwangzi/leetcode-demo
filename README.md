@@ -2064,6 +2064,8 @@ https://leetcode.com/problems/sliding-window-median/
 https://leetcode.com/problems/ipo/
 ## CourseScheduleIII
 https://leetcode.com/problems/course-schedule-iii/
+## KthSmallestPrimeFraction
+https://leetcode.com/problems/k-th-smallest-prime-fraction/
 
 
 ------------------------------------------------------------------------------------------
