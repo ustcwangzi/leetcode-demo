@@ -2580,6 +2580,8 @@ https://leetcode.com/problems/count-number-of-rectangles-containing-each-point/
 https://leetcode.com/problems/count-of-smaller-numbers-after-self/
 ## KthSmallestNumberInMultiplicationTable
 https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/
+## PreimageSizeOfFactorialZeroesFunction
+https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/
 
 
 ------------------------------------------------------------------------------------------
