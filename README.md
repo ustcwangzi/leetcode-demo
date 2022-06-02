@@ -2969,6 +2969,8 @@ https://leetcode.com/problems/perfect-rectangle/
 https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/
 ## FallingSquares
 https://leetcode.com/problems/falling-squares/
+## SmallestRotationWithHighestScore
+https://leetcode.com/problems/smallest-rotation-with-highest-score/
 
 
 ------------------------------------------------------------------------------------------
