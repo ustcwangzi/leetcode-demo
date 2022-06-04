@@ -1825,6 +1825,8 @@ https://leetcode.com/problems/24-game/
 https://leetcode.com/problems/redundant-connection/
 ## RedundantConnectionII
 https://leetcode.com/problems/redundant-connection-ii/
+## BricksFallingWhenHit
+https://leetcode.com/problems/bricks-falling-when-hit/
 
 
 ------------------------------------------------------------------------------------------
