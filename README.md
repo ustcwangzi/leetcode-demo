@@ -1887,6 +1887,8 @@ https://leetcode.com/problems/cut-off-trees-for-golf-event/
 https://leetcode.com/problems/sliding-puzzle/
 ## SwimInRisingWater
 https://leetcode.com/problems/swim-in-rising-water/
+## BusRoutes
+https://leetcode.com/problems/bus-routes/
 
 
 ------------------------------------------------------------------------------------------
