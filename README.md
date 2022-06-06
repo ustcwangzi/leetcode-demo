@@ -190,8 +190,6 @@ https://leetcode.com/problems/longest-continuous-increasing-subsequence/
 https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays/
 ## MaximumSumOf3NonOverlappingSubarrays
 https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
-## MaxAreaOfIsland
-https://leetcode.com/problems/max-area-of-island/
 ## DegreeOfAnArray
 https://leetcode.com/problems/degree-of-an-array/submissions/
 ## SubarrayProductLessThanK
@@ -1827,6 +1825,10 @@ https://leetcode.com/problems/redundant-connection/
 https://leetcode.com/problems/redundant-connection-ii/
 ## BricksFallingWhenHit
 https://leetcode.com/problems/bricks-falling-when-hit/
+## MaxAreaOfIsland
+https://leetcode.com/problems/max-area-of-island/
+## MakingALargeIsland
+https://leetcode.com/problems/making-a-large-island/
 
 
 ------------------------------------------------------------------------------------------
