@@ -2977,6 +2977,8 @@ https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/
 https://leetcode.com/problems/falling-squares/
 ## SmallestRotationWithHighestScore
 https://leetcode.com/problems/smallest-rotation-with-highest-score/
+## CountUniqueCharactersOfAllSubstringsOfGivenString
+https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/
 
 
 ------------------------------------------------------------------------------------------
