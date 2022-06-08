@@ -2340,6 +2340,8 @@ https://leetcode.com/problems/maximum-subarray-min-product/
 https://leetcode.com/problems/create-binary-tree-from-descriptions/
 ## RootEqualsSumOfChildren
 https://leetcode.com/problems/root-equals-sum-of-children/
+## SumOfDistancesInTree
+https://leetcode.com/problems/sum-of-distances-in-tree/
 
 
 ------------------------------------------------------------------------------------------
