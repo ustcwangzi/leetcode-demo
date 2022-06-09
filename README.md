@@ -2981,6 +2981,8 @@ https://leetcode.com/problems/falling-squares/
 https://leetcode.com/problems/smallest-rotation-with-highest-score/
 ## CountUniqueCharactersOfAllSubstringsOfGivenString
 https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/
+## SimilarStringGroups
+https://leetcode.com/problems/similar-string-groups/
 
 
 ------------------------------------------------------------------------------------------
