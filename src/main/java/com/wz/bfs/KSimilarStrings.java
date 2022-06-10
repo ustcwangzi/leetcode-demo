@@ -50,7 +50,9 @@ public class KSimilarStrings {
                     i++;
                 }
 
+                // 找到每个 cur.charAt(i) == s2.charAt(j) 的位置进行交换
                 for (int j = i + 1; j < cur.length(); j++) {
+                    // cur.charAt(j) == s2.charAt(j) 时，是无意义的交换
                     if (cur.charAt(i) == s2.charAt(j) && cur.charAt(j) != s2.charAt(j)) {
                         String next = swap(cur, i, j);
                         if (visited.add(next)) {
