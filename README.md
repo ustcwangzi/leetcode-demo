@@ -1891,6 +1891,8 @@ https://leetcode.com/problems/sliding-puzzle/
 https://leetcode.com/problems/swim-in-rising-water/
 ## BusRoutes
 https://leetcode.com/problems/bus-routes/
+## KSimilarStrings
+https://leetcode.com/problems/k-similar-strings/
 
 
 ------------------------------------------------------------------------------------------
