@@ -2074,6 +2074,8 @@ https://leetcode.com/problems/ipo/
 https://leetcode.com/problems/course-schedule-iii/
 ## KthSmallestPrimeFraction
 https://leetcode.com/problems/k-th-smallest-prime-fraction/
+## MinimumCostToHireKWorkers
+https://leetcode.com/problems/minimum-cost-to-hire-k-workers/
 
 
 ------------------------------------------------------------------------------------------
