@@ -122,8 +122,6 @@ https://leetcode.com/problems/majority-element/
 https://leetcode.com/problems/majority-element-ii/
 ## RotateArray
 https://leetcode.com/problems/rotate-array/
-## MinimumSizeSubArraySum
-https://leetcode.com/problems/minimum-size-subarray-sum/
 ## ContainsDuplicate
 https://leetcode.com/problems/contains-duplicate/
 ## ContainsDuplicateII
@@ -2004,7 +2002,7 @@ https://leetcode.com/problems/sliding-window-maximum/
 
 ------------------------------------------------------------------------------------------
 
-# Heap
+# queue
 https://leetcode.com/problemset/all/?topicSlugs=heap
 ## KthLargestElementInArray
 https://leetcode.com/problems/kth-largest-element-in-an-array/
@@ -2076,6 +2074,8 @@ https://leetcode.com/problems/course-schedule-iii/
 https://leetcode.com/problems/k-th-smallest-prime-fraction/
 ## MinimumCostToHireKWorkers
 https://leetcode.com/problems/minimum-cost-to-hire-k-workers/
+## ShortestSubarrayWithSumAtLeastK
+https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
 
 
 ------------------------------------------------------------------------------------------
@@ -2544,6 +2544,8 @@ https://leetcode.com/problems/two-furthest-houses-with-different-colors/
 https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
 ## MinimumSwapsToGroupAll1sTogetherII
 https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
+## MinimumSizeSubArraySum
+https://leetcode.com/problems/minimum-size-subarray-sum/
 
 
 ------------------------------------------------------------------------------------------
