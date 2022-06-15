@@ -3026,3 +3026,5 @@ https://leetcode.com/problems/my-calendar-ii/
 https://leetcode.com/problems/my-calendar-iii/
 ## WordFilter
 https://leetcode.com/problems/prefix-and-suffix-search/
+## FreqStack
+https://leetcode.com/problems/maximum-frequency-stack/
