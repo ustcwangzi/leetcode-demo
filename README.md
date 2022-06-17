@@ -2352,6 +2352,8 @@ https://leetcode.com/problems/create-binary-tree-from-descriptions/
 https://leetcode.com/problems/root-equals-sum-of-children/
 ## SumOfDistancesInTree
 https://leetcode.com/problems/sum-of-distances-in-tree/
+## VerticalOrderTraversalOfBinaryTree
+https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
 
 
 ------------------------------------------------------------------------------------------
