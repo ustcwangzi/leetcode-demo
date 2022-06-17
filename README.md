@@ -2554,6 +2554,8 @@ https://leetcode.com/problems/number-of-smooth-descent-periods-of-a-stock/
 https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
 ## MinimumSizeSubArraySum
 https://leetcode.com/problems/minimum-size-subarray-sum/
+## SubarraysWithKDifferentIntegers
+https://leetcode.com/problems/subarrays-with-k-different-integers/
 
 
 ------------------------------------------------------------------------------------------
