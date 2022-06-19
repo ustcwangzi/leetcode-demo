@@ -2248,6 +2248,8 @@ https://leetcode.com/problems/patching-array/
 https://leetcode.com/problems/set-intersection-size-at-least-two/
 ## CouplesHoldingHands
 https://leetcode.com/problems/couples-holding-hands/
+## MinimumNumberOfKConsecutiveBitFlips
+https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
 
 
 ------------------------------------------------------------------------------------------
