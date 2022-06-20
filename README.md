@@ -2356,6 +2356,8 @@ https://leetcode.com/problems/root-equals-sum-of-children/
 https://leetcode.com/problems/sum-of-distances-in-tree/
 ## VerticalOrderTraversalOfBinaryTree
 https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
+## RecoverTreeFromPreorderTraversal
+https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/
 
 
 ------------------------------------------------------------------------------------------
