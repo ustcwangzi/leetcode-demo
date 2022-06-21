@@ -2621,8 +2621,6 @@ https://leetcode.com/problems/reverse-bits/
 https://leetcode.com/problems/number-of-1-bits/
 ## BitwiseAndOfNumbersRange
 https://leetcode.com/problems/bitwise-and-of-numbers-range/
-## Trie
-https://leetcode.com/problems/implement-trie-prefix-tree/
 ## DifferentWaysToAddParentheses
 https://leetcode.com/problems/different-ways-to-add-parentheses/
 ## PeekingIterator
@@ -3038,3 +3036,7 @@ https://leetcode.com/problems/my-calendar-iii/
 https://leetcode.com/problems/prefix-and-suffix-search/
 ## FreqStack
 https://leetcode.com/problems/maximum-frequency-stack/
+## Trie
+https://leetcode.com/problems/implement-trie-prefix-tree/
+## StreamChecker
+https://leetcode.com/problems/stream-of-characters/
