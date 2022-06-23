@@ -2612,6 +2612,8 @@ https://leetcode.com/problems/count-of-smaller-numbers-after-self/
 https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/
 ## PreimageSizeOfFactorialZeroesFunction
 https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/
+## LongestDuplicateSubstring
+https://leetcode.com/problems/longest-duplicate-substring/
 
 
 ------------------------------------------------------------------------------------------
