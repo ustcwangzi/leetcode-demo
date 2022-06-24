@@ -3044,3 +3044,5 @@ https://leetcode.com/problems/maximum-frequency-stack/
 https://leetcode.com/problems/implement-trie-prefix-tree/
 ## StreamChecker
 https://leetcode.com/problems/stream-of-characters/
+## DinnerPlates
+https://leetcode.com/problems/dinner-plate-stacks/
