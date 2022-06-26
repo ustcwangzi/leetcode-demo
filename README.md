@@ -1831,6 +1831,8 @@ https://leetcode.com/problems/making-a-large-island/
 https://leetcode.com/problems/unique-paths-iii/
 ## EscapeLargeMaze
 https://leetcode.com/problems/escape-a-large-maze/
+## CriticalConnectionsInNetwork
+https://leetcode.com/problems/critical-connections-in-a-network/
 
 
 ------------------------------------------------------------------------------------------
