@@ -1901,6 +1901,10 @@ https://leetcode.com/problems/k-similar-strings/
 https://leetcode.com/problems/shortest-path-to-get-all-keys/
 ## ReachableNodesInSubdividedGraph
 https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/
+## FindAllPossibleRecipesFromGivenSupplies
+https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
+## SortItemsByGroupsRespectingDependencies
+https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/
 
 
 ------------------------------------------------------------------------------------------
@@ -2060,8 +2064,6 @@ https://leetcode.com/problems/remove-stones-to-minimize-the-total/
 https://leetcode.com/problems/find-the-kth-largest-integer-in-the-array/
 ## TwoBestNonOverlappingEvents
 https://leetcode.com/problems/two-best-non-overlapping-events/
-## FindAllPossibleRecipesFromGivenSupplies
-https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
 ## FindSubsequenceOfLengthKWithTheLargestSum
 https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/
 ## ReorganizeString

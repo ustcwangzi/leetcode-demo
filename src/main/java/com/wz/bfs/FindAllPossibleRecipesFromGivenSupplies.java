@@ -1,4 +1,4 @@
-package com.wz.queue;
+package com.wz.bfs;
 
 import java.util.*;
 
