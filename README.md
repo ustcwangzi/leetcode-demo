@@ -3052,3 +3052,5 @@ https://leetcode.com/problems/implement-trie-prefix-tree/
 https://leetcode.com/problems/stream-of-characters/
 ## DinnerPlates
 https://leetcode.com/problems/dinner-plate-stacks/
+## Skiplist
+https://leetcode.com/problems/design-skiplist/
