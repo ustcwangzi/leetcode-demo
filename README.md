@@ -1905,6 +1905,8 @@ https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/
 https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
 ## SortItemsByGroupsRespectingDependencies
 https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/
+## MinimumMovesToReachTargetWithRotations
+https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/
 
 
 ------------------------------------------------------------------------------------------
