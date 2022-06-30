@@ -2522,6 +2522,8 @@ https://leetcode.com/problems/unique-number-of-occurrences/
 https://leetcode.com/problems/max-number-of-k-sum-pairs/
 ## FindingTheUsersActiveMinutes
 https://leetcode.com/problems/finding-the-users-active-minutes/
+## MaximumEqualFrequency
+https://leetcode.com/problems/maximum-equal-frequency/
 
 
 ------------------------------------------------------------------------------------------
