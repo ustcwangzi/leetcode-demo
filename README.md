@@ -1909,6 +1909,8 @@ https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
 https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/
 ## MinimumMovesToReachTargetWithRotations
 https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/
+## MinimumMovesToMoveBoxToTheirTargetLocation
+https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/
 
 
 ------------------------------------------------------------------------------------------
