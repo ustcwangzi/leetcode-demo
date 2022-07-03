@@ -1911,6 +1911,8 @@ https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/
 https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/
 ## MinimumMovesToMoveBoxToTheirTargetLocation
 https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/
+## MinimumNumberOfFlipsToConvertBinaryMatrixToZeroMatrix
+https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/
 
 
 ------------------------------------------------------------------------------------------
