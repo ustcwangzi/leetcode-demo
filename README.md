@@ -1913,6 +1913,8 @@ https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations/
 https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-location/
 ## MinimumNumberOfFlipsToConvertBinaryMatrixToZeroMatrix
 https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/
+## ShortestPathInGridWithObstaclesElimination
+https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/
 
 
 ------------------------------------------------------------------------------------------
