@@ -1915,6 +1915,8 @@ https://leetcode.com/problems/minimum-moves-to-move-a-box-to-their-target-locati
 https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/
 ## ShortestPathInGridWithObstaclesElimination
 https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/
+## MaximumCandiesYouCanGetFromBoxes
+https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
 
 
 ------------------------------------------------------------------------------------------
