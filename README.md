@@ -1917,6 +1917,8 @@ https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-t
 https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/
 ## MaximumCandiesYouCanGetFromBoxes
 https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
+## JumpGameIV
+https://leetcode.com/problems/jump-game-iv/
 
 
 ------------------------------------------------------------------------------------------
