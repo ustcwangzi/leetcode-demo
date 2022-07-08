@@ -1921,6 +1921,8 @@ https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
 https://leetcode.com/problems/jump-game-iv/
 ## MinimumCostToMakeAtLeastOneValidPathInGrid
 https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
+## FrogPositionAfterTSeconds
+https://leetcode.com/problems/frog-position-after-t-seconds/
 
 
 ------------------------------------------------------------------------------------------
