@@ -1919,6 +1919,8 @@ https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination
 https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/
 ## JumpGameIV
 https://leetcode.com/problems/jump-game-iv/
+## MinimumCostToMakeAtLeastOneValidPathInGrid
+https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
 
 
 ------------------------------------------------------------------------------------------
