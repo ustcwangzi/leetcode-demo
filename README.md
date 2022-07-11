@@ -2110,6 +2110,8 @@ https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k/
 https://leetcode.com/problems/construct-target-array-with-multiple-sums/
 ## MaximumPerformanceOfTeam
 https://leetcode.com/problems/maximum-performance-of-a-team/
+## FindTheKthSmallestSumOfMatrixWithSortedRows
+https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/
 
 
 ------------------------------------------------------------------------------------------

@@ -26,7 +26,7 @@ public class FindKPairsWithSmallestSums {
      * 使用 PriorityQueue 保存 nums1 和 nums2 元素组合，当队列中组合数大于 k 时出队
      */
     public static List<List<Integer>> kSmallestPairs(int[] nums1, int[] nums2, int k) {
-        PriorityQueue<List<Integer>> queue = new PriorityQueue<>((num1, num2) -> Integer.compare(num2.get(0) + num2.get(1), num1.get(0) + num1.get(1)));
+        PriorityQueue<List<Integer>> queue = new PriorityQueue<>((o1, o2) -> Integer.compare(o2.get(0) + o2.get(1), o1.get(0) + o1.get(1)));
         for (int i = 0; i < Math.min(k, nums1.length); i++) {
             for (int j = 0; j < Math.min(k, nums2.length); j++) {
                 queue.offer(Arrays.asList(nums1[i], nums2[j]));
