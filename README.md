@@ -1604,6 +1604,8 @@ https://leetcode.com/problems/minimize-the-difference-between-target-and-chosen-
 https://leetcode.com/problems/maximum-earnings-from-taxi/
 ## SolvingQuestionsWithBrainpower
 https://leetcode.com/problems/solving-questions-with-brainpower/
+## StoneGameIV
+https://leetcode.com/problems/stone-game-iv/
 
 
 ------------------------------------------------------------------------------------------
