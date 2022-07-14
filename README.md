@@ -3041,6 +3041,8 @@ https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-giv
 https://leetcode.com/problems/similar-string-groups/
 ## NumberOfValidWordsForEachPuzzle
 https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
+## MaximumNumberOfNonOverlappingSubstrings
+https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/
 
 
 ------------------------------------------------------------------------------------------
