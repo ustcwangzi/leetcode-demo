@@ -3043,6 +3043,8 @@ https://leetcode.com/problems/similar-string-groups/
 https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/
 ## MaximumNumberOfNonOverlappingSubstrings
 https://leetcode.com/problems/maximum-number-of-non-overlapping-substrings/
+## MinimumNumberOfIncrementsOnSubarraysToFormTargetArray
+https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/
 
 
 ------------------------------------------------------------------------------------------
