@@ -2596,6 +2596,8 @@ https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
 https://leetcode.com/problems/minimum-size-subarray-sum/
 ## SubarraysWithKDifferentIntegers
 https://leetcode.com/problems/subarrays-with-k-different-integers/
+## GetTheMaximumScore
+https://leetcode.com/problems/get-the-maximum-score/
 
 
 ------------------------------------------------------------------------------------------
