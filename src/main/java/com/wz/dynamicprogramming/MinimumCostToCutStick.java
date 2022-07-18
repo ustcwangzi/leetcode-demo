@@ -40,8 +40,11 @@ public class MinimumCostToCutStick {
     }
 
     /**
-     * 正着做感觉挺麻烦的，不妨反过来考虑，因为不管怎么切，最终的状态是确定的，故可将问题转化为将 n+1 段木条合并，
-     * 每次合并的代价为两部分的和，求全部合并后的最小代价，这则是一个典型的区间 dp 问题，dp[i][j] 表示合并区间 i 到 j 的最小代价
+     * 倒序思考，看做有一堆按顺序排放的短木棒，通过合并操作最后变成一个完整的木棒，合并的代价为合并后的长度
+     * 将 cuts[] 从小到大排序，sum[i] 表示第 i 段木条的长度，下标从 0 开始，共 cuts.len + 1 段
+     * dp[i][j] 表示合并区间 [i,j] 的最小代价，初始时，dp[i][i] = 0，其余 Integer.MAX_VALUE
+     * 然后枚举当前区间最后一次合并的位置 i ≤ k < j，dp[i][j] = min{dp[i][j], dp[i][k] + dp[k+1][j] + sum[i] + sum[i+1] +...+ sum[j]}
+     * 最终答案为 dp[0][m−1]
      */
     public static int minCost(int n, int[] cuts) {
         Arrays.sort(cuts);
@@ -50,36 +53,31 @@ public class MinimumCostToCutStick {
         int[] sum = new int[m];
         sum[0] = cuts[0];
         for (int i = 1; i < cuts.length; i++) {
-            sum[i] = sum[i - 1] + cuts[i] - cuts[i - 1];
+            sum[i] = cuts[i] - cuts[i - 1];
         }
-        sum[cuts.length] = n;
+        sum[cuts.length] = n - cuts[cuts.length - 1];
 
         int[][] dp = new int[m][m];
-        dp[0][1] = sum[1];
-        for (int i = 1; i + 1 < m; i++) {
-            dp[i][i + 1] = sum[i + 1] - sum[i - 1];
+        Arrays.stream(dp).forEach(array -> Arrays.fill(array, Integer.MAX_VALUE));
+
+        for (int i = 0; i < m; i++) {
+            dp[i][i] = 0;
         }
 
-        for (int l = 2; l < m; l++) {
-            for (int i = 0; i + l < m; i++) {
-                int j = i + l;
-                int segSum = i == 0 ? sum[j] : sum[j] - sum[i - 1];
-                dp[i][j] = Integer.MAX_VALUE;
-                for (int k = i + 1; k < j; k++) {
-                    dp[i][j] = minCost(dp[i][j], dp[i][k] + dp[k + 1][j] + segSum, dp[i][k - 1] + dp[k][j] + segSum);
+        for (int len = 2; len <= m; len++) {
+            for (int i = 0; i < m - len + 1; i++) {
+                int j = i + len - 1, cur = 0;
+                for (int k = i; k <= j; k++) {
+                    cur += sum[k];
+                }
+
+                for (int k = i; k < j; k++) {
+                    dp[i][j] = Math.min(dp[i][j], dp[i][k] + dp[k + 1][j] + cur);
                 }
             }
         }
+
         return dp[0][m - 1];
     }
 
-    public static int minCost(int a, int b, int c) {
-        if (a <= b && a <= c) {
-            return a;
-        }
-        if (b <= a && b <= c) {
-            return b;
-        }
-        return c;
-    }
 }
