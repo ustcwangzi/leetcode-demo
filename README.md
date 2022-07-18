@@ -1606,6 +1606,8 @@ https://leetcode.com/problems/maximum-earnings-from-taxi/
 https://leetcode.com/problems/solving-questions-with-brainpower/
 ## StoneGameIV
 https://leetcode.com/problems/stone-game-iv/
+## MinimumCostToCutStick
+https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
 
 
 ------------------------------------------------------------------------------------------
