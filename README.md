@@ -1927,6 +1927,8 @@ https://leetcode.com/problems/jump-game-iv/
 https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
 ## FrogPositionAfterTSeconds
 https://leetcode.com/problems/frog-position-after-t-seconds/
+## MinimumNumberOfDaysToEatNOranges
+https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/
 
 
 ------------------------------------------------------------------------------------------
