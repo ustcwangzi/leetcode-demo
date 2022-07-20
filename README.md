@@ -1839,6 +1839,8 @@ https://leetcode.com/problems/escape-a-large-maze/
 https://leetcode.com/problems/critical-connections-in-a-network/
 ## MaximumScoreWordsFormedByLetters
 https://leetcode.com/problems/maximum-score-words-formed-by-letters/
+## StoneGameV
+https://leetcode.com/problems/stone-game-v/
 
 
 ------------------------------------------------------------------------------------------
