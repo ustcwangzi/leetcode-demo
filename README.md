@@ -1841,6 +1841,8 @@ https://leetcode.com/problems/critical-connections-in-a-network/
 https://leetcode.com/problems/maximum-score-words-formed-by-letters/
 ## StoneGameV
 https://leetcode.com/problems/stone-game-v/
+## MinimumNumberOfDaysToDisconnectIsland
+https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/
 
 
 ------------------------------------------------------------------------------------------
