@@ -1843,6 +1843,8 @@ https://leetcode.com/problems/maximum-score-words-formed-by-letters/
 https://leetcode.com/problems/stone-game-v/
 ## MinimumNumberOfDaysToDisconnectIsland
 https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/
+## CountAllPossibleRoutes
+https://leetcode.com/problems/count-all-possible-routes/
 
 
 ------------------------------------------------------------------------------------------
