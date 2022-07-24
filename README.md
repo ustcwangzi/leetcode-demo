@@ -1845,6 +1845,8 @@ https://leetcode.com/problems/stone-game-v/
 https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/
 ## CountAllPossibleRoutes
 https://leetcode.com/problems/count-all-possible-routes/
+## StrangePrinterII
+https://leetcode.com/problems/strange-printer-ii/
 
 
 ------------------------------------------------------------------------------------------
