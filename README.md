@@ -1608,6 +1608,8 @@ https://leetcode.com/problems/solving-questions-with-brainpower/
 https://leetcode.com/problems/stone-game-iv/
 ## MinimumCostToCutStick
 https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
+## MinimumCostToConnectTwoGroupsOfPoints
+https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
 
 
 ------------------------------------------------------------------------------------------
