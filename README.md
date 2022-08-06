@@ -3067,6 +3067,8 @@ https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-
 https://leetcode.com/problems/find-longest-awesome-substring/
 ## RemoveMaxNumberOfEdgesToKeepGraphFullyTraversable
 https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/
+## CountSubtreesWithMaxDistanceBetweenCities
+https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/
 
 
 ------------------------------------------------------------------------------------------
