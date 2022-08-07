@@ -3069,6 +3069,8 @@ https://leetcode.com/problems/find-longest-awesome-substring/
 https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/
 ## CountSubtreesWithMaxDistanceBetweenCities
 https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/
+## GraphConnectivityWithThreshold
+https://leetcode.com/problems/graph-connectivity-with-threshold/
 
 
 ------------------------------------------------------------------------------------------
