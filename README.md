@@ -3071,6 +3071,8 @@ https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-tra
 https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/
 ## GraphConnectivityWithThreshold
 https://leetcode.com/problems/graph-connectivity-with-threshold/
+## RankTransformOfMatrix
+https://leetcode.com/problems/rank-transform-of-a-matrix/
 
 
 ------------------------------------------------------------------------------------------
