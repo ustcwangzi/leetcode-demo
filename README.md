@@ -1610,6 +1610,8 @@ https://leetcode.com/problems/stone-game-iv/
 https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
 ## MinimumCostToConnectTwoGroupsOfPoints
 https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
+## NumberOfWaysToFormTargetStringGivenDictionary
+https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/
 
 
 ------------------------------------------------------------------------------------------
