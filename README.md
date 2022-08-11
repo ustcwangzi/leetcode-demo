@@ -1853,6 +1853,8 @@ https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/
 https://leetcode.com/problems/count-all-possible-routes/
 ## StrangePrinterII
 https://leetcode.com/problems/strange-printer-ii/
+## DistributeRepeatingIntegers
+https://leetcode.com/problems/distribute-repeating-integers/
 
 
 ------------------------------------------------------------------------------------------
