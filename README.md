@@ -3077,6 +3077,8 @@ https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/
 https://leetcode.com/problems/graph-connectivity-with-threshold/
 ## RankTransformOfMatrix
 https://leetcode.com/problems/rank-transform-of-a-matrix/
+## CreateSortedArrayThroughInstructions
+https://leetcode.com/problems/create-sorted-array-through-instructions/
 
 
 ------------------------------------------------------------------------------------------
