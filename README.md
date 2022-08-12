@@ -1855,6 +1855,8 @@ https://leetcode.com/problems/count-all-possible-routes/
 https://leetcode.com/problems/strange-printer-ii/
 ## DistributeRepeatingIntegers
 https://leetcode.com/problems/distribute-repeating-integers/
+## MaximizeGridHappiness
+https://leetcode.com/problems/maximize-grid-happiness/
 
 
 ------------------------------------------------------------------------------------------
