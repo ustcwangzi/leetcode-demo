@@ -1614,6 +1614,8 @@ https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
 https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/
 ## KthSmallestInstructions
 https://leetcode.com/problems/kth-smallest-instructions/
+## MinimumNumberOfRemovalsToMakeMountainArray
+https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/
 
 
 ------------------------------------------------------------------------------------------
