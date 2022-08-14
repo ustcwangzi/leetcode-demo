@@ -1857,6 +1857,8 @@ https://leetcode.com/problems/strange-printer-ii/
 https://leetcode.com/problems/distribute-repeating-integers/
 ## MaximizeGridHappiness
 https://leetcode.com/problems/maximize-grid-happiness/
+## MinimumIncompatibility
+https://leetcode.com/problems/minimum-incompatibility/
 
 
 ------------------------------------------------------------------------------------------
