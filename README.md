@@ -3089,6 +3089,8 @@ https://leetcode.com/problems/graph-connectivity-with-threshold/
 https://leetcode.com/problems/rank-transform-of-a-matrix/
 ## CreateSortedArrayThroughInstructions
 https://leetcode.com/problems/create-sorted-array-through-instructions/
+## MinimizeDeviationInArray
+https://leetcode.com/problems/minimize-deviation-in-array/
 
 
 ------------------------------------------------------------------------------------------
