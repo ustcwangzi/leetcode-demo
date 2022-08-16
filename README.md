@@ -1616,6 +1616,8 @@ https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dic
 https://leetcode.com/problems/kth-smallest-instructions/
 ## MinimumNumberOfRemovalsToMakeMountainArray
 https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/
+## DeliveringBoxesFromStorageToPorts
+https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/
 
 
 ------------------------------------------------------------------------------------------
