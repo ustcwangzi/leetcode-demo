@@ -1618,6 +1618,8 @@ https://leetcode.com/problems/kth-smallest-instructions/
 https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/
 ## DeliveringBoxesFromStorageToPorts
 https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/
+## MaximumHeightByStackingCuboids
+https://leetcode.com/problems/maximum-height-by-stacking-cuboids/
 
 
 ------------------------------------------------------------------------------------------
