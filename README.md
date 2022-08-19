@@ -3097,6 +3097,8 @@ https://leetcode.com/problems/create-sorted-array-through-instructions/
 https://leetcode.com/problems/minimize-deviation-in-array/
 ## CheckingExistenceOfEdgeLengthLimitedPaths
 https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/
+## MinimumAdjacentSwapsForKConsecutiveOnes
+https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/
 
 
 ------------------------------------------------------------------------------------------
