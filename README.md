@@ -3099,6 +3099,8 @@ https://leetcode.com/problems/minimize-deviation-in-array/
 https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/
 ## MinimumAdjacentSwapsForKConsecutiveOnes
 https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/
+## MinimumOperationsToMakeSubsequence
+https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/
 
 
 ------------------------------------------------------------------------------------------
