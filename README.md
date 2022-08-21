@@ -3101,6 +3101,8 @@ https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/
 https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/
 ## MinimumOperationsToMakeSubsequence
 https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/
+## BuildingBoxes
+https://leetcode.com/problems/building-boxes/
 
 
 ------------------------------------------------------------------------------------------
