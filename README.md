@@ -2636,6 +2636,8 @@ https://leetcode.com/problems/minimum-size-subarray-sum/
 https://leetcode.com/problems/subarrays-with-k-different-integers/
 ## GetTheMaximumScore
 https://leetcode.com/problems/get-the-maximum-score/
+## ClosestSubsequenceSum
+https://leetcode.com/problems/closest-subsequence-sum/
 
 
 ------------------------------------------------------------------------------------------
