@@ -1,4 +1,4 @@
-package com.wz.string;
+package com.wz.dynamicprogramming;
 
 /**
  * Given a string s, return the longest palindromic substring in s.

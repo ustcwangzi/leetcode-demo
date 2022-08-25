@@ -930,8 +930,6 @@ https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-
 https://leetcode.com/problemset/all/?topicSlugs=string
 ## LongestSubstringWithoutRepeatingCharacters
 https://leetcode.com/problems/longest-substring-without-repeating-characters/
-## LongestPalindromicSubstring
-https://leetcode.com/problems/longest-palindromic-substring/
 ## ZigZagConversion
 https://leetcode.com/problems/zigzag-conversion/
 ## LongestCommonPrefix
@@ -1624,6 +1622,10 @@ https://leetcode.com/problems/maximum-height-by-stacking-cuboids/
 https://leetcode.com/problems/palindrome-partitioning-iv/
 ## MaximumNumberOfEventsThatCanBeAttendedII
 https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/
+## LongestPalindromicSubstring
+https://leetcode.com/problems/longest-palindromic-substring/
+## MaximizePalindromeLengthFromSubsequences
+https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/
 
 
 ------------------------------------------------------------------------------------------
