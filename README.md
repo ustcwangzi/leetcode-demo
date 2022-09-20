@@ -2642,6 +2642,8 @@ https://leetcode.com/problems/subarrays-with-k-different-integers/
 https://leetcode.com/problems/get-the-maximum-score/
 ## ClosestSubsequenceSum
 https://leetcode.com/problems/closest-subsequence-sum/
+## MaximumScoreOfGoodSubarray
+https://leetcode.com/problems/maximum-score-of-a-good-subarray/
 
 
 ------------------------------------------------------------------------------------------
