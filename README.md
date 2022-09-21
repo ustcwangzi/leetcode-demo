@@ -1871,6 +1871,8 @@ https://leetcode.com/problems/distribute-repeating-integers/
 https://leetcode.com/problems/maximize-grid-happiness/
 ## MinimumIncompatibility
 https://leetcode.com/problems/minimum-incompatibility/
+## MaximizeScoreAfterNOperations
+https://leetcode.com/problems/maximize-score-after-n-operations/
 
 
 ------------------------------------------------------------------------------------------
