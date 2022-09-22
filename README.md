@@ -3117,6 +3117,8 @@ https://leetcode.com/problems/minimum-adjacent-swaps-for-k-consecutive-ones/
 https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/
 ## BuildingBoxes
 https://leetcode.com/problems/building-boxes/
+## CountPairsWithXORInRange
+https://leetcode.com/problems/count-pairs-with-xor-in-a-range/
 
 
 ------------------------------------------------------------------------------------------
