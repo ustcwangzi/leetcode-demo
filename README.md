@@ -1873,6 +1873,8 @@ https://leetcode.com/problems/maximize-grid-happiness/
 https://leetcode.com/problems/minimum-incompatibility/
 ## MaximizeScoreAfterNOperations
 https://leetcode.com/problems/maximize-score-after-n-operations/
+## MaximumNumberOfGroupsGettingFreshDonuts
+https://leetcode.com/problems/maximum-number-of-groups-getting-fresh-donuts/
 
 
 ------------------------------------------------------------------------------------------
