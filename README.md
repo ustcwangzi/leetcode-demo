@@ -923,6 +923,9 @@ https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
 https://leetcode.com/problems/minimum-operations-to-make-array-equal/
 ## NumberOfWaysWhereSquareOfNumberIsEqualToProductOfTwoNumbers
 https://leetcode.com/problems/number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers/
+## FindXORSumOfAllPairsBitwiseAND
+https://leetcode.com/problems/find-xor-sum-of-all-pairs-bitwise-and/
+
 
 ------------------------------------------------------------------------------------------
 
