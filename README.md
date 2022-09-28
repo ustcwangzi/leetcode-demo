@@ -2329,8 +2329,10 @@ https://leetcode.com/problems/set-intersection-size-at-least-two/
 https://leetcode.com/problems/couples-holding-hands/
 ## MinimumNumberOfKConsecutiveBitFlips
 https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/
-## 
+## MinimumInitialEnergyToFinishTasks
 https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/
+## MaximumBuildingHeight
+https://leetcode.com/problems/maximum-building-height/
 
 
 ------------------------------------------------------------------------------------------
