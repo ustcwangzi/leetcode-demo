@@ -3126,6 +3126,8 @@ https://leetcode.com/problems/minimum-operations-to-make-a-subsequence/
 https://leetcode.com/problems/building-boxes/
 ## CountPairsWithXORInRange
 https://leetcode.com/problems/count-pairs-with-xor-in-a-range/
+## ClosestRoom
+https://leetcode.com/problems/closest-room/
 
 
 ------------------------------------------------------------------------------------------
