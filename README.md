@@ -3128,6 +3128,8 @@ https://leetcode.com/problems/building-boxes/
 https://leetcode.com/problems/count-pairs-with-xor-in-a-range/
 ## ClosestRoom
 https://leetcode.com/problems/closest-room/
+## MinimumIntervalToIncludeEachQuery
+https://leetcode.com/problems/minimum-interval-to-include-each-query/
 
 
 ------------------------------------------------------------------------------------------
