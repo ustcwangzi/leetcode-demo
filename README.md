@@ -3132,6 +3132,8 @@ https://leetcode.com/problems/closest-room/
 https://leetcode.com/problems/minimum-interval-to-include-each-query/
 ## LargestColorValueInDirectedGraph
 https://leetcode.com/problems/largest-color-value-in-a-directed-graph/
+## SumOfFlooredPairs
+https://leetcode.com/problems/sum-of-floored-pairs/
 
 
 ------------------------------------------------------------------------------------------
