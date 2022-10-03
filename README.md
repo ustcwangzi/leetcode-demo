@@ -1629,6 +1629,8 @@ https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/
 https://leetcode.com/problems/longest-palindromic-substring/
 ## MaximizePalindromeLengthFromSubsequences
 https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/
+## NumberOfWaysToRearrangeSticksWithKSticksVisible
+https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/
 
 
 ------------------------------------------------------------------------------------------
