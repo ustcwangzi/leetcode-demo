@@ -1631,6 +1631,8 @@ https://leetcode.com/problems/longest-palindromic-substring/
 https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/
 ## NumberOfWaysToRearrangeSticksWithKSticksVisible
 https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/
+## StoneGameVIII
+https://leetcode.com/problems/stone-game-viii/
 
 
 ------------------------------------------------------------------------------------------
