@@ -7,7 +7,8 @@ package com.wz.dynamicprogramming;
  * - Add the sum of the removed stones' values to the player's score.
  * - Place a new stone, whose value is equal to that sum, on the left side of the row.
  * The game stops when only one stone is left in the row.
- * The score difference between Alice and Bob is (Alice's score - Bob's score). Alice's goal is to maximize the score difference, and Bob's goal is the minimize the score difference.
+ * The score difference between Alice and Bob is (Alice's score - Bob's score).
+ * Alice's goal is to maximize the score difference, and Bob's goal is the minimize the score difference.
  * Given an integer array stones of length n where stones[i] represents the value of the ith stone from the left,
  * return the score difference between Alice and Bob if they both play optimally.
  *

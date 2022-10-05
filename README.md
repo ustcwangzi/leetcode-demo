@@ -1633,6 +1633,8 @@ https://leetcode.com/problems/maximize-palindrome-length-from-subsequences/
 https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/
 ## StoneGameVIII
 https://leetcode.com/problems/stone-game-viii/
+## MinimumXORSumOfTwoArrays
+https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/
 
 
 ------------------------------------------------------------------------------------------
