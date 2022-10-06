@@ -1635,6 +1635,8 @@ https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-v
 https://leetcode.com/problems/stone-game-viii/
 ## MinimumXORSumOfTwoArrays
 https://leetcode.com/problems/minimum-xor-sum-of-two-arrays/
+## MinimumSkipsToArriveAtMeetingOnTime
+https://leetcode.com/problems/minimum-skips-to-arrive-at-meeting-on-time/
 
 
 ------------------------------------------------------------------------------------------
