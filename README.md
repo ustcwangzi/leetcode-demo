@@ -2713,6 +2713,8 @@ https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/
 https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function/
 ## LongestDuplicateSubstring
 https://leetcode.com/problems/longest-duplicate-substring/
+## MinimumSpaceWastedFromPackaging
+https://leetcode.com/problems/minimum-space-wasted-from-packaging/
 
 
 ------------------------------------------------------------------------------------------
