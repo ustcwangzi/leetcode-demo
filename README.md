@@ -3189,3 +3189,5 @@ https://leetcode.com/problems/stream-of-characters/
 https://leetcode.com/problems/dinner-plate-stacks/
 ## Skiplist
 https://leetcode.com/problems/design-skiplist/
+## MovieRentingSystem
+https://leetcode.com/problems/design-movie-rental-system/
