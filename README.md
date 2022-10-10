@@ -3146,6 +3146,8 @@ https://leetcode.com/problems/minimum-interval-to-include-each-query/
 https://leetcode.com/problems/largest-color-value-in-a-directed-graph/
 ## SumOfFlooredPairs
 https://leetcode.com/problems/sum-of-floored-pairs/
+## NumberOfWonderfulSubstrings
+https://leetcode.com/problems/number-of-wonderful-substrings/
 
 
 ------------------------------------------------------------------------------------------
